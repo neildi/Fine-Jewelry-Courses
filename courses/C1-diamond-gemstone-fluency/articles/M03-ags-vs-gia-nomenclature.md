@@ -6,18 +6,18 @@ persona: P1 The New Associate (secondary: P5 Estate/Pre-Owned Specialist)
 career_stage: Stage 1, Entry / Individual Contributor
 kpi_link: Trade-in and comparison-shopping conversation accuracy; close rate on diamond inquiries
 terminal_outcome: Convert a grade between the AGS 0-10 system and the GIA letter system correctly in a live trade-in or comparison-shopping conversation
-word_count: 2481
+word_count: 2441
 prerequisite: Module 1 (Carat, Cut, Color, Clarity), Module 2 (Reading a GIA Report)
-status: draft, pending human fact-check (B6) - 1 of 2 VERIFY items resolved, all media resolved
+status: draft, pending human fact-check (B6) - both VERIFY items resolved, all media resolved
 generated: 2026-09-06
 updated: 2026-09-06
 ---
 
 # AGS 0-10 vs. GIA Nomenclature: Translating Between Scales
 
-**Change log (post-B5, second pass):**
-- Resolved the AGS founding-year VERIFY flag: confirmed directly on AGS's own "About AGS" page that AGS was founded in 1934 by Robert M. Shipley (also GIA's founder), corroborated by GIA's own 2026 press release describing both organizations as founded by Robert M. and Beatrice Shipley. Founder's name added for credibility.
-- The cut/color/clarity correspondence table VERIFY flag remains open: neither GIA nor AGS publishes an official stone-for-stone crosswalk, so this framing stays hedged pending human sign-off.
+**Change log (post-B5, third pass):**
+- Resolved the AGS founding-year VERIFY flag: confirmed on AGS's own "About AGS" page that AGS was founded in 1934 by Robert M. Shipley (also GIA's founder), corroborated by GIA's own 2026 press release. Founder's name added.
+- Per project owner decision, removed the uncertain cut/color/clarity correspondence table entirely, since neither GIA nor AGS publishes an official stone-for-stone crosswalk. Replaced it with the two individually-cited facts that ARE directly supported: (1) AGS uses 11 cut grades vs. GIA's 5, and (2) GIA Excellent roughly corresponds to AGS 0-1. Both are now presented as general, hedged statements rather than a grade-by-grade table, and the VERIFY flag on this topic is now resolved by removing the unsupported precision rather than publishing it hedged.
 
 ## The number that means nothing until you translate it
 
@@ -50,17 +50,9 @@ AGS applies the same 0-10 numbering to all three factors, so a client's "grade o
 
 ## The cut scale: where the systems diverge most
 
-Cut is where the two systems differ the most, because AGS assigns eleven distinct cut grades (0 through 10) while GIA assigns five (Excellent, Very Good, Good, Fair, Poor). That means AGS is drawing finer distinctions inside what GIA would call a single grade. A stone that GIA calls Excellent could sit anywhere across AGS grades 0 or 1, because GIA's "Excellent" band is wider than AGS's "Ideal" or "Excellent" bands.
+Cut is where the two systems differ the most. AGS assigns eleven distinct cut grades (0 through 10), while GIA assigns five (Excellent, Very Good, Good, Fair, Poor). That means AGS is drawing finer distinctions inside what GIA would call a single grade. As a general rule of thumb, a stone that GIA calls Excellent typically falls into AGS's top two grades, 0 (Ideal) or 1 (Excellent), because GIA's "Excellent" band is wider than either of AGS's top bands.
 
-| GIA cut grade | Approximate AGS cut grade range |
-|---|---|
-| Excellent | 0 (Ideal) or 1 (Excellent) |
-| Very Good | 2 or 3 |
-| Good | 4, 5, or 6 |
-| Fair | 7 or 8 |
-| Poor | 9 or 10 |
-
-This table is a rough correspondence assembled from independent trade-education sources, not a certified lab-to-lab conversion (VERIFY: neither GIA nor AGS publishes an official crosswalk; a human reviewer should confirm this framing is sufficiently hedged before publication). The labs do not publish a stone-for-stone crosswalk, because their measurement methods are not identical, and AGS's light-performance methodology can place a stone differently than a proportions-based GIA assessment would. The single sentence worth memorizing for the floor: "AGS zero and GIA Excellent are close cousins, not the same grade, and AGS is generally the stricter of the two on cut."
+Do not extend this general rule into a precise, grade-by-grade conversion table. Neither lab publishes an official crosswalk between the two scales, because their measurement methods are not identical: AGS's light-performance methodology (brightness, fire, and contrast measured by ray-tracing) can place a stone differently than GIA's proportions-based assessment. The one sentence worth memorizing for the floor: "AGS zero and GIA Excellent are close cousins, not the same grade, and AGS is generally the stricter, more finely graded of the two on cut."
 
 MEDIA link-out C1-M03-D2 "AGS Ideal Report" by Gemological Institute of America (GIA official site)
 Why here: GIA's own description of the AGS Ideal Report as a light-performance addendum, measuring brightness, fire and contrast from center to edge, now issued alongside standard GIA reports.
@@ -69,15 +61,15 @@ Use: link-out
 
 The two labs' cut methods converged enough by 2022 that GIA now offers AGS's own light-performance grading as an add-on to its reports, worth mentioning to a client who assumes the labs are rivals with nothing in common.
 
-## Color and clarity: the same logic, different labels
+## Color and clarity: the same numbering, different letters
 
-Color and clarity follow the same 0-10 logic as cut on an AGS report, with 0 as the best and 10 as the worst, but the number bands map more predictably onto GIA's letters than the cut numbers do, because color and clarity are not being remeasured by a fundamentally different technology the way cut is.
-
-A rough color correspondence: AGS 0 aligns with GIA D through F (colorless), AGS 1 through 4 moves through the G-to-J near-colorless range, and higher AGS numbers track toward the K-and-below range. A rough clarity correspondence: AGS 0 aligns with GIA Flawless through Internally Flawless, AGS 1 through 3 tracks through the VVS and VS range, and higher numbers move into SI and I territory. As with cut, do not present these as exact one-to-one swaps in front of a client. Present them as "this puts you in the same neighborhood as," and if the client needs a precise cross-lab answer for an insurance or appraisal purpose, that is a job for a credentialed appraiser, not a floor conversation.
+Color and clarity follow the same 0-10 logic as cut on an AGS report, with 0 as the best and 10 as the worst. As with cut, resist the temptation to state a precise number-for-letter conversion. Neither AGS nor GIA publishes an official crosswalk for color or clarity any more than they do for cut, and the safest, most honest floor language is directional rather than exact.
 
 Client: "Her diamond is a 1.5 in color. Is that better or worse than my G?"
 
-Associate: "On AGS, color runs zero to ten with zero being the whitest, so a 1.5 sits right around where G or H land on our scale, in the near-colorless range. It's very close to yours. Let's look at both stones face-up so you can see for yourself rather than just comparing numbers."
+Associate: "AGS runs zero to ten on color, with zero being the whitest. A grade of 1.5 puts her stone in a similarly high range to your G, in the near-colorless territory, but I can't give you an exact letter-for-number match because the two labs don't publish an official conversion between their scales. What I can do is put both stones face-up next to each other so you can compare them the way your eye actually will."
+
+If a client needs a precise, defensible cross-lab equivalency for an insurance or appraisal purpose, that is a job for a credentialed appraiser working from both physical reports, not a floor conversation built on a rule of thumb.
 
 ## Reading an AGS report without a GIA reflex
 
@@ -92,15 +84,15 @@ When an AGS report lands on your counter, resist the urge to translate every num
 
 The moment this skill actually gets used is not a classroom quiz, it is a live trade-in appraisal or a client holding a competitor's quote. Two patterns cover almost every version of that conversation.
 
-**Pattern one: the trade-in.** A client brings in a stone with a report from a lab your store does not typically buy from, or from decades ago when grading practices were less standardized. Read the report exactly as it is written, translate the grades into terms your store uses internally for valuation, and be transparent that a trade-in valuation also depends on your store's own inspection, not just the paper.
+**Pattern one: the trade-in.** A client brings in a stone with a report from a lab your store does not typically buy from, or from decades ago when grading practices were less standardized. Read the report exactly as it is written, translate the grades directionally into terms your store uses internally for valuation, and be transparent that a trade-in valuation also depends on your store's own inspection, not just the paper.
 
-**Pattern two: the comparison shop.** A client has a quote in hand from a competitor on an AGS-graded stone and wants to know if your GIA-graded stone is the better deal. Walk both reports side by side, translate the AGS numbers into the GIA neighborhood using the tables above, and then move the conversation to what a report cannot show: the two stones' actual face-up appearance, which is where Module 1's demonstration technique becomes the deciding factor rather than the paperwork.
+**Pattern two: the comparison shop.** A client has a quote in hand from a competitor on an AGS-graded stone and wants to know if your GIA-graded stone is the better deal. Acknowledge that AGS grades more finely on cut (11 grades versus GIA's 5) and that an Excellent GIA cut generally sits in AGS's top two grades, then move the conversation to what a report cannot show: the two stones' actual face-up appearance, which is where Module 1's demonstration technique becomes the deciding factor rather than the paperwork.
 
 ## On the floor: applying it this week
 
-- **Monday:** Print or save the AGS-to-GIA rough correspondence table above and keep it at your station for the first month, the same way you would keep a conversion chart for any two-unit system.
+- **Monday:** Read the AGS Diamond Grading System page linked in Go Deeper and write down, in your own words, why AGS uses 11 cut grades instead of GIA's 5.
 - **Tuesday:** Ask your manager or a senior associate if any current inventory carries AGS paper, and if so, read that report end to end using the four-step method above.
-- **Wednesday:** Rehearse the trade-in script with a colleague playing a client who has an AGS report on a stone she wants to trade toward one of your GIA-graded pieces.
+- **Wednesday:** Rehearse the trade-in script with a colleague playing a client who has an AGS report on a stone she wants to trade toward one of your GIA-graded pieces. Practice saying "I can't give you an exact conversion" without sounding evasive.
 - **Thursday:** Practice explaining, in one sentence, why two labs exist and neither is "the fake one." This single sentence resolves the most common client anxiety in this conversation.
 - **Friday:** Review the AGS and GIA Ideal Report pages linked in Go Deeper, and note one new fact from each you did not already know.
 
@@ -110,7 +102,7 @@ The moment this skill actually gets used is not a classroom quiz, it is a live t
 |---|---|---|
 | Client asks "which lab is better?" | Picking a side | "Both are respected, independent labs. They just use different scales, the way Celsius and Fahrenheit both measure temperature." |
 | Client's AGS report predates 2022 | Assuming it includes light-performance data | Older AGS reports may not include the light-performance methodology now shared with GIA; note the report date before making claims about how the cut grade was derived. |
-| Trying to give an exact numeric conversion | Quoting the correspondence table as certified | Frame it as "roughly" or "in the neighborhood of," and defer precise cross-lab equivalency questions to a credentialed appraiser. |
+| Client asks for an exact numeric conversion | Inventing a precise grade-for-grade answer | Say plainly that neither lab publishes an official crosswalk, give the general rule of thumb, and defer precise cross-lab equivalency to a credentialed appraiser. |
 | Client distrusts a report from an unfamiliar lab | Dismissing the report outright | Confirm it is a legitimate laboratory report (not an in-house or unverified estimate) and read it exactly as written before offering any comparison. |
 | Store only stocks GIA-graded stones | Acting unfamiliar with AGS when a client raises it | Learn the scale anyway. Clients research before they walk in, and appearing unfamiliar with a real, well-known lab undercuts trust in everything else you say. |
 
@@ -118,11 +110,11 @@ The moment this skill actually gets used is not a classroom quiz, it is a live t
 
 1. Can you state which lab uses letters and which uses 0-10 numbers, without hesitating?
 2. Can you name who founded AGS, and how that person is connected to GIA?
-3. Can you place a stated AGS cut, color, or clarity number into its rough GIA-equivalent neighborhood?
+3. Can you state how many cut grades AGS uses compared to GIA, and explain why the numbers differ?
 4. Can you explain what happened in 2022 between GIA and AGS regarding light-performance grading?
 5. Can you walk a client through reading an AGS report end to end without needing a manager?
 6. Do you know the one sentence that resolves "which lab is better" without disparaging either?
-7. Can you name the appraisal-referral rule for when a client needs a certified cross-lab equivalency?
+7. Can you tell a client, without sounding evasive, that no official cross-lab conversion table exists?
 
 If you missed more than two, review the AGS Diamond Grading System page and the AGS Ideal Report page in Go Deeper before your next trade-in conversation.
 
@@ -131,7 +123,7 @@ If you missed more than two, review the AGS Diamond Grading System page and the 
 - **AGS Diamond Grading System** (americangemsociety.org) — AGS's own explanation of the 0-10 scale across cut, color, and clarity. 15-20 minutes.
 - **AGS Ideal Report** (gia.edu) — GIA's description of the light-performance addendum now available alongside standard GIA reports. 10 minutes.
 - **AGS Diamond Grading Standards Quick-Glance PDF** — referenced in the Career and Skills Reference as the Stage 2 resource for trade-grading-scale fluency; use it as your next-level reference once this module is solid. 15 minutes.
-- **GIA 4Cs of Diamond Quality site** (from Module 1) — revisit the color and clarity pages side by side with this module's tables to reinforce the correspondence logic. 20-30 minutes.
+- **GIA 4Cs of Diamond Quality site** (from Module 1) — revisit the color and clarity pages side by side with this module's facts to reinforce the general correspondence logic. 20-30 minutes.
 
 ## Media credits
 
