@@ -17,7 +17,7 @@ A catalog of fine jewelry retail training courses built from the *Fine Jewelry R
 
 | Course | Track | Articles | Done |
 |---|---|---|---|
-| C1 Diamond & Gemstone Fluency for the Sales Floor | Foundations | 10 | 3 (drafts) |
+| C1 Diamond & Gemstone Fluency for the Sales Floor | Foundations | 10 | 10 (drafts, complete) |
 | C2 The Fine Jewelry Sales Conversation | Foundations | 10 | 0 |
 | C3 Clienteling & CRM | Foundations | 8 | 0 |
 | C4 Store Security & Loss Prevention | Foundations | 8 | 0 |
@@ -33,7 +33,7 @@ A catalog of fine jewelry retail training courses built from the *Fine Jewelry R
 | C14 Multi-Store Leadership | Leadership | 8 | 0 |
 | C15 Designing Jewelry Sales Training | Trainer | 8 | 0 |
 
-**Total: 130 articles.**
+**Total: 130 articles. C1 is now the first fully drafted course (10/10 modules).**
 
 ## Production rules
 
