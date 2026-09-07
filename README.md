@@ -1,17 +1,18 @@
 # Fine Jewelry Courses
 
-A catalog of fine jewelry retail training courses built from the *Fine Jewelry Retail Career and Skills Reference*, produced with the *Fine Jewelry Retail Course Architecture & Article-Generation Prompt Kit*.
+A catalog of fine jewelry retail training courses built from the *Fine Jewelry Retail Career and Skills Reference* and the *Global Fine Jewelry Retail Career, Operations, and Competency Framework*, produced with the *Fine Jewelry Retail Course Architecture & Article-Generation Prompt Kit*.
 
 ## Source documents
 
-- `Fine-Jewelry-Retail-Prompt-Kit.md` — course architecture, prompt chain, media policy
-- `Fine-Jewelry-Retail-Career-and-Skills-Reference.md` — the research evidence base
+- `Fine-Jewelry-Retail-Prompt-Kit.md` - course architecture, prompt chain, media policy
+- `Fine-Jewelry-Retail-Career-and-Skills-Reference.md` - the primary research evidence base (job titles, KPIs, responsibilities, free-resource library, career progression map)
+- `Fine-Jewelry-Career-Guide.md` - supplementary research file: compensation benchmarks by sector, AML/Form 8300/G7 sanctions compliance detail, dual-custody operational workflows, clienteling cadence timing, and an expanded free-resources directory
 
 ## Structure
 
-- `courses/<Cn-slug>/README.md` — course outcomes, module status
-- `courses/<Cn-slug>/articles/` — published-ready long-form articles
-- `courses/<Cn-slug>/production/` — per-article outline, media manifest, fact-check table
+- `courses/<Cn-slug>/README.md` - course outcomes, module status
+- `courses/<Cn-slug>/articles/` - published-ready long-form articles
+- `courses/<Cn-slug>/production/` - per-article outline, media manifest, fact-check table
 
 ## Catalog progress
 
@@ -33,8 +34,8 @@ A catalog of fine jewelry retail training courses built from the *Fine Jewelry R
 | C14 Multi-Store Leadership | Leadership | 8 | 0 |
 | C15 Designing Jewelry Sales Training | Trainer | 8 | 0 |
 
-**Total: 130 articles. C1 is now the first fully drafted course (10/10 modules).**
+**Total: 130 articles. C1 is the first fully drafted course (10/10 modules).**
 
 ## Production rules
 
-Articles run as long as the material requires — the kit's 2,000-2,500 word guide is treated as a floor, not a cap. Every article follows the Prompt Kit chain: outline (B3) → media requests (B3a) → media research and human verification (C4-C5) → draft (B4) → self-critique (B5) → fact-check extraction (B6). No AI-generated imagery — all media is real, human-verified and credited per Part C. Claims come only from the research reference, and unresolved MEDIA REQUEST placeholders block publication.
+Articles run as long as the material requires - the kit's 2,000-2,500 word guide is treated as a floor, not a cap. Every article follows the Prompt Kit chain: outline (B3) -> media requests (B3a) -> media research and human verification (C4-C5) -> draft (B4) -> self-critique (B5) -> fact-check extraction (B6) -> repurposing (B7, huddle card + quiz, applied post-approval). Articles are produced one at a time, with a full review/revision cycle between each, not batched. No AI-generated imagery - all media is real, human-verified and credited per Part C. Claims come only from the research reference files, and unresolved MEDIA REQUEST placeholders block publication.
