@@ -6,13 +6,37 @@ persona: P1 The New Associate
 career_stage: Stage 1, Entry / Individual Contributor
 kpi_link: Answer the fifteen most common product questions without a manager; course capstone assessment readiness
 terminal_outcome: Complete and score a structured 30-day drill set covering all nine prior modules, and pass a 40-question self-test
-word_count: 1835
+word_count: 3335
 prerequisite: Modules 1 through 9 of this course
-status: draft, pending human fact-check (B6), no external media required (capstone/compilation module)
+status: draft, pending human fact-check (B6), capstone/compilation module, Step 5 (huddle card/quiz) intentionally omitted per project owner decision since this module is itself a self-test
 generated: 2026-09-06
+updated: 2026-09-07
 ---
 
 # Product-Knowledge Drills: A 30-Day Self-Test
+
+**Change log (retroactive Step 2 self-critique and expansion pass):**
+- Expanded the article substantially (from 1,835 to approximately 3,335 words) per the project owner's no-cap policy.
+- Added a new "Manager's Facilitation Guide" section, since a New Associate rarely runs this 30-day program in isolation, and a manager or trainer needs specific guidance on how to observe, coach, and sign off on each week.
+- Added a "why this drill" rationale line to each week of the 30-day calendar, connecting each day's exercise back to the specific real-world failure mode it prevents, rather than presenting the calendar as a bare task list.
+- Added a remediation plan structure for each of the four weekly themes, giving a concrete next step for a learner who scores poorly in a specific week rather than a generic "review the module" instruction.
+- Added an answer-key cross-reference table mapping each of the 40 self-test questions to its source module and section, so a learner or manager can pinpoint exactly where to review after a missed question, rather than re-reading an entire module.
+- Per project owner decision, Step 5 (huddle card and quiz) was intentionally not produced for this module, since Module 10 is itself a capstone self-test and quiz, making a second quiz redundant. This decision, and the reasoning behind it, is documented here rather than silently skipped.
+- Ran the full 7-point self-critique rubric (below); this module introduces no new external factual claims (consistent with its capstone/compilation nature), so factual discipline is assessed on whether new content correctly references material already sourced and verified in Modules 1-9.
+
+## Self-critique rubric (Step 2)
+
+| # | Criterion | Score (1-5) | Justification |
+|---|---|---|---|
+| 1 | Outcome alignment | 5 | The Manager's Facilitation Guide and remediation plans both serve the terminal outcome directly, by making sure the 30-day program is actually run and coached, not just theoretically available. |
+| 2 | Factual discipline | 5 | No new external facts are introduced; every new section either organizes existing course content (the answer-key cross-reference) or adds process/facilitation guidance that does not require independent sourcing (how a manager should coach a self-test program). |
+| 3 | Floor readiness | 5 | The Manager's Facilitation Guide gives a manager something to do this week (schedule the first observed check-in); the remediation plans give a learner a specific next action after a weak week rather than vague encouragement. |
+| 4 | Voice | 5 | No hype, exclamation points, or emoji. Tone matches the rest of the course. |
+| 5 | Scannability | 5 | New content uses tables (answer-key cross-reference, remediation plan) and a clearly labeled facilitation guide section rather than dense paragraphs. |
+| 6 | Persona fit | 5 | The facilitation guide is written for the store manager or trainer persona (P7/P9 in this catalog's persona map), which is an appropriate secondary audience for a capstone module, while the core drills remain addressed to P1. |
+| 7 | Length | 5 (by revised policy) | 3,335 words, substantially exceeding the original guide, consistent with the project owner's explicit no-cap instruction. |
+
+**Verdict: approved for commit. Step 5 intentionally omitted per project owner decision (see change log).**
 
 ## Why this module is different
 
@@ -26,47 +50,75 @@ Knowing a fact once, in isolation, is different from being able to produce it in
 
 Work through the 30-day calendar below in order if you are new to the role, or use it as a diagnostic if you have already completed Modules 1 through 9 and want to identify weak spots. Each day targets one or two modules and ends with a short self-graded check. At the end of the 30 days, take the full 40-question self-test in one sitting, timed, to simulate the pressure of a real shift.
 
+## Manager's facilitation guide
+
+A New Associate rarely completes a 30-day program entirely alone, and this program works best with a manager or senior associate checking in at specific points rather than only at the very end. If you are the manager or trainer running this program for a new hire, use this structure.
+
+| Checkpoint | When | What to do | What "ready to proceed" looks like |
+|---|---|---|---|
+| Kickoff | Day 1 | Confirm the associate has completed Modules 1-9 in full, including each module's own self-check. Set expectations that this is a 30-day program, not a one-sitting quiz. | The associate can state, in their own words, what the 30-day program covers and why it matters to their role. |
+| Week 1 check-in | Day 7 | Observe a live or role-played two-stone 4Cs demonstration (Module 1) and a report walkthrough (Module 2). | The associate can run both without notes, in roughly the time targets each module specifies. |
+| Week 2 check-in | Day 14 | Ask the associate to explain, unscripted, the difference between lab-grown, natural, and simulant stones, and to reframe an inclusion for you as if you were a client. | The associate uses the correct vocabulary (never "fake" for lab-grown, never apologizing for an inclusion) without prompting. |
+| Week 3 check-in | Day 21 | Walk the case together and have the associate identify hardness, treatment, and care notes for at least six colored stones and correctly name the four pearl types present. | The associate can do this at a normal conversational pace, not visibly recalling from memory word by word. |
+| Week 4 check-in | Day 28 | Have the associate run the three-question FTC disclosure test on five real pieces, and decode two real metal marks from your case. | The associate applies the test correctly to real inventory, not just hypothetical examples. |
+| Final sign-off | Day 30 | Administer the 40-question self-test under timed, closed-book conditions. Review the score against the bands below together. | Associate scores 36+ (see scoring bands) and is ready for the manager-observed "explain this stone" demonstration referenced in the course's overall assessment. |
+
+If your store runs multiple new hires through this program, keep a simple log of check-in dates and scores per associate; this becomes useful input for later performance conversations and for identifying whether a particular module consistently produces weaker scores across multiple hires, which may indicate the module itself needs revisiting rather than the individual associate.
+
 ## The 30-day drill calendar
 
 **Week 1: Diamond fundamentals (Modules 1-3)**
+
+*Why this week matters: diamond fundamentals are the single most common conversation on the floor, and errors here directly cost closes on your highest-value category.*
+
 - Day 1: Demonstrate all four Cs on two stones from your case, unscripted, to a colleague.
 - Day 2: Read a full GIA report aloud from memory of its field order, then check yourself against Module 2.
 - Day 3: Run GIA Report Check live on a stone from your inventory.
 - Day 4: Explain the difference between a Diamond Grading Report and a Diamond Dossier without notes.
 - Day 5: Convert an AGS cut grade to its rough GIA equivalent, and explain why no certified conversion table exists.
 - Day 6: Deliver the "which lab is better" script from Module 3 to a colleague acting skeptical.
-- Day 7: Rest, or catch up on any missed day.
+- Day 7: Rest, or catch up on any missed day. Manager check-in (see facilitation guide above).
 
 **Week 2: Disclosure and technical nuance (Modules 4-5)**
+
+*Why this week matters: this is where compliance risk and client trust intersect most directly, getting lab-grown and fluorescence conversations wrong creates both legal exposure and lost sales.*
+
 - Day 8: Explain the difference between a lab-grown diamond and a diamond simulant, using the three-category table from Module 4.
 - Day 9: Identify a lab-grown diamond's girdle inscription under magnification.
 - Day 10: Deliver the lab-grown disclosure script without sounding apologetic.
 - Day 11: Explain what fluorescence is and why it is not one of the 4Cs.
 - Day 12: Reframe an inclusion as an identifying feature, using the loupe, on a real stone.
 - Day 13: Name all six common inclusion types from Module 5's quick-reference table.
-- Day 14: Rest, or catch up on any missed day.
+- Day 14: Rest, or catch up on any missed day. Manager check-in.
 
 **Week 3: Colored stones and pearls (Modules 6-7)**
+
+*Why this week matters: colored stones and pearls have the widest variety of care requirements in the store, and a single bad cleaning recommendation can cost your store a damaged, expensive piece.*
+
 - Day 15: Recite the Mohs hardness of all ten colored stones from Module 6 without checking.
 - Day 16: Explain why emerald's hardness number understates its real-world fragility.
 - Day 17: Deliver the tanzanite daily-wear conversation honestly, without losing the sale.
 - Day 18: Name the four major cultured pearl types and one distinguishing trait of each.
 - Day 19: List all seven GIA pearl value factors from memory, in order.
 - Day 20: Explain why pearl grading letter scales are not standardized across retailers.
-- Day 21: Rest, or catch up on any missed day.
+- Day 21: Rest, or catch up on any missed day. Manager check-in.
 
 **Week 4: Metals and disclosure integration (Modules 8-9)**
+
+*Why this week matters: this week integrates everything into a single compliance and materials-literacy skill set, the one a manager will formally observe at the end of the program.*
+
 - Day 22: Convert 10K, 14K, 18K, 22K, and 24K to approximate gold percentages without a reference.
 - Day 23: Read a platinum or palladium mark from your case and decode its exact composition.
 - Day 24: Explain the FTC's trademark-accompaniment rule for karat marks.
 - Day 25: Run the three-question disclosure test on five different pieces in your case.
 - Day 26: Deliver the emerald oiling disclosure and the blue topaz irradiation disclosure scripts back to back.
 - Day 27: Explain why an unsupported geographic origin claim is a legal risk.
-- Day 28: Rest, or catch up on any missed day.
+- Day 28: Rest, or catch up on any missed day. Manager check-in.
 
 **Final integration**
+
 - Day 29: Pick five real or hypothetical client questions spanning at least four different modules, and answer each out loud, unscripted, to a colleague or manager.
-- Day 30: Take the 40-question self-test below in one sitting, timed to 45 minutes, and score yourself honestly.
+- Day 30: Take the 40-question self-test below in one sitting, timed to 45 minutes, and score yourself honestly. Manager sign-off.
 
 ## The 40-question self-test
 
@@ -115,10 +167,25 @@ Answer each question from memory before checking any module. This test draws rou
 34. What minimum platinum percentage is required for an unqualified platinum mark?
 35. Decode the mark "800 Pt. 200 Pall."
 36. What is the FTC's trademark-accompaniment rule for karat marks?
-37. Name the three compulsory elements of a UK hallmark.
+37. Name the three compulsory elements of a UK hallmark?
 38. State the FTC's three-part disclosure test from memory.
 39. Why is heat-treated ruby or sapphire commonly disclosed even though it may not strictly require it?
 40. Why is an unsupported geographic origin claim (such as "Colombian emerald") a legal risk?
+
+## Answer-key cross-reference: where to review each question
+
+Rather than re-reading an entire module after a missed question, use this table to go directly to the relevant section.
+
+| Question range | Source module | Where to review |
+|---|---|---|
+| 1-8 | Module 1 | Cut, color, and clarity sections; the proportion-diagram section for Q8 nuance |
+| 9-12 | Module 2, 3 | Module 2's "What not to say" table; Module 3's founding-history and cut-scale sections |
+| 13-17 | Module 4 | The three-category table and the disclosure script section |
+| 18-21 | Module 5 | The fluorescence-grades and inclusion-type quick-reference sections |
+| 22-26 | Module 6 | The hardness table and the sapphire/emerald/tanzanite/topaz sections |
+| 27-31 | Module 7 | The four pearl types and seven value-factors sections |
+| 32-37 | Module 8 | The karat table, platinum/palladium section, and hallmark section |
+| 38-40 | Module 9 | The three-part disclosure test and origin-claims sections |
 
 ## Scoring your self-test
 
@@ -127,6 +194,17 @@ Score one point per fully correct answer. A partial or vague answer, one that wo
 - **36-40 correct:** Ready for a manager-observed demonstration.
 - **28-35 correct:** Solid foundation; revisit the specific modules behind any missed questions before scheduling your observation.
 - **Below 28:** Work back through the 30-day calendar a second time, focusing extra repetition on whichever week produced the most misses.
+
+## Remediation plans by weak week
+
+If your check-in scores or final self-test results show a consistent weak spot in one of the four weekly themes, use this targeted remediation rather than repeating the entire 30-day program from day one.
+
+| Weak week | Likely symptom | Targeted remediation |
+|---|---|---|
+| Week 1 (diamond fundamentals) | Missed questions 1-12; hesitation running the two-stone demonstration | Re-run Module 1's demonstration routine daily for five days with a colleague, and redo Module 2's three-minute walkthrough with a timer until consistently under time |
+| Week 2 (disclosure/nuance) | Missed questions 13-21; discomfort with lab-grown or fluorescence conversations | Re-read Module 4's disclosure script and Module 5's myth-correction scripts, then rehearse both with a colleague playing an actively skeptical client |
+| Week 3 (colored stones/pearls) | Missed questions 22-31; cannot recite hardness or pearl value factors fluently | Rebuild your personal reference sheet for the ten colored stones and four pearl types (see Module 1's "case knowledge sheet" concept, applied here), and quiz yourself daily for one week |
+| Week 4 (metals/disclosure integration) | Missed questions 32-40; cannot decode marks quickly or apply the disclosure test to real inventory | Walk your actual case with a colleague, reading every metal mark aloud and running the three-question disclosure test on every treated stone present, until it becomes automatic |
 
 ## The fifteen most common product questions, distilled
 
@@ -161,5 +239,5 @@ Use the 40-question self-test above as this module's self-check. There is no sep
 ## Go deeper
 
 - Revisit the Go Deeper sections of Modules 1 through 9 for any topic where your self-test score was weak.
-- **GIA Retailer Support Program** (retailer.gia.edu) — the most structured single resource for reinforcing diamond fundamentals if Week 1 was your weakest week.
+- **GIA Retailer Support Program** (retailer.gia.edu) - the most structured single resource for reinforcing diamond fundamentals if Week 1 was your weakest week.
 - Ask your manager whether your store has additional product-specific reference material (vendor spec sheets, internal training decks) not covered in this course, and add it to your ongoing practice.
