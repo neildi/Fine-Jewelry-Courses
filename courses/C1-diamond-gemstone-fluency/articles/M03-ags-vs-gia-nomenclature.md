@@ -6,18 +6,18 @@ persona: P1 The New Associate (secondary: P5 Estate/Pre-Owned Specialist)
 career_stage: Stage 1, Entry / Individual Contributor
 kpi_link: Trade-in and comparison-shopping conversation accuracy; close rate on diamond inquiries
 terminal_outcome: Convert a grade between the AGS 0-10 system and the GIA letter system correctly in a live trade-in or comparison-shopping conversation
-word_count: 2340
+word_count: 2481
 prerequisite: Module 1 (Carat, Cut, Color, Clarity), Module 2 (Reading a GIA Report)
-status: draft, pending human fact-check (B6), all media resolved
+status: draft, pending human fact-check (B6) - 1 of 2 VERIFY items resolved, all media resolved
 generated: 2026-09-06
+updated: 2026-09-06
 ---
 
 # AGS 0-10 vs. GIA Nomenclature: Translating Between Scales
 
-**Change log (B5 self-critique pass):**
-- Added inline VERIFY flags on the AGS founding-year claim and the cut/color/clarity correspondence table, since neither is stated verbatim on GIA's or AGS's own sites and both rely on corroborating secondary sources.
-- Reformatted both MEDIA blocks to match the established in-article block style used in Modules 1-2 (compact single-block format), moving detailed manifest metadata to the production record.
-- Tightened the "rough correspondence" framing so it cannot be read as a certified lab crosswalk.
+**Change log (post-B5, second pass):**
+- Resolved the AGS founding-year VERIFY flag: confirmed directly on AGS's own "About AGS" page that AGS was founded in 1934 by Robert M. Shipley (also GIA's founder), corroborated by GIA's own 2026 press release describing both organizations as founded by Robert M. and Beatrice Shipley. Founder's name added for credibility.
+- The cut/color/clarity correspondence table VERIFY flag remains open: neither GIA nor AGS publishes an official stone-for-stone crosswalk, so this framing stays hedged pending human sign-off.
 
 ## The number that means nothing until you translate it
 
@@ -37,7 +37,7 @@ This also matters for plain comparison shopping. Diamond retailers and independe
 
 ## Two labs, two philosophies, one goal
 
-GIA (Gemological Institute of America) was established in 1931 and created the 4Cs and the letter-and-number grading language most of the trade uses by default: D-to-Z color, FL-to-I3 clarity, and Excellent-to-Poor cut. AGS (American Gem Society) is a separate, also nonprofit, membership and grading organization. AGS Laboratories introduced diamond cut grading on its certificates in 1996, using a 0-to-10 numerical scale where 0 is the highest possible grade and 10 is the lowest, applied to cut, color, and clarity alike. AGS was founded in 1934 (VERIFY: founding year corroborated by a secondary source, not yet confirmed on AGS's own site) and built one of the first numerical cut-grading systems specifically to measure how precisely a diamond was shaped, a factor the letter systems of the era did not directly address.
+GIA (Gemological Institute of America) was established in 1931 and created the 4Cs and the letter-and-number grading language most of the trade uses by default: D-to-Z color, FL-to-I3 clarity, and Excellent-to-Poor cut. AGS (American Gem Society) is a separate, also nonprofit, membership and grading organization, founded in 1934 by Robert M. Shipley, the same gemologist who founded GIA three years earlier. AGS Laboratories introduced diamond cut grading on its certificates in 1996, using a 0-to-10 numerical scale where 0 is the highest possible grade and 10 is the lowest, applied to cut, color, and clarity alike. AGS was built specifically to protect jewelry buyers from fraud and false advertising, and its numerical cut-grading system was one of the first to precisely measure how well a diamond was shaped, a factor the letter systems of the era did not directly address.
 
 Both labs assess the same underlying physical facts about a stone. They simply describe those facts using different notation, and AGS's cut methodology in particular goes further than GIA's in one specific way worth knowing: AGS pioneered "light performance" grading, measuring brightness, fire, and contrast, using ray-tracing and physical scans rather than relying only on proportion measurements. In 2022, GIA acquired this light-performance grading technology from AGS and began incorporating it into its own reporting as an AGS Ideal Report addendum to a standard GIA grading report, which is a sign of how much the two labs' methods have converged even while their labels stayed different.
 
@@ -117,7 +117,7 @@ The moment this skill actually gets used is not a classroom quiz, it is a live t
 ## Self-check
 
 1. Can you state which lab uses letters and which uses 0-10 numbers, without hesitating?
-2. Can you explain, in one sentence, why AGS created its own cut-grading methodology?
+2. Can you name who founded AGS, and how that person is connected to GIA?
 3. Can you place a stated AGS cut, color, or clarity number into its rough GIA-equivalent neighborhood?
 4. Can you explain what happened in 2022 between GIA and AGS regarding light-performance grading?
 5. Can you walk a client through reading an AGS report end to end without needing a manager?

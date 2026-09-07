@@ -22,9 +22,9 @@ The learner can:
 
 | # | Article | Persona | Status |
 |---|---|---|---|
-| 1 | Carat, Cut, Color, Clarity: What the Client Actually Sees | P1 | Draft, awaiting human review, all media resolved |
-| 2 | Reading a GIA Report With a Client (and What Not to Say) | P1 | Draft, awaiting human review, all media resolved |
-| 3 | AGS 0-10 vs. GIA Nomenclature: Translating Between Scales | P1 | Draft, pending human fact-check (B6) — 2 inline VERIFY flags open, all media resolved |
+| 1 | Carat, Cut, Color, Clarity: What the Client Actually Sees | P1 | Draft, awaiting human review, all media resolved. Reviewed against B5 rubric 2026-09-06 (score 5/5 avg) - no redo needed |
+| 2 | Reading a GIA Report With a Client (and What Not to Say) | P1 | Draft, awaiting human review, all media resolved. Reviewed against B5 rubric 2026-09-06 (score 4.9/5 avg) - no redo needed |
+| 3 | AGS 0-10 vs. GIA Nomenclature: Translating Between Scales | P1 | Draft, pending human fact-check (B6) — 1 of 2 inline VERIFY flags resolved (founding year/founder confirmed), 1 open (grade correspondence table), all media resolved |
 | 4 | Lab-Grown, Natural, Simulant: The Disclosure Conversation | P1 | Not started |
 | 5 | Fluorescence, Inclusions and "Is This a Flaw?" | P1 | Not started |
 | 6 | The Colored Stone Top 10: Sapphire to Tanzanite | P1 | Not started |
@@ -36,3 +36,7 @@ The learner can:
 ## Production artifacts
 
 Each article carries a matching outline/media record and fact-check table in `production/`, per Prompt Kit steps B3, B3a, C5-C6, B5 and B6.
+
+## Word-count policy note (2026-09-06)
+
+Per project owner instruction, the 2,000-2,500 word guide in the Prompt Kit is a floor, not a cap. Modules 1 and 2 run 2,791 and 2,794 words respectively; this is expected and acceptable when the material requires it.
