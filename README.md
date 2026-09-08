@@ -12,14 +12,14 @@ A catalog of fine jewelry retail training courses built from the *Fine Jewelry R
 
 - `courses/<Cn-slug>/README.md` - course outcomes, module status
 - `courses/<Cn-slug>/articles/` - published-ready long-form articles
-- `courses/<Cn-slug>/production/` - per-article outline, media manifest, fact-check table
+- `courses/<Cn-slug>/production/` - per-article outline, media manifest, fact-check table, huddle card, quiz
 
 ## Catalog progress
 
 | Course | Track | Articles | Done |
 |---|---|---|---|
-| C1 Diamond & Gemstone Fluency for the Sales Floor | Foundations | 10 | 10 (drafts, complete) |
-| C2 The Fine Jewelry Sales Conversation | Foundations | 10 | 0 |
+| C1 Diamond & Gemstone Fluency for the Sales Floor | Foundations | 10 | 10 (complete, retroactive cleanup complete) |
+| C2 The Fine Jewelry Sales Conversation | Foundations | 10 | 1 |
 | C3 Clienteling & CRM | Foundations | 8 | 0 |
 | C4 Store Security & Loss Prevention | Foundations | 8 | 0 |
 | C5 Financing, Credit & Compliance | Foundations | 6 | 0 |
@@ -34,8 +34,16 @@ A catalog of fine jewelry retail training courses built from the *Fine Jewelry R
 | C14 Multi-Store Leadership | Leadership | 8 | 0 |
 | C15 Designing Jewelry Sales Training | Trainer | 8 | 0 |
 
-**Total: 130 articles. C1 is the first fully drafted course (10/10 modules).**
+**Total: 130 articles. C1 is fully complete; C2 is underway.**
 
-## Production rules
+## Production rules (six-step SOP)
 
-Articles run as long as the material requires - the kit's 2,000-2,500 word guide is treated as a floor, not a cap. Every article follows the Prompt Kit chain: outline (B3) -> media requests (B3a) -> media research and human verification (C4-C5) -> draft (B4) -> self-critique (B5) -> fact-check extraction (B6) -> repurposing (B7, huddle card + quiz, applied post-approval). Articles are produced one at a time, with a full review/revision cycle between each, not batched. No AI-generated imagery - all media is real, human-verified and credited per Part C. Claims come only from the research reference files, and unresolved MEDIA REQUEST placeholders block publication.
+Every article is produced one at a time, with a full review/revision cycle between each, not batched:
+1. **Review the draft** - 8-part structure, tone, sourcing check, VERIFY flags resolved against research.
+2. **Self-critique and revise** - scored 1-5 against outcome alignment, factual discipline, floor readiness, voice, scannability, persona fit, and length; revised version with a change log.
+3. **Fact-check extraction** - every checkable claim tabled with type, source, and risk; MUST VERIFY items flagged.
+4. **Media handling** - real expert-produced media only (GIA, AGS, NDC, trade press, museums, credentialed channels), verified before use; no AI-generated imagery.
+5. **Repurposing** - a one-page huddle card and a 10-question quiz per article (omitted only for modules that are themselves an assessment, e.g. capstones).
+6. **Move to the next module** - only after the above are complete.
+
+Word length is need-driven, not capped: articles may run well past the original 2,000-2,500 word guide, up to roughly 10,000 words, whenever the added depth genuinely helps the learner.
