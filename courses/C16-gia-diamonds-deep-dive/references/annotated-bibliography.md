@@ -114,7 +114,7 @@ G&G = *Gems & Gemology*, GIA's quarterly professional journal. All G&G articles 
 
 ## Assignment 7: The Diamond Crystal → Course Module 5
 
-- **Kautsky J. (2016) Begin with the End in Mind: Tips, Tools to Evaluate Diamond Rough.** — https://www.gia.edu/gia-news-research/begin-end-mind-tips-tools-evaluate-diamond-rough — Rough grading in practice: form, orientation, inclusions, yield planning — the cutter's version of the grader's mindset.
+- ⚠ **Kautsky J. (2016) Begin with the End in Mind: Tips, Tools to Evaluate Diamond Rough.** — https://www.gia.edu/gia-news-research/begin-end-mind-tips-tools-evaluate-diamond-rough — Rough grading in practice: form, orientation, inclusions, yield planning — the cutter's version of the grader's mindset. *Note: GIA's article URL 404s as of 2026-09-09 — treat as title-level; search gia.edu library for current hosting.*
 - **Sucher S.D. (2009) A Crystallographic Analysis of the Tavernier Blue Diamond.** G&G 45:3 — https://www.gia.edu/gems-gemology/fall-2009-crystallographic-analysis-tavernier-blue-sucher — Measuring a 17th-century jewel's facets to reconstruct its rough crystal — crystallography as forensic history.
 - **Sunagawa I. et al. (1998) Fingerprinting of Two Diamonds Cut from the Same Rough.** G&G 34:4 — https://www.gia.edu/gems-gemology/winter-1998-diamonds-cut-same-rough-sunagawa — Growth-sector matching: the science behind "sister stones."
 - **Seal M. (1962) The Surface Structure of Diamonds.** G&G 10:10 — legacy summer_1962.pdf — Trigons, hillocks, frosted faces: reading crystal surfaces.
