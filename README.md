@@ -33,8 +33,11 @@ A catalog of fine jewelry retail training courses built from the *Fine Jewelry R
 | C13 Hiring, Coaching & Performance Management | Leadership | 10 | 0 |
 | C14 Multi-Store Leadership | Leadership | 8 | 0 |
 | C15 Designing Jewelry Sales Training | Trainer | 8 | 0 |
+| C16 The GIA Diamonds Deep Dive (companion to GIA's D&DG further-reading bibliography) | Advanced/Specialist | 13 | 13 |
 
-**Total: 130 articles. C1 is fully complete; C2 is underway.**
+**Total: 155 articles. C1 is fully complete; C2 is underway; C16 complete (13/13 modules, 65 production artifacts).**
+
+**Note on C16:** independent study companion — not a GIA product — built from GIA's own "For Further Reading for Diamonds and Diamond Grading" bibliography (~260 *Gems & Gemology* / GIA Research citations). It adds a `references/` folder (full annotated bibliography) and a `videos/` folder (verified video index) to the standard layout. See its README for the module-to-assignment map and wave log.
 
 ## Production rules (six-step SOP)
 

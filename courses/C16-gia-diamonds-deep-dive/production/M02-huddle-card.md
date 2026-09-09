@@ -1,0 +1,6 @@
+# M02 Huddle Card — Mantle Science (one page)
+**One-liner:** Ordinary diamonds formed in the ancient cold roots of continents (150-200 km); the big pure headline stones (Cullinan-class "CLIPPIR") grew 360-750 km down from metallic liquid — and that difference shows up as D color + rarity, in the geology itself.
+**Three facts:** craton keels = diamond vaults, kimberlite = the elevator (hours-days ascent or diamonds don't survive as gems); inclusions are data: sulfides date the growth event, carbon isotopes say whether the carbon ever visited the surface; large+colorless+clean correlates with superdeep origin (Smith 2017 verbatim) → size scarcity at the top of the price ladder is structural.
+**One script:** "Why is an 8ct D VVS1 so much more per carat?" — "Because the *population* of large colorless stones comes from a rare formation channel deep in the mantle; they're fragments of bigger originals, and few survive polishing. The certificate describes the stone; the geology explains the scarcity."
+**Do-not:** promise mine origin from a polished stone — provenance science is statistical/custody-based.
+**Links:** three verified GIA pages in media manifest (phase diagrams, CLIPPIR figures).
