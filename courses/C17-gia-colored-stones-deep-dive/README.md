@@ -19,10 +19,10 @@ Where C1's M06 gave you a hardness/treatment/care table for the ten most-sold st
 
 | # | Module | Built from | Status |
 |---|---|---|---|
-| 1 | Before the Grader: A Short History of Colored Stones and How to Use GIA's Library | A1 | ⏳ Wave 1 |
-| 2 | How Colored Stones Form: Basalt, Pegmatite, Hydrothermal, Metamorphic, Sedimentary | A2 (formation) | ⏳ Wave 2 |
-| 3 | Finding Them: Mining, Recovery, and Field Gemology from Mogok to Montepuez | A2 (mining/recovery) + A7 localities | ⏳ Wave 2 |
-| 4 | Physical Properties: Hardness, Cleavage, Toughness, Optical Constants and Durability in Design | A3 | ⏳ Wave 2 |
+| 1 | Before the Grader: A Short History of Colored Stones and How to Use GIA's Library | A1 | ✅ Wave 1 |
+| 2 | How Colored Stones Form: Basalt, Pegmatite, Hydrothermal, Metamorphic, Sedimentary | A2 (formation) | ✅ Wave 2 |
+| 3 | Finding Them: Mining, Recovery, and Field Gemology from Mogok to Montepuez | A2 (mining/recovery) + A7 localities | ✅ Wave 2 |
+| 4 | Physical Properties: Hardness, Cleavage, Toughness, Optical Constants and Durability in Design | A3 | ✅ Wave 2 |
 | 5 | Color and Light: The Science of Color in Gems, Pleochroism, and Phenomenal Stones | A4 + A8 | ⏳ Wave 3 |
 | 6 | Inclusions and the Micro-World: Reading Origin, Treatment and History Under 10× | A10 + Micro-World series from A3/A4 | ⏳ Wave 3 |
 | 7 | Cut: Orienting Color, Weight Retention, and the Colored-Stone Cut Question | A9 + A11 (weight estimation) | ⏳ Wave 3 |
@@ -67,10 +67,11 @@ Same six-step SOP as C1 and C16: outline → media research (verified real sourc
 
 **Read-level honesty:** ★ entries in `references/annotated-bibliography.md` are sources whose text was read during production; unstarred annotations are title/abstract-level by design (context budget). Articles and fact-checks carry inline [VERIFY] flags for every such claim — work them before public publication.
 
-**Build wave log**
-- Wave 1 (2026-09-11): scaffold, README, annotated bibliography (full list, ~260 citations, ~35 ★ anchors), upfront video verification sweep (10 GIA videos verified live), Module 1 full SOP + article + factcheck + quiz + huddle card. **M01 complete (subject to post-wave resolve of 5 MUST-VERIFY items).**
-- Wave 2 (next): modules 2–4 (formation, mining, physical properties).
-- Wave 3: modules 5–7 (color/light/phenomena, inclusions/micro-world, cut).
-- Wave 4: modules 8–10 (synthetics, treatments, market — highest counter-day value).
-- Wave 5: modules 11–14 (ruby, blue sapphire, fancy/phenomenal corundum, emerald — species deep dives).
-- Wave 6: modules 15–16 (pearls, jade) + capstone review, final video-library verification, verification review and round-2 corrections.
+## Build wave log
+
+- **Wave 1 (2026-09-11):** Scaffold, README, annotated bibliography (~260 citations, ~35 ★ anchors), upfront video verification sweep (10 GIA videos verified live), M01 full article + outline + media manifest + factcheck + quiz + huddle card. Root README updated. **M01 complete (subject to 5 MUST-VERIFY items deferred).** Commit: `7701627`.
+- **Wave 2 (2026-09-11):** M02 "How Colored Stones Form" (5 geologic environments, basalt vs metamorphic corundum, pegmatite/hydrothermal/marble/sedimentary environments), M03 "Finding Them" (5 mining methods, mine-to-market pipeline, GIA field gemology reference collection, honest traceability framing — no KP for colored stones), M04 "Physical Properties" (hardness/toughness/stability framework, Mohs care table, RI/SG/birefringence reference table, ultrasonic/steam care table, setting/cleaning guidance). Each module produced under the full six-step SOP: outline → media manifest → article → factcheck → 10-question quiz → huddle card. Video library grew from 10 → 14 verified entries (GIA-CS-02 Madagascar/Gondwana geology, GIA-CS-04 Brazil emerald overview, GIA-CS-05 Panjshir Afghanistan artisanal tunnels, GIA-CS-07 Montana Gem Mountain sluice; GIA-CS-03 Pailin re-used across M02/M03).
+- **Wave 3 (next):** M05 Color & Light (color-causing mechanisms, pleochroism, phenomena overview), M06 Inclusions & the Micro-World (fingerprint inclusions for origin/treatment), M07 Cut (orienting color, weight retention, the colored-stone cut conversation).
+- **Wave 4 (next):** M08 Synthetics/imitations/assembled stones, M09 Treatments (heat, diffusion, filling, oiling, irradiation, coating, dyeing — disclosure rules), M10 Market hubs/auctions/traceability.
+- **Wave 5 (next):** M11 Ruby species deep dive, M12 Blue sapphire species deep dive, M13 Fancy & phenomenal corundum, M14 Emerald species deep dive.
+- **Wave 6 (next):** M15 Pearls, M16 Jade + capstone review, final video-library verification pass, VERIFICATION-REVIEW and ROUND-2-CORRECTIONS closure.
