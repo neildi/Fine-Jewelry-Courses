@@ -7,9 +7,9 @@ Policy (per the repo Prompt Kit, Part C): link or embed official sources; never 
 
 | ID | Status | Video | Length | URL | Used by |
 |---|---|---|---|---|---|
-| GIA-CS-01 | ✅ | A Gemstone's Journey through the GIA Laboratory (Knowledge Sessions, Nicole Ahline) | 57:21 | https://www.youtube.com/watch?v=P5J1a3_JcTM | M01, M09 (treatments and lab workflow), M11/M12/M14 (origin reports) |
-| GIA-CS-02 | ✅ | Gems of Northern Madagascar (Wim Vertriest — field gemology, demantoid and sapphire) | 14:54 | https://www.youtube.com/watch?v=cVs68sGjcqc | M02 (formation), M03 (mining), M12 (Madagascar sapphire) |
-| GIA-CS-03 | ✅ | Sapphire and Ruby Mine in Pailin, Cambodia (Vincent Pardieu) | 2:59 | https://www.youtube.com/watch?v=q6CRKlDpEGE | M03 (alluvial mining, jig recovery), M12 (Cambodia/Thailand sapphire) |
+| GIA-CS-01 | ✅ | A Gemstone's Journey through the GIA Laboratory (Knowledge Sessions, Nicole Ahline) | 57:21 | https://www.youtube.com/watch?v=P5J1a3_JcTM | M01, M09 (treatments and lab workflow), M11/M12/M14 (origin reports), M13 (advanced testing, Be diffusion, add-on color calls), M15 (pearl workflow, natural vs cultured), M16 (jade impregnation and dye testing) |
+| GIA-CS-02 | ✅ | Gems of Northern Madagascar (Wim Vertriest — field gemology, demantoid and sapphire) | 14:54 | https://www.youtube.com/watch?v=cVs68sGjcqc | M02 (formation), M03 (mining), M12 (Madagascar sapphire), M13 (Madagascar fancy sapphire source context) |
+| GIA-CS-03 | ✅ | Sapphire and Ruby Mine in Pailin, Cambodia (Vincent Pardieu) | 2:59 | https://www.youtube.com/watch?v=q6CRKlDpEGE | M03 (alluvial mining, jig recovery), M11 (basalt-hosted ruby), M12 (Cambodia/Thailand sapphire) |
 | GIA-CS-04 | ✅ | An Overview of Emerald Mining in Brazil (Sergio Martins — Bahia, Nova Era/Itabira, Goiás) | 1:42 | https://www.youtube.com/watch?v=07m5fFqyZIc | M03 (mining), M14 (Brazil emeralds) |
 | GIA-CS-05 | ✅ | Emerald Adventures in Afghanistan (Andy Lucas, Panjshir Valley) | 3:12 | https://www.youtube.com/watch?v=QUSnLD2cr-M | M03 (mining, artisanal conditions), M14 (Afghan emerald) |
 | GIA-CS-06 | ✅ | How to Classify a Lead Glass–Filled Ruby by GIA | 5:27 | https://www.youtube.com/watch?v=evrQv-HNrI0 | M09 (treatments — lead-glass filling), M11 (ruby) |
@@ -24,6 +24,8 @@ Content notes (from pages/transcripts read 2026-09-11):
 - **GIA-CS-03 (2:59)** Pardieu at Pailin (Boyaka) in the field with Mr. Doy — high-pressure wash + jig gravitational separation on secondary (alluvial) basalt-corundum deposit; explains why GIA field gemologists collect direct-from-miner samples before any treatment ("we are sure these stones have not been heat treated").
 - **GIA-CS-06 (5:27)** explicitly names four detection features of lead-glass-filled ruby: **flash effect (bright blue/orange flashes at facet joints), large gas bubbles, flattened gas bubbles, and durability warning (avoid household chemicals, ultrasonic/steam)** — the four points every associate should know for counter disclosure.
 - **GIA-CS-07 (10:52)** walks Gem Mountain sapphire gravel: "rock, bounce, rotate" sluice technique; heat-treating/faceting as service; untreated Montana sapphire — useful for M03 recovery method and M12 Montana locality.
+
+**Waves 5–6 (M11–M16) media note (2026-09-11):** no new video was promoted to the verified set. Every clip embedded in M11–M16 is one of the ten entries above, re-used at its point of use, and all ten URLs were re-confirmed live at the capstone pass. Three gaps remain open as MEDIA REQUESTS rather than being filled with unverified material: (1) Colombian emerald mining at Muzo/Coscuez, (2) Hpakant jadeite mining, and (3) Hetian nephrite or pounamu carving — the latter two additionally require cultural and provenance review before inclusion, not just URL verification. A Winston Gems star-sapphire explainer surfaced during M13 research and remains ⏳ Tier-4 (commercial channel); it was not used.
 
 ## Exclusions (tested, do not link)
 | Status | Video | Note |

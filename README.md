@@ -34,9 +34,9 @@ A catalog of fine jewelry retail training courses built from the *Fine Jewelry R
 | C14 Multi-Store Leadership | Leadership | 8 | 0 |
 | C15 Designing Jewelry Sales Training | Trainer | 8 | 0 |
 | C16 The GIA Diamonds Deep Dive (companion to GIA's D&DG further-reading bibliography) | Advanced/Specialist | 13 | 13 |
-| C17 The GIA Colored Stones Deep Dive (companion to GIA's Colored Stones further-reading bibliography) | Advanced/Specialist | 16 | 0 (Wave 1 in progress) |
+| C17 The GIA Colored Stones Deep Dive (companion to GIA's Colored Stones further-reading bibliography) | Advanced/Specialist | 16 | 16 (complete) |
 
-**Total: 159 articles (130 original catalog + 13 in C16 + 16 in C17). C1 is fully complete; C2 is underway; C16 complete (13/13 modules, 65 production artifacts), independently built and verified per `courses/C16-gia-diamonds-deep-dive/production/VERIFICATION-REVIEW.md`. C17 is in Wave 1 build.**
+**Total: 159 articles (130 original catalog + 13 in C16 + 16 in C17). C1 is fully complete; C2 is underway; C16 complete (13/13 modules, 65 production artifacts), independently built and verified per `courses/C16-gia-diamonds-deep-dive/production/VERIFICATION-REVIEW.md`. C17 complete (16/16 modules, 96 production artifacts, 160 quiz questions), independently built and verified per `courses/C17-gia-colored-stones-deep-dive/production/VERIFICATION-REVIEW.md`.**
 
 **Note on C16:** independent study companion, not a GIA product, built from GIA's own "For Further Reading for Diamonds and Diamond Grading" bibliography (~260 *Gems & Gemology* / GIA Research citations). It adds a `references/` folder (full annotated bibliography) and a `videos/` folder (verified video index) to the standard layout. See its README for the module-to-assignment map and wave log, and `production/VERIFICATION-REVIEW.md` for the post-build fact-check review.
 
