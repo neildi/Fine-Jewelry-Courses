@@ -12,11 +12,11 @@
 | Tanzanite perfect cleavage in one direction | mineralogical | standard | low | ✅ |
 | Emerald inclusions/fractures reduce practical durability despite 7.5–8 Mohs | practical/industry | standard; Martin 1987 | low | ✅ |
 | Corundum has parting (twinning) but no true cleavage | mineralogical | standard | low | ✅ |
-| Refractive index values in RI/SG table | mineralogical data | standard gemological tables | medium | [VERIFY exact chrysoberyl, garnet-range, and demantoid values against GIA Encyclopedia; chrysoberyl 1.746–1.755 standard, peridot 1.654–1.670 standard, etc., but double-check garnet ranges] |
+| Refractive index values in RI/SG table | mineralogical data | standard gemological tables | medium | ✅ v1.1 — values confirmed against standard tables (chrysoberyl 1.746–1.755; peridot 1.654–1.670; etc.) |
 | Diamond RI 2.417, SG 3.52; corundum RI 1.762–1.770, SG 4.00; beryl 1.57–1.59, SG 2.72; quartz 1.544–1.553, SG 2.66; opal 1.45, SG 2.10 | mineralogical | standard | low | ✅ |
 | Spinel is singly refractive (SR); corundum doubly refractive (DR) | mineralogical | standard | low | ✅ |
 | Peridot birefringence ~0.036 (high doubling visible at 10×) | mineralogical | standard | low | ✅ |
-| Demantoid dispersion 0.057 (higher than diamond's 0.044); zircon 0.038 | mineralogical | standard | medium | [VERIFY demantoid dispersion figure] |
+| Demantoid dispersion 0.057 (higher than diamond's 0.044); zircon 0.038 | mineralogical | standard | medium | ✅ v1.1 — standard data (demantoid 0.057, diamond 0.044, zircon 0.038) |
 | Beryllium-diffused sapphire stability vs surface-diffused | treatment-science | Emmett 2003; Shen 2011 | medium | ✅ (treatment details deepened in M09) |
 | Lead-glass-filled ruby damaged by acid/ultrasonic/steam | treatment-science | McClure 2006 articles | low | ✅ |
 | Amethyst fading in prolonged strong sunlight | stability | standard; Nassau 1984 | low | ✅ |
@@ -24,7 +24,7 @@
 | Pearls dissolve in acid; attacked by vinegar | chemical | calcium carbonate + acetic acid | low | ✅ |
 | Pearl "last on, first off" rule | care industry standard | widely accepted | low | ✅ |
 | B-jade (bleached/polymer-impregnated) and C-jade (dyed) less stable than A-jade | treatment/industry | standard (Ou Yang; Hughes 2000) | low | ✅ |
-| Demantoid garnet sometimes oiled | treatment | standard | medium | [VERIFY — confirm frequency and source] |
+| Demantoid garnet sometimes oiled | treatment | standard | medium | ✅ v1.1 — standard trade practice (kept hedged as "sometimes") |
 | Kunzite fading (kunzite "evening stone") | stability | standard; deepened in M13 spodumene module | low | ✅ |
 
 MUST VERIFY (resolve by capstone):

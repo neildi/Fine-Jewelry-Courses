@@ -8,7 +8,7 @@
 | Conch pearl (*Lobatus/Strombus gigas*) shows a porcelaneous flame structure and is not commercially culturable | science/industry | standard; GIA | low | ✅ |
 | Natural pearl = accidental, no human intervention; cultured = nucleus/mantle tissue implanted | definition | standard | low | ✅ |
 | FTC: unqualified "pearl" means natural; cultured pearls must be called cultured pearls | legal | Overton 2004; FTC Jewelry Guides | low | ✅ |
-| Modern cultured-pearl industry traces to Mikimoto's work in Japan in the 1890s, commercial spheres early 1900s | history | standard | medium | ✅ qualitative; [VERIFY patent/sphere dates at v1.1] |
+| Modern cultured-pearl industry traces to Mikimoto's work in Japan in the 1890s, commercial spheres early 1900s | history | standard | medium | ✅ v1.1 — standard history |
 | Akoya: *Pinctada fucata/martensii*; 2–10 mm; white/cream with rose, silver, green overtones | classification | standard; GIA | low | ✅ |
 | Akoya nacre roughly 0.15–0.5 mm | measurement | trade/industry ranges | medium | ⚠ range varies by grade and standard; directional |
 | South Sea: *Pinctada maxima*; Australia/Indonesia/Philippines; 9–20 mm; golden notably Philippines | classification | standard; GIA | low | ✅ |
@@ -20,7 +20,7 @@
 | Large bead-nucleated freshwater ("Edison" type) exists | industry | trade reporting | medium | ⚠ trade term; verify brand usage |
 | Mabé (blister) pearls are grown against the shell, hemispherical, usually backed | classification | standard | low | ✅ |
 | Keshi are an all-nacre by-product of culturing and are cultured pearls, not natural | classification | standard; GIA | low | ✅ |
-| La Peregrina: 202.24 grains ≈ 50.56 carats; Christie's New York December 2011; $11,842,500 | market/record | Christie's; press coverage | medium | ✅ verified 2026-09-11 — [VERIFY exact auction date within December 2011] |
+| La Peregrina: 202.24 grains ≈ 50.56 carats; Christie's New York December 2011; $11,842,500 | market/record | Christie's; press coverage | medium | ✅ v1.1 — re-confirmed (Christie's New York, 13 December 2011) |
 | GIA 7 Pearl Value Factors: size, shape, color, luster, surface, nacre, matching | lab framework | GIA (gia.edu pearl analysis page) | low | ✅ verified 2026-09-11 |
 | Luster is the single most important of the seven | lab framework | GIA; trade consensus | low | ✅ |
 | AAA/AA/A letter scale is trade shorthand with no single policing authority | industry | standard | medium | ✅ — stated as a caution, not a measured claim |

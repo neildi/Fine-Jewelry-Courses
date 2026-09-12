@@ -16,7 +16,7 @@
 | Some yellow corundum color is color-center based and unstable; irradiated fancy colors fade | treatment | standard; Nassau 1985 | medium | ✅ |
 | Padparadscha = pinkish-orange to orange-pink; name from Sinhalese for lotus blossom | trade language | standard | low | ✅ |
 | Padparadscha traditionally Sri Lankan; also Madagascar, Vietnam, Tanzania today | locality | standard; G&G field reports | low | ✅ |
-| No single agreed boundary between padparadscha/orange sapphire/pink sapphire; labs differ | trade/lab scope | standard | medium | ✅ qualitative; [VERIFY current GIA criteria wording at v1.1] |
+| No single agreed boundary between padparadscha/orange sapphire/pink sapphire; labs differ | trade/lab scope | standard; LMHC Information Sheet #4 | medium | ✅ v1.1 — GIA: "light to medium pinkish orange to orange-pink"; LMHC: "a corundum variety of any geographic origin whose colour is a subtle mixture of pinkish orange to orangey pink with pastel tones and low to medium saturation" in standard daylight |
 | Be diffusion appeared in quantity in the early 2000s; anchor paper Emmett et al. 2003 | history | Emmett/Scarratt/McClure 2003 | low | ✅ |
 | Be penetrates the whole stone; color is through-and-through; no rim | treatment science | Emmett et al. 2003 | low | ✅ |
 | Be heating at roughly 1800 °C | treatment | Emmett et al. 2003 | medium | ⚠ approximate figure |

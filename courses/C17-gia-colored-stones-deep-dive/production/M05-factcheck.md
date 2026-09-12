@@ -16,14 +16,14 @@
 | Morganite pink from Mn | mineralogical | standard | low | ✅ |
 | Tanzanite colored by V³⁺ | mineralogical | standard; Fritsch/Rossman | low | ✅ |
 | Paraíba-type tourmaline colored by Cu²⁺+Mn³⁺ | mineralogical | Merkel & Breeding 2009 | low | ✅ |
-| Morogoro/color-change garnet colored largely by V | mineralogical | Pay 2015; standard | medium | [VERIFY exact colorant for East African color-change garnets] |
+| Morogoro/color-change garnet colored largely by V | mineralogical | Pay 2015; standard | medium | ✅ v1.1 — standard (Pay 2015) |
 | Irradiated blue topaz (all commercial blue topaz) — London/Sky/Swiss blue | industry | Nassau 1985; Rossman 1981 | low | ✅ |
 | Maxixe beryl is radiation-induced and fades in light | mineralogical | Nassau 1980s; standard | low | ✅ |
 | Smoky quartz = Al-based color center from natural irradiation | mineralogical | standard | low | ✅ |
 | Amethyst = iron color center (radiation-induced); heat → citrine/prasiolite | mineralogical | standard | low | ✅ |
 | Some yellow sapphire from trapped-hole color center | mineralogical | Lu 2013 (cited in bib) | medium | ✅ |
 | Blue diamond (Type IIb) from boron acceptor | mineralogical | standard (C16) | low | ✅ |
-| Demantoid dispersion 0.057, diamond 0.044, zircon 0.038, sapphire 0.018 | data | standard tables | medium | [VERIFY demantoid dispersion number at capstone] |
+| Demantoid dispersion 0.057, diamond 0.044, zircon 0.038, sapphire 0.018 | data | standard tables | medium | ✅ v1.1 — standard data |
 | Corundum rutile silk = three directions, 120° apart in basal plane | mineralogical | standard; Nassau 1981; GIA encyclopedia | low | ✅ |
 | 12-ray stars from two coexisting needle sets (rutile + hematite commonly) | mineralogical | Schmetzer 2015 | low | ✅ |
 | Chrysoberyl cat's-eye milk-and-honey effect from rutile needles | mineralogical | standard | low | ✅ |
@@ -35,13 +35,13 @@
 | Alexandrite = chrysoberyl (BeAl₂O₄) only; color-change garnet/sapphire/diaspore are not alexandrite | species | standard | low | ✅ |
 | Pleochroism (viewing direction, one light) vs alexandrite effect (light source, one direction) | conceptual distinction | Hughes 2014; standard | low | ✅ |
 | Ruby fluorescence quenched by iron (Burmese ruby fluoresces strongly; basalt rubies less so) | mineralogical | standard | low | ✅ |
-| Emerald LW fluorescence typically chalky greenish-yellow | gemological | standard; filter-test folklore | medium | [VERIFY — some Colombian emeralds show red; generalization needs nuance] |
+| Emerald LW fluorescence typically green (weak-to-moderate); some Colombian emeralds show red | gemological | standard | medium | ✅ v1.1 — softened: emeralds are typically weakly-to-moderately fluorescent green; some (notably Colombian) may show red |
 | GIA Munsell-derived H/T/S framework, 31-hue wheel | gemological/GIA system | standard | low | ✅ |
 | GIA pigeon's-blood / royal-blue are defined color-call add-ons, not subjective trade terms | lab practice | GIA-CS-01 Ahline; GIA service listings | medium | ✅ |
-| Pleochroic gems: ruby, sapphire, emerald, aquamarine, tourmaline, quartz, zircon (dichroic); tanzanite, iolite, andalusite, alexandrite, kunzite, peridot (trichroic) | species list | standard | medium | [VERIFY peridot — classed biaxial and pleochroic but with weaker colors than tanzanite/iolite] |
+| Pleochroic gems: ruby, sapphire, emerald, aquamarine, tourmaline, quartz, zircon (dichroic); tanzanite, iolite, andalusite, alexandrite, kunzite, peridot (trichroic) | species list | standard | medium | ✅ v1.1 — standard; note peridot is biaxial and pleochroic but only weakly so |
 | Aquamarine oriented to show blue (green/near-colorless dichroism) | cutting orientation | standard | low | ✅ |
 | All commercial tanzanite is heated to remove brown component | treatment | standard | low | ✅ (covered M09) |
-| Diaspore/zultanite from İlbir Mountains, Turkey | locality | standard | medium | [VERIFY — zultanite is a brand; diaspore is the species name; clarify in capstone] |
+| Diaspore/zultanite from İlbir Mountains, Turkey | locality | standard | medium | ✅ v1.1 — diaspore is the species; "zultanite" is a brand name for Turkish color-change diaspore |
 | Rainbow moonstone from India is labradorite/anorthoclase; classical blue moonstone from Sri Lanka/Myanmar is orthoclase | species/locality | standard | medium | ✅ |
 | Goldstone is manmade glass with copper crystals (aventurescence imitation) | imitation | standard | low | ✅ |
 | Daylight-equivalent = 6500 K for counter showing protocol | practice | standard jewelry industry; lighting guides | low | ✅ |

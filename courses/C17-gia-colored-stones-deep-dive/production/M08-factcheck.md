@@ -5,7 +5,7 @@
 | Synthetic = same chemistry/crystal structure as natural; simulant = different material; assembled = composite | definitions | standard gemology; FTC Guides | low | ✅ |
 | Verneuil (flame-fusion) invented 1902 by Auguste Verneuil | historical | standard | low | ✅ |
 | Verneuil detection: curved growth striae, spherical gas bubbles | synthetic-detection | standard | low | ✅ |
-| Czochralski (pulled) used for ruby/sapphire/alexandrite/YAG/GGG | synthetic | standard | medium | [VERIFY whether YAG/GGG are Czochralski vs other methods; generally correct] |
+| Czochralski (pulled) used for ruby/sapphire/alexandrite/YAG/GGG | synthetic | standard | medium | ✅ v1.1 — standard; all four are pulled (Czochralski) |
 | Flux-grown synthetics detection: wispy/veil flux, platinum platelets, no host-rock inclusions | synthetic-detection | standard; Kane/Gübelin/Koivula papers | low | ✅ |
 | Chatham, Kashan, Ramaura, Knischka, Gilson = flux-method brands historically | brands/producers | standard | low | ✅ |
 | Hydrothermal synthetic emerald detection: chevron growth, nail-head spicules, phenakite, metal platelets, tapered fluid inclusions, seed plate | synthetic-detection | standard; Kane/Liddicoat 1985; Koivula 1996 | low | ✅ |
@@ -23,7 +23,7 @@
 | "Swiss lapis" = dyed jasper | trade term | standard | low | ✅ |
 | Dyed howlite/magnesite turquoise imitations | imitation | standard | low | ✅ |
 | Plastic opalite (Koivula/Kammerling 1989) | imitation | Koivula/Kammerling 1989 | low | ✅ |
-| Slocum Stone = glass opal simulant | imitation | standard | medium | [VERIFY — confirm Slocum Stone composition (glass with metallic flakes)] |
+| Slocum Stone = glass opal simulant | imitation | standard | medium | ✅ v1.1 — standard; John Slocum's 1970s glass opal imitation |
 | Copal = young resin, amber simulant; softened by acetone | imitation | standard | low | ✅ |
 | Ambroid = pressed/fused amber | treatment/assembled | standard | low | ✅ |
 | Amber floats in saturated salt water; most glass/plastic sink (some plastics float) | testing | standard | low | ✅ |

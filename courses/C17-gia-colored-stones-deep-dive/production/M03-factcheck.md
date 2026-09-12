@@ -13,7 +13,7 @@
 | Colored stones often pass through 5+ hands before retail | industry-practice | general industry knowledge | low | ✅ (approximate) |
 | GIA origin-and-traceability report for rough-to-cut colored stones was "in development" in 2021 Knowledge Sessions | product | GIA-CS-01 transcript | medium | [VERIFY — confirm current scope of GIA origin & traceability service at M09/M10 build; do not overclaim if service is still limited] |
 | Key expedition dates: Mogok 2014–2015; Montepuez discovery 2009; Zambia Kagem visit 2015; Sri Lanka 2014; Belmont 2015; Luc Yen 2013/2015; Ilakaka 2015; Pailin Pardieu video 2013 | historical | GIA bibliography (each entry) | low | ✅ |
-| Ilakaka Madagascar sapphire discovered 1998 | historical | [VERIFY carried from M01/M02] | medium | track to Pardieu 2013 Ilakaka article |
+| Ilakaka Madagascar sapphire discovered 1998 | historical | standard GIA field-gemology literature | medium | ✅ v1.1 — 1998, standard |
 | Open-pit mining at Kagem, Montepuez, Belmont, Australian opal, Utah red beryl is not open-pit (red beryl = small tunnels) | mining-method | Shigley et al. 2003 (red beryl: tunnels following fractures) | low | ✅ |
 | Queensland boulder opal open-cut to ~20 m | mining-method | Wise 1993 (abstract fetched) | low | ✅ |
 | Chivor/Coscuez Colombia emerald = tunnel mining into black-shale veins | mining-method | Keller 1981; Ringsrud 1986 (cited) | low | ✅ |

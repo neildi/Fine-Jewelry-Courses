@@ -24,12 +24,12 @@
 | Heat treatment of sapphire is permanent and does not change care | treatment | Emmett & Douthit 1993; standard | low | ✅ |
 | GIA reports heat as "indications of heating" / "H" | report language | GIA | low | ✅ |
 | Be diffusion requires LA-ICP-MS/LIBS; not detectable at 10× | detection | Emmett et al. 2003 | low | ✅ |
-| Cobalt-glass filling of sapphire: flash effect, large/flattened bubbles, color along fractures, luster difference, cobalt spectrum | detection | McClure/Shen; glass-filled corundum literature | medium | ✅ features; [VERIFY the exact G&G citation for cobalt-glass-filled sapphire at v1.1] |
+| Cobalt-glass filling of sapphire: flash effect, large/flattened bubbles, color along fractures, luster difference, cobalt spectrum | detection | GIT 2007 "New blue treated sapphire"; Hughes et al., "Cobalt-Doped Glass-Filled Sapphires — An Update" (Lotus Gemology); GIA G&G Fall 2019 "Cobalt-Coated Sapphire" (coating, distinct) | medium | ✅ features; v1.1 corrected citation — the glass-fill treatment is documented by GIT (2007) and Lotus Gemology, not by a single G&G article |
 | Cobalt-glass-filled sapphire is a manufactured composite requiring disclosure | legal | Overton 2004; GIA | low | ✅ |
 | Verneuil blue sapphire: curved striae, gas bubbles, uniform electric blue | detection | standard; M08 | low | ✅ |
-| Diana's engagement ring: 12-ct oval blue sapphire, Garrard, 1981; to Catherine in 2010; Ceylon origin | public record | press/public record | medium | ✅ widely reported; [VERIFY the "Ceylon" origin attribution against a jewellery-museum or Garrard source at v1.1] |
+| Diana's engagement ring: 12-ct oval blue sapphire, Garrard, 1981; to Catherine in 2010; Ceylon origin | public record | Garrard (maker's own account); press/public record | medium | ✅ v1.1 — Garrard: "the deep, intense blue of the 12-carat oval Ceylon sapphire … Lady Diana chose her sapphire engagement ring from Garrard in 1981" |
 | Cornflower / royal / velvet are trade color descriptors attached to Ceylon / Burmese / Kashmir character | trade language | standard | medium | ⚠ trade usage, not standardized definitions |
-| GIA applies defined criteria to color terms on reports | lab scope | GIA | medium | ✅ general; [VERIFY exact criteria wording at v1.1] |
+| GIA's use of color terms ("pigeon's blood", "royal blue", padparadscha) is descriptive, not a published scientific colorimetric grade | lab scope | GIA Ruby/Sapphire Quality Factors | medium | ✅ v1.1 — GIA describes these as traditional descriptions that "can be subject to misinterpretation"; no international colorimetric standard exists |
 | Price bands in the budget table | pricing | internal convention | high | ⚠ directional only; check against your own cost sheets |
 | Unheated commands a large premium over heated of comparable quality | market | standard | medium | ✅ qualitative; do not quote a multiple |
 | Clean heated sapphire is generally ultrasonic/steam safe; filled/diffused/heavily fractured is not | care | standard | low | ✅ |

@@ -15,12 +15,12 @@
 | Muzo, Coscuez, Chivor/Somondoco, La Pita, Peñas Blancas are Colombian emerald mines | locality | Keller 1981; standard | low | ✅ |
 | "Muzo green" is the trade reference descriptor | trade language | standard | medium | ⚠ trade usage, not a standardized grade |
 | Trapiche emerald: six-rayed carbonaceous pattern between growth sectors; Colombian (rarely Brazilian) | science/locality | standard; G&G | low | ✅ |
-| *Gota de aceite* ("drop of oil") = roiled growth structure, classic Colombian (Muzo) indicator | science/locality | standard; G&G | medium | ✅ established trade term; [VERIFY primary G&G description at v1.1] |
+| *Gota de aceite* ("drop of oil") = roiled growth structure, classic Colombian (Muzo) indicator | science/locality | standard; G&G | medium | ✅ v1.1 — established trade term for roiled growth structure, documented in G&G |
 | Zambia (Kagem, Musakashi) is the largest emerald producer in the world by volume | industry | Shor/Weldon; Gemfields reporting | low | ✅ |
 | Zambian emerald is schist-hosted, more iron-rich, cooler bluish-green, largely inert | geology | standard | low | ✅ |
 | Gemfields operates Kagem and runs formal auctions | industry | Shor/Weldon 2014/2015 | low | ✅ |
 | Belmont (Brazil) is an integrated mine-to-market operation | industry | Lucas et al. 2015 | low | ✅ |
-| Ethiopian emerald (Shakiso/Kenticha, Oromia) reached market c. 2016–2017; Cr-dominant, low Fe | locality/history | GIA Research & News | medium | ✅ verified 2026-09-11 — [VERIFY precise discovery vs first-market year] |
+| Ethiopian emerald (Shakiso/Kenticha, Oromia) reached market c. 2016–2017; Cr-dominant, low Fe | locality/history | GIA G&G Spring 2017 "A New Discovery of Emeralds from Ethiopia"; G&G Spring 2019 "Land of Origins" | medium | ✅ v1.1 — discovered 2016; first Shakiso-area emeralds reached international markets late 2016 (earlier Dubuluk material 2011–2012) |
 | Panjshir (Afghanistan) emerald — artisanal tunnels, fine small stones | locality | Lucas field reporting; GIA-CS-05 | low | ✅ |
 | Sandawana (Zimbabwe) produces small, intensely colored emeralds | locality | standard | low | ✅ |
 | Hpakant is a jadeite locality, not an emerald locality | locality | standard | low | ✅ (corrects a common conflation) |
@@ -38,7 +38,7 @@
 | Soudé emerald is an assembled stone (doublet/triplet with green cement) | assembly | standard; M08 | low | ✅ |
 | No ultrasonic and no steam for emerald — absolute rule | care | standard; McClure 1999-era guidance | low | ✅ |
 | The emerald cut exists to protect a brittle stone and display color | cutting | standard; M07 | low | ✅ |
-| Rockefeller Emerald 18.04 ct, Christie's New York, 2017 | market/record | auction records | medium | [VERIFY sale price and exact date at capstone — not quoted in the article body] |
+| Rockefeller Emerald 18.04 ct, Christie's New York, 2017 | market/record | Christie's sale record | medium | ✅ v1.1 — 18.04 ct, Christie's New York, 20 June 2017, US$5,511,500 (~US$305,000/ct), bought by Harry Winston; world per-carat record for emerald |
 
 MUST VERIFY (capstone):
 1. Precise discovery year vs first-market year for Ethiopian (Shakiso/Kenticha) emerald.

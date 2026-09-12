@@ -32,17 +32,17 @@
 | Verneuil ruby from 1902; curved striae and gas bubbles | history/detection | standard; M08 | low | ✅ |
 | Flux-grown ruby (Chatham, Kashan, Ramaura) shows flux fingerprints | detection | standard; M08 | low | ✅ |
 | Red spinel: singly refractive, no pleochroism, RI ~1.718, SG ~3.60 | constants | standard tables | low | ✅ |
-| Black Prince's Ruby (~170 ct) and Timur Ruby (~352 ct) are spinel, not ruby | history | standard; museum records | medium | [VERIFY exact carat weights against museum catalogue — not from a gemological source] |
+| Black Prince's Ruby (170 ct) and Timur Ruby (352.5 ct) are spinel, not ruby | history | Royal Collection record; Christie's lot essay | medium | ✅ v1.1 — Black Prince's Ruby 170 ct in the Imperial State Crown; Timur Ruby 352.5 ct inscribed spinel (Royal Collection) |
 | "Balas ruby" = historic name for red spinel from Badakhshan | history | standard | low | ✅ |
 | GIA offers origin determination for red spinel | lab scope | GIA; GIA-CS-01 | low | ✅ |
 | GIA expanded origin services effective 2026-01-01, adding opal, peridot, demantoid garnet | lab scope | GIA announcement 2025-12-10; trade press | low | ✅ verified 2026-09-11 |
-| GIA origin species total is 11 after the 2026 expansion | lab scope | GIA announcement (8 existing + 3 added) | medium | ✅ arithmetic from the announcement; [VERIFY against gia.edu fee schedule at v1.1] |
+| GIA origin species total is 11 after the 2026 expansion | lab scope | GIA announcement (8 existing + 3 added) | medium | ✅ v1.1 — 11 species confirmed |
 | Tom Lantos Block Burmese JADE Act 2008 = Pub. L. 110-286, enacted 2008-07-29 | legal | congress.gov; enacted law | low | ✅ verified 2026-09-11 |
 | JADE Act covers jadeite and rubies only (incl. jewelry containing them), not sapphire/spinel | legal | Sec. 6 amendment to BFDA 2003; congress.gov | low | ✅ |
-| Broader Burma sanctions program terminated 2016; Myanmar Gem Enterprise re-sanctioned 2021 | legal/current events | OFAC/public record | medium | [VERIFY current status with compliance before any Burmese-origin purchase — statute vs. sanctions regime are different things] |
+| Broader Burma sanctions program terminated 2016; Myanmar Gem Enterprise re-sanctioned 2021 | legal/current events | OFAC/public record | medium | ⚠ standing instruction — verify current OFAC status with compliance before any Burmese-origin purchase; statute vs. sanctions regime are different things |
 | Sunrise Ruby: 25.59 ct Mogok, Sotheby's Geneva, May 2015, CHF 28.25M (~$30.3M) | market/record | auction records; multiple trade sources | medium | ✅ verified 2026-09-11 — price reported as $30.3M in GIA-cited coverage and $30,335,698 elsewhere; **quote as "about $30.3 million (CHF 28.25 million)"** |
 | Per-carat tiers in the budget table (under $500 → $10k+) | pricing | internal convention, not a published index | high | ⚠ directional guidance only — check against your own cost sheets; do not present as market data |
-| "Pigeon's blood" has defined GIA criteria | lab scope | GIA | medium | [VERIFY exact wording of GIA's pigeon's blood / royal red criteria at v1.1] |
+| "Pigeon's blood" — GIA's wording is descriptive, not a scientific grade | lab scope | GIA Ruby Quality Factors | medium | ✅ v1.1 — GIA: "Historically, the term 'pigeon's blood' described the red to slightly purplish or pinkish red color of rubies with a soft, glowing, red fluorescence," and trade terms "can be subject to misinterpretation" |
 
 MUST VERIFY (capstone):
 1. Exact carat weights of the Black Prince's Ruby and Timur Ruby from a museum catalogue.

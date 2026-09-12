@@ -26,7 +26,8 @@ Post-build corrections, maintained per the C16 convention. Entries are added aft
 - Media policy: **no new video promoted** from the ⏳ candidate pool during Waves 5–6. Every clip embedded in M11–M16 is one of the ten entries verified live on 2026-09-11, re-used at its point of use. No AI-generated imagery anywhere in the course.
 - Video URLs re-confirmed live; the GIA clips resolve to stable landing pages.
 
-## Remaining for v1.1
-Nine academic-precision citations, listed in `VERIFICATION-REVIEW.md` §5: Black Prince's/Timur Ruby carats; GIA "pigeon's blood" criteria wording; GIA padparadscha criteria wording; cobalt-glass-filled sapphire G&G citation; Diana/Catherine sapphire origin attribution; Rockefeller Emerald figures; Ethiopian emerald discovery vs first-market year; Hutton-Mdivani necklace figures; the 1863 jadeite/nephrite date.
+## Remaining for v1.1 — resolved 2026-09-12
 
-**None of the nine affects floor safety, treatment disclosure, or pricing guidance.** The course is ready at internal staff-training quality.
+Nine academic-precision citations, listed in `VERIFICATION-REVIEW.md` §5: Black Prince's/Timur Ruby carats; GIA "pigeon's blood" criteria wording; GIA padparadscha criteria wording; cobalt-glass-filled sapphire citation; Diana/Catherine sapphire origin attribution; Rockefeller Emerald figures; Ethiopian emerald discovery vs first-market year; Hutton-Mdivani necklace figures; the 1863 jadeite/nephrite date.
+
+**All nine resolved in the v1.1 citation pass** — full record and sources in `production/V1.1-CITATIONS.md`. The cobalt-glass-filled sapphire item was resolved by *correcting* the citation (GIT 2007 + Lotus Gemology, not a single G&G article). No treatment, care, disclosure, or pricing guidance changed; this was a citations-only pass.

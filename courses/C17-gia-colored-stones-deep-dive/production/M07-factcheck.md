@@ -26,7 +26,7 @@
 | Calibrated premium because stones drop into mass-produced mountings | industry | standard | low | ✅ |
 | Fine stones over ~2 ct rarely strictly calibrated — color orientation trumps template size | practice | standard | low | ✅ |
 | Antique cuts should not be recut casually (provenance) | practice | standard estate-jewelry advice | low | ✅ |
-| Crown/pavilion angles for colored stones vary by RI (higher-RI stones can tolerate shallower angles and still reflect light) | physics | standard (critical angle = arcsin(1/RI)) | medium | [VERIFY — general statement is correct; not assigning specific numbers without a cutting reference] |
+| Crown/pavilion angles for colored stones vary by RI (higher-RI stones can tolerate shallower angles and still reflect light) | physics | standard (critical angle = arcsin(1/RI)) | medium | ✅ v1.1 — correct general statement (critical angle = arcsin(1/RI)); no specific numbers asserted |
 
 MUST VERIFY (capstone):
 1. Confirm specific colored-stone angle ranges (pavilion/crown) by RI if cited with numbers; current draft avoids specific angle figures so risk is low.

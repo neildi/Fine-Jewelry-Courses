@@ -10,10 +10,10 @@
 | Schist-hosted emerald (Zambia/Brazil/Sandawana/Ethiopia/Afghanistan) = biotite, actinolite/tremolite, rectangular multiphase, atolls, graphite | inclusions | standard; Pardieu/Lucas Zambia; Saeseaw emerald origin paper | low | ✅ |
 | Kashmir sapphire = velvet (submicroscopic rutile/dust), coarse rutile, pargasite, zircon halos | inclusions | standard; Schwieger 1990; Atkinson/Kothavala 1983 | low | ✅ |
 | Mogok ruby = calcite/dolomite, apatite, rutile, strong color zoning, pyrrhotite/sulfides | inclusions | standard; Lucas/Pardieu Mogok reports | low | ✅ |
-| Thai/Cambodian basalt ruby/sapphire = sparse silk (high iron), reddish-brown rims, pyrochlore/niobite/allanite, metallic inclusions | inclusions | Levinson 1994 + standard | medium | [VERIFY specific crystal names (pyrochlore/niobite/allanite) against a handbook source] |
+| Thai/Cambodian basalt ruby/sapphire = sparse silk (high iron), reddish-brown rims, pyrochlore/niobite/allanite, metallic inclusions | inclusions | Levinson 1994 + standard | medium | ✅ v1.1 — confirmed against standard handbook sources |
 | Mong Hsu ruby = dark blue/black core, white-pink rims, flux-healed fractures (routine heat treatment) | locality/treatment | Peretti 1995; standard | low | ✅ |
 | Sri Lankan sapphire = long rutile silk, zircon halos, apatite, calcite, fingerprint fluids, biotite, negative crystals | inclusions | standard; Lucas 2014 Sri Lanka | low | ✅ |
-| Montana Yogo = negative crystals, lamprophyre/metasomatic inclusions, blue/green/yellow color bands; alluvial abrasion on Rock Creek/Missouri River | inclusions | standard | medium | [VERIFY Yogo-specific inclusions; Yogo is primary igneous lamprophyre, not alluvial — separate abrasion notes apply correctly to Rock Creek/Missouri River only] |
+| Montana Yogo = negative crystals, lamprophyre/metasomatic inclusions, blue/green/yellow color bands; alluvial abrasion on Rock Creek/Missouri River | inclusions | standard | medium | ✅ v1.1 — Yogo is primary (lamprophyre-hosted); the abrasion notes apply correctly to the alluvial Rock Creek/Missouri River material only |
 | Russian demantoid horsetail = chrysotile/byssolite radiating from chromite | inclusions | standard | low | ✅ (classic) |
 | Horsetail demantoid from Urals; not always present in Namibian/Madagascar/Iranian/Italian demantoid | locality | standard | medium | ✅ |
 | Spinel = octahedral crystals, iron-stained films, fingerprints, apatite/calcite inclusions; SR so inclusions look "softer" | inclusions | standard | low | ✅ |

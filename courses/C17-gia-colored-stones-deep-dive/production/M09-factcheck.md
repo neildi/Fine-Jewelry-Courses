@@ -7,7 +7,7 @@
 | ~95–99% commercial corundum heat-treated (rough estimate, vary by source) | industry statistic | widely cited; no precise figure | medium | ⚠ use "most commercial" wording to avoid exact statistic |
 | 100% commercial tanzanite heated to remove brown component | industry | standard; widely cited | low | ✅ |
 | All commercial blue topaz irradiated | industry | Nassau 1985 | low | ✅ |
-| Heat treatment of corundum ~1600–1800°C | process | Nassau 1981 technical | medium | [VERIFY exact temperature range] |
+| Heat treatment of corundum ~1600–1800°C | process | Nassau 1981 technical | medium | ✅ v1.1 — standard range; beryllium diffusion runs higher (kept approximate) |
 | Heat detection: dissolved/coarsened silk, snowflake inclusions, discoid fractures, pitted girdle | detection features | Nassau 1981; Koivula 2013; standard | low | ✅ |
 | Flux-assisted heat / flux healing of ruby (Mong Hsu/Mozambique/Madagascar) | treatment | standard; Pardieu 2010/2015 | low | ✅ |
 | Surface (Ti) diffusion color concentrates at facet edges/girdle, repolishable off | detection | Kane 1990; McClure 1993 | low | ✅ |

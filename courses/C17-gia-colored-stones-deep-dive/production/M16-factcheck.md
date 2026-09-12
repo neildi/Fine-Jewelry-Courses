@@ -3,7 +3,7 @@
 | Claim | Type | Source | Risk | Status |
 |---|---|---|---|---|
 | "Jade" covers two distinct minerals, jadeite (pyroxene) and nephrite (amphibole) | classification | standard | low | ✅ |
-| The two were not distinguished by Western science until 1863 | history | standard | medium | ⚠ widely cited; [VERIFY the date and attribution at v1.1] |
+| The two were not distinguished by Western science until 1863 | history | mindat.org; International Gem Society | medium | ✅ v1.1 — French mineralogist Alexis Damour distinguished jadeite from nephrite in 1863 |
 | Jadeite: NaAlSi₂O₆; Mohs ~6.5–7; SG ~3.30–3.38; RI ~1.66 (spot) | constants | standard tables | low | ✅ |
 | Nephrite: tremolite–actinolite, Ca₂(Mg,Fe)₅Si₈O₂₂(OH)₂; Mohs ~6–6.5; SG ~2.90–3.03; RI ~1.61 | constants | standard tables | low | ✅ |
 | Jadeite has granular interlocking texture; nephrite has felted fibrous texture | science | standard | low | ✅ |
@@ -36,7 +36,7 @@
 | Type A care: warm soapy water, no harsh chemicals, no prolonged heat | care | standard | low | ✅ |
 | Type B/C care: no solvents, no heat, no ultrasonic — polymer and dye are the fragile parts | care | Fritsch 1992; standard | low | ✅ |
 | GIA offers jade impregnation and dye testing, and origin reporting for untreated jadeite and omphacite jade from Myanmar and Guatemala (from 2026-01-01) | lab scope | GIA announcement Dec 2025; GIA-CS-01 | low | ✅ verified 2026-09-11 |
-| Hutton-Mdivani jadeite bead necklace — auction benchmark | market/record | auction records | high | [VERIFY exact price, house, date at capstone — deliberately not quoted in the article body] |
+| Hutton-Mdivani jadeite bead necklace — auction benchmark | market/record | Sotheby's Hong Kong sale record | high | ✅ v1.1 — 27 jadeite beads (15.4–19.2 mm) with Cartier ruby-and-diamond clasp; Sotheby's Hong Kong, 7 April 2014; HK$214,160,000 ≈ US$27.44 million; world auction record for a jadeite jewel and for a Cartier jewel; Type A (natural, untreated), confirmed by GIA and Gübelin |
 
 MUST VERIFY (capstone):
 1. The 1863 date for the scientific distinction between jadeite and nephrite, and its attribution.

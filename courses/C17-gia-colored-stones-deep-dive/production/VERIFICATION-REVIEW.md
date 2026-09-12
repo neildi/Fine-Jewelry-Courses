@@ -84,7 +84,7 @@ These are the items with the highest downside if wrong, because they are stateme
 
 ## 5. Open items — deferred to v1.1 (none affect floor safety, disclosure or pricing)
 
-Nine items of academic precision remain. Each is flagged inline in its module fact-check table. **None of them changes a care rule, a disclosure obligation, or a price band**, which is why the course is rated ready for internal staff training.
+**Resolved 2026-09-12 in the v1.1 citation pass** — see `production/V1.1-CITATIONS.md` for the full record, sources, and the remaining access-limited/time-sensitive flags. All nine items below are now pinned to a primary or authoritative source. **None of them changed a care rule, a disclosure obligation, or a price band**, consistent with the original rating that the course was ready for internal staff training.
 
 | # | Open item | Module | Why it is low risk |
 |---|---|---|---|
@@ -97,6 +97,8 @@ Nine items of academic precision remain. Each is flagged inline in its module fa
 | 7 | Precise discovery vs first-market year for **Ethiopian emerald** | M14 | Article says "around 2016–2017" |
 | 8 | **Hutton-Mdivani jadeite necklace** auction figures | M16 | Deliberately not quoted in any article body |
 | 9 | The **1863** date for the scientific separation of jadeite and nephrite, and its attribution | M16 | Stated as history; not used in any identification guidance |
+
+**v1.1 resolution summary (2026-09-12):** Black Prince's Ruby 170 ct, Timur Ruby 352.5 ct (Royal Collection); GIA pigeon's-blood wording ("red to slightly purplish or pinkish red color of rubies with a soft, glowing, red fluorescence" — descriptive, not a scientific grade); GIA padparadscha "light to medium pinkish orange to orange-pink" + LMHC wording; cobalt-glass-filled sapphire cited to GIT 2007 + Lotus Gemology (not a G&G article — citation corrected); Diana/Catherine sapphire "Ceylon" per Garrard's own account; Rockefeller Emerald 18.04 ct / Christie's NY 20 June 2017 / US$5,511,500; Ethiopian emerald discovered 2016, first Shakiso-area market arrivals late 2016; Hutton-Mdivani 27 beads / Sotheby's HK 7 April 2014 / HK$214,160,000 (US$27.44M); jadeite/nephrite separated by Alexis Damour, 1863.
 
 Additional standing caution recorded for future work: any **Māori-specific** statement about pounamu (M16) must be reviewed with appropriate cultural authority before publication beyond internal training use. The current text is deliberately general.
 
