@@ -23,9 +23,9 @@ The learner can:
 
 | # | Module | Persona | Status |
 |---|---|---|---|
-| 1 | The Modern Bridal Buyer's Journey | P4 | Not started |
-| 2 | Booking and Preparing the Appointment | P4 | Not started |
-| 3 | Shape, Setting, Metal: Guiding Without Overwhelming | P4 | Not started |
+| 1 | The Modern Bridal Buyer's Journey | P4 | ✅ Wave 1 |
+| 2 | Booking and Preparing the Appointment | P4 | ✅ Wave 1 |
+| 3 | Shape, Setting, Metal: Guiding Without Overwhelming | P4 | ✅ Wave 1 |
 | 4 | Natural vs. Lab-Grown: The Balanced Conversation | P4 | Not started |
 | 5 | Budget Conversations That Keep the Romance | P4 | Not started |
 | 6 | The Try-On: Presenting the Diamond and Reading the Reaction | P4 | Not started |
@@ -56,7 +56,7 @@ Same six-step SOP as the rest of the catalog: outline → media research (real, 
 
 ## Build wave log
 
-- **Wave 1:** M01 The Modern Bridal Buyer's Journey, M02 Booking and Preparing the Appointment, M03 Shape/Setting/Metal.
+- **Wave 1 (2026-09-12):** M01 The Modern Bridal Buyer's Journey (digital-first loop vs funnel; three journey patterns; reading the journey from the first questions), M02 Booking and Preparing the Appointment (inquiry-to-appointment conversion; five-line discovery; staging the tray/room/team), M03 Shape/Setting/Metal (three-decision sequence; brilliant-vs-step binary; lifestyle-led settings; honest metal trade-offs). Each module under the full six-step SOP; evidence from JCK "Ten Tips" and "JCK 5" (fetched live), Reference Section 2 bridal postings, GIA 4Cs and JA guides. No AI-generated imagery; link-outs only.
 - **Wave 2:** M04 Natural vs. Lab-Grown, M05 Budget Conversations, M06 The Try-On.
 - **Wave 3:** M07 Couple Dynamics, M08 Sizing/Timelines/Custom.
 - **Wave 4:** M09 The Second Sale, M10 Capstone: Running a Full Bridal Appointment.
