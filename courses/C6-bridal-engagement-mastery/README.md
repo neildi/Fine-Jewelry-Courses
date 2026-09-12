@@ -31,8 +31,8 @@ The learner can:
 | 6 | The Try-On: Presenting the Diamond and Reading the Reaction | P4 | ✅ Wave 2 |
 | 7 | Two Buyers, One Ring: Couple Dynamics | P4 | ✅ Wave 3 |
 | 8 | Sizing, Timelines, Custom and Resizing Realities | P4 | ✅ Wave 3 |
-| 9 | The Second Sale: Bands, Upgrades and Referrals | P4 | Not started |
-| 10 | Capstone: Running a Full Bridal Appointment | P4 | Not started |
+| 9 | The Second Sale: Bands, Upgrades and Referrals | P4 | ✅ Wave 4 |
+| 10 | Capstone: Running a Full Bridal Appointment | P4 | ✅ Wave 4 |
 
 ### Note on the module map
 
@@ -59,6 +59,6 @@ Same six-step SOP as the rest of the catalog: outline → media research (real, 
 - **Wave 1 (2026-09-12):** M01 The Modern Bridal Buyer's Journey (digital-first loop vs funnel; three journey patterns; reading the journey from the first questions), M02 Booking and Preparing the Appointment (inquiry-to-appointment conversion; five-line discovery; staging the tray/room/team), M03 Shape/Setting/Metal (three-decision sequence; brilliant-vs-step binary; lifestyle-led settings; honest metal trade-offs). Each module under the full six-step SOP; evidence from JCK "Ten Tips" and "JCK 5" (fetched live), Reference Section 2 bridal postings, GIA 4Cs and JA guides. No AI-generated imagery; link-outs only.
 - **Wave 2 (2026-09-12):** M04 Natural vs. Lab-Grown (neutral framing: same material/different origin, three honest differences, no invented resale stats, FTC disclosure discipline), M05 Budget Conversations (ask early and plainly, trade-off triage with color-against-warm-metal and eye-clean guidance, financing as a service), M06 The Try-On (clean/light/scope before the hand; one-observation-then-silence; reading the partner watching the wearer). Each under the full six-step SOP; evidence from JCK "Ten Tips"/"JCK 5" and Reference Section 2; no AI-generated imagery.
 - **Wave 3 (2026-09-12):** M07 Two Buyers, One Ring (two couple patterns; reconcile-the-priorities; family-in-tow re-centered; honoring a genuine "think about it"), M08 Sizing, Timelines, Custom and Resizing Realities (correct sizing discipline; honest timelines; spec restatement before hand-off; resizing limits said before the sale). Each under the full six-step SOP; evidence from Reference Section 2 bridal postings, JCK "Ten Tips"/"JCK 5"; no AI-generated imagery.
-- **Wave 4:** M09 The Second Sale, M10 Capstone: Running a Full Bridal Appointment.
+- **Wave 4 (2026-09-12):** M09 The Second Sale (band at the try-on with a price-point range; upgrade promise + log; referral timing and script; the follow-up the industry skips), M10 Capstone (nine-stage walkthrough; role-play scoring and the three failures; bridal conversion log fields; JCK/GIA/NDC reference pairing). Both under the full six-step SOP; no AI-generated imagery. All 10 modules complete — C6 is structurally done, pending a human fact-check pass.
 
 *(This log is updated as each wave lands.)*
