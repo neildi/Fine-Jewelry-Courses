@@ -8,7 +8,8 @@ kpi_link: Associates distinguish Kashmir/Burma/Ceylon/Madagascar/Montana/Austral
 terminal_outcome: Explain the iron–titanium charge-transfer mechanism behind blue; know the major blue-sapphire sources and what each looks like; explain why Kashmir is the benchmark and how little of it exists; detect cobalt-glass filling; price and present blue sapphire credibly
 word_count: ~3100
 prerequisite: M02, M05, M06, M08, M09, M11
-status: draft (Wave 5), pending human fact-check
+status: polished (Production Ready for Jewelswell LMS)
+reviewed_date: 2026-09-12
 generated: 2026-09-11
 ---
 

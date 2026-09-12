@@ -8,7 +8,8 @@ kpi_link: Fewer misidentified synthetics/imitations sold as natural; proper synt
 terminal_outcome: Distinguish synthetic vs simulant vs assembled stone; identify major growth methods by visual features; name common simulants and doublet/triplet types; use FTC-compliant terminology; know when to refer
 word_count: ~3500
 prerequisite: M04, M06
-status: draft (Wave 4), pending human fact-check
+status: polished (Production Ready for Jewelswell LMS)
+reviewed_date: 2026-09-12
 generated: 2026-09-11
 ---
 

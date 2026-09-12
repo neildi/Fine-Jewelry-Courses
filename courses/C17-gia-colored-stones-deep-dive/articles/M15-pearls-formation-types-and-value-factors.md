@@ -8,7 +8,8 @@ kpi_link: Associates never call a cultured pearl a "pearl" without the qualifier
 terminal_outcome: Explain how pearls form and how culturing works; differentiate Akoya, South Sea, Tahitian, freshwater, mabé, keshi, natural and conch pearls; apply the GIA 7 Pearl Value Factors with luster first; explain treatments including the Ballerina process; explain how a lab separates natural from cultured; give correct care
 word_count: ~3200
 prerequisite: M04, M05, M09
-status: draft (Wave 6), pending human fact-check
+status: polished (Production Ready for Jewelswell LMS)
+reviewed_date: 2026-09-12
 generated: 2026-09-11
 ---
 

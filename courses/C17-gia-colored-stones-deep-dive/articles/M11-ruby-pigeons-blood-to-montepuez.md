@@ -8,7 +8,8 @@ kpi_link: Associates can name a ruby's likely source and explain what that means
 terminal_outcome: Explain ruby's chromium color mechanism and the marble/basalt fluorescence split; walk the major sources from Mogok to Montepuez to Winza; detect and disclose lead-glass filling; place red spinel in its royal history; match a client's budget to a realistic ruby tier
 word_count: ~4000
 prerequisite: M02, M05, M06, M08, M09
-status: draft (Wave 5), pending human fact-check
+status: polished (Production Ready for Jewelswell LMS)
+reviewed_date: 2026-09-12
 generated: 2026-09-11
 ---
 
