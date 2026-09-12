@@ -22,7 +22,7 @@ The learner can:
 
 | # | Article | Persona | Status |
 |---|---|---|---|
-| 1 | The First 90 Seconds: Openers That Start Conversations | P1 | Draft, Step 2 self-critique complete, Step 5 (huddle card + quiz) complete, pending human fact-check (B6) - 1 item flagged MUST VERIFY |
+| 1 | The First 90 Seconds: Openers That Start Conversations | P1 | Polished with Antigravity (Fact-check verified, Step 2-5 complete, Published to Jewelswell LMS) |
 | 2 | Discovery: The Questions That Reveal the Real Purchase | P1 | Not started |
 | 3 | Presenting a Piece: Feature, Benefit, Emotion, Story | P1 | Not started |
 | 4 | Buying Signals and When to Stop Talking | P1 | Not started |
