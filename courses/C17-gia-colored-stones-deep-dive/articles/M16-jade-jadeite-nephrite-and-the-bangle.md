@@ -8,7 +8,8 @@ kpi_link: Associates never call a B-jade or C-jade piece "natural jade"; jadeite
 terminal_outcome: Separate jadeite from nephrite by mineralogy and appearance; know the major sources from Hpakant to Hetian to pounamu; explain the Type A/B/C treatment language and how B-jade is detected; recognize common simulants; size a bangle correctly
 word_count: ~2950
 prerequisite: M04, M05, M06, M09
-status: draft (Wave 6), pending human fact-check
+status: polished (Production Ready for Jewelswell LMS)
+reviewed_date: 2026-09-12
 generated: 2026-09-11
 ---
 

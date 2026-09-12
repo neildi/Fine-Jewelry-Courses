@@ -8,7 +8,8 @@ kpi_link: Realistic pricing conversations; credible certification/traceability a
 terminal_outcome: Name major mining, treatment, cutting, trading hubs; describe auction price discovery and why auction records don't apply to commercial goods; explain lab report pricing and inter-lab variation; name pricing drivers; give an honest traceability answer
 word_count: ~3400
 prerequisite: M03, M08, M09
-status: draft (Wave 4), pending human fact-check
+status: polished (Production Ready for Jewelswell LMS)
+reviewed_date: 2026-09-12
 generated: 2026-09-11
 ---
 

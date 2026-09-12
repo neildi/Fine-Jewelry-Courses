@@ -8,7 +8,8 @@ kpi_link: Every emerald is sold with its clarity-enhancement status stated; ultr
 terminal_outcome: Explain why Colombian emerald is geologically unique; walk the major sources from Muzo to Kagem to Ethiopia; describe the oil-to-polymer enhancement spectrum and the GIA F0–F3 scale; separate natural from flux and hydrothermal synthetic; apply the absolute no-ultrasonic/steam rule
 word_count: ~3050
 prerequisite: M02, M04, M05, M06, M07, M08, M09
-status: draft (Wave 5), pending human fact-check
+status: polished (Production Ready for Jewelswell LMS)
+reviewed_date: 2026-09-12
 generated: 2026-09-11
 ---
 

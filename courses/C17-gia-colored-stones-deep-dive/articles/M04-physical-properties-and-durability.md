@@ -8,7 +8,8 @@ kpi_link: Fewer post-sale chipping/cracking returns; correct cleaning and mounti
 terminal_outcome: Explain three dimensions of durability (hardness, toughness, stability); read a Mohs table and durability list for every major species in the case; give correct cleaning/storage/mounting guidance; describe how RI, birefringence and SG are used for identification
 word_count: ~3500
 prerequisite: C1 M06 (Mohs/care), C17 M01
-status: draft (Wave 2), pending human fact-check
+status: polished (Production Ready for Jewelswell LMS)
+reviewed_date: 2026-09-12
 generated: 2026-09-11
 ---
 

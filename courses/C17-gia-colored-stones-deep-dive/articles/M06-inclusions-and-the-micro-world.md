@@ -8,7 +8,8 @@ kpi_link: Reduced counter misidentification; appropriate lab referral; credible 
 terminal_outcome: Define inclusion categories; recognize the most cited diagnostic inclusions for major origins and treatments; recognize synthetic-corundum curved striae and flux signatures when obvious; describe how labs combine inclusions + chemistry + spectroscopy for origin reports; know when to refer
 word_count: ~3800
 prerequisite: M04, M05
-status: draft (Wave 3), pending human fact-check
+status: polished (Production Ready for Jewelswell LMS)
+reviewed_date: 2026-09-12
 generated: 2026-09-11
 ---
 

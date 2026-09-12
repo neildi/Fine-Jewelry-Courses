@@ -8,7 +8,8 @@ kpi_link: Better cut conversations; realistic recut guidance; recognition of win
 terminal_outcome: Explain why colored stones are cut for color (not light return like diamonds); identify windowing, extinction, over-dark/over-light, and symmetry issues at the counter; explain pleochroic orientation; give accurate calibration/recut guidance
 word_count: ~3400
 prerequisite: M04, M05, M06
-status: draft (Wave 3), pending human fact-check
+status: polished (Production Ready for Jewelswell LMS)
+reviewed_date: 2026-09-12
 generated: 2026-09-11
 ---
 

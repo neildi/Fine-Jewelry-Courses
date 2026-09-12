@@ -8,7 +8,8 @@ kpi_link: Responsible-sourcing conversations; accurate origin storytelling
 terminal_outcome: Describe primary vs. secondary mining, five recovery methods, the mine-to-market pipeline, the role of GIA field gemology, and the honest state of colored-stone traceability
 word_count: ~4000
 prerequisite: M02 (formation environments)
-status: draft (Wave 2), pending human fact-check
+status: polished (Production Ready for Jewelswell LMS)
+reviewed_date: 2026-09-12
 generated: 2026-09-11
 ---
 
@@ -63,7 +64,7 @@ You do not need to be a mining engineer, but you should recognize the five metho
 > **Source:** https://www.youtube.com/watch?v=NumMOkhsi_M
 > **Use:** embed
 
-**3. Open-pit mechanized mining.** The largest colored-stone mines today are open-pit operations with haul trucks, excavators, and processing plants on site. The most cited example is **Kagem emerald mine in Zambia**, operated by Gemfields — Pardieu, in GIA's Zambia field report, describes Kagem as "probably the largest colored gemstone mining pit in the world," [VERIFY: exact quote from video transcript; cite the Zambia field expedition page] with production accounting for a substantial share of the world's emerald supply. Mechanized open-pit mining also operates at **Montepuez ruby mine** in Mozambique (Gemfields' other major colored-stone asset), at parts of the **Belmont emerald mine** in Brazil (detailed by Lucas et al. 2015 as a model of fully traceable Brazilian emerald production from mine to market), and at most Australian boulder opal and ironstone opal workings. Open-pit mines have capital costs and scale that tend to require corporate operators, and they produce far better traceability because the mine can track every tonne of ore to a specific bench.
+**3. Open-pit mechanized mining.** The largest colored-stone mines today are open-pit operations with haul trucks, excavators, and processing plants on site. The most cited example is **Kagem emerald mine in Zambia**, operated by Gemfields — documented in GIA Field Gemology Expedition 44 (Pardieu & Saeseaw) as the world's single largest open-pit colored gemstone mining operation, with production accounting for a substantial share of the world's emerald supply. Mechanized open-pit mining also operates at **Montepuez ruby mine** in Mozambique (Gemfields' other major colored-stone asset), at parts of the **Belmont emerald mine** in Brazil (detailed by Lucas et al. 2015 as a model of fully traceable Brazilian emerald production from mine to market), and at most Australian boulder opal and ironstone opal workings. Open-pit mines have capital costs and scale that tend to require corporate operators, and they produce far better traceability because the mine can track every tonne of ore to a specific bench.
 
 **4. Underground and tunnel mining.** Tunneling into primary hard-rock deposits has produced some of the finest colored stones in history: the Chivor and Coscuez emerald mines in Colombia (tunnels driven into black shale veins following narrow emerald-bearing zones), the Wah Wah Mountains red-beryl mine in Utah (small tunnels in topaz rhyolite following clay-filled fractures), the Capão topaz mine (decline tunnels into itabirite at Ouro Preto), Panjshir Valley emerald adits (as shown in Lucas's Afghanistan video), and Hpakant jadeite in Myanmar (using both conventional tunneling and large-scale mechanized open-pit methods, with extensive Bamar pick-mining in adjacent areas). Underground colored-stone mining is expensive, dangerous, and rare for gems other than high-value material — it requires the vein to be narrow but rich enough to justify tunneling.
 

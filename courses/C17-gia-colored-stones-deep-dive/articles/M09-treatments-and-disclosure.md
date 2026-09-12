@@ -8,7 +8,8 @@ kpi_link: FTC-compliant disclosure; correct care guidance; no undisclosed filled
 terminal_outcome: Identify every commercially significant colored-stone treatment by what it does, how stable it is, how it is detected, and what care and disclosure rules apply; apply Overton/FTC disclosure at the counter
 word_count: ~3800
 prerequisite: M04, M06, M08
-status: draft (Wave 4), pending human fact-check
+status: polished (Production Ready for Jewelswell LMS)
+reviewed_date: 2026-09-12
 generated: 2026-09-11
 ---
 

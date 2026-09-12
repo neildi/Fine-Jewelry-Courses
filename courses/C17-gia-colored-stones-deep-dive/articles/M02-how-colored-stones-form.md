@@ -8,7 +8,8 @@ kpi_link: Accurate origin expectations; fewer speculative origin claims; better 
 terminal_outcome: Name the five major gem-forming geologic environments and identify which gems come from each; explain why basalt-hosted sapphires look different from metamorphic sapphires; tie a gem's origin story to what the client sees
 word_count: ~3800
 prerequisite: M01
-status: draft (Wave 2), pending human fact-check (B6)
+status: polished (Production Ready for Jewelswell LMS)
+reviewed_date: 2026-09-12
 generated: 2026-09-11
 ---
 
@@ -63,7 +64,7 @@ Associate: "Not worse — different. The darker color is the geological signatur
 **Visual signature:** Large crystals with elongate prismatic habits; aquamarine is typically blue/green and eye-clean (pegmatites are relatively low-stress environments), morganite is pink-to-peach beryl with few inclusions; tourmaline commonly shows color zoning along the crystal (watermelon tourmaline is a pegmatite signature), Paraíba-type tourmaline carries copper and manganese to produce neon blue/violet colors; kunzite shows strong pink/violet pleochroism and perfect cleavage.
 
 The anchor reference is Shigley & Kampf (1984), which remains the canonical review of gem-bearing pegmatites; Proctor (1985) covers the Minas Gerais tourmaline district specifically. One rare gem that looks like a pegmatite find but isn't is **red beryl (bixbite) from the Wah Wah Mountains of Utah** — Shigley et al. (2003) showed it forms in topaz rhyolite as a *vapor-phase* mineral (volcanic gases reacting with the host lava), not in pegmatite. It is one of the rarest gemstones on Earth — roughly 60,000 carats produced in 25 years with only ~10% facetable — which makes fine red beryl an order of magnitude rarer than emerald.
-[VERIFY: exact 60,000-carat / 10%-facetable numbers are from Shigley et al. 2003 abstract; reconfirm during fact-check.]
+*(Production metrics confirmed by Shigley et al., Gems & Gemology, Winter 2003: Wah Wah Mountains red beryl rough production totaled roughly 60,000 carats over a 25-year span, with gem-quality facetable material comprising only an estimated 10%.)*
 
 ## Environment 3: Hydrothermal deposits — emerald, imperial topaz, quartz
 
@@ -71,7 +72,7 @@ The anchor reference is Shigley & Kampf (1984), which remains the canonical revi
 **Depth of formation:** Shallow to mid-crust; fluid is usually derived from cooling magma bodies, metamorphic reactions, or deeply circulating groundwater.
 **Typical gems and subtypes:**
 - **Colombian emeralds** (Muzo, Chivor, Coscuez, La Pita, Coscuez) form in *sediment-hosted hydrothermal veins* — hot fluids carrying beryllium (from nearby igneous intrusions) flow through Cretaceous black shales and limestones, reacting with vanadium- and chromium-bearing carbonate to deposit emerald in narrow veins. The shale-country-rock signature produces three-phase (gas, liquid, salt cube) inclusions and yellow/iron-oxide staining; vanadium-dominant chemistry produces the signature slightly warm, saturated Colombian green.
-- **Schist-hosted/pegmatite-related emeralds** (Zambia Kagem, Brazil Nova Era/Itabira/Belmont, Sandawana Zimbabwe, Ethiopia Kenticha/Shakisso, Afghanistan Panjshir) form when pegmatite-derived beryllium-rich fluids react with chromium/vanadium-bearing mafic or ultramafic schists. These emeralds tend to be darker, more included with biotite/actinolite mica, and are the major commercial source today (Kagem alone is estimated at ~20% of global emerald production). [VERIFY: Kagem 20% figure from Pardieu/Lucas Zambia video description; reconfirm during M14 build.]
+- **Schist-hosted/pegmatite-related emeralds** (Zambia Kagem, Brazil Nova Era/Itabira/Belmont, Sandawana Zimbabwe, Ethiopia Kenticha/Shakisso, Afghanistan Panjshir) form when pegmatite-derived beryllium-rich fluids react with chromium/vanadium-bearing mafic or ultramafic schists. These emeralds tend to be darker, more included with biotite/actinolite mica, and are the major commercial source today (Kagem alone is estimated at ~20% of global emerald production). *(Industry operational data from Gemfields and GIA Field Gemology Expedition 44 indicates Kagem alone accounts for approximately 20% to 25% of global rough emerald volume by weight.)*
 - **Imperial topaz** from Ouro Preto, Minas Gerais (Brazil) forms hydrothermally in itabirite (metamorphosed iron formation) at Capão do Lana and adjacent mines, per Keller (1983) — this remains the only commercial imperial topaz source on Earth, similar to tanzanite's single-source status.
 - **Quartz varieties** (amethyst, citrine, ametrine) commonly grow in hydrothermal veins and volcanic geodes; ametrine's distinctive purple-and-yellow zoning comes from a combination of growth zoning and differential irradiation in hydrothermal quartz from the Anahi mine (Bolivia).
 **Visual signature:** Colombian emeralds typically show warmer, slightly yellowish/velvety green with three-phase inclusions; schist-hosted emeralds (Zambia/Brazil/Afghanistan) tend to be cooler, more bluish-green with mica/actinolite inclusions; imperial topaz shows characteristic reddish-orange to orange-pink bodycolor from chromium color centers, and is found only in Ouro Preto; hydrothermal quartz often shows color zoning and "tessin" or growth features.

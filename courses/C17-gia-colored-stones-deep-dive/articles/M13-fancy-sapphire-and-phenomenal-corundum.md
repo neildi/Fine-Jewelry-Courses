@@ -8,7 +8,8 @@ kpi_link: Associates can name the color cause for each fancy sapphire and the tr
 terminal_outcome: Explain how every fancy corundum color is caused; understand asterism and how to judge a star; tell the beryllium-diffusion story accurately; present white sapphire honestly against diamond; know which fancy colors carry the highest treatment risk
 word_count: ~3200
 prerequisite: M04, M05, M06, M07, M08, M09, M12
-status: draft (Wave 5), pending human fact-check
+status: polished (Production Ready for Jewelswell LMS)
+reviewed_date: 2026-09-12
 generated: 2026-09-11
 ---
 

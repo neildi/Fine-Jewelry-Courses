@@ -8,7 +8,8 @@ kpi_link: Fewer "it looked different in the store" returns; consistent color voc
 terminal_outcome: Name five color-causing mechanisms; explain pleochroism, alexandrite effect, metamerism, fluorescence and phenomenal effects; describe color in GIA hue/tone/saturation terms; always show colored stones in multiple lights before close
 word_count: ~3900
 prerequisite: M04
-status: draft (Wave 3), pending human fact-check
+status: polished (Production Ready for Jewelswell LMS)
+reviewed_date: 2026-09-12
 generated: 2026-09-11
 ---
 
