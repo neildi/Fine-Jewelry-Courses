@@ -23,7 +23,7 @@ The learner can:
 
 | # | Article | Persona | Status |
 |---|---|---|---|
-| 1 | The Client Profile: What to Capture, What to Leave Out | P1 | Not started |
+| 1 | The Client Profile: What to Capture, What to Leave Out | P1 | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items |
 | 2 | The Clienteling Calendar: Cadences That Feel Personal, Not Automated | P1 | Not started |
 | 3 | Getting the Most from Your CRM: Daily and Weekly Workflows | P1 | Not started |
 | 4 | Segmenting Your Book: Finding and Prioritizing Your VICs | P2 | Not started |
