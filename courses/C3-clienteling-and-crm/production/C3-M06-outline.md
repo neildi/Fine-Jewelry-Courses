@@ -1,50 +1,41 @@
-# C3-M06 Outline: Personalized Outreach Without Sounding Like Spam
+# C3 Module 6 Production Record
 
-## Module Metadata
-- Course: C3 - Clienteling & CRM
-- Module: 6 of 8
-- Working title: Personalized Outreach Without Sounding Like Spam
-- Learning objective: Associates can draft client outreach that is specific, well-timed, channel-appropriate, and compliant, and can self-diagnose why a draft message would feel templated or intrusive.
+## Inputs
+Module 6: Personalized Outreach Without Sounding Like Spam
+Persona: P1 The New Associate (secondary P2, P3)
+KPI: Response rate; opt-out/unsubscribe rate; email and SMS deliverability rate
+Terminal outcome: Write personalized outreach that reads as genuine attention rather than surveillance, while following SMS consent law and avoiding the specific habits that get messages flagged as spam
 
-## Section Map
+## Working title and alternates
+1. Personalized Outreach Without Sounding Like Spam (selected, matches C3 course README module title)
+2. Alternate: "How Do You Know That?"
+3. Alternate: The Ambiguity Fix
 
-1. **Why This Module Matters** — Positions personalized outreach as the highest-leverage clienteling skill; contrasts brand blasts vs. relationship-based outreach.
-2. **The Four-Part Test Before You Hit Send** — Specificity, reason to exist, value before ask, easy exit. Core diagnostic framework used throughout module and quiz.
-3. **Building Blocks of Outreach That Doesn't Feel Templated**
-   - Use the specific detail, not the segment label
-   - Time outreach to the client's calendar, not your sales calendar
-   - Vary the channel to match the relationship, not convenience
-   - Write the way you'd actually talk to the client
-4. **Cadence: How Often Is Too Often** — Tiered cadence by relationship depth (active VIC / warm / cool-lapsed); "would they be glad to hear from you" test.
-5. **Common Mistakes That Make Outreach Feel Like Spam** — Batch-sending, leading with the ask, ignoring stated preferences, over-apologizing, no clear next step.
-6. **A Simple Framework for Drafting Any Outreach Message** — Anchor / Bridge / Offer / Exit four-sentence structure.
-7. **Compliance Basics: Consent Before Cadence** — Text consent, email opt-out, documenting preferences in CRM, ask-once-respect-always.
-8. **Sample Outreach by Scenario** — Six worked examples (restock match, post-purchase check-in, milestone reminder, lapsed re-engagement, referral thank-you, graceful decline handling).
-9. **Practice Exercise** — Draft three real messages for three real clients using the Anchor-Bridge-Offer-Exit framework, self-check against the Four-Part Test.
-10. **Key Takeaways** — Five-point recap.
+## Scenario hook
+A client receives a personalized text and feels unease rather than warmth, illustrating the "creepiness" reaction studied in consumer-psychology research, which this module resolves with a simple attribution fix, plus the legal and deliverability rules that govern the channels this outreach travels through.
 
-## Ties to Prior Modules
-- Builds directly on M04 (segmentation/VIC prioritization) for deciding who gets outreach and how often.
-- Builds directly on M05 (life-event triggers) as the primary source of "reason to exist" content for outreach.
-- Sets up M07/M08 by establishing the consent/preference logging habit the CRM workflow depends on.
+## Facts from evidence and where used
 
-## Production Notes
-- Keep all six sample scripts short (2-3 sentences) — associates should be able to adapt them live on the floor.
-- Avoid naming specific CRM software; keep guidance platform-agnostic per prior module convention.
-- Reinforce "no pressure" language patterns since this is a common associate anxiety point (fear of seeming pushy).
+| Fact | Source | Used in |
+|---|---|---|
+| "Creepiness" as a structured emotional response (ambiguity assessment, then a surveillance judgment); ambiguity/surveillance perceptions explain ~75% of discomfort; personalized ads nearly double feelings of being surveilled | phys.org "Digital targeting creeps out customers," reporting on research by Wayne Hoyer, Alisa Petrova, Lucia Malar, and Harley Krohmer (University of Bern, verified 2026-09-14) | Opening and "the fix" sections |
+| Attribution fix: naming the specific source of a personal detail resolves the "how do you know that" ambiguity | Original synthesis applying the cited research's mechanism to a jewelry clienteling message; not a directly cited jewelry-specific finding | The fix is almost embarrassingly simple section |
+| TCPA prior express written consent (PEWC) requirements for marketing SMS | activeprospect.com "A complete guide to TCPA SMS consent for marketers" (verified 2026-09-14) | SMS has real legal rules section |
+| STOP requests must be honored immediately; opt-out mechanism required on every marketing text | activeprospect.com; leadcompliant.com "TCPA regulations for text messages" (verified 2026-09-14) | SMS has real legal rules section |
+| Distinction between personal one-to-one relationship texts and automated marketing-platform campaign texts | Synthesized from general TCPA guidance describing ATDS scope (verified 2026-09-14); presented as a practical distinction, not a specific legal opinion | SMS has real legal rules section |
+| Recommended SMS frequency (~1-4/month) and quiet hours (no sends before 8am or after 9pm local time) | endearhq.com "The Complete 2026 SMS Marketing Guide for Retailers"; textedly.com TCPA compliance checklist (verified 2026-09-14) | Timing and frequency section |
+| Email spam-trigger word categories: urgency, financial promises, inflated claims | getvero.com "100 Spam Words to Avoid to Stay Out of Email Spam Folders" (verified 2026-09-14) | Email has its own tells section |
 
-## Estimated Time to Complete
-- Reading: 10-12 minutes
-- Practice exercise: 15-20 minutes
-- Quiz: 5 minutes
-- Total: ~30-35 minutes
+## Gaps (not in evidence, not asserted)
+- This module does not constitute legal advice; TCPA and SMS compliance requirements are complex and should be confirmed with the store's own legal/compliance resources before implementation.
+- The "personal text vs. automated campaign" distinction is a practical, commonsense framing, not a specific citation to case law or a regulatory ruling.
 
-## Assessment Alignment
-- Quiz items should test: identifying which of the Four-Part Test filters a sample message fails, correctly matching channel to scenario, distinguishing a compliant vs. non-compliant text scenario, and recognizing Anchor-Bridge-Offer-Exit structure in a worked example.
-- Huddle card should focus on the Four-Part Test as the single most portable takeaway for a 5-minute pre-shift discussion.
-- Factcheck should verify: TCPA/consent claims are stated generally and correctly (no specific legal thresholds asserted that would need jurisdiction-specific verification), cadence guidance is presented as a general best-practice range rather than an absolute rule, and no specific software/CRM product names are referenced.
+## C5 verification log
 
-## Facilitator Discussion Prompts
-- Ask associates to share a time outreach from a brand felt "spammy" to them personally, then identify which of the Four-Part Test filters it failed.
-- Have associates pull up their own last three outreach messages (if available) and self-score them against the Four-Part Test.
-- Discuss: what's the hardest filter to satisfy in a busy retail day — specificity, or easy exit? Why?
+| Section | Type | Source | Verified |
+|---|---|---|---|
+| Go deeper | link-out | phys.org "Digital targeting creeps out customers" | 2026-09-14 |
+| Go deeper | link-out | activeprospect.com "A complete guide to TCPA SMS consent for marketers" | 2026-09-14 |
+| Go deeper | link-out | getvero.com "100 Spam Words to Avoid to Stay Out of Email Spam Folders" | 2026-09-14 |
+
+No MEDIA REQUEST placeholders. All three media items are Tier 5 (research-reporting outlet / legal-compliance guidance / email-marketing guide) link-outs per the Prompt Kit's Part C source tiers, appropriate for clienteling-communication content that GIA/AGS do not cover.
