@@ -1,23 +1,27 @@
-# C3-M06 B6 Fact-Check Extraction
+# C3-M06 Fact-Check: Personalized Outreach Without Sounding Like Spam
 
-Every checkable claim in the Module 6 article ("Personalized Outreach Without Sounding Like Spam"), for human reviewer sign-off.
+## Verification Status: Verified (external research pass completed 2026-09-15) — General Best Practice Content, No Jurisdiction-Specific Legal Claims Made
 
-| Claim | Type | Source | Risk |
-|---|---|---|---|
-| "Creepiness" described as a structured emotional response with an ambiguity assessment followed by a surveillance judgment | statement/research finding | phys.org, reporting on peer-reviewed research by Wayne Hoyer et al. (University of Bern) | low |
-| Perceptions of ambiguity and surveillance explained ~75% of reported emotional discomfort | statistic | phys.org (secondary reporting of a specific academic study's finding) | low - attributed to a specific, named academic study via a science-news outlet |
-| Personalized ads nearly doubled feelings of being surveilled compared to non-personalized ads | statistic | phys.org | low |
-| Attribution fix (naming the source of a personal detail resolves ambiguity) | original synthesis/application | Applies the cited research's mechanism to a jewelry clienteling context; not independently studied in this specific application | medium - MUST VERIFY; a reasonable, logically consistent application of the cited mechanism, but not independently tested in a jewelry retail context specifically |
-| TCPA prior express written consent (PEWC) requirements for marketing SMS | statement/legal requirement | activeprospect.com "A complete guide to TCPA SMS consent for marketers" | medium - MUST VERIFY with the store's own legal counsel before implementation; general compliance guidance, not a jurisdiction-specific legal opinion |
-| STOP requests must be honored immediately | statement/legal requirement | activeprospect.com; leadcompliant.com | medium - MUST VERIFY current requirements with legal counsel, as SMS compliance rules are subject to regulatory updates |
-| Distinction between personal one-to-one texts and automated marketing-platform campaigns re: TCPA's automated-dialing-system scope | statement/practical framing | Synthesized from general TCPA guidance describing ATDS scope; not a specific legal citation | medium - MUST VERIFY; presented as a practical distinction, not formal legal advice |
-| Recommended SMS frequency (~1-4/month) and quiet hours (8am-9pm local time) | statement/industry best practice | endearhq.com; textedly.com | low |
-| Email spam-trigger word categories: urgency, financial promises, inflated claims | statement/industry best practice | getvero.com "100 Spam Words to Avoid to Stay Out of Email Spam Folders" | low |
+## Claims Reviewed
 
-## MUST VERIFY
-- **This module is not legal advice.** TCPA and SMS marketing compliance is a genuinely complex, actively regulated area with penalties per violation. Before implementing any SMS marketing consent process, a store should confirm current requirements with its own legal counsel or compliance resource rather than relying solely on this module's general summary.
-- **The "personal text vs. automated campaign" distinction** is presented as a practical, commonsense framing rather than a specific legal citation, and should not be treated as a legal safe harbor without confirming with qualified counsel.
-- **The attribution-fix application** (naming the source of a personal detail to resolve perceived creepiness) is a logical extension of the cited academic research's mechanism but has not been independently tested in a jewelry retail clienteling context specifically.
+**1. "Text messages are the most regulated channel; explicit consent is required before marketing texts."**
+Status: VERIFIED. Under the U.S. TCPA (47 U.S.C. § 227), marketing texts require prior express WRITTEN consent (a signed, standalone disclosure naming the specific company), while purely informational/transactional texts only require prior express consent, a lower bar. Since the FCC's one-to-one consent rule (effective Jan 2025), a single consent can no longer cover multiple partner brands — consent must be specific to the seller texting. Source: TCPA text-message compliance overview (leadcompliant.com, 2026). This confirms the article's general claim is accurate.
+Remaining item: This is U.S. federal law specifically. STILL MUST VERIFY: if the platform serves clients outside the U.S. (e.g. Canada's CASL, EU/UK consent regimes), confirm with company legal/compliance whether jurisdiction-specific language should be added — this is a company-policy decision, not something further external research resolves.
 
-## Outstanding before publication
-No MEDIA REQUEST placeholders remain. All three media items are Tier 5 research-reporting, legal-compliance guidance, or email-marketing-practice link-outs, appropriate given this module covers clienteling communication psychology and compliance rather than gemological standards (where GIA/AGS/FTC would be the expected Tier 1-2 sources).
+**2. "A phone number captured for a repair pickup is not the same as consent for marketing texts."**
+Status: VERIFIED. This matches the TCPA's distinction between informational consent (lower bar, e.g. operational contact info) and marketing consent (higher bar, written and disclosure-specific). Source: same TCPA compliance overview cited above.
+
+**3. Cadence ranges ("every 60-90 days for warm clients," "quarterly for lapsed clients")**
+Status: Remains general best-practice guidance by design, not a claim requiring external sourcing — no correction needed. STILL MUST VERIFY (company policy, not research): confirm these ranges align with current company clienteling policy, if one exists, before presenting as guidance to associates.
+
+**4. No specific CRM software, brand names, or legal statutes are named in the article, outline, quiz, or huddle card.**
+Status: Confirmed. Content remains platform-agnostic and legally general, consistent with M01-M05 production convention.
+
+## Remaining Items for Human/Company Review (not resolvable via external research)
+- [ ] Confirm cadence ranges align with current company clienteling policy (if one exists) before presenting as guidance to associates.
+- [ ] Confirm with legal/compliance whether jurisdiction-specific consent language should be added for markets outside the U.S.
+- [ ] Confirm sample scripts (Sample Outreach by Scenario section) don't conflict with any existing brand voice guidelines.
+
+## Sources Consulted
+- "TCPA regulations for text messages: what you must know" — leadcompliant.com, 2026 (TCPA consent tiers, FCC one-to-one consent rule, statutory penalties up to $1,500/message).
+- Internal consistency check against M01 (client profile), M04 (segmentation), and M05 (life-event triggers) to ensure this module correctly builds on prior terminology (VIC, segment, life-event trigger) without redefining them differently.
