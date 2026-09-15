@@ -25,7 +25,7 @@ The learner can:
 | # | Article | Persona | Status |
 |---|---|---|---|
 | 1 | Opening and Closing: The Two-Person Rule and Alarm Response | P1 | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items |
-| 2 | Safes, Vaults, and Nightly Put-Away Discipline | P1 | Not started |
+| 2 | Safes, Vaults, and Nightly Put-Away Discipline | P1 | Complete - draft, pending human fact-check (B6); 3 MUST VERIFY items |
 | 3 | Showcase and Selling-Floor Security | P1 | Not started |
 | 4 | Recognizing Distraction Theft and Robbery Patterns | P1 | Not started |
 | 5 | Card, Check, and Remote-Order Fraud Prevention | P2 | Not started |
