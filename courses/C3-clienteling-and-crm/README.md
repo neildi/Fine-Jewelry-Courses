@@ -30,10 +30,12 @@ The learner can:
 | 5 | Life-Event Triggers: Birthdays, Anniversaries and Milestones | P1 | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items |
 | 6 | Personalized Outreach Without Sounding Like Spam | P1 | Complete - draft, pending human fact-check (B6); 3 MUST VERIFY items |
 | 7 | Winning Back a Lapsed Client | P2 | Complete - draft, pending human fact-check (B6); 3 MUST VERIFY items |
-| 8 | Building a Referral Engine Through Clienteling | P2 | Not started |
+| 8 | Building a Referral Engine Through Clienteling (capstone) | P2 | Complete - draft, pending human fact-check (B6); 3 MUST VERIFY items |
+
+All 8 modules drafted. Course pending human fact-check pass (B6) across all modules before publication.
 
 This course continues directly from C2 Module 2's discovery-note framework and C2 Module 6's follow-up ladder, and is referenced from C2 Module 1 as the home for "clienteling and repeat-business skills."
 
 ## Production artifacts
 
-Each article will carry a matching outline/media record, fact-check table, huddle card, and quiz in `production/`, per the project's six-step SOP.
+Each article carries a matching outline/media record, fact-check table, huddle card, and quiz in `production/`, per the project's six-step SOP.
