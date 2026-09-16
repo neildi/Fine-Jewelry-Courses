@@ -28,7 +28,7 @@ The learner can:
 | 2 | Safes, Vaults, and Nightly Put-Away Discipline | P1 | Complete - draft, pending human fact-check (B6); 3 MUST VERIFY items |
 | 3 | Showcase and Selling-Floor Security | P1 | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items |
 | 4 | Recognizing Distraction Theft and Robbery Patterns | P1 | Complete - draft, pending human fact-check (B6); 3 MUST VERIFY items |
-| 5 | Card, Check, and Remote-Order Fraud Prevention | P2 | Not started |
+| 5 | Card, Check, and Remote-Order Fraud Prevention | P2 | Complete - draft, pending human fact-check (B6); 3 MUST VERIFY items |
 | 6 | Large Cash Transactions and Form 8300 Compliance | P2 | Not started |
 | 7 | Perpetual Inventory, Cycle Counts, and Shrink Control | P2 | Not started |
 | 8 | Internal Controls and Building a Security Culture (capstone) | P2 | Not started |
