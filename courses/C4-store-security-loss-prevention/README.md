@@ -3,7 +3,7 @@
 **Track:** Foundations
 **Personas:** P1, P2, P3
 **8 articles, 6-8 learner hours**
-**Research anchor:** Fine-Jewelry-Retail-Workflows-and-Operating-Systems.md (opening/closing procedures, alarm response, showcase selling protocols, high-value transaction fraud controls, Form 8300, perpetual inventory and cycle counts, internal-theft controls); Fine-Jewelry-Retail-Job-Descriptions-KPIs-Qualifications-Compensation.md (loss-prevention KPIs and job-spec language by tier)
+**Research anchor:** Fine-Jewelry-Retail-Workflows-and-Operating-Systems.md (opening/closing procedures, alarm response, showcase selling protocols, high-value transaction fraud controls, Form 8300, perpetual inventory and cycle counts, internal-theft controls); Fine-Jewelry-Retail-Job-Descriptions-KPIs-Qualifications-Compensation.md (loss-prevention KPIs and job-spec language by tier); Free-Learning-Resources-Fine-Jewelry-Retail-Sales-Leadership.md (supplementary security-training resources)
 
 ## Terminal outcomes
 
@@ -27,7 +27,7 @@ The learner can:
 | 1 | Opening and Closing: The Two-Person Rule and Alarm Response | P1 | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items |
 | 2 | Safes, Vaults, and Nightly Put-Away Discipline | P1 | Complete - draft, pending human fact-check (B6); 3 MUST VERIFY items |
 | 3 | Showcase and Selling-Floor Security | P1 | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items |
-| 4 | Recognizing Distraction Theft and Robbery Patterns | P1 | Not started |
+| 4 | Recognizing Distraction Theft and Robbery Patterns | P1 | Complete - draft, pending human fact-check (B6); 3 MUST VERIFY items |
 | 5 | Card, Check, and Remote-Order Fraud Prevention | P2 | Not started |
 | 6 | Large Cash Transactions and Form 8300 Compliance | P2 | Not started |
 | 7 | Perpetual Inventory, Cycle Counts, and Shrink Control | P2 | Not started |
