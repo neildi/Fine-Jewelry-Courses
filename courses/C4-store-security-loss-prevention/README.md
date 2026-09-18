@@ -31,7 +31,9 @@ The learner can:
 | 5 | Card, Check, and Remote-Order Fraud Prevention | P2 | Complete - draft, pending human fact-check (B6); 3 MUST VERIFY items |
 | 6 | Large Cash Transactions and Form 8300 Compliance | P2 | Complete - draft, pending human fact-check (B6) AND legal/tax counsel review; 3 MUST VERIFY items |
 | 7 | Perpetual Inventory, Cycle Counts, and Shrink Control | P2 | Complete - draft, pending human fact-check (B6); 3 MUST VERIFY items |
-| 8 | Internal Controls and Building a Security Culture (capstone) | P2 | Not started |
+| 8 | Internal Controls and Building a Security Culture (capstone) | P2 | Complete - draft, pending human fact-check (B6); 3 MUST VERIFY items |
+
+All 8 modules drafted. Course pending human fact-check pass (B6) across all modules before publication; Module 6 additionally requires legal/tax counsel review given its US federal tax-law content (Form 8300).
 
 This course continues directly from C1's product-handling foundations and C2/C3's floor-selling and clienteling protocols, and supplies the security/compliance layer referenced across those courses' job-spec language (e.g. "follow all security, loss prevention, and cash-handling procedures with care and precision").
 
