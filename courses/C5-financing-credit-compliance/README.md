@@ -25,7 +25,7 @@ The learner can:
 | 2 | Running a Financing Application at the Point of Sale | P1 | Complete - draft, pending human fact-check (B6); 3 MUST VERIFY items, 1 prominent (deferred-interest mechanic) |
 | 3 | Layaway vs. Financing vs. Buy Now, Pay Later: Choosing the Right Option | P1 | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items |
 | 4 | FTC Disclosure Rules: Treatments, Lab-Grown, and Advertising Claims | P2 | Complete - draft, pending human fact-check (B6) AND legal review; 1 prominent MUST VERIFY item |
-| 5 | AML Basics for Jewelry Retail | P2 | Not started |
+| 5 | AML Basics for Jewelry Retail | P2 | Complete - draft, pending human fact-check (B6) AND legal review; 1 prominent MUST VERIFY item |
 | 6 | Memo, Consignment, and UCC-1: Protecting the Store's Legal Interest (capstone) | P2 | Not started |
 
 This course continues directly from C4's Form 8300 module (large cash compliance) and supplies the credit/financing and broader regulatory-compliance layer referenced in luxury maison job specs (e.g. Cartier's "comply with product handling, inventory control, anti-money laundering procedures").
