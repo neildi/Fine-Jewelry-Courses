@@ -30,7 +30,7 @@ The learner can:
 | 4 | Recognizing Distraction Theft and Robbery Patterns | P1 | Complete - draft, pending human fact-check (B6); 3 MUST VERIFY items |
 | 5 | Card, Check, and Remote-Order Fraud Prevention | P2 | Complete - draft, pending human fact-check (B6); 3 MUST VERIFY items |
 | 6 | Large Cash Transactions and Form 8300 Compliance | P2 | Complete - draft, pending human fact-check (B6) AND legal/tax counsel review; 3 MUST VERIFY items |
-| 7 | Perpetual Inventory, Cycle Counts, and Shrink Control | P2 | Not started |
+| 7 | Perpetual Inventory, Cycle Counts, and Shrink Control | P2 | Complete - draft, pending human fact-check (B6); 3 MUST VERIFY items |
 | 8 | Internal Controls and Building a Security Culture (capstone) | P2 | Not started |
 
 This course continues directly from C1's product-handling foundations and C2/C3's floor-selling and clienteling protocols, and supplies the security/compliance layer referenced across those courses' job-spec language (e.g. "follow all security, loss prevention, and cash-handling procedures with care and precision").
