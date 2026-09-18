@@ -22,7 +22,7 @@ The learner can:
 | # | Article | Persona | Status |
 |---|---|---|---|
 | 1 | Consumer Financing Basics: How Retail Installment Credit Works at the Counter | P1 | Complete - draft, pending human fact-check (B6); 3 MUST VERIFY items |
-| 2 | Running a Financing Application at the Point of Sale | P1 | Not started |
+| 2 | Running a Financing Application at the Point of Sale | P1 | Complete - draft, pending human fact-check (B6); 3 MUST VERIFY items, 1 prominent (deferred-interest mechanic) |
 | 3 | Layaway vs. Financing vs. Buy Now, Pay Later: Choosing the Right Option | P1 | Not started |
 | 4 | FTC Disclosure Rules: Treatments, Lab-Grown, and Advertising Claims | P2 | Not started |
 | 5 | AML Basics for Jewelry Retail | P2 | Not started |
