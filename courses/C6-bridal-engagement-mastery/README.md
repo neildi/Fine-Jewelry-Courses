@@ -10,7 +10,7 @@
 The learner can:
 - Explain 2026 engagement-ring buyer trends (shape, metal, lab-grown share, budget shifts) and use them to guide, not dictate, a client conversation
 - Distinguish diamond shape from cut quality, and explain why GIA and AGS grade cut differently, especially for fancy shapes
-- Advise on natural, lab-grown, and simulant options without steering the client toward a predetermined answer
+- Advise on natural, lab-grown, and simulants options without steering the client toward a predetermined answer
 - Guide metal and setting choices based on durability, lifestyle, and current style direction
 - Correctly size a ring, explain resizing limits by metal and setting type, and handle surprise-proposal sizing constraints
 - Run a custom design/CAD consultation from discovery through production tracking for a bridal client
@@ -28,7 +28,7 @@ The learner can:
 |---|---|---|---|
 | 1 | The Modern Engagement Ring Buyer: Trends, Psychology, and the Path to Purchase | P1 | Complete - draft, pending human fact-check (B6); 3 MUST VERIFY items |
 | 2 | Diamond Shape vs. Cut: Why They're Not the Same Thing | P1 | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items |
-| 3 | GIA vs. AGS: Reading Certificates and Choosing the Right Lab | P2 | Not started |
+| 3 | GIA vs. AGS: Reading Certificates and Choosing the Right Lab | P2 | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items, 1 prominent (GIA lab-grown reporting change) |
 | 4 | Natural, Lab-Grown, and Simulants: Advising Without Bias | P1 | Not started |
 | 5 | Metals and Settings: Durability, Style, and the Yellow Gold Resurgence | P1 | Not started |
 | 6 | Ring Sizing, Fit, and Comfort: Getting It Right the First Time | P1 | Not started |
