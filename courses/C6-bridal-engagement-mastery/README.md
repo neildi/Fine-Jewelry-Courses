@@ -3,7 +3,7 @@
 **Track:** Specialist
 **Personas:** P1, P2, P3
 **14 articles, 10-14 learner hours**
-**Research anchor:** Fine-Jewelry-Retail-Job-Descriptions-KPIs-Qualifications-Compensation.md and Free-Learning-Resources-Fine-Jewelry-Retail-Sales-Leadership.md (bridal job specs, GIA/NDC bridal training resources); 2026 engagement-ring trend data (The Diamond Price, Diavlia, BriteCo Jewelry Price Index); GIA/AGS grading methodology comparisons (Whiteflash, CaratWire, Rings of UK); GIA primary research on lab-grown production methods; metal/setting durability research (Up-Stat, A Star Diamonds, and others); ring sizing and resizing-limit research (David Yurman, Glamira, CaratYes, LILY DIA, Blue Nile, and others); custom design/CAD workflow research (Jae's Jewelers, Gurudiam, Tillander, BR Diamonds, and others); proposal logistics research (Brilliant Earth, JewelTrendPro, layaway retailer policies, proposal-planning services); Mayo Clinic/DermNet nickel-allergy medical sources; cruise/hotel retail channel research (National Jeweler, JCK, Cruise Critic, The Points Guy)
+**Research anchor:** Fine-Jewelry-Retail-Job-Descriptions-KPIs-Qualifications-Compensation.md and Free-Learning-Resources-Fine-Jewelry-Retail-Sales-Leadership.md (bridal job specs, GIA/NDC bridal training resources); 2026 engagement-ring trend data (The Diamond Price, Diavlia, BriteCo Jewelry Price Index); GIA/AGS grading methodology comparisons (Whiteflash, CaratWire, Rings of UK); GIA primary research on lab-grown production methods; metal/setting durability research (Up-Stat, A Star Diamonds, and others); ring sizing and resizing-limit research (David Yurman, Glamira, CaratYes, LILY DIA, Blue Nile, and others); custom design/CAD workflow research (Jae's Jewelers, Gurudiam, Tillander, BR Diamonds, and others); proposal logistics research (Brilliant Earth, JewelTrendPro, layaway retailer policies, proposal-planning services); wedding band pairing/stacking/timing research (Queensmith, Stienhardt, JewelTrendPro, Borsheims, and others); Mayo Clinic/DermNet nickel-allergy medical sources; cruise/hotel retail channel research (National Jeweler, JCK, Cruise Critic, The Points Guy)
 
 ## Terminal outcomes
 
@@ -34,7 +34,7 @@ The learner can:
 | 6 | Ring Sizing, Fit, and Comfort: Getting It Right the First Time | P1 | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items |
 | 7 | The Custom Design and CAD Workflow for Bridal | P2 | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items |
 | 8 | The Proposal Logistics Conversation: Secrecy, Timing, and Same-Day Pickup | P2 | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items |
-| 9 | Wedding Bands and Stacking: Pairing, Matching Metals, and the Second Sale | P1 | Not started |
+| 9 | Wedding Bands and Stacking: Pairing, Matching Metals, and the Second Sale | P1 | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items |
 | 10 | Appraisal, Insurance, and Aftercare: Protecting the Purchase for a Lifetime | P2 | Not started |
 | 11 | Selling Bridal Across Demographics and Life Stages | P2 | Not started |
 | 12 | Ethical Standards in High-Ticket Bridal Selling | P2 | Not started |
