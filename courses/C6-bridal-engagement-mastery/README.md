@@ -3,7 +3,7 @@
 **Track:** Specialist
 **Personas:** P1, P2, P3
 **14 articles, 10-14 learner hours**
-**Research anchor:** Fine-Jewelry-Retail-Job-Descriptions-KPIs-Qualifications-Compensation.md and Free-Learning-Resources-Fine-Jewelry-Retail-Sales-Leadership.md (bridal job specs, GIA/NDC bridal training resources); 2026 engagement-ring trend data (The Diamond Price, Diavlia, BriteCo Jewelry Price Index); GIA/AGS grading methodology comparisons (Whiteflash, CaratWire, Rings of UK); GIA primary research on lab-grown production methods; cruise/hotel retail channel research (National Jeweler, JCK, Cruise Critic, The Points Guy)
+**Research anchor:** Fine-Jewelry-Retail-Job-Descriptions-KPIs-Qualifications-Compensation.md and Free-Learning-Resources-Fine-Jewelry-Retail-Sales-Leadership.md (bridal job specs, GIA/NDC bridal training resources); 2026 engagement-ring trend data (The Diamond Price, Diavlia, BriteCo Jewelry Price Index); GIA/AGS grading methodology comparisons (Whiteflash, CaratWire, Rings of UK); GIA primary research on lab-grown production methods; metal/setting durability research (Up-Stat, A Star Diamonds, and others); Mayo Clinic/DermNet nickel-allergy medical sources; cruise/hotel retail channel research (National Jeweler, JCK, Cruise Critic, The Points Guy)
 
 ## Terminal outcomes
 
@@ -28,9 +28,9 @@ The learner can:
 |---|---|---|---|
 | 1 | The Modern Engagement Ring Buyer: Trends, Psychology, and the Path to Purchase | P1 | Complete - draft, pending human fact-check (B6); 3 MUST VERIFY items |
 | 2 | Diamond Shape vs. Cut: Why They're Not the Same Thing | P1 | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items |
-| 3 | GIA vs. AGS: Reading Certificates and Choosing the Right Lab | P2 | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items, 1 prominent (GIA lab-grown reporting change) |
+| 3 | GIA vs. AGS: Reading Certificates and Choosing the Right Lab | P2 | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items, 1 prominent |
 | 4 | Natural, Lab-Grown, and Simulants: Advising Without Bias | P1 | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items |
-| 5 | Metals and Settings: Durability, Style, and the Yellow Gold Resurgence | P1 | Not started |
+| 5 | Metals and Settings: Durability, Style, and the Yellow Gold Resurgence | P1 | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items |
 | 6 | Ring Sizing, Fit, and Comfort: Getting It Right the First Time | P1 | Not started |
 | 7 | The Custom Design and CAD Workflow for Bridal | P2 | Not started |
 | 8 | The Proposal Logistics Conversation: Secrecy, Timing, and Same-Day Pickup | P2 | Not started |
