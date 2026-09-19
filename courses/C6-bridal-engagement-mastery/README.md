@@ -3,7 +3,7 @@
 **Track:** Specialist
 **Personas:** P1, P2, P3
 **14 articles, 10-14 learner hours**
-**Research anchor:** Fine-Jewelry-Retail-Job-Descriptions-KPIs-Qualifications-Compensation.md and Free-Learning-Resources-Fine-Jewelry-Retail-Sales-Leadership.md (bridal job specs, GIA/NDC bridal training resources); 2026 engagement-ring trend data (The Diamond Price, Diavlia, BriteCo Jewelry Price Index); GIA/AGS grading methodology comparisons (Whiteflash, CaratWire, Rings of UK); GIA primary research on lab-grown production methods; metal/setting durability research (Up-Stat, A Star Diamonds, and others); ring sizing and resizing-limit research (David Yurman, Glamira, CaratYes, LILY DIA, Blue Nile, and others); custom design/CAD workflow research (Jae's Jewelers, Gurudiam, Tillander, BR Diamonds, and others); proposal logistics research (Brilliant Earth, JewelTrendPro, layaway retailer policies, proposal-planning services); wedding band pairing/stacking/timing research (Queensmith, Stienhardt, JewelTrendPro, Borsheims, and others); appraisal/insurance/aftercare research (Jewelers Mutual, Jewelers.org, CaratYes, CNBC, Joalys, and others); demographic/life-stage research (Rapaport/De Beers, PriceScope/BriteCo, Greenwich St. Jewelers, Estate Diamond Jewelry, GIA 4Cs); ethical standards research (FTC Jewelry Guides primary sources, CFPB deferred-interest research, National Consumer Law Center); cruise/port retail channel research (GIA, Jewelers Mutual, The Points Guy, American Gem Society, Reddit r/Cruise); Mayo Clinic/DermNet nickel-allergy medical sources; JCK, Cruise Critic
+**Research anchor:** Fine-Jewelry-Retail-Job-Descriptions-KPIs-Qualifications-Compensation.md and Free-Learning-Resources-Fine-Jewelry-Retail-Sales-Leadership.md (bridal job specs, GIA/NDC bridal training resources); 2026 engagement-ring trend data (The Diamond Price, Diavlia, BriteCo Jewelry Price Index); GIA/AGS grading methodology comparisons (Whiteflash, CaratWire, Rings of UK); GIA primary research on lab-grown production methods; metal/setting durability research (Up-Stat, A Star Diamonds, and others); ring sizing and resizing-limit research (David Yurman, Glamira, CaratYes, LILY DIA, Blue Nile, and others); custom design/CAD workflow research (Jae's Jewelers, Gurudiam, Tillander, BR Diamonds, and others); proposal logistics research (Brilliant Earth, JewelTrendPro, layaway retailer policies, proposal-planning services); wedding band pairing/stacking/timing research (Queensmith, Stienhardt, JewelTrendPro, Borsheims, and others); appraisal/insurance/aftercare research (Jewelers Mutual, Jewelers.org, CaratYes, CNBC, Joalys, and others); demographic/life-stage research (Rapaport/De Beers, PriceScope/BriteCo, Greenwich St. Jewelers, Estate Diamond Jewelry, GIA 4Cs); ethical standards research (FTC Jewelry Guides primary sources, CFPB deferred-interest research, National Consumer Law Center); cruise/port retail channel research (GIA, Jewelers Mutual, The Points Guy, American Gem Society, Reddit r/Cruise); luxury hotel/private appointment research (Interweave, JCK, Nathan Jewellers, AC Private, ABP Insurance); Mayo Clinic/DermNet nickel-allergy medical sources
 
 ## Terminal outcomes
 
@@ -22,7 +22,7 @@ The learner can:
 **Assessment:** Observed bridal consultation roleplay across two client scenarios (first-time buyer, repeat/upgrade client); a manager-scored review of a simulated proposal-logistics conversation; a channel-adaptation scenario quiz (cruise vs. hotel vs. freestanding store).
 **KPI link:** closing ratio, average bridal sale, custom design pipeline volume, wedding-band attach rate (second sale), appraisal/protection-plan attach rate, client satisfaction/NPS on bridal purchases.
 
-## Module status
+## Module status — COURSE COMPLETE (14/14)
 
 | # | Article | Persona | Status |
 |---|---|---|---|
@@ -39,9 +39,11 @@ The learner can:
 | 11 | Selling Bridal Across Demographics and Life Stages | P2 | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items (self-purchase % currency, excluded unverifiable LGBTQ+ stats noted) |
 | 12 | Ethical Standards in High-Ticket Bridal Selling | P2 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (2024 CFPB "1-in-5" figure needs primary-source confirmation) |
 | 13 | Selling Bridal in Cruise and Port Retail Environments | P2 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (Grandsailor-sourced commission $/% figures) |
-| 14 | Selling Bridal in Luxury Hotel and Private Appointment Settings (capstone) | P3 | Not started |
+| 14 | Selling Bridal in Luxury Hotel and Private Appointment Settings (capstone) | P3 | Complete - draft, pending human fact-check (B6); discretion-protocol cross-industry sourcing noted |
 
-This course continues directly from C2's sales-conversation foundations and C3's clienteling cadences, applies C4's custom-design workflow and appraisal documentation specifically to bridal, and extends C5's financing and disclosure modules into the highest-ticket, most emotionally significant category most jewelry associates will sell.
+All 14 modules are drafted and ready for the human fact-check (step B6 of the six-step SOP) before publication. Each module's factcheck.md file documents sourcing confidence levels, cross-corroboration status, and specific items requiring human verification.
+
+This course continues directly from C2's sales-conversation foundations and C3's clienteling cadences, applies C4's custom-design workflow and appraisal documentation specifically to bridal, and extends C5's financing and disclosure modules into the highest-ticket, most emotionally significant category most jewelry associates will sell. Module 14 serves as the course capstone, explicitly synthesizing content from Modules 1, 2, 4, 5, 6, 7, 9, 10, and 12 into a single integrated private-appointment consultation scenario.
 
 ## Production artifacts
 
