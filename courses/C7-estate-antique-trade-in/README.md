@@ -3,7 +3,7 @@
 **Track:** Specialist
 **Personas:** P1, P2, P3
 **10 articles, 8-10 learner hours**
-**Research anchor:** Fine-Jewelry-Retail-Job-Descriptions-KPIs-Qualifications-Compensation.md (Estate Jewelry Specialist role profile: evaluation, authentication, formal appraisals, consignment acquisition, GIA GG requirement); Fine-Jewelry-Career-Guide.md (Estate & Antique Jewelry Specialist competency checklist, hallmark/historical alloy knowledge); Free-Learning-Resources-Fine-Jewelry-Retail-Sales-Leadership.md (Estate & Antique Jewelry Knowledge / Appraisal Basics free-resource directory: ASA checklists, AGS grading PDFs, Lang Antiques' Antique Jewelry University, JVC appraisal resources); secondary-market and trade-in program research (Charles Schwartz & Son, Estate Diamond Jewelry, Jewelers Mutual, major chain retailer trade-in program pages)
+**Research anchor:** Fine-Jewelry-Retail-Job-Descriptions-KPIs-Qualifications-Compensation.md (Estate Jewelry Specialist role profile: evaluation, authentication, formal appraisals, consignment acquisition, GIA GG requirement); Fine-Jewelry-Career-Guide.md (Estate & Antique Jewelry Specialist competency checklist, hallmark/historical alloy knowledge); Free-Learning-Resources-Fine-Jewelry-Retail-Sales-Leadership.md (Estate & Antique Jewelry Knowledge / Appraisal Basics free-resource directory: ASA checklists, AGS grading PDFs, Lang Antiques' Antique Jewelry University, JVC appraisal resources); secondary-market and trade-in program research (Charles Schwartz & Son, Estate Diamond Jewelry, Jewelers Mutual, major chain retailer trade-in program pages); period-style, construction, and hallmark identification research (GIA 4Cs, Aladdins Cave Jewellery, Hemswell Antiques, Mozeris Fine Antiques, InstAppraisal, CaratWire)
 
 ## Terminal outcomes
 
@@ -27,7 +27,7 @@ The learner can:
 | # | Article | Persona | Status |
 |---|---|---|---|
 | 1 | The Secondary Market: Why Estate, Antique, and Trade-In Are Distinct Categories | P1 | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items (market-size figures show cross-source variance) |
-| 2 | Reading a Piece: Period Styles, Construction Techniques, and Hallmarks | P1 | Not started |
+| 2 | Reading a Piece: Period Styles, Construction Techniques, and Hallmarks | P1 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items |
 | 3 | Dating and Attribution: Putting the Clues Together | P2 | Not started |
 | 4 | Trade-In Evaluation: Setting a Fair Offer Without Under- or Over-Paying | P2 | Not started |
 | 5 | Appraisals for Estate and Trade-In: Fair Market Value, Retail Replacement, and Liquidation Value | P2 | Not started |
