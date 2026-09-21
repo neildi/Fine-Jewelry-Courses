@@ -3,7 +3,7 @@
 **Track:** Specialist
 **Personas:** P1, P2, P3
 **10 articles, 8-10 learner hours**
-**Research anchor:** Fine-Jewelry-Retail-Job-Descriptions-KPIs-Qualifications-Compensation.md; Fine-Jewelry-Career-Guide.md; Free-Learning-Resources-Fine-Jewelry-Retail-Sales-Leadership.md; secondary-market and trade-in program research; period-style/construction/hallmark identification research; examination/attribution methodology research; trade-in valuation research; estate/trade-in appraisal-type research; authentication and testing-equipment research; consignment and auction pathway research; legal/compliance research (FinCEN primary AML guidance, 31 CFR 1027.210, Florida/California/Wisconsin/Los Angeles secondhand-dealer statutes, LeadsOnline platform documentation)
+**Research anchor:** Fine-Jewelry-Retail-Job-Descriptions-KPIs-Qualifications-Compensation.md; Fine-Jewelry-Career-Guide.md; Free-Learning-Resources-Fine-Jewelry-Retail-Sales-Leadership.md; secondary-market and trade-in program research; period-style/construction/hallmark identification research; examination/attribution methodology research; trade-in valuation research; estate/trade-in appraisal-type research; authentication and testing-equipment research; consignment and auction pathway research; legal/compliance research; trade-in sales conversation research (JCK emotional-client-handling feature, sentimental-jewelry-sale consumer guides, Jewel360 trade-in program management, upselling technique guides)
 
 ## Terminal outcomes
 
@@ -33,8 +33,8 @@ The learner can:
 | 5 | Appraisals for Estate and Trade-In: Fair Market Value, Retail Replacement, and Liquidation Value | P2 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item |
 | 6 | Authentication: Spotting Reproductions, Alterations, and Fakes | P2 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items |
 | 7 | The Consignment and Auction Pathway: When to Sell In-House vs. Refer Out | P2 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items |
-| 8 | Legal and Compliance Considerations: AML, Stolen-Property Checks, and Buy-Sell Documentation | P2 | Complete - draft, pending human fact-check (B6); 3 MUST VERIFY items (store's own jurisdiction-specific requirements, AML threshold applicability, and reporting-platform status all require direct local/legal confirmation) |
-| 9 | The Trade-In Sales Conversation: Turning an Old Piece Into a New Sale | P1 | Not started |
+| 8 | Legal and Compliance Considerations: AML, Stolen-Property Checks, and Buy-Sell Documentation | P2 | Complete - draft, pending human fact-check (B6); 3 MUST VERIFY items |
+| 9 | The Trade-In Sales Conversation: Turning an Old Piece Into a New Sale | P1 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items |
 | 10 | Capstone: Running an Estate and Trade-In Buying Event | P3 | Not started |
 
 This course continues directly from C1's diamond and gemstone fluency foundations (hallmark and metal-alloy knowledge is applied here to dating and authentication) and from C6's appraisal/insurance module (Module 10), extending general appraisal-type knowledge into the estate-specific context of fair market value and liquidation value. It also connects to C4's store security and loss-prevention course, since buying pre-owned jewelry from the public carries distinct compliance and stolen-property risk not present in ordinary retail sales.
