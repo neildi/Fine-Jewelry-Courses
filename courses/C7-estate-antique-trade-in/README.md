@@ -3,7 +3,7 @@
 **Track:** Specialist
 **Personas:** P1, P2, P3
 **10 articles, 8-10 learner hours**
-**Research anchor:** Fine-Jewelry-Retail-Job-Descriptions-KPIs-Qualifications-Compensation.md (Estate Jewelry Specialist role profile: evaluation, authentication, formal appraisals, consignment acquisition, GIA GG requirement); Fine-Jewelry-Career-Guide.md (Estate & Antique Jewelry Specialist competency checklist, hallmark/historical alloy knowledge); Free-Learning-Resources-Fine-Jewelry-Retail-Sales-Leadership.md (Estate & Antique Jewelry Knowledge / Appraisal Basics free-resource directory: ASA checklists, AGS grading PDFs, Lang Antiques' Antique Jewelry University, JVC appraisal resources); secondary-market and trade-in program research; period-style, construction, and hallmark identification research; examination/attribution methodology research; trade-in valuation research (melt-value calculators, diamond wholesale/resale-value analyses); estate/trade-in appraisal-type research (JewelTrendPro, Antwerp Diamond Store, Maverick Jewelry Appraisals, Huntington Gem Lab, JA-World, IRS fair market value standard)
+**Research anchor:** Fine-Jewelry-Retail-Job-Descriptions-KPIs-Qualifications-Compensation.md; Fine-Jewelry-Career-Guide.md; Free-Learning-Resources-Fine-Jewelry-Retail-Sales-Leadership.md; secondary-market and trade-in program research; period-style, construction, and hallmark identification research; examination/attribution methodology research; trade-in valuation research; estate/trade-in appraisal-type research; authentication and testing-equipment research (WiserMachine XRF protocols, thermal/electrical conductivity tester analyses, diamond-vs-moissanite detection studies)
 
 ## Terminal outcomes
 
@@ -30,8 +30,8 @@ The learner can:
 | 2 | Reading a Piece: Period Styles, Construction Techniques, and Hallmarks | P1 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items |
 | 3 | Dating and Attribution: Putting the Clues Together | P2 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item |
 | 4 | Trade-In Evaluation: Setting a Fair Offer Without Under- or Over-Paying | P2 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item |
-| 5 | Appraisals for Estate and Trade-In: Fair Market Value, Retail Replacement, and Liquidation Value | P2 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (2-year IRS appraisal-currency claim is single-source) |
-| 6 | Authentication: Spotting Reproductions, Alterations, and Fakes | P2 | Not started |
+| 5 | Appraisals for Estate and Trade-In: Fair Market Value, Retail Replacement, and Liquidation Value | P2 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item |
+| 6 | Authentication: Spotting Reproductions, Alterations, and Fakes | P2 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items (fraud-pattern section flagged as reasoned synthesis, not independently sourced) |
 | 7 | The Consignment and Auction Pathway: When to Sell In-House vs. Refer Out | P2 | Not started |
 | 8 | Legal and Compliance Considerations: AML, Stolen-Property Checks, and Buy-Sell Documentation | P2 | Not started |
 | 9 | The Trade-In Sales Conversation: Turning an Old Piece Into a New Sale | P1 | Not started |
