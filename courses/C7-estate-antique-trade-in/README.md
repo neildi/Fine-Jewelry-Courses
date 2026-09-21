@@ -3,7 +3,7 @@
 **Track:** Specialist
 **Personas:** P1, P2, P3
 **10 articles, 8-10 learner hours**
-**Research anchor:** Fine-Jewelry-Retail-Job-Descriptions-KPIs-Qualifications-Compensation.md (Estate Jewelry Specialist role profile: evaluation, authentication, formal appraisals, consignment acquisition, GIA GG requirement); Fine-Jewelry-Career-Guide.md (Estate & Antique Jewelry Specialist competency checklist, hallmark/historical alloy knowledge); Free-Learning-Resources-Fine-Jewelry-Retail-Sales-Leadership.md (Estate & Antique Jewelry Knowledge / Appraisal Basics free-resource directory: ASA checklists, AGS grading PDFs, Lang Antiques' Antique Jewelry University, JVC appraisal resources); secondary-market and trade-in program research (Charles Schwartz & Son, Estate Diamond Jewelry, Jewelers Mutual, major chain retailer trade-in program pages); period-style, construction, and hallmark identification research (GIA 4Cs, Aladdins Cave Jewellery, Hemswell Antiques, Mozeris Fine Antiques, InstAppraisal, CaratWire); examination/attribution methodology research (10x loupe standard sources, Lang Antiques married-jewelry glossary, Collectaneum provenance-evidence methodology); trade-in valuation research (melt-value calculators, diamond wholesale/resale-value analyses, retail markup benchmarking)
+**Research anchor:** Fine-Jewelry-Retail-Job-Descriptions-KPIs-Qualifications-Compensation.md (Estate Jewelry Specialist role profile: evaluation, authentication, formal appraisals, consignment acquisition, GIA GG requirement); Fine-Jewelry-Career-Guide.md (Estate & Antique Jewelry Specialist competency checklist, hallmark/historical alloy knowledge); Free-Learning-Resources-Fine-Jewelry-Retail-Sales-Leadership.md (Estate & Antique Jewelry Knowledge / Appraisal Basics free-resource directory: ASA checklists, AGS grading PDFs, Lang Antiques' Antique Jewelry University, JVC appraisal resources); secondary-market and trade-in program research; period-style, construction, and hallmark identification research; examination/attribution methodology research; trade-in valuation research (melt-value calculators, diamond wholesale/resale-value analyses); estate/trade-in appraisal-type research (JewelTrendPro, Antwerp Diamond Store, Maverick Jewelry Appraisals, Huntington Gem Lab, JA-World, IRS fair market value standard)
 
 ## Terminal outcomes
 
@@ -26,11 +26,11 @@ The learner can:
 
 | # | Article | Persona | Status |
 |---|---|---|---|
-| 1 | The Secondary Market: Why Estate, Antique, and Trade-In Are Distinct Categories | P1 | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items (market-size figures show cross-source variance) |
+| 1 | The Secondary Market: Why Estate, Antique, and Trade-In Are Distinct Categories | P1 | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items |
 | 2 | Reading a Piece: Period Styles, Construction Techniques, and Hallmarks | P1 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items |
-| 3 | Dating and Attribution: Putting the Clues Together | P2 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (evidence-weighing framework adapted from non-jewelry-specific source, explicitly flagged) |
-| 4 | Trade-In Evaluation: Setting a Fair Offer Without Under- or Over-Paying | P2 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (50%-of-resale rule of thumb sourced from non-authoritative community discussion, explicitly flagged) |
-| 5 | Appraisals for Estate and Trade-In: Fair Market Value, Retail Replacement, and Liquidation Value | P2 | Not started |
+| 3 | Dating and Attribution: Putting the Clues Together | P2 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item |
+| 4 | Trade-In Evaluation: Setting a Fair Offer Without Under- or Over-Paying | P2 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item |
+| 5 | Appraisals for Estate and Trade-In: Fair Market Value, Retail Replacement, and Liquidation Value | P2 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (2-year IRS appraisal-currency claim is single-source) |
 | 6 | Authentication: Spotting Reproductions, Alterations, and Fakes | P2 | Not started |
 | 7 | The Consignment and Auction Pathway: When to Sell In-House vs. Refer Out | P2 | Not started |
 | 8 | Legal and Compliance Considerations: AML, Stolen-Property Checks, and Buy-Sell Documentation | P2 | Not started |
