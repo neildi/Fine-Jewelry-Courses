@@ -3,7 +3,7 @@
 **Track:** Specialist
 **Personas:** P1, P2, P3
 **10 articles, 8-10 learner hours**
-**Research anchor:** Fine-Jewelry-Retail-Job-Descriptions-KPIs-Qualifications-Compensation.md; Fine-Jewelry-Career-Guide.md; Free-Learning-Resources-Fine-Jewelry-Retail-Sales-Leadership.md; secondary-market and trade-in program research; period-style/construction/hallmark identification research; examination/attribution methodology research; trade-in valuation research; estate/trade-in appraisal-type research; authentication and testing-equipment research; consignment and auction pathway research; legal/compliance research; trade-in sales conversation research (JCK emotional-client-handling feature, sentimental-jewelry-sale consumer guides, Jewel360 trade-in program management, upselling technique guides)
+**Research anchor:** Fine-Jewelry-Retail-Job-Descriptions-KPIs-Qualifications-Compensation.md (Estate Jewelry Specialist role profile); Fine-Jewelry-Career-Guide.md (Estate & Antique Jewelry Specialist competency checklist); Free-Learning-Resources-Fine-Jewelry-Retail-Sales-Leadership.md (Estate & Antique Jewelry Knowledge / Appraisal Basics free-resource directory); secondary-market and trade-in program research; period-style, construction, and hallmark identification research (GIA 4Cs, Lang Antiques' Antique Jewelry University, and others); examination/attribution methodology research; trade-in valuation research (melt-value calculators, diamond wholesale/resale-value analyses); estate/trade-in appraisal-type research (FinCEN, IRS fair market value standard, Maverick Jewelry Appraisals, Huntington Gem Lab); authentication and testing-equipment research (WiserMachine XRF protocols, diamond-vs-moissanite detection studies); consignment and auction pathway research (Rapaport, Christie's, Grailhuntr); legal/compliance research (FinCEN primary AML guidance, 31 CFR 1027.210, state secondhand-dealer statutes, LeadsOnline); trade-in sales conversation research (JCK, sentimental-jewelry-sale guides, Jewel360); buying-event research (National Rarities, Mayflower Estate Buyers)
 
 ## Terminal outcomes
 
@@ -22,22 +22,24 @@ The learner can:
 **Assessment:** Observed piece-evaluation roleplay (dating, condition triage, and offer-setting on a sample item); a manager-scored review of a written appraisal-type recommendation for three client scenarios; a capstone buying-event simulation.
 **KPI link:** gross margin on secondary pieces, acquisition volume, consignment conversion rate, inventory turnover on estate/vintage stock, trade-in-to-upgrade conversion rate.
 
-## Module status
+## Module status — COURSE COMPLETE (10/10)
 
 | # | Article | Persona | Status |
 |---|---|---|---|
-| 1 | The Secondary Market: Why Estate, Antique, and Trade-In Are Distinct Categories | P1 | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items |
+| 1 | The Secondary Market: Why Estate, Antique, and Trade-In Are Distinct Categories | P1 | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items (market-size figures show cross-source variance) |
 | 2 | Reading a Piece: Period Styles, Construction Techniques, and Hallmarks | P1 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items |
-| 3 | Dating and Attribution: Putting the Clues Together | P2 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item |
-| 4 | Trade-In Evaluation: Setting a Fair Offer Without Under- or Over-Paying | P2 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item |
-| 5 | Appraisals for Estate and Trade-In: Fair Market Value, Retail Replacement, and Liquidation Value | P2 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item |
+| 3 | Dating and Attribution: Putting the Clues Together | P2 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (evidence-weighing framework adapted from non-jewelry-specific source) |
+| 4 | Trade-In Evaluation: Setting a Fair Offer Without Under- or Over-Paying | P2 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (rule-of-thumb figure from non-authoritative community source) |
+| 5 | Appraisals for Estate and Trade-In: Fair Market Value, Retail Replacement, and Liquidation Value | P2 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (2-year IRS appraisal-currency claim is single-source) |
 | 6 | Authentication: Spotting Reproductions, Alterations, and Fakes | P2 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items |
 | 7 | The Consignment and Auction Pathway: When to Sell In-House vs. Refer Out | P2 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items |
-| 8 | Legal and Compliance Considerations: AML, Stolen-Property Checks, and Buy-Sell Documentation | P2 | Complete - draft, pending human fact-check (B6); 3 MUST VERIFY items |
+| 8 | Legal and Compliance Considerations: AML, Stolen-Property Checks, and Buy-Sell Documentation | P2 | Complete - draft, pending human fact-check (B6); 3 MUST VERIFY items (store's own jurisdiction-specific legal requirements need direct local confirmation) |
 | 9 | The Trade-In Sales Conversation: Turning an Old Piece Into a New Sale | P1 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items |
-| 10 | Capstone: Running an Estate and Trade-In Buying Event | P3 | Not started |
+| 10 | Capstone: Running an Estate and Trade-In Buying Event | P3 | Complete - draft, pending human fact-check (B6); National Rarities-specific figures flagged as self-reported partner marketing claims |
 
-This course continues directly from C1's diamond and gemstone fluency foundations (hallmark and metal-alloy knowledge is applied here to dating and authentication) and from C6's appraisal/insurance module (Module 10), extending general appraisal-type knowledge into the estate-specific context of fair market value and liquidation value. It also connects to C4's store security and loss-prevention course, since buying pre-owned jewelry from the public carries distinct compliance and stolen-property risk not present in ordinary retail sales.
+All 10 modules are drafted and ready for the human fact-check (step B6 of the six-step SOP) before publication. Each module's factcheck.md file documents sourcing confidence levels, cross-corroboration status, and specific items requiring human verification. Module 8's legal/compliance content in particular requires direct local-counsel confirmation before being treated as operational policy, given genuine jurisdictional variance in secondhand-dealer law.
+
+This course continues directly from C1's diamond and gemstone fluency foundations (hallmark and metal-alloy knowledge is applied here to dating and authentication) and from C6's appraisal/insurance module (Module 10), extending general appraisal-type knowledge into the estate-specific context of fair market value and liquidation value. It also connects to C4's store security and loss-prevention course, since buying pre-owned jewelry from the public carries distinct compliance and stolen-property risk not present in ordinary retail sales. Module 10 serves as the course capstone, explicitly synthesizing every prior module into the operational context of planning and running an actual estate/trade-in buying event.
 
 ## Production artifacts
 
