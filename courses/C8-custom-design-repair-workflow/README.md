@@ -3,7 +3,7 @@
 **Track:** Specialist
 **Personas:** P1, P2, P3
 **8 articles, 6-8 learner hours**
-**Research anchor:** Fine-Jewelry-Retail-Job-Descriptions-KPIs-Qualifications-Compensation.md and Fine-Jewelry-Retail-Workflows-and-Operating-Systems.md; jewelry-specific repair/job-tracking software research; bench jeweler role research; intake/inspection/liability-documentation research; lost-wax casting/CAD-to-casting research; common bench-repair timeline research; repair/custom pricing and deposit-policy research (Gem Logic, Agiled, and eleven independent real jewelry-business custom-order policy pages)
+**Research anchor:** Fine-Jewelry-Retail-Job-Descriptions-KPIs-Qualifications-Compensation.md and Fine-Jewelry-Retail-Workflows-and-Operating-Systems.md; jewelry-specific repair/job-tracking software research; bench jeweler role research; intake/inspection/liability-documentation research; lost-wax casting/CAD-to-casting research; common bench-repair timeline research; repair/custom pricing and deposit-policy research; heirloom redesign consultation research (Leyloon, Leon Diamond, Legacy Jewellery, D&H Jewelers, Hingham Jewelers) and antique-stone recutting risk research (Michael Goldstein/DCGIA, Imperial Cushions, Gem Society, JCK)
 
 ## Terminal outcomes
 
@@ -28,8 +28,8 @@ The learner can:
 | 2 | Intake: Documenting Condition, Setting Expectations, and the Job Ticket | P1 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items |
 | 3 | The CAD-to-Casting Workflow: How a Custom Piece Actually Gets Made | P2 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item |
 | 4 | Common Bench Repairs: What They Involve and How Long They Take | P1 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item |
-| 5 | Pricing Repairs and Custom Work: Labor, Materials, and Margin | P2 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items (deposit/revision pattern confirmed across 11 real policy pages; exact store policy requires local confirmation) |
-| 6 | Redesign Consultations: Turning Heirloom Stones Into New Pieces | P2 | Not started |
+| 5 | Pricing Repairs and Custom Work: Labor, Materials, and Margin | P2 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items |
+| 6 | Redesign Consultations: Turning Heirloom Stones Into New Pieces | P2 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items (recutting % figures are credible but approximate, reflecting natural stone-to-stone variation) |
 | 7 | Quality Control and the Client Handoff | P1 | Not started |
 | 8 | Capstone: Managing the Repair and Custom Design Pipeline | P3 | Not started |
 
