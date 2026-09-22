@@ -3,7 +3,7 @@
 **Track:** Specialist
 **Personas:** P1, P2, P3
 **8 articles, 6-8 learner hours**
-**Research anchor:** Fine-Jewelry-Retail-Job-Descriptions-KPIs-Qualifications-Compensation.md and Fine-Jewelry-Retail-Workflows-and-Operating-Systems.md; jewelry-specific repair/job-tracking software research; bench jeweler role research; intake/inspection/liability-documentation research; lost-wax casting/CAD-to-casting research; common bench-repair timeline research; repair/custom pricing and deposit-policy research; heirloom redesign consultation research (Leyloon, Leon Diamond, Legacy Jewellery, D&H Jewelers, Hingham Jewelers) and antique-stone recutting risk research (Michael Goldstein/DCGIA, Imperial Cushions, Gem Society, JCK)
+**Research anchor:** Fine-Jewelry-Retail-Job-Descriptions-KPIs-Qualifications-Compensation.md and Fine-Jewelry-Retail-Workflows-and-Operating-Systems.md; jewelry-specific repair/job-tracking software research; bench jeweler role research; intake/inspection/liability-documentation research; lost-wax casting/CAD-to-casting research; common bench-repair timeline research; repair/custom pricing and deposit-policy research; heirloom redesign consultation research; final QC and warranty research (Global Jewelry Guide, Sourcify, Marblehead Custom Jewelry, Watch Technicians, GemsNY, SureBright)
 
 ## Terminal outcomes
 
@@ -29,8 +29,8 @@ The learner can:
 | 3 | The CAD-to-Casting Workflow: How a Custom Piece Actually Gets Made | P2 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item |
 | 4 | Common Bench Repairs: What They Involve and How Long They Take | P1 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item |
 | 5 | Pricing Repairs and Custom Work: Labor, Materials, and Margin | P2 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items |
-| 6 | Redesign Consultations: Turning Heirloom Stones Into New Pieces | P2 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items (recutting % figures are credible but approximate, reflecting natural stone-to-stone variation) |
-| 7 | Quality Control and the Client Handoff | P1 | Not started |
+| 6 | Redesign Consultations: Turning Heirloom Stones Into New Pieces | P2 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items |
+| 7 | Quality Control and the Client Handoff | P1 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (final-inspection sequence adapted from wholesale/manufacturing QC sources, explicitly flagged) |
 | 8 | Capstone: Managing the Repair and Custom Design Pipeline | P3 | Not started |
 
 This course continues directly from C6 Module 7's bridal-specific custom-design/CAD content, generalizing that workflow beyond bridal into the full range of repair and custom work a store handles. It also connects to C7's construction/attribution content (Modules 2-3) and authentication content (Module 6) for repair and restoration work involving estate or antique pieces, and to C4's store security content for chain-of-custody and high-value item handling.
