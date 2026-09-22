@@ -3,7 +3,7 @@
 **Track:** Specialist
 **Personas:** P1, P2, P3
 **8 articles, 6-8 learner hours**
-**Research anchor:** Fine-Jewelry-Retail-Job-Descriptions-KPIs-Qualifications-Compensation.md and Fine-Jewelry-Retail-Workflows-and-Operating-Systems.md (bench jeweler and custom-design job profiles, repair/custom job-bag workflows, POS/ERP repair tracking); jewelry-specific repair and job-tracking software research; bench jeweler role research; intake, inspection, and liability-documentation research; lost-wax casting and CAD-to-casting process research (Cookson Gold, HMS Manufacturing, Guru Diam, and others)
+**Research anchor:** Fine-Jewelry-Retail-Job-Descriptions-KPIs-Qualifications-Compensation.md and Fine-Jewelry-Retail-Workflows-and-Operating-Systems.md (bench jeweler and custom-design job profiles, repair/custom job-bag workflows, POS/ERP repair tracking); jewelry-specific repair and job-tracking software research; bench jeweler role research; intake, inspection, and liability-documentation research; lost-wax casting and CAD-to-casting process research; common bench-repair timeline research (ring sizing, prong retipping/rebuilding, chain/clasp repair) from Pawn Shop Greensburg PA, Repair Jewelry Solutions, Oahlan Jewelry, My Jewelry Repair, JewelTrendPro, and others
 
 ## Terminal outcomes
 
@@ -26,8 +26,8 @@ The learner can:
 |---|---|---|---|
 | 1 | The Repair and Custom Design Continuum: From Simple Fixes to Full Builds | P1 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items |
 | 2 | Intake: Documenting Condition, Setting Expectations, and the Job Ticket | P1 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items |
-| 3 | The CAD-to-Casting Workflow: How a Custom Piece Actually Gets Made | P2 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (direct-wax-vs-resin burnout percentages are vendor-reported marketing figures) |
-| 4 | Common Bench Repairs: What They Involve and How Long They Take | P1 | Not started |
+| 3 | The CAD-to-Casting Workflow: How a Custom Piece Actually Gets Made | P2 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item |
+| 4 | Common Bench Repairs: What They Involve and How Long They Take | P1 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (chain/clasp minute-level figures from a single source) |
 | 5 | Pricing Repairs and Custom Work: Labor, Materials, and Margin | P2 | Not started |
 | 6 | Redesign Consultations: Turning Heirloom Stones Into New Pieces | P2 | Not started |
 | 7 | Quality Control and the Client Handoff | P1 | Not started |
