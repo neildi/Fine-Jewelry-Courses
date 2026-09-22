@@ -3,7 +3,7 @@
 **Track:** Specialist
 **Personas:** P1, P2, P3
 **8 articles, 6-8 learner hours**
-**Research anchor:** Fine-Jewelry-Retail-Job-Descriptions-KPIs-Qualifications-Compensation.md and Fine-Jewelry-Retail-Workflows-and-Operating-Systems.md (bench jeweler and custom-design job profiles, repair/custom job-bag workflows, POS/ERP repair tracking); jewelry-specific repair and job-tracking software research (WJewel, Jooli POS, RepairSuite, PrismaNote, Luxare, PIRO Retail, MJJ Brilliant); bench jeweler role research (Nobbier, Reddit r/jewelers)
+**Research anchor:** Fine-Jewelry-Retail-Job-Descriptions-KPIs-Qualifications-Compensation.md and Fine-Jewelry-Retail-Workflows-and-Operating-Systems.md (bench jeweler and custom-design job profiles, repair/custom job-bag workflows, POS/ERP repair tracking); jewelry-specific repair and job-tracking software research (WJewel, Jooli POS, RepairSuite, PrismaNote, Luxare, PIRO Retail, MJJ Brilliant); bench jeweler role research (Nobbier, Reddit r/jewelers); intake, inspection, and liability-documentation research (Stuller, Smart G-Scope, JewelIntake, LoupeLens, DealSpeak.ai, and real repair-agreement documents from Schumacher Diamond Cutters, Krikawa Jewelry Designs, and Romm's)
 
 ## Terminal outcomes
 
@@ -24,8 +24,8 @@ The learner can:
 
 | # | Article | Persona | Status |
 |---|---|---|---|
-| 1 | The Repair and Custom Design Continuum: From Simple Fixes to Full Builds | P1 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items (continuum framework flagged as original organizing synthesis) |
-| 2 | Intake: Documenting Condition, Setting Expectations, and the Job Ticket | P1 | Not started |
+| 1 | The Repair and Custom Design Continuum: From Simple Fixes to Full Builds | P1 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items |
+| 2 | Intake: Documenting Condition, Setting Expectations, and the Job Ticket | P1 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items (liability-waiver mechanics confirmed across 3 real primary documents) |
 | 3 | The CAD-to-Casting Workflow: How a Custom Piece Actually Gets Made | P2 | Not started |
 | 4 | Common Bench Repairs: What They Involve and How Long They Take | P1 | Not started |
 | 5 | Pricing Repairs and Custom Work: Labor, Materials, and Margin | P2 | Not started |
