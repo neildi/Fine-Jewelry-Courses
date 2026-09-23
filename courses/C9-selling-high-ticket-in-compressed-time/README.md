@@ -3,7 +3,7 @@
 **Track:** Specialist
 **Personas:** P1, P2, P3
 **8 articles, 6-8 learner hours**
-**Research anchor:** Fine-Jewelry-Career-Guide.md (Onboard Fine Jewelry Specialist role profile and seminar-to-showroom conversion KPI; luxury sales psychology on pressure tactics undermining trust); Fine-Jewelry-Retail-Career-and-Skills-Reference.md; trunk show operational research (JCK Online, JA New York, Clientbook, Deep Earth Marketing); high-ticket urgency/objection-handling research (bestbuyincentives.com, Forbes); compressed discovery research (Southern Jewelry News jewelry-specific needs-assessment content; general consultative-selling and luxury buyer-cue research adapted from prospeo.io, tomba.io, Skipcall, and themindreader.ai); fast-trust research (warmth/competence social psychology: Amy Cuddy, Kellogg/Waytz, Retorio, reinaldogonzalez.com, braintrustgrowth.com; general rapport-building technique sources adapted from marketing-method.com, Skailit, prospeo.io)
+**Research anchor:** Fine-Jewelry-Career-Guide.md (Onboard Fine Jewelry Specialist role profile and seminar-to-showroom conversion KPI; luxury sales psychology on pressure tactics undermining trust); Fine-Jewelry-Retail-Career-and-Skills-Reference.md; trunk show operational research (JCK Online, JA New York, Clientbook, Deep Earth Marketing); high-ticket urgency/objection-handling research (bestbuyincentives.com, Forbes); compressed discovery research (Southern Jewelry News jewelry-specific needs-assessment content; general consultative-selling and luxury buyer-cue research adapted from prospeo.io, tomba.io, Skipcall, and themindreader.ai); fast-trust research (warmth/competence social psychology: Amy Cuddy, Kellogg/Waytz, Retorio, reinaldogonzalez.com, braintrustgrowth.com; general rapport-building technique sources adapted from marketing-method.com, Skailit, prospeo.io); decision-moment research (trial-close framework from eCampusOntario, prospeo.io, alexberman.com, grademyclose.com; luxury-retail-specific closing practices from Julien Fortuit's LinkedIn series; jewelry-specific price-conversation guidance from Kuhns Diamond Jewelers)
 
 ## Terminal outcomes
 
@@ -27,7 +27,7 @@ The learner can:
 | 1 | Why Compressed-Time Selling Is Different | P1 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items |
 | 2 | Compressed Discovery: Surfacing Priorities in Minutes, Not Weeks | P1 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (layered-question sequence and time-boxing discipline adapted from general B2B sales research, explicitly flagged) |
 | 3 | Building Fast Trust With No Relationship History | P2 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items (core warmth/competence finding exceptionally well-corroborated; specific technique sources are general, non-jewelry-specific, and noted as such) |
-| 4 | The Decision Moment: Closing Without Pressure | P2 | Not started |
+| 4 | The Decision Moment: Closing Without Pressure | P2 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (luxury-retail space-giving/cognitive-load practices and jewelry price-conversation guidance each rest on a single directly-on-point specialist source, not yet cross-corroborated by a second source) |
 | 5 | Running the Room: Trunk Show and Pop-Up Event Logistics | P2 | Not started |
 | 6 | Onboard and Travel Retail: Selling in a Single Itinerary Window | P2 | Not started |
 | 7 | When It Doesn't Close On the Spot: Fast, Honest Follow-Up | P1 | Not started |
