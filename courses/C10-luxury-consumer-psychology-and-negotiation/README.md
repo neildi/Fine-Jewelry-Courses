@@ -3,7 +3,7 @@
 **Track:** Specialist
 **Personas:** P1, P2, P3
 **8 articles, 6-8 learner hours**
-**Research anchor:** Academic and peer-reviewed luxury-consumption psychology research (Veblen's conspicuous consumption theory; self-completion theory; PMC peer-reviewed articles on status consumption and social-class/self-esteem dynamics; Wiley meta-analysis); self-gifting consumer behavior research (RAM/scielo.br, QUT, Springer systematic literature review); Cialdini's foundational influence-principle research; the Wharton "exclusivity paradox" working paper; Tversky and Kahneman's anchoring research; Huber, Payne, and Puto's decoy-effect research with its 2014 replication-failure caveat; negotiation first-offer/anchoring research (a 119-article structured literature review plus independent empirical studies); general price-objection-handling and concession-trading sales research (flagged as non-jewelry-specific); luxury real estate negotiation psychology (drumelia.com); this project's existing luxury-sales-psychology research base (Fine-Jewelry-Career-Guide.md) and C9's genuine-urgency and silence-after-close principles
+**Research anchor:** Academic and peer-reviewed luxury-consumption psychology research (Veblen, self-completion theory, PMC status-consumption/self-esteem research, Wiley meta-analysis); self-gifting research (RAM/scielo.br, QUT, Springer); Cialdini's influence-principle research; the Wharton "exclusivity paradox"; Tversky/Kahneman anchoring research; the decoy effect and its 2014 replication caveat; negotiation first-offer/anchoring research (119-article structured review); general price-objection/concession research; luxury real estate negotiation psychology; HNW/appearance-bias research (peer-reviewed French academic study on status-signal sales bias; the Sephora Racial Bias in Retail Study); quiet-luxury/stealth-wealth psychology (Fortune, EHL Insights, 47hnwi.com); private-client service practices (Beaumont Etiquette, questsearch.co.uk); this project's existing luxury-sales-psychology research base (Fine-Jewelry-Career-Guide.md) and C9's genuine-urgency and silence-after-close principles
 
 ## Terminal outcomes
 
@@ -25,11 +25,11 @@ The learner can:
 | # | Article | Persona | Status |
 |---|---|---|---|
 | 1 | Why People Really Buy Luxury: Status, Identity, and Emotion Over Utility | P1 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items |
-| 2 | Reading the Buyer: Matching Your Approach to Personal vs. Social Motivation | P1 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (language-style-matching content flagged as general, non-jewelry-specific) |
+| 2 | Reading the Buyer: Matching Your Approach to Personal vs. Social Motivation | P1 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item |
 | 3 | Scarcity, Exclusivity, and Social Proof: Using Real Principles Ethically | P2 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items |
-| 4 | Anchoring and the Decoy Effect: Presenting Price and Options Responsibly | P2 | Complete - draft, pending human fact-check (B6); 1 PRIORITY MUST VERIFY item (2014 decoy-effect replication-failure claim rests on a single source) |
-| 5 | Negotiating with Confidence: Technique for High-Ticket Luxury Sales | P2 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (the "negotiate motivations, not numbers" framing rests on a single luxury real estate, not jewelry, source; diagnostic-sequence/concession sources are general, non-jewelry-specific) |
-| 6 | Serving High-Net-Worth Clients: Discretion, Privacy, and Status Psychology | P2 | Not started |
+| 4 | Anchoring and the Decoy Effect: Presenting Price and Options Responsibly | P2 | Complete - draft, pending human fact-check (B6); 1 PRIORITY MUST VERIFY item |
+| 5 | Negotiating with Confidence: Technique for High-Ticket Luxury Sales | P2 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item |
+| 6 | Serving High-Net-Worth Clients: Discretion, Privacy, and Status Psychology | P2 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items (appearance-bias mechanism grounded in a peer-reviewed multi-study academic paper; quiet-luxury psychology grounded in named private-wealth-industry sources; the Sephora study is used carefully as supporting, not conflated, evidence) |
 | 7 | Cross-Cultural Luxury Buying: Status Signaling Across Markets | P2 | Not started |
 | 8 | Capstone: A Full Luxury Negotiation Simulation | P3 | Not started |
 
