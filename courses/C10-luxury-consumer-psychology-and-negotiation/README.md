@@ -3,7 +3,7 @@
 **Track:** Specialist
 **Personas:** P1, P2, P3
 **8 articles, 6-8 learner hours**
-**Research anchor:** Academic and peer-reviewed luxury-consumption psychology research (Veblen's conspicuous consumption theory; self-completion theory via City University London; PMC peer-reviewed articles on status consumption and social-class/self-esteem dynamics; Wiley meta-analysis on luxury value perceptions); self-gifting consumer behavior research (RAM/scielo.br, QUT, Springer systematic literature review); consumer-psychology trade sources (Psychology Today/Kit Yarrow, Investopedia, stylerave.com, IJFMR); language-style-matching and sales-technique research (LinkedIn, Sybill.ai, inlpcenter.org, flagged as general/non-jewelry-specific); this project's existing luxury-sales-psychology research base (Fine-Jewelry-Career-Guide.md)
+**Research anchor:** Academic and peer-reviewed luxury-consumption psychology research (Veblen's conspicuous consumption theory; self-completion theory via City University London; PMC peer-reviewed articles on status consumption and social-class/self-esteem dynamics; Wiley meta-analysis on luxury value perceptions); self-gifting consumer behavior research (RAM/scielo.br, QUT, Springer systematic literature review); consumer-psychology trade sources (Psychology Today/Kit Yarrow, Investopedia, stylerave.com, IJFMR); language-style-matching and sales-technique research (LinkedIn, Sybill.ai, inlpcenter.org, flagged as general/non-jewelry-specific); Cialdini's foundational influence-principle research (scarcity, social proof, psychological reactance) via psychotricks.com, Wikipedia, NN Group, ASU News, The Decision Lab, deepmarketing.it; the Wharton "exclusivity paradox" working paper; this project's existing luxury-sales-psychology research base (Fine-Jewelry-Career-Guide.md) and C9's genuine-urgency-vs-manufactured-pressure principle
 
 ## Terminal outcomes
 
@@ -26,7 +26,7 @@ The learner can:
 |---|---|---|---|
 | 1 | Why People Really Buy Luxury: Status, Identity, and Emotion Over Utility | P1 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items (one nuance claim rests on a single peer-reviewed source, noted in factcheck) |
 | 2 | Reading the Buyer: Matching Your Approach to Personal vs. Social Motivation | P1 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (language-style-matching content flagged as general, non-jewelry-specific sales-technique research; NLP-labeled sources specifically noted as popular training content) |
-| 3 | Scarcity, Exclusivity, and Social Proof: Using Real Principles Ethically | P2 | Not started |
+| 3 | Scarcity, Exclusivity, and Social Proof: Using Real Principles Ethically | P2 | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items (Cialdini's foundational research and the exclusivity paradox well-corroborated across multiple sources including an academic working paper) |
 | 4 | Anchoring and the Decoy Effect: Presenting Price and Options Responsibly | P2 | Not started |
 | 5 | Negotiating with Confidence: Technique for High-Ticket Luxury Sales | P2 | Not started |
 | 6 | Serving High-Net-Worth Clients: Discretion, Privacy, and Status Psychology | P2 | Not started |
