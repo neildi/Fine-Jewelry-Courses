@@ -1,43 +1,45 @@
 # C11 Running the Store
 
 **Track:** Leadership
-**Personas:** P1, P2, P3
+**Personas:** P1, P7 (First-Time Store Leader, per this project's official Course Architecture & Article-Generation Prompt Kit)
 **10 articles, 8-10 learner hours**
-**Research anchor:** Retail store-manager role research (Indeed, Metaintro, Himalayas, jobdescription.org, interviewguy.com); jewelry-specific store-manager job postings (Angela Monaco Jewelry, Gold Elite Jewelers, ZipRecruiter, luxury jewelry retailer postings); named practitioner leadership-transition reflections (Tim Keeley, Peter Damilare Oladipo, Silvana Araújo via LinkedIn); this project's existing operational research (Fine-Jewelry-Retail-Workflows-and-Operating-Systems.md, Fine-Jewelry-Career-Guide.md)
+**Research anchor:** This project's own Fine-Jewelry-Retail-Workflows-and-Operating-Systems.md (Section 3.8, R14 per the official course architecture) and Fine-Jewelry-Career-Guide.md; retail store-manager role research (Indeed, Metaintro, Himalayas); jewelry-specific store-manager job postings; named practitioner leadership-transition reflections (Tim Keeley, Peter Damilare Oladipo, Silvana Araújo)
+
+**Note on module alignment:** Module 1 of this course was drafted before this project's own official Course Architecture document (Fine-Jewelry-Retail-Course-Architecture-Article-Generation-Prompt-Kit.docx) was fully cross-checked against the C11 module list. Module 1 ("From Sales Floor to Store Leadership") serves as a foundational leadership-transition primer distinct from, and complementary to, the official Module 1 title ("The Store as an Operating System"). Modules 2 through 10 below now follow the official blueprint's module list and titles exactly.
 
 ## Terminal outcomes
 
-The learner can:
-- Explain the core shift from individual sales output to team-output accountability that defines the move into store leadership, and apply the "watch before changing" and crisis-response-builds-trust principles
-- Run the store's daily, weekly, and monthly operating rhythms (opening/closing, briefings, audits, reporting) consistently
-- Read and take ownership of the store's core P&L drivers (labor cost, shrinkage, expense control) well enough to explain them to staff and ownership
-- Build and adjust staffing schedules that match floor coverage to real client traffic and business needs
-- Run accurate inventory counts and audits and apply shrinkage-control discipline
-- Maintain visual merchandising and showcase standards that reflect brand positioning and security requirements together
-- Manage vendor and consignment relationships, including trunk-show and special-order commercial terms
-- Lead store-level safety, security, and compliance practices as an ongoing operational responsibility, not a one-time training event
-- Coach and lead on the sales floor in real time, including the turnover ("TO") technique and in-the-moment feedback
-- Apply this course's full framework in a capstone simulation of a complete week of store leadership
+The learner (a first-time or aspiring store manager) can:
+- Explain the core shift from individual sales output to team-output accountability that defines the move into store leadership
+- Run the daily open-huddle-floor-close sequence
+- Execute weekly cycle counts, coaching check-ins, and client-book review
+- Run the monthly reporting, planning, and inventory reconciliation cycle
+- Maintain visual merchandising standards and case zoning
+- Manage scheduling to traffic and peak coverage
+- Manage the vendor, repair, and custom-order pipeline
+- Write SOPs the team will actually use
+- Maintain a compliance calendar covering insurance, records, and filings
+- Build and use their own weekly leadership scorecard
 
-**Assessment:** A written self-audit of the learner's own store's current operating rhythms against this course's standards; a manager-observed floor-leadership and coaching session; a capstone one-week store-leadership simulation.
-**KPI link:** total store revenue vs. plan, labor cost as a percentage of sales, inventory shrinkage rate, staff retention, client retention/repeat-visit rate, case-audit and compliance accuracy.
+**Assessment:** Produce the store's own SOP binder and a 30-day operating calendar, per this project's official course architecture.
+**KPI link:** sales vs. plan, shrinkage rate, visual-merchandising audit score, per this project's official course architecture.
 
 ## Module status
 
-| # | Article | Persona | Status |
-|---|---|---|---|
-| 1 | From Sales Floor to Store Leadership: What Actually Changes | P1 | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (several core claims rest on named-practitioner LinkedIn sources rather than academic research, explicitly flagged) |
-| 2 | Daily, Weekly, and Monthly Operating Rhythms | P1 | Not started |
-| 3 | Owning Your Store's P&L: Labor, Shrinkage, and Expense Control | P2 | Not started |
-| 4 | Staffing and Scheduling: Matching Coverage to Real Traffic | P2 | Not started |
-| 5 | Inventory Management: Counts, Audits, and Shrinkage Control | P2 | Not started |
-| 6 | Visual Merchandising and Showcase Standards | P2 | Not started |
-| 7 | Vendor and Consignment Relationship Management | P2 | Not started |
-| 8 | Safety, Security, and Compliance Leadership | P2 | Not started |
-| 9 | Leading the Floor: Real-Time Coaching and the Turnover Technique | P2 | Not started |
-| 10 | Capstone: A Full Week of Store Leadership | P3 | Not started |
+| # | Article | Status |
+|---|---|---|
+| 1 | From Sales Floor to Store Leadership: What Actually Changes (foundational primer; see note above) | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item |
+| 2 | The Daily Rhythm: Open, Huddle, Floor, Close | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items (this module draws directly on this project's own rigorously-sourced primary research file) |
+| 3 | Weekly Counts, Coaching, Client-Book Review | Not started |
+| 4 | Monthly Reporting, Planning, Inventory Reconciliation | Not started |
+| 5 | Visual Merchandising Standards and Case Zoning | Not started |
+| 6 | Scheduling to Traffic and Peak Coverage | Not started |
+| 7 | Vendor, Repair and Custom Pipeline Management | Not started |
+| 8 | Writing SOPs Your Team Will Actually Use | Not started |
+| 9 | Compliance Calendar: Insurance, Records, Filings | Not started |
+| 10 | The Manager's Own Weekly Scorecard | Not started |
 
-This course builds directly on the general store-operations content already established in this project's Fine-Jewelry-Retail-Workflows-and-Operating-Systems.md research file (dual-custody opening/closing, showcase security, inventory audits, clienteling cadences) and connects forward to C12 (Retail KPIs & Reporting), C13 (Hiring, Coaching & Performance Management), and C14 (Multi-Store Leadership), each of which develops one dimension of this course's content in much greater depth.
+This course draws directly and extensively on this project's own Fine-Jewelry-Retail-Workflows-and-Operating-Systems.md research file, which ties every workflow claim to at least one fetched source URL (insurer guidance, trade press, association standards, POS vendor documentation, and real job postings). It connects forward to C12 (Retail KPIs & Reporting), C13 (Hiring, Coaching & Performance Management), and C14 (Multi-Store Leadership).
 
 ## Production artifacts
 
