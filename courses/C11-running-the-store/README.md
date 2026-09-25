@@ -30,8 +30,8 @@ The learner (a first-time or aspiring store manager) can:
 |---|---|---|
 | 1 | From Sales Floor to Store Leadership: What Actually Changes (foundational primer; see note above) | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item |
 | 2 | The Daily Rhythm: Open, Huddle, Floor, Close | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items |
-| 3 | Weekly Counts, Coaching, Client-Book Review | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items (this module continues to draw directly on this project's own rigorously-sourced primary research file; clienteling-cadence content flagged for reconciliation with the future C3 course) |
-| 4 | Monthly Reporting, Planning, Inventory Reconciliation | Not started |
+| 3 | Weekly Counts, Coaching, Client-Book Review | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items |
+| 4 | Monthly Reporting, Planning, Inventory Reconciliation | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items (each of the module's five content areas traced to a specific, distinct source within this project's own primary research file) |
 | 5 | Visual Merchandising Standards and Case Zoning | Not started |
 | 6 | Scheduling to Traffic and Peak Coverage | Not started |
 | 7 | Vendor, Repair and Custom Pipeline Management | Not started |
