@@ -3,7 +3,7 @@
 **Track:** Leadership
 **Personas:** P1, P7 (First-Time Store Leader, per this project's official Course Architecture & Article-Generation Prompt Kit)
 **10 articles, 8-10 learner hours**
-**Research anchor:** This project's own Fine-Jewelry-Retail-Workflows-and-Operating-Systems.md and Fine-Jewelry-Career-Guide.md; retail store-manager role research; jewelry-specific store-manager job postings; named practitioner leadership-transition reflections; jewelry visual-merchandising research; general retail scheduling-to-traffic research; this project's own C8 (Custom Design & Repair Workflow) and C9 (Selling High-Ticket in Compressed Time) courses, referenced directly for pipeline and vendor-terms content
+**Research anchor:** This project's own Fine-Jewelry-Retail-Workflows-and-Operating-Systems.md and Fine-Jewelry-Career-Guide.md; retail store-manager role research; jewelry-specific store-manager job postings; named practitioner leadership-transition reflections; jewelry visual-merchandising research; general retail scheduling-to-traffic research; this project's own C8 and C9 courses; SOP-writing research (tallyfy.com, scribehow, ideagen.com, consultevo.com, gopazo.com, shoplworks.com, Smartsheet)
 
 **Note on module alignment:** Module 1 of this course was drafted before this project's own official Course Architecture document was fully cross-checked against the C11 module list. Module 1 ("From Sales Floor to Store Leadership") serves as a foundational leadership-transition primer distinct from, and complementary to, the official Module 1 title ("The Store as an Operating System"). Modules 2 through 10 follow the official blueprint's module list and titles exactly.
 
@@ -34,8 +34,8 @@ The learner (a first-time or aspiring store manager) can:
 | 4 | Monthly Reporting, Planning, Inventory Reconciliation | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items |
 | 5 | Visual Merchandising Standards and Case Zoning | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item |
 | 6 | Scheduling to Traffic and Peak Coverage | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items |
-| 7 | Vendor, Repair and Custom Pipeline Management | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (inherits the vendor-terms sourcing caveat originally flagged in C9-M05: a mix of jewelry-specific informal and non-jewelry formal sources) |
-| 8 | Writing SOPs Your Team Will Actually Use | Not started |
+| 7 | Vendor, Repair and Custom Pipeline Management | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item |
+| 8 | Writing SOPs Your Team Will Actually Use | Complete - draft, pending human fact-check (B6); 0 prominent MUST VERIFY items (the five specific SOP-failure modes are unusually well-corroborated across multiple independent sources using nearly identical language, though none are jewelry-specific) |
 | 9 | Compliance Calendar: Insurance, Records, Filings | Not started |
 | 10 | The Manager's Own Weekly Scorecard | Not started |
 
