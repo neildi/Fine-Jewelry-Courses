@@ -1,0 +1,41 @@
+# The Manager's Own Weekly Scorecard
+
+## Why This Module Matters
+
+Nine modules into this course, a store leader has a specific procedure for nearly everything: opening and closing, cycle counts, monthly reconciliation, merchandising standards, scheduling, the vendor pipeline, SOP writing, and the compliance calendar. What's been missing is a single weekly view that pulls the health signals from all of that together, so a manager can tell — in fifteen minutes, every week, without digging through five different systems — whether the store is actually on track or quietly drifting. This closing module builds that scorecard: a fixed, five-number weekly review plus the specific KPIs this course's terminal assessment ties the whole program to.
+
+## The Five-Number Weekly Review
+
+A specific, well-documented weekly review discipline built for jewelry retail runs on exactly five numbers, reviewed in a fixed time slot, on the same day every week, in the same sequence, completed in under fifteen minutes when nothing unusual surfaces. First, weekly turnover, split between product sales and gift-card redemptions, compared against the same week last year and against the previous four weeks — a single number without that comparison context is close to meaningless, since a manager needs to know whether this week is normal, unusually strong, or a warning sign. Second, net profit margin for the same period, because top-line turnover alone can mask a margin problem building underneath a seemingly healthy sales number. Third, the repair pipeline broken into three states: completed, open-and-within-deadline, and overdue, with overdue repairs flagged for immediate follow-up rather than left to accumulate. Fourth, customer purchases and old-gold acquisitions, specifically to identify which customers are worth a personal outreach call that week. Fifth, top sellers and slow movers, viewed as a top-ten/bottom-ten list across product, category, seller, and date range, so both the wins and the stalled inventory get visibility every single week rather than only surfacing at monthly inventory time.
+
+## The Three KPIs This Course Is Built Around
+
+Beyond the weekly five-number review, this course's own terminal assessment structure ties store-leader success to three specific, ongoing KPIs: sales versus plan, shrinkage rate, and visual-merchandising audit score. Sales versus plan is the most immediate signal of whether the store's daily and weekly execution (Modules 2 and 3) is translating into the numbers leadership actually cares about. Shrinkage rate is the direct output of the discipline covered across Module 4's high-value verification protocol and Module 7's vendor and repair pipeline visibility — a rising shrinkage number is rarely a mystery once a manager traces it back to which specific control slipped. Visual-merchandising audit score is the measurable output of Module 5's case-zoning and presentation standards, and it belongs on a weekly scorecard precisely because merchandising discipline decays quickly without a regular, structured check.
+
+## Building the Scorecard: One Page, Same Slot, Every Week
+
+A genuinely usable manager's scorecard follows the same design principle this course established for SOPs in Module 8: it needs to be simple enough to actually get used every week, not so exhaustive that reviewing it becomes its own burden. A single page, reviewed in the same fixed time slot each week (Monday morning is the specific slot cited in the underlying weekly-review research), listing the five weekly numbers plus a running line for each of the three course KPIs, with the prior four weeks visible alongside the current week for context. This mirrors the same five-report sequence discipline recommended for the underlying weekly review: opening the same reports in the same order every time removes the friction of re-deciding what to check, which is often the real reason a review that isn't fixed in place quietly stops happening.
+
+## Reading the Scorecard, Not Just Filling It Out
+
+A scorecard only has value if a manager actually reads the trend, not just the single week's number. A shrinkage rate that ticks up one week isn't automatically a crisis, but a shrinkage rate that's been climbing for three consecutive weeks against a stable sales-versus-plan line is a specific, actionable signal worth tracing back to Module 4's verification protocol or Module 7's intake discipline before it compounds further. Similarly, a strong sales-versus-plan week sitting on top of a declining visual-merchandising audit score is worth flagging now, since merchandising decay tends to show up in sales results only after a lag — catching the drift on the scorecard before it shows up in revenue is the entire point of running this review weekly rather than only reacting to a bad month.
+
+## Tying the Scorecard Back to the Store's SOP Binder
+
+The scorecard and the compliance calendar and SOP binder from Modules 8 and 9 aren't separate systems — they're different views into the same underlying operating discipline this course has built module by module. A recurring gap on the scorecard (repairs consistently running overdue, for instance) is a direct signal that the specific SOP governing that workflow needs revisiting using Module 8's seven-element structure, not just a note to try harder next week. Used this way, the weekly scorecard becomes the store's own early-warning system for exactly which part of the operating system needs attention, closing the loop this entire course has been building toward.
+
+## A Worked Scenario: Catching a Drift Before It Becomes a Miss
+
+A store manager's weekly scorecard shows sales versus plan holding steady for six straight weeks, but the top-ten/bottom-ten sellers list has quietly shifted — the same three slow movers have now sat in the bottom ten for five consecutive weeks. Rather than waiting for the monthly inventory reconciliation to flag aged stock, the manager pulls those three pieces for a targeted markdown or a staff sales push that week. The following month's inventory reconciliation shows meaningfully less aged-stock buildup than the same period the prior year — not because of a heroic month-end effort, but because the weekly scorecard caught the drift five weeks earlier than the monthly cycle would have.
+
+## Practice Exercise
+
+Build your own one-page weekly scorecard combining the five-number weekly review (turnover with prior-period comparison, net margin, repair pipeline status, customer/old-gold purchase list, top-and-bottom sellers) with the three course KPIs (sales vs. plan, shrinkage rate, visual-merchandising audit score). Commit to a fixed day and time slot for the next four weeks, and after the fourth week, review whether any single number has shown a consistent directional trend worth tracing back to a specific module's SOP.
+
+## Key Takeaways
+
+- A specific, well-documented five-number weekly review — turnover with prior-period comparison, net profit margin, repair pipeline status, customer/old-gold purchase activity, and top-and-bottom sellers — gives a manager a genuinely complete weekly health check in under fifteen minutes when run in a fixed time slot every week.
+- This course's own terminal assessment structure anchors ongoing store-leader success to three specific KPIs: sales versus plan, shrinkage rate, and visual-merchandising audit score, each tracing directly back to the disciplines covered in earlier modules.
+- A usable scorecard follows the same one-page, low-friction design principle established for SOPs in Module 8, reviewed in the same fixed slot and sequence every week to remove the friction that causes reviews to quietly stop happening.
+- The scorecard's real value is in reading multi-week trends, not single-week numbers — a slowly climbing shrinkage rate or a declining merchandising score is an actionable early-warning signal worth tracing to its source before it shows up in a worse monthly result.
+- The weekly scorecard, the SOP binder, and the compliance calendar are different views of the same underlying operating system this course has built module by module; a recurring scorecard gap should trigger a specific SOP revision, not just a resolution to try harder.
