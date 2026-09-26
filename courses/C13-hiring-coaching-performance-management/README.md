@@ -3,7 +3,7 @@
 **Track:** Leadership
 **Personas:** P7 (First-Time Store Leader), P8 (Multi-Store Leader), per this project's official Course Architecture & Article-Generation Prompt Kit
 **10 articles, 8-10 learner hours**
-**Research anchor:** R9 and Section 2 Tier 3 of this project's own Fine-Jewelry-Retail-Career-and-Skills-Reference.md; Jewelers of America's jewelry-sales-professional career-pathways page; luxury-retail hiring research; personnel-selection research (Schmidt & Hunter 1998, Sackett re-analysis); sales-assessment vendor research; Testlify's job-profile methodology; job-posting and sourcing-channel guidance; structured-interview, STAR, role-play, and BARS-rubric sources; 30-60-90 day onboarding methodology (rock.so, Zendesk, LeadSquared, leadbeam.ai, BSPK, gopazo.com, joinhomebase.com); floor-coaching sources (HubSpot, GROW-model literature, resources.rework.com, xenia.team); one-on-one meeting research (Gallup, Baylor University, physicianleaders.org, Harvard Business Review, evalflow.com, Lattice, O.C. Tanner, AIHR, PerformYard); this project's own C11 course (Running the Store) for daily operational context
+**Research anchor:** R9 and Section 2 Tier 3 of this project's own Fine-Jewelry-Retail-Career-and-Skills-Reference.md; hiring, structured-interview, onboarding, floor-coaching, and one-on-one research from Modules 1-6 (see each module's own README/factcheck); resources.rework.com's evidence-based review prep methodology; performance-review writing research (hr.wisc.edu, Culture Amp, Venngage, hibob, AIHR, PerformYard, evalflow.com, Indeed, LinkedIn, status.net); Nature/Botelho et al.'s rating-scale bias research; this project's own C11 course (Running the Store) for daily operational context
 
 ## Terminal outcomes
 
@@ -28,8 +28,8 @@ The manager can:
 | 3 | Structured Interviews and Auditions | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items |
 | 4 | The 30-Day Onboarding Plan | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items |
 | 5 | Floor Coaching: Observe, Debrief, Practice | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items |
-| 6 | Weekly One-on-Ones | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items — a genuine research nuance (cadence should flex by need, not a rigid universal rule) was identified and explicitly incorporated into the module's text rather than omitted |
-| 7 | Performance Reviews With Evidence | Not started |
+| 6 | Weekly One-on-Ones | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items (a genuine research nuance on cadence was identified and explicitly incorporated) |
+| 7 | Performance Reviews With Evidence | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items — the behavior-not-personality principle and SBI model are confirmed across an unusually large number of independent sources; the Nature/Botelho et al. rating-scale research context limitation is explicitly flagged |
 | 8 | Managing Underperformance | Not started |
 | 9 | Recognition, Incentives and Commission Fairness | Not started |
 | 10 | Building Bench Strength for Your Own Promotion | Not started |
