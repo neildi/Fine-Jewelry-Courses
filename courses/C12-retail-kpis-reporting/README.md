@@ -3,7 +3,7 @@
 **Track:** Leadership
 **Personas:** P7 (First-Time Store Leader), P8 (Multi-Store Leader), per this project's official Course Architecture & Article-Generation Prompt Kit
 **8 articles, 6-8 learner hours**
-**Research anchor:** R10 and Section 2 KPI vocabulary of this project's own Fine-Jewelry-Retail-Career-and-Skills-Reference.md; Shopify Retail Metrics guide and related Shopify retail-reporting articles; Toolio's retail math formula reference; DaVinci Retail and Faire sell-through/inventory guidance; this project's own C11 course (Running the Store) and C3 course (Clienteling & CRM) for the operational disciplines behind shrinkage and retention specifically
+**Research anchor:** R10 and Section 2 KPI vocabulary of this project's own Fine-Jewelry-Retail-Career-and-Skills-Reference.md; Shopify Retail Metrics guide and related Shopify retail-reporting articles; Toolio's retail math formula reference; DaVinci Retail and Faire sell-through/inventory guidance; Retail Operations Toolkit's Luxury & Jewelry KPI benchmark page; GrowthFactor.ai's foot-traffic measurement guide; this project's own C11 course (Running the Store) and C3 course (Clienteling & CRM) for the operational disciplines behind shrinkage and retention specifically
 
 ## Terminal outcomes
 
@@ -22,8 +22,8 @@ The manager can:
 
 | # | Article | Status |
 |---|---|---|
-| 1 | The KPI Vocabulary of Jewelry Retail | Complete - draft, pending human fact-check (B6); 0 factual-accuracy MUST VERIFY items (1 store-specific operational confirmation noted: foot-traffic counting method) |
-| 2 | Conversion and Traffic: Measuring What You Can't See | Not started |
+| 1 | The KPI Vocabulary of Jewelry Retail | Complete - draft, pending human fact-check (B6); 0 factual-accuracy MUST VERIFY items (1 store-specific operational confirmation noted) |
+| 2 | Conversion and Traffic: Measuring What You Can't See | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (discrepancy between two jewelry-specific conversion-rate benchmark sources: 8-15% vs. 15-35%; this module treats the 8-15% Retail Operations Toolkit range as primary since it is the source named in this project's official Course Architecture and the competing source showed internal quality issues, but the discrepancy itself needs human resolution before formal target-setting) |
 | 3 | Average Ticket, UPT and Mix | Not started |
 | 4 | Inventory KPIs: Sell-Through, Turn, GMROI | Not started |
 | 5 | Retention and Client-Book KPIs | Not started |
@@ -36,3 +36,7 @@ This course establishes the KPI vocabulary that C11 (Running the Store) assumes 
 ## Production artifacts
 
 Each article carries a matching outline/media record, fact-check table, huddle card, and quiz in `production/`, per the project's six-step SOP.
+
+## Outstanding items before full sign-off
+
+- Module 2 carries a flagged MUST VERIFY item (see `production/C12-M02-factcheck.md`): a meaningful discrepancy between two jewelry-specific conversion-rate benchmark sources should be resolved against a primary, credentialed jewelry-trade-association source before either range is used for formal target-setting with store staff.
