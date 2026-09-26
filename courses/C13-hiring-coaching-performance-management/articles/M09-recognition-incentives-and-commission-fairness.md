@@ -1,0 +1,49 @@
+# Recognition, Incentives and Commission Fairness
+
+## Why This Module Matters
+
+Module 8 covered the corrective side of performance management. This module covers its counterpart: the specific, well-documented practices for recognizing good work and structuring incentive and commission pay in a way that actually motivates a jewelry sales team rather than quietly breeding resentment, turnover, or the wrong selling behavior. Commission structure specifically is an area where jewelry retail has decades of accumulated, hard-won practical wisdom worth drawing on directly, since a poorly designed plan in this category creates real, visible damage to both morale and customer experience.
+
+## Recognition: Frequent and Specific Beats Occasional and Generic
+
+A specific, well-corroborated finding across retail-recognition research: frequency beats ceremony. Monthly or weekly recognition moves more employees than an annual banquet or a quarterly award, and building recognition into the daily and weekly flow of work (same-day spot recognition, a weekly huddle shout-out, a monthly milestone note) outperforms saving it all for one big annual event. Equally important: specificity beats generality. "Great job this week" registers as noise; a specific, named behavior ("you turned a difficult return into a repeat customer by staying calm and offering a genuine alternative") is what actually lands. Retail-specific research also finds recognition significantly affects retention: employees who experience integrated, high-quality recognition show meaningfully higher odds of planning to stay, feeling a sense of belonging, and reporting high engagement, compared to employees in environments where recognition is rare or generic.
+
+## The Cost of Getting Incentive Design Wrong
+
+Sales-incentive research across multiple industries converges on a consistent list of what breaks an incentive plan: vague or overly complex criteria that leave people unsure exactly what behavior earns a reward, inconsistent application across managers or shifts that turns perceived fairness into perceived favoritism, and a lack of transparency about how payouts are actually calculated. A separate, well-documented risk specific to commission-heavy plans: basing incentives purely on sales volume, with no reference to profit or discounting, can quietly train a sales team to close deals through unsustainable discounting rather than genuine value-based selling — a pattern this course's own C10 content on luxury consumer psychology and negotiation already warns against from the selling-technique side.
+
+## The Jewelry-Specific Commission Debate: Percentage of Sales vs. Percentage of Gross Profit
+
+A specific, well-documented recommendation from jewelry-industry compensation experts: base commission on gross profit rather than gross sales or unit volume. The reasoning is direct — a commission tied purely to sales volume rewards a closed deal regardless of the margin actually protected on that deal, while a commission tied to gross profit rewards the associate for defending the store's actual profitability, not just moving product. One widely cited jewelry-industry benchmark places typical variable pay at roughly 15 to 16 percent of the gross profit an associate produces, though this module notes real variation exists across sources and store models — some jewelry stores instead run straight percentage-of-sales commissions in the 1 to 10 percent range depending on margin and support structure, and the right number depends heavily on base pay level, actual margins, and what specific behavior the store wants to encourage.
+
+## Split-Sale Rules: The Detail Most Plans Get Wrong
+
+A specific, practical gap in many jewelry-store commission plans: no clear, written rule for what happens when two associates both contribute to the same sale — a turnover ("TO") to a colleague with more expertise on a specific item, a special order placed by one associate and closed by another, or simply two people naturally working the same customer. Jewelry-industry practitioner sources converge on a specific, workable default: a straightforward 50/50 split when a genuine turnover occurs and the second associate closes the sale, or a 75/25 split (favoring the associate who did the original groundwork) when one person did preparatory work like ordering or presenting and a different associate ultimately closes. The specific value of having this rule written down and known in advance, before a split-sale dispute happens: an unwritten, ad hoc split policy is exactly the kind of inconsistent application that sales-incentive research identifies as a top driver of perceived unfairness on a sales floor.
+
+## Team Goals as a Counterweight to Pure Individual Commission
+
+A specific, repeated caution across jewelry-trade sources: a commission-only, individual-only structure creates exactly the "shark" environment several sources warn against — associates guarding customers rather than sharing them, reluctant to hand off a sale to a colleague better suited to close it, and treating every interaction as a competition with teammates rather than a collaboration. The recommended counterweight: pair individual commission with a team-based bonus tied to a store-level goal, distributed proportionately (a common structure ties each associate's share of a team bonus to their share of total hours worked or total sales contributed, rather than splitting it identically regardless of contribution). One specific jewelry-store practice worth naming directly: when a vendor offers a spiff for whoever personally sells the most of a specific item, converting that into a team-wide reward for the whole team hitting a collective target keeps the vendor incentive from actively working against the store's own collaborative culture.
+
+## A Note on Compensation Design and Legal Review
+
+Sales-incentive research is consistent on one further point: before rolling out any new incentive or commission structure, have it reviewed for compliance with applicable wage-and-hour law, since commission structures interact with overtime calculations, minimum-wage guarantees, and other legal requirements that vary by jurisdiction. This module presents commission-design principles as practical, well-documented industry practice, not as a substitute for that legal and payroll compliance review.
+
+## Putting the Vocabulary to Work
+
+The complete recognition-and-incentive sequence this module establishes: build frequent, specific recognition into the daily and weekly rhythm rather than saving it for an annual event; design any incentive plan around clear, simple, transparent criteria that every associate can calculate themselves; base commission on gross profit rather than raw sales volume where practical, to avoid rewarding unsustainable discounting; write down a specific split-sale rule before a dispute forces one into existence informally; and pair individual commission with a proportionate team bonus to counteract the "shark" dynamic pure individual competition creates.
+
+## A Worked Scenario: The Split That Almost Cost a Sale
+
+A customer originally worked with one associate who spent thirty minutes discussing options and placing a special order for a specific setting, then returned on a different day and happened to be helped by a second associate who completed the sale. Because the store had a written 75/25 split rule for exactly this scenario, both associates knew in advance how the commission would divide, and the second associate had no incentive to rush the close or discourage the customer from mentioning the earlier conversation. Without that written rule, jewelry-trade sources note this exact situation is a common source of quiet resentment and, in the worst cases, an associate steering a customer away from a colleague's prior work specifically to protect their own commission — the opposite of the customer experience a jewelry store depends on.
+
+## Practice Exercise
+
+Review your store's current commission or incentive structure against this module's five criteria: is it based on gross profit or raw sales volume, and is that the right choice for your specific margin structure? Is there a written, specific split-sale rule, and does every associate actually know it? Is there a team-based bonus component alongside individual commission? Draft or revise one specific written policy (most usefully, the split-sale rule if none currently exists) and share it with your team before the next dispute makes the gap visible.
+
+## Key Takeaways
+
+- Frequent, specific recognition (weekly or same-day, naming a specific behavior) meaningfully outperforms occasional, generic recognition (an annual banquet, a vague "great job"), and is measurably linked to retention and engagement in retail-specific research.
+- Incentive plans most commonly fail due to vague or overly complex criteria, inconsistent application across managers, and a lack of transparency in how payouts are calculated — all three are avoidable with clear, simple, written rules.
+- Jewelry-industry compensation experts recommend basing commission on gross profit rather than raw sales volume, since a pure sales-volume commission can quietly reward unsustainable discounting rather than genuine, margin-protecting selling.
+- A written, specific split-sale rule (a common default: 50/50 for a genuine turnover-and-close, 75/25 favoring the associate who did the original groundwork) prevents the ad hoc, inconsistent handling that breeds resentment and can even lead an associate to steer a customer away from a colleague's prior work.
+- Pairing individual commission with a proportionate team-based bonus counteracts the "shark" environment a purely individual, commission-only structure creates, and any new incentive or commission plan should be reviewed for wage-and-hour legal compliance before rollout.

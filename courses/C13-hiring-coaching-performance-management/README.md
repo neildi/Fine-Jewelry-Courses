@@ -3,7 +3,7 @@
 **Track:** Leadership
 **Personas:** P7 (First-Time Store Leader), P8 (Multi-Store Leader), per this project's official Course Architecture & Article-Generation Prompt Kit
 **10 articles, 8-10 learner hours**
-**Research anchor:** research from Modules 1-7 (see each module's own README/factcheck); progressive-discipline and PIP guidance (Washoe County, VDH, Government of Canada, RFSUNY, MRSC, SHRM, HR Acuity, citationcanada.com, Asana, Sage, Atlassian, brightmine.com); documentation-quality and legal-defensibility guidance (amundsendavislaw.com, TechClass); this project's own C11 course (Running the Store) for daily operational context
+**Research anchor:** research from Modules 1-8 (see each module's own README/factcheck); retail-recognition research (goactify.com, O.C. Tanner, nectarhr.com, Gallup); sales-incentive design research (BambooHR, Extu, Forma.ai, hrdailyadvisor.hci.org, worldatwork.org); jewelry-industry compensation and commission-structure sources (JCK, INSTORE/David Geller, jewelerprofit.com, Ganoksin Orchid); this project's own C10 course (Luxury Consumer Psychology & Negotiation) and C11 course (Running the Store)
 
 ## Terminal outcomes
 
@@ -30,8 +30,8 @@ The manager can:
 | 5 | Floor Coaching: Observe, Debrief, Practice | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items |
 | 6 | Weekly One-on-Ones | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items (a genuine research nuance on cadence was identified and explicitly incorporated) |
 | 7 | Performance Reviews With Evidence | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items |
-| 8 | Managing Underperformance | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (jurisdiction-specific: confirm the store's specific progressive-discipline policy and PIP template comply with applicable local employment law with qualified counsel before finalizing or acting on any specific decision — module explicitly notes it is operational guidance, not legal advice) |
-| 9 | Recognition, Incentives and Commission Fairness | Not started |
+| 8 | Managing Underperformance | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (jurisdiction-specific legal compliance) |
+| 9 | Recognition, Incentives and Commission Fairness | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items noted for company review (jurisdiction-specific wage-and-hour compliance; determining which of several viable jewelry-industry commission models fits this specific store's margins) — real variation across jewelry-industry sources on the "right" commission percentage is explicitly acknowledged rather than presented as settled |
 | 10 | Building Bench Strength for Your Own Promotion | Not started |
 
 This course builds on this project's own C11 course (Running the Store) for daily operational context and previews content that will connect forward to C14 (Multi-Store Leadership), which extends coaching and performance-management skills from a single store to a district context.
