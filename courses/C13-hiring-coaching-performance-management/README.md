@@ -3,7 +3,7 @@
 **Track:** Leadership
 **Personas:** P7 (First-Time Store Leader), P8 (Multi-Store Leader), per this project's official Course Architecture & Article-Generation Prompt Kit
 **10 articles, 8-10 learner hours**
-**Research anchor:** research from Modules 1-8 (see each module's own README/factcheck); retail-recognition research (goactify.com, O.C. Tanner, nectarhr.com, Gallup); sales-incentive design research (BambooHR, Extu, Forma.ai, hrdailyadvisor.hci.org, worldatwork.org); jewelry-industry compensation and commission-structure sources (JCK, INSTORE/David Geller, jewelerprofit.com, Ganoksin Orchid); this project's own C10 course (Luxury Consumer Psychology & Negotiation) and C11 course (Running the Store)
+**Research anchor:** research spanning hiring (Jewelers of America, questsearch.co.uk, retaildoc.com, personnel-selection research), role profiles and sourcing (Testlify, trymintly.com, LinkedIn, Oracle), structured interviews (STAR-method sources, BARS/role-play sources), onboarding (rock.so, Zendesk, BSPK, gopazo.com), floor coaching (HubSpot, GROW-model literature), one-on-ones (Gallup, evalflow.com, Lattice), performance reviews (resources.rework.com, hr.wisc.edu, Nature/Botelho et al.), managing underperformance (SHRM, HR Acuity, amundsendavislaw.com), recognition and commission (O.C. Tanner, JCK, jewelerprofit.com), and bench strength (retaildoc.com, retailreadyinsights.com, AMA); this project's own C10 and C11 courses for cross-course continuity
 
 ## Terminal outcomes
 
@@ -31,11 +31,19 @@ The manager can:
 | 6 | Weekly One-on-Ones | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items (a genuine research nuance on cadence was identified and explicitly incorporated) |
 | 7 | Performance Reviews With Evidence | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items |
 | 8 | Managing Underperformance | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (jurisdiction-specific legal compliance) |
-| 9 | Recognition, Incentives and Commission Fairness | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items noted for company review (jurisdiction-specific wage-and-hour compliance; determining which of several viable jewelry-industry commission models fits this specific store's margins) — real variation across jewelry-industry sources on the "right" commission percentage is explicitly acknowledged rather than presented as settled |
-| 10 | Building Bench Strength for Your Own Promotion | Not started |
+| 9 | Recognition, Incentives and Commission Fairness | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items (jurisdiction-specific wage-and-hour compliance; store-specific commission-model fit) |
+| 10 | Building Bench Strength for Your Own Promotion | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items |
 
-This course builds on this project's own C11 course (Running the Store) for daily operational context and previews content that will connect forward to C14 (Multi-Store Leadership), which extends coaching and performance-management skills from a single store to a district context.
+**C13 is now complete: 10/10 modules drafted.** This course builds on this project's own C11 course (Running the Store) for daily operational context and connects forward to C14 (Multi-Store Leadership), which extends this course's coaching and performance-management skills from a single store to a district context.
 
 ## Production artifacts
 
 Each article carries a matching outline/media record, fact-check table, huddle card, and quiz in `production/`, per the project's six-step SOP.
+
+## Outstanding items before full sign-off
+
+- Module 1 involved a documented, transparent mid-production correction to a cognitive-ability predictive-validity claim (see the module's own factcheck for full detail).
+- Module 6 identified and explicitly incorporated a genuine research nuance regarding one-on-one meeting cadence (flex by need, not a rigid universal rule).
+- Module 8 carries one jurisdiction-specific MUST VERIFY item: confirm the store's progressive-discipline policy and any PIP template comply with applicable local employment law with qualified counsel.
+- Module 9 carries two MUST VERIFY items: jurisdiction-specific wage-and-hour compliance for any new commission structure, and determining which of several viable jewelry-industry commission models best fits this specific store's margins.
+- Modules 2, 3, 4, 5, 7, and 10 carry no unresolved factual-accuracy MUST VERIFY items.
