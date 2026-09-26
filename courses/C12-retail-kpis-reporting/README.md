@@ -3,7 +3,7 @@
 **Track:** Leadership
 **Personas:** P7 (First-Time Store Leader), P8 (Multi-Store Leader), per this project's official Course Architecture & Article-Generation Prompt Kit
 **8 articles, 6-8 learner hours**
-**Research anchor:** R10 and Section 2 KPI vocabulary of this project's own Fine-Jewelry-Retail-Career-and-Skills-Reference.md; Shopify Retail Metrics guide and related Shopify retail-reporting articles; Toolio's retail math and GMROI guides; DaVinci Retail and Faire sell-through/inventory guidance; Retail Operations Toolkit's Luxury & Jewelry KPI benchmark page; GrowthFactor.ai's foot-traffic measurement guide; Ariadne Maps' basket-size/footfall analysis; Northbeam's UPT guide; dojobusiness.com's jewelry-store sales benchmarks; jewel360.com's inventory turnover and aging-report guidance; Luxare, jewelrybuydirect.com, Apshan, and Abbott Jewelry Systems' inventory-management guidance; stylograph.ai's luxury-retention research; Clientbook's jewelry-specific clienteling KPI guide; koronapos.com, umbrex.com, ThoughtSpot, Setproduct, and vidi-corp.com's dashboard-design guidance; this project's own C11 course (Running the Store) and C3 course (Clienteling & CRM) for the operational disciplines behind shrinkage and retention specifically
+**Research anchor:** R10 and Section 2 KPI vocabulary of this project's own Fine-Jewelry-Retail-Career-and-Skills-Reference.md; Shopify Retail Metrics guide and related Shopify retail-reporting articles; Toolio's retail math and GMROI guides; DaVinci Retail and Faire sell-through/inventory guidance; Retail Operations Toolkit's Luxury & Jewelry KPI benchmark page; GrowthFactor.ai's foot-traffic measurement guide; Ariadne Maps' basket-size/footfall and traffic-vs-conversion diagnostic analysis; Northbeam's UPT guide; dojobusiness.com's jewelry-store sales benchmarks; jewel360.com's inventory turnover and aging-report guidance; Luxare, jewelrybuydirect.com, Apshan, and Abbott Jewelry Systems' inventory-management guidance; stylograph.ai's luxury-retention research; Clientbook's jewelry-specific clienteling KPI guide; koronapos.com and umbrex.com's dashboard-design and root-cause-diagnosis guidance; this project's own C11 course (Running the Store) and C3 course (Clienteling & CRM) for the operational disciplines behind shrinkage and retention specifically
 
 ## Terminal outcomes
 
@@ -27,8 +27,8 @@ The manager can:
 | 3 | Average Ticket, UPT and Mix | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (cross-selling/upselling percentage-effect claims sourced from a single non-primary source) |
 | 4 | Inventory KPIs: Sell-Through, Turn, GMROI | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (outlier inventory-turn benchmark source) |
 | 5 | Retention and Client-Book KPIs | Complete - draft, pending human fact-check (B6); 2 MUST VERIFY items (retention benchmark sourcing concerns) |
-| 6 | Building the Weekly Dashboard | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items — all core structural claims confirmed across multiple independent, credible dashboard-design sources |
-| 7 | Diagnosing a Miss | Not started |
+| 6 | Building the Weekly Dashboard | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items |
+| 7 | Diagnosing a Miss | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items — the core decision-tree logic and eight-driver framework are both directly, specifically sourced from named, detailed retail-diagnostics sources |
 | 8 | Reporting Up: The One-Page Store Review | Not started |
 
 This course establishes the KPI vocabulary that C11 (Running the Store) assumes and applies throughout its own modules (particularly the Module 10 weekly scorecard, which anchors to sales vs. plan, shrinkage rate, and visual-merchandising audit score). It connects forward to C13 (Hiring, Coaching & Performance Management) and C14 (Multi-Store Leadership), both of which build on this course's KPI framework for individual and cross-store performance analysis respectively.
@@ -43,4 +43,4 @@ Each article carries a matching outline/media record, fact-check table, huddle c
 - Module 3 carries a flagged MUST VERIFY item: specific cross-selling (25-50% ATV increase) and upselling (10-20% average sale increase) percentage-effect claims come from a single business-planning content site and were not independently corroborated.
 - Module 4 carries a flagged MUST VERIFY item: an outlier inventory-turn benchmark source (2.0-4.1x/year) conflicts with a well-corroborated 1-2x/year consensus across five other sources.
 - Module 5 carries two flagged MUST VERIFY items regarding retention-rate benchmark sourcing (see the module's own factcheck for detail).
-- Module 6 carries no flagged MUST VERIFY items; all core dashboard-design claims are well-corroborated across multiple independent sources.
+- Modules 6 and 7 carry no flagged MUST VERIFY items; all core structural and diagnostic claims are well-corroborated across multiple independent, credible sources.
