@@ -32,15 +32,15 @@ A catalog of fine jewelry retail training courses built from the *Fine Jewelry R
 | C10 Luxury Consumer Psychology & Negotiation | Specialist | 8 | 8 (complete) |
 | C11 Running the Store | Leadership | 10 | 10 (complete) |
 | C12 Retail KPIs & Reporting for Jewelry Store Leaders | Leadership | 8 | 8 (complete) |
-| C13 Hiring, Coaching & Performance Management in Jewelry Retail | Leadership | 10 | 5 |
+| C13 Hiring, Coaching & Performance Management in Jewelry Retail | Leadership | 10 | 6 |
 | C14 Multi-Store Leadership | Leadership | 8 | 0 |
 | C15 Designing Jewelry Sales Training | Trainer | 8 | 0 |
 | C16 The GIA Diamonds Deep Dive (companion to GIA's D&DG further-reading bibliography) | Advanced/Specialist | 13 | 13 |
 | C17 The GIA Colored Stones Deep Dive (companion to GIA's Colored Stones further-reading bibliography) | Advanced/Specialist | 16 | 16 (complete) |
 
-**Total: 159 articles (130 original catalog + 13 in C16 + 16 in C17). C1 is fully complete; C2 is underway; C8, C9, C10, C11, and C12 are fully complete (8/8, 8/8, 8/8, 10/10, and 8/8 modules respectively); C13 is underway (Module 5 of 10 complete, halfway); C16 complete (13/13 modules, 65 production artifacts), independently built and verified per `courses/C16-gia-diamonds-deep-dive/production/VERIFICATION-REVIEW.md`. C17 complete (16/16 modules, 96 production artifacts, 160 quiz questions), independently built and verified per `courses/C17-gia-colored-stones-deep-dive/production/VERIFICATION-REVIEW.md`.**
+**Total: 159 articles (130 original catalog + 13 in C16 + 16 in C17). C1 is fully complete; C2 is underway; C8, C9, C10, C11, and C12 are fully complete (8/8, 8/8, 8/8, 10/10, and 8/8 modules respectively); C13 is underway (Module 6 of 10 complete); C16 complete (13/13 modules, 65 production artifacts), independently built and verified per `courses/C16-gia-diamonds-deep-dive/production/VERIFICATION-REVIEW.md`. C17 complete (16/16 modules, 96 production artifacts, 160 quiz questions), independently built and verified per `courses/C17-gia-colored-stones-deep-dive/production/VERIFICATION-REVIEW.md`.**
 
-**Note on C13:** underway, 5/10 modules complete (halfway). Module 1 involved a notable, well-documented mid-production correction to a cognitive-ability statistic (see the module's own factcheck for detail). Modules 2 through 5 carry no MUST VERIFY items, with their core methodologies confirmed across multiple independent sources.
+**Note on C13:** underway, 6/10 modules complete. Module 1 involved a notable, well-documented mid-production correction to a cognitive-ability statistic. Module 6 identified and explicitly incorporated a genuine research nuance regarding one-on-one meeting cadence (flex by need, not a rigid universal rule) rather than omitting it. Modules 2 through 6 otherwise carry no unresolved MUST VERIFY items, with core methodologies confirmed across multiple independent sources.
 
 **Note on C11:** all 10 modules are drafted and complete, following this project's official Course Architecture blueprint from Module 2 onward (Module 1 is a foundational leadership-transition primer predating full blueprint cross-check; see the course's own README for detail). Four modules (1, 5, 7, 9) carry a single flagged MUST VERIFY item each, pending human fact-check per the project's standard six-step SOP.
 
