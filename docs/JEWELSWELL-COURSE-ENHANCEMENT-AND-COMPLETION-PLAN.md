@@ -137,5 +137,10 @@ The anti-dropout production asset packs generated and validated using Perplexity
 4. **Course C9 Module 4:** *The Decision Moment: Closing High-Ticket Without Pressure in Compressed Windows*
    - **Framework:** The High-Velocity Conversion Engine™ (Departure Clock, Distance Hesitation, Impulse Guilt)
    - **File Location:** `courses/C9-selling-high-ticket-in-compressed-time/production/C9-M04-anti-dropout-pack.md`
+5. **Course C1 Module 1 & Course C16 Module 2:** *The Deep-Time Emotional Anchor™: Translating the 4Cs and Mantle Geology into Romantic Permanence*
+   - **Framework:** The Deep-Time Emotional Anchor™ (Mantle-to-Moment Timeline, Technical Spec Trap, Lab vs. Natural De-Commoditization)
+   - **File Locations:** 
+     - `courses/C1-diamond-gemstone-fluency/production/C1-M01-anti-dropout-pack.md`
+     - `courses/C16-gia-diamonds-deep-dive/production/C16-M02-anti-dropout-pack.md`
 
 All assets are 100% trademark-neutral, floor-tested, and ready for immediate deployment on **Jewelswell.com**.
