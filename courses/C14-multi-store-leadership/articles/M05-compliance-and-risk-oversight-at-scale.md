@@ -8,21 +8,16 @@ This is the leadership problem this article solves. As a store manager, you enfo
 
 Your terminal outcome as a district leader is to enforce compliance across sites — not to personally perform every count, but to build a calendar, an audit rhythm, and an escalation path that catches gaps before an insurer, an auditor, or a regulator does. This work sits squarely inside the district-manager job description: Signet's own DM role explicitly lists "Loss prevention" and "Expense control" as things the DM manages across the district, alongside "Overall district administration." A wholesale-channel regional role frames the same responsibility as owning "turnover [and] profit" across a multi-unit territory. Compliance oversight is not a side duty at your level — it is one of the things you are formally measured on.
 
-<figure>
-  <img src="../assets/c14-m05-compliance-risk-oversight-scale.svg" alt="Compliance and Risk Oversight at Scale" width="100%" />
-  <figcaption><strong>Figure 5.1:</strong> Compliance and Risk Oversight at Scale — module framework at a glance: Why This Matters · What &quot;Compliance at Scale&quot; Actually Covers · The District Compliance Calendar: Building the Master Version.</figcaption>
-</figure>
-
 ## What "Compliance at Scale" Actually Covers
 
 At store level, compliance means following the calendar someone else built. At district level, it means building and auditing that calendar across every site, and knowing where the calendar came from. Four domains recur across the research on jewelry-retail operations:
 
-- **Cash and payment reporting.** Any cash transaction over the IRS reporting threshold triggers a Form 8300 filing, and the payer statement is due to the customer by January 31 of the following year. This is not optional paperwork — it is a federal filing obligation with a hard date.
+- **Cash and payment reporting.** Any trade or business that receives more than $10,000 in cash in a single transaction, or in two or more related transactions within a 12-month period, must file IRS/FinCEN Form 8300 within 15 days of the payment that crosses the threshold. The business must also furnish a written statement to each payer named on the form by January 31 of the following year. This is not optional paperwork — it is a federal filing obligation with hard, specific deadlines.
 - **Physical inventory and insurance record-keeping.** An annual, documented, itemized physical inventory is retained for seven years and kept off-premises. Insurer inventory lists are refreshed on a quarterly or half-yearly cycle, and a January broker export plus a photo archive is a named part of that annual cycle.
 - **Recurring verification of high-value stock.** Quarterly bench sweeps and a high-value verification protocol — every item above the high-value threshold physically checked, using two independent counts that are compared, with a third-person recount of any difference before the system is adjusted — are the mechanism that catches shrink before it becomes a write-off.
 - **Broader legal and marketing compliance.** Beyond counts and cash, the trade's own compliance body maintains guidance on memo/consignment transactions, UCC-1 filings, platinum-marking law, irradiated-gemstone disclosure, and FTC representation rules — the kind of material a district leader should know exists, even without becoming the in-house lawyer.
 
-None of this is legal or accounting advice, and none of it should be treated as certain without checking your own company policy and local regulation — a district leader's job is to know the calendar exists and audit that it is followed, not to personally interpret ambiguous law.
+None of this is legal or accounting advice, and none of it should be treated as certain without checking your own company policy and current regulation — a district leader's job is to know the calendar exists and audit that it is followed, not to personally interpret ambiguous law.
 
 ## The District Compliance Calendar: Building the Master Version
 
@@ -66,7 +61,7 @@ Compliance oversight connects directly to the KPIs your own role is scored on. T
 1. Pull the compliance calendar each of your stores is currently using. If they differ from each other, that is the finding — standardize on one master version this week.
 2. At your next store visit, ask to see the suspicious-incident log and the most recent bench-sweep sheet before you ask about sales. What gets inspected gets respected.
 3. Confirm every store has a segregation-of-duties rotation written down — who counts, who receives, and who does the unscheduled spot check — with named people, not just named roles.
-4. Check that every store manager can state, without looking it up, when their next Form 8300 filing deadline is and where the annual physical inventory is stored off-premises.
+4. Check that every store manager can state, without looking it up, that the Form 8300 threshold is $10,000, that filing is due within 15 days, and where the annual physical inventory is stored off-premises.
 5. Pick one store per month for a personal, unannounced spot inspection — rotate which store, so no site can predict when you're coming.
 
 ## Objections, Mistakes and Edge Cases
@@ -82,7 +77,7 @@ Compliance oversight connects directly to the KPIs your own role is scored on. T
 ## Self-Check
 
 1. What three things does a documented annual physical inventory require in terms of retention?
-2. By what date must Form 8300 payer statements be issued to the customer?
+2. What is the current Form 8300 cash threshold, and how many days does a business have to file after crossing it?
 3. Name the two design principles that make a rotating departmental audit effective.
 4. What does a high-value verification protocol require when two independent counts disagree?
 5. Why should a district leader treat "we've never had a problem" as a prompt to check a store sooner, not later?
@@ -93,6 +88,7 @@ Compliance oversight connects directly to the KPIs your own role is scored on. T
 - **GoAudits retail audit library** — a bank of ready-made store-visit and compliance checklists you can adapt into your district's master calendar.
 - **Jewelers Vigilance Committee Essential Guides** — free downloadable guides covering FTC representation rules, UCC-1 filings, and platinum-marking law, useful as a first-stop reference before escalating a legal question.
 - **OpenLearn Leadership and Followership** — a free badged course relevant to building the kind of consistent, system-level oversight this module describes.
+- **IRS.gov Form 8300 Reference Guide** — the authoritative source for current cash-reporting thresholds and filing deadlines; district leaders should check this directly rather than rely on secondhand summaries, since federal thresholds can change.
 
 **Media credits:** No third-party media has been sourced or verified for this draft. Per the project's media policy, placeholders below flag what a media researcher should source before publication — do not fill these with invented images or links.
 
