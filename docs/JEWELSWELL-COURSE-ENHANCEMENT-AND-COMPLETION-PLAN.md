@@ -121,11 +121,21 @@ The asset generation is automated using Perplexity MCP (`perplexity_reason` and 
 
 ---
 
-## 6. Pilot Implementation
+## 6. Implementation Status & Deployed Asset Packs
 
-The initial production asset pack has been generated and validated for:
-- **Course C2 Module 5:** *Price Objections Without Discounting*
-- **Course C10 Module 4:** *The Tag-Price Integrity Protocol*
-- **File Location:** `courses/C2-fine-jewelry-sales-conversation/production/C2-M05-anti-dropout-pack.md` & `courses/C10-luxury-consumer-psychology-and-negotiation/production/C10-M04-anti-dropout-pack.md`
+The anti-dropout production asset packs generated and validated using Perplexity Sonnet 5 Thinking include:
+
+1. **Course C2 Module 5:** *Price Objections Without Discounting*
+   - **Framework:** The A3 Objection Architecture™ (Acknowledge → Align → Advance)
+   - **File Location:** `courses/C2-fine-jewelry-sales-conversation/production/C2-M05-anti-dropout-pack.md`
+2. **Course C10 Module 4:** *The Tag-Price Integrity Protocol*
+   - **Framework:** Anchoring, Ethical Option Presentation & Margin Defense
+   - **File Location:** `courses/C10-luxury-consumer-psychology-and-negotiation/production/C10-M04-anti-dropout-pack.md`
+3. **Course C6 Module 11:** *Selling Bridal to Couples: The Dual-Buyer Alignment Protocol™*
+   - **Framework:** The Dual-Buyer Alignment Protocol™ (Silent Partner, Direct Conflict, Split Agenda)
+   - **File Location:** `courses/C6-bridal-engagement-mastery/production/C6-M11-anti-dropout-pack.md`
+4. **Course C9 Module 4:** *The Decision Moment: Closing High-Ticket Without Pressure in Compressed Windows*
+   - **Framework:** The High-Velocity Conversion Engine™ (Departure Clock, Distance Hesitation, Impulse Guilt)
+   - **File Location:** `courses/C9-selling-high-ticket-in-compressed-time/production/C9-M04-anti-dropout-pack.md`
 
 All assets are 100% trademark-neutral, floor-tested, and ready for immediate deployment on **Jewelswell.com**.
