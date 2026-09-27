@@ -19,6 +19,11 @@ generated: 2026-09-11
 
 A client is holding an emerald ring set with a 1.60 ct oval in yellow gold. She has been reading online about colored stones and asks a question that has become common in the last decade: "Where does this emerald actually come from — and is it from a mine I should feel good about buying from?"
 
+<figure>
+  <img src="../assets/c17-m03-finding-them-mining-recovery-field-gemology.svg" alt="Finding Them: Mining, Recovery, and Field Gemology from Mogok to Montepuez" width="100%" />
+  <figcaption><strong>Figure 3.1:</strong> Finding Them: Mining, Recovery, and Field Gemology from Mogok to Montepuez — module framework at a glance: The client who asks where it came from · Two kinds of mining, two kinds of deposit · How colored stones are mined: five methods.</figcaption>
+</figure>
+
 You know the stone was sold to you as "Colombian" by a dealer you trust. What you cannot honestly say, standing at the counter, is which mine, which mining company, or which cutting house it passed through. You cannot promise the mine was large and regulated or small and artisanal. You cannot name the miner. The emerald may have moved through five hands before it reached you: miner → local buyer → exporter → cutter → dealer → your store. This is not a failure of disclosure — it is the structure of the colored-stone market.
 
 What you *can* do, after this module, is describe how emeralds (and rubies, sapphires, opals, and jade) are actually recovered from the ground, what a credible traceability claim looks like and what does not, and what responsible sourcing means in a fragmented, partially artisanal industry where no colored-stone equivalent of the Kimberley Process yet exists. Your answer stops being vague and starts being honest.

@@ -4,6 +4,11 @@
 
 Every module in this course up to this point has been building toward a single moment: handing a finished piece back to a client with full confidence it is correct, secure, and exactly what was promised. A systematic final inspection — done the same way every time, regardless of how simple or complex the job — is what actually earns that confidence. This module covers what that inspection looks like, what a warranty realistically does and doesn't promise, and how to run the handoff itself so the client leaves informed and reassured rather than simply relieved to have their piece back.
 
+<figure>
+  <img src="../assets/c8-m07-quality-control-client-handoff.svg" alt="Quality Control and the Client Handoff" width="100%" />
+  <figcaption><strong>Figure 7.1:</strong> Quality Control and the Client Handoff — module framework at a glance: The Final Inspection: A Consistent, Systematic Sequence · Comparing Against the Intake Record · What a Warranty Actually Promises.</figcaption>
+</figure>
+
 ## The Final Inspection: A Consistent, Systematic Sequence
 
 A jewelry QC inspection before delivery should never depend on how busy the day is or how routine the job looked. The core sequence, adapted from wholesale/manufacturing quality-control practice to a retail bench-repair and custom-work context, covers four areas in order:

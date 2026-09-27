@@ -4,6 +4,11 @@
 
 Every module in this course, from Module 1's trait cluster through Module 9's compensation fairness, has been about building a strong individual team. This final module covers a distinct, forward-looking skill: identifying and developing the people on that team who could eventually run the store themselves — or run a shift, or take on a specific area of ownership — which is both a genuine service to those associates and, not incidentally, the single clearest path to a store leader's own next promotion. A manager who has built no bench strength is a manager the company can't move, no matter how well the store itself is performing.
 
+<figure>
+  <img src="../assets/c13-m10-building-bench-strength-own-promotion.svg" alt="Building Bench Strength for Your Own Promotion" width="100%" />
+  <figcaption><strong>Figure 10.1:</strong> Building Bench Strength for Your Own Promotion — module framework at a glance: The Specific Behaviors That Signal Leadership Potential · Say It Out Loud · Readiness Tiers: Not Everyone Is Ready at the Same Pace.</figcaption>
+</figure>
+
 ## The Specific Behaviors That Signal Leadership Potential
 
 A well-documented, specific set of observable signals separates future leaders from simply strong sellers, and it's worth naming these precisely rather than relying on a vague sense of "who seems like manager material." They pass tests on the first try and ask clarifying questions that show they're thinking ahead — they want to know why, not just what to do. They help without being asked, noticing when a display needs fixing or when a new hire looks lost, and stepping in without waiting for an instruction. And they make other people better: newer associates naturally gravitate toward them for help, and they share what they've learned rather than hoarding it as a competitive advantage. The specific, important distinction this framework makes: these are not necessarily the store's top individual sellers. Leadership potential and sales performance are related but genuinely distinct signals, and a manager who only looks at the sales leaderboard when identifying future leaders will miss people who show every one of these behaviors without topping the commission report.

@@ -4,6 +4,11 @@
 
 Most of what fine jewelry sales training covers assumes time: multiple visits, a relationship built over months, a follow-up call three days after the sale and another at thirty. Compressed-time selling throws that assumption out. A trunk show runs for a single afternoon. A cruise ship seminar converts a room of strangers into showroom visitors before the ship reaches its next port. A pop-up event has one weekend to do what a boutique might spend a year doing with the same client. This module establishes what's actually different about selling high-ticket jewelry inside a hard time boundary, and why the answer isn't "the same skills, just faster."
 
+<figure>
+  <img src="../assets/c9-m01-compressed-time-selling-different.svg" alt="Why Compressed-Time Selling Is Different" width="100%" />
+  <figcaption><strong>Figure 1.1:</strong> Why Compressed-Time Selling Is Different — module framework at a glance: The Core Constraint: No Second Visit to Fall Back On · Real Formats, Real Constraints · Real Urgency vs. Manufactured Pressure.</figcaption>
+</figure>
+
 ## The Core Constraint: No Second Visit to Fall Back On
 
 In ordinary clienteling, a client who isn't ready today can be ready in three months — the relationship absorbs the delay. Compressed-time formats remove that safety net. A trunk show client who leaves without buying often won't return before the show ends; a cruise passenger who doesn't visit the showroom before returning to their cabin has, for practical purposes, lost the opportunity entirely. This isn't a minor scheduling detail — it changes what "good selling" means. In a standard boutique interaction, deferring a decision costs little; in a compressed-time format, deferral usually costs the sale outright. This single structural fact is what this entire course exists to address.

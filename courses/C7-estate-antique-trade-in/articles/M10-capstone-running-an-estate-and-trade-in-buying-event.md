@@ -4,6 +4,11 @@
 
 Every module in this course has built toward a moment: a client, holding a piece, deciding whether to sell it. A buying event compresses dozens of those moments into a few concentrated days, and running one well requires every skill this course has covered — vocabulary and dating, valuation and appraisal type, authentication, pathway decisions, legal compliance, and the conversational discipline from Module 9 — applied simultaneously, at volume, under real time pressure. This capstone module covers how to plan and run that event.
 
+<figure>
+  <img src="../assets/c7-m10-capstone-running-estate-trade-in-buying-event.svg" alt="Capstone: Running an Estate and Trade-In Buying Event" width="100%" />
+  <figcaption><strong>Figure 10.1:</strong> Capstone: Running an Estate and Trade-In Buying Event — module framework at a glance: Two Models: Partner-Run vs. In-House Events · Marketing and Staffing the Event · Security and Cash-Handling at Volume.</figcaption>
+</figure>
+
 ## Two Models: Partner-Run vs. In-House Events
 
 There are two broad models for running an estate/trade-in buying event, and understanding both helps a store choose the right fit:

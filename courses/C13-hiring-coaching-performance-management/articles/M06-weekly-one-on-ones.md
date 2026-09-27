@@ -4,6 +4,11 @@
 
 Module 5 built the quick, five-minute debrief that happens right after a customer interaction. This module builds the different, longer conversation that happens on a fixed weekly schedule regardless of what happened on the floor that day — the structured check-in where an associate's priorities, obstacles, and development get real, protected attention rather than being squeezed into whatever moment a manager happens to have free.
 
+<figure>
+  <img src="../assets/c13-m06-weekly-one-on-ones.svg" alt="Weekly One-on-Ones" width="100%" />
+  <figcaption><strong>Figure 6.1:</strong> Weekly One-on-Ones — module framework at a glance: Weekly Is the Evidence-Backed Default, With a Real Nuance · The Employee Sets the Agenda, Not Just the Manager.</figcaption>
+</figure>
+
 ## Weekly Is the Evidence-Backed Default, With a Real Nuance
 
 Gallup research cited across multiple sources finds that employees who have regular one-on-one meetings with their manager are nearly three times as likely to be engaged at work as those who don't, and a genuinely well-corroborated finding across HR and management research points to weekly, 30-minute one-on-ones as the single most consistently favored cadence, rated most desirable by employees and correlated with the highest engagement levels in comparative studies. A more recent, careful synthesis of this same research area adds a genuinely useful nuance worth taking seriously rather than treating weekly-30-minutes as a rigid universal rule: the underlying research doesn't actually support a single fixed cadence for every employee in every situation. Gallup's own coaching framework specifically recommends a brief "quick connect" of one to ten minutes at least weekly, paired with a more substantive quarter-hour-to-half-hour conversation once or twice a month, with the exact mix adjusted for team needs, role complexity, and how much active coaching a given employee currently needs. A new hire still in their 30-60-90 day window (Module 4), or an associate working through a specific coaching focus (Module 5), genuinely benefits from a weekly cadence; an experienced, steady performer may be well served by a biweekly rhythm with brief informal check-ins between.

@@ -24,6 +24,11 @@ Outcome 5; factual discipline 4 (property values textbook — flagged where exac
 
 The A18 timeline, read as a story of escalation: **1957** — Benson catalogs "diamond substitutes" (glass, strontium titanate, YAG-era materials: the soft-optics zoo the pre-CZ market traded); **1978** — Liddicoat & Koivula describe **cubic zirconia** arriving as a *production* material ("synthetic cubic stabilized zirconia"), not a lab curiosity; **1981** — Nassau updates CZ and Hobbs offers "a simple approach" to separation, the trade's first mass-detection doctrine; **1990s** — Kammerling 1991 examines non-transparent "CZ" from Russia (i.e., fakes *outside* the normal spec), and **1997** — Nassau et al. publish **synthetic moissanite as a new diamond substitute**: the first simulant to beat the thermal tester; **2000s–2010s** — the arms race turns *combinatorial*: Shigley et al. 2012 characterize **coated CZ ("Diamantine")** — a soft material wearing a thin diamond-like film — while Choudhary 2013 flags **boron carbide** imitating *black* diamond; Zhou 2015 and Song et al. 2016 document **synthetic moissanite in melee** — including moissanite made to imitate *lab-grown colored diamonds*, the substitution hiding inside a substitution. The pattern every one of these papers encodes: *every detector is a property test, and every new material picks off the detectors one by one.*
 
+<figure>
+  <img src="../assets/c16-m10-fakes-diamond-simulants-real-vs-fake.svg" alt="The Fakes: Diamond Simulants — and Why &quot;Real vs. Fake&quot; Is the Wrong Frame" width="100%" />
+  <figcaption><strong>Figure 10.1:</strong> The Fakes: Diamond Simulants — and Why &quot;Real vs. Fake&quot; Is the Wrong Frame — module framework at a glance: Sixty years of look-alikes, in five sentences · The property ladder (what a professional actually uses).</figcaption>
+</figure>
+
 ## The property ladder (what a professional actually uses)
 
 Simulant separation is not tricks; it's a decision tree over physical properties (textbook values; ranges are standard-reference level — [VERIFY] any number you print on a card):

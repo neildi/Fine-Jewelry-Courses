@@ -4,6 +4,11 @@
 
 Module 1 established that clients buy luxury jewelry for genuinely different reasons — some personal and internal, some social and outward-facing — and that mismatching the conversation to the wrong motivation is a common, avoidable mistake. This module covers the practical skill of actually diagnosing which motivation is in the room, in real time, and adjusting language accordingly, rather than running the same script regardless of who's standing in front of the case.
 
+<figure>
+  <img src="../assets/c10-m02-reading-buyer-matching-approach-personal-vs.svg" alt="Reading the Buyer: Matching Your Approach to Personal vs. Social Motivation" width="100%" />
+  <figcaption><strong>Figure 2.1:</strong> Reading the Buyer: Matching Your Approach to Personal vs. Social Motivation — module framework at a glance: Self-Gifting: A Specific, Well-Studied Personal-Oriented Pattern · Listening for the Actual Words, Not Just the Category.</figcaption>
+</figure>
+
 ## Self-Gifting: A Specific, Well-Studied Personal-Oriented Pattern
 
 A significant and growing body of consumer research focuses specifically on self-gifting — purchases that are, in the academic definition, "internally attributed, exclusively personal, pleasure oriented, and independent of an immediate need." This research draws a further, genuinely useful distinction: self-gifting behavior differs depending on what preceded it. Following an ordinary life event, people tend to reward themselves with ordinary, modest purchases; following a landmark event — a major promotion, a significant anniversary, the end of a hard chapter, a milestone birthday — people specifically seek out extraordinary purchases that match the scale of what they just went through. A jewelry purchase following a landmark life event is a textbook self-gift, and the research finding has a direct, practical implication: the piece being considered isn't really being compared to other jewelry on rational grounds nearly as much as it's being measured against the significance of the event itself. A conversation that asks "what happened that made you want to do something like this for yourself?" and takes the answer seriously is speaking directly to what the academic research shows is actually driving this specific kind of purchase.

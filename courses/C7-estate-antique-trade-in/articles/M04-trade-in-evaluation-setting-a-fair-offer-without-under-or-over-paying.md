@@ -4,6 +4,11 @@
 
 Setting a trade-in offer is where estate expertise meets real financial risk. Offer too little, and a knowledgeable client feels disrespected and walks; offer too much, and the store loses money the moment the piece is resold. This module covers the actual mechanics of valuing metal, diamonds, and colored stones for a trade-in offer, and how to communicate that offer honestly and confidently.
 
+<figure>
+  <img src="../assets/c7-m04-trade-in-evaluation-setting-fair-offer-without.svg" alt="Trade-In Evaluation: Setting a Fair Offer Without Under- or Over-Paying" width="100%" />
+  <figcaption><strong>Figure 4.1:</strong> Trade-In Evaluation: Setting a Fair Offer Without Under- or Over-Paying — module framework at a glance: The Core Reality: Retail, Wholesale, and Melt Are Three Different Numbers · Valuing the Metal: The Melt Value Formula.</figcaption>
+</figure>
+
 ## The Core Reality: Retail, Wholesale, and Melt Are Three Different Numbers
 
 Every piece of jewelry has multiple, simultaneously legitimate values, and a trade-in offer needs to be built from the right one — not from what the client originally paid at retail. New jewelry is typically marked up 100-300% over its wholesale/material cost to cover overhead, design, marketing, and margin; a trade-in evaluation works in the opposite direction, starting from wholesale and melt value, not retail. This is the single most important thing to communicate clearly to a client, since the gap between what they paid and what a piece is now worth in trade is almost always explained by this markup structure, not by the piece having somehow "lost value" through any fault of the client's.

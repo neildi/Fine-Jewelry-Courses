@@ -19,6 +19,11 @@ generated: 2026-09-11
 
 A client is browsing blue sapphires in your case. She finds a beautiful 3.05 ct oval Ceylon, heated, eye-clean, bright royal blue, priced at $8,400. She pulls out her phone and shows you a headline: *"3.10 ct Kashmir sapphire sells for $3.2 million at Christie's Hong Kong."* She looks up. "Why is yours $8,000 and that one $3 million? Is your markup that high?"
 
+<figure>
+  <img src="../assets/c17-m10-colored-stone-market-mine-auction-block.svg" alt="The Colored Stone Market: From Mine to Auction Block to Your Case" width="100%" />
+  <figcaption><strong>Figure 10.1:</strong> The Colored Stone Market: From Mine to Auction Block to Your Case — module framework at a glance: The $3 million sapphire vs the $8,000 sapphire · The pipeline, revisited · Key mining regions — a quick reference map.</figcaption>
+</figure>
+
 It's not markup. The $3 million sapphire and the $8,000 sapphire are effectively different products. The auction stone is a *finest-of-the-century* Kashmir sapphire — a near-mythic origin, mined before 1930, with velvety saturated blue, no heat, impeccable pedigree, provenance likely dating back decades, and a buyer pool of collectors who compete at that level the way they compete for a Picasso. The sapphire in your case is a commercial-quality heat-treated Ceylon/Madagascar stone — beautiful, wearable, well cut — but it is to the Kashmir sapphire what a luxury production sedan is to a 1960s Ferrari 250 GTO. Same general category (blue sapphire / car), but different worlds.
 
 This module walks through how the colored-stone market actually works: where stones come from, where they are cut and treated, how they trade, where auction prices come from, what certificates cost and mean, and what really drives price. Understanding the market keeps you from overpromising (you will not find a "Kashmir sapphire" for $8,000), from underpromising (a fine Ceylon/Madagascar/Montana stone is genuinely valuable even if it's not an auction Kashmir), and from making embarrassing origin claims.

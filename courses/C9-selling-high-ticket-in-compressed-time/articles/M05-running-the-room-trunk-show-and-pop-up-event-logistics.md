@@ -4,6 +4,11 @@
 
 Everything in Modules 2 through 4 assumed a single conversation between one associate and one client. Real compressed-time events involve dozens of conversations happening at once, a visiting designer's inventory that isn't the store's own, and genuinely elevated security risk simply because so much high-value merchandise is concentrated in one place for a short window. This module covers the operational layer underneath the sales conversation — staffing, setup, security, and vendor terms — that determines whether the skills from earlier modules actually get a fair chance to work.
 
+<figure>
+  <img src="../assets/c9-m05-running-room-trunk-show-pop-up-event.svg" alt="Running the Room: Trunk Show and Pop-Up Event Logistics" width="100%" />
+  <figcaption><strong>Figure 5.1:</strong> Running the Room: Trunk Show and Pop-Up Event Logistics — module framework at a glance: Security: The Risk Is Real and Well-Documented · Staffing: Matching People to the Actual Conversation Load.</figcaption>
+</figure>
+
 ## Security: The Risk Is Real and Well-Documented
 
 The jewelry industry's own security experts are explicit that trunk shows and similar events represent genuine, elevated risk, not a hypothetical concern. The Jewelers' Security Alliance has specifically warned that trunk show season is "a magnet for criminals," precisely because these events concentrate unusually high-value merchandise, often including a visiting designer's inventory, into a temporary setup that doesn't have a store's normal built-in security infrastructure.

@@ -24,6 +24,11 @@ Outcome 5; factual discipline 5 (numbers verbatim from the GIA research page; hi
 
 "Excellent cut" is one letter-grade on a report, but it is the only one of the 4Cs whose standard **was not invented and imposed — it was measured out of human observers and then predicted back.** GIA's own research summary (Jan 2016, "Cut: The 4th C") documents the pipeline end to end; it is the single best source in the entire further-reading list for converting a price objection. Here is the arc in six moves.
 
+<figure>
+  <img src="../assets/c16-m06-light-into-beauty-gia-cut-grade.svg" alt="Light into Beauty: How the GIA Cut Grade Was Researched Into Existence" width="100%" />
+  <figcaption><strong>Figure 6.1:</strong> Light into Beauty: How the GIA Cut Grade Was Researched Into Existence — module framework at a glance: The claim you'll make, and the receipts · Pseudoscience field guide (what this module now lets you kill) · Counter scripts.</figcaption>
+</figure>
+
 ### 1. Modeling (1989 onward): thousands of proportion sets, one finding
 
 With new computer technology "GIA developed an advanced ray-tracing program to understand how light interacts within a round brilliant," analyzing **tens of thousands of proportion sets** across table size, crown angle, pavilion angle, star length, lower-half length, girdle thickness, culet size, and total depth — plus polish and symmetry's effect on appearance. Two findings killed folklore:

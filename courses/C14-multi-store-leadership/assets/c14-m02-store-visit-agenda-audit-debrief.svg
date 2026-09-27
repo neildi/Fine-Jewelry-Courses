@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 770" width="100%" height="100%" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#E5C378"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0.35"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#818CF8" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1100" height="770" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1096" height="766" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <g transform="translate(46, 34)">
+    <rect x="0" y="0" width="140" height="24" rx="12" fill="#818CF8" fill-opacity="0.18"/>
+    <text x="70.2" y="16" fill="#818CF8" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1">MODULE FRAMEWORK</text>
+    <text x="1008" y="16" fill="#64748B" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="end" letter-spacing="1.2">C14 · MODULE 02</text>
+    <text x="0" y="52" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">The Store Visit: Agenda, Audit, Debrief</text>
+  </g>
+  <g transform="translate(46, 130)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#818CF8" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#818CF8"/>
+    <circle cx="32" cy="30" r="14" fill="#818CF8" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#818CF8" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">1</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">The Five-Part Rhythm: Prepare, Observe, Coach, Verify, Follow Up</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A well-documented store-visit structure breaks into five specific phases,</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">each with a distinct purpose.</text>
+  </g>
+  <g transform="translate(559, 130)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#818CF8" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#818CF8"/>
+    <circle cx="32" cy="30" r="14" fill="#818CF8" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#818CF8" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">2</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Building the Pre-Visit Agenda</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">The specific preparation this rhythm requires: pulling the store's own</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">recent numbers (this course's...</text>
+  </g>
+  <g transform="translate(46, 252)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#818CF8" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#818CF8"/>
+    <circle cx="32" cy="30" r="14" fill="#818CF8" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#818CF8" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">3</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">The Audit: What a Structured Walk-Through Actually Covers</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A well-corroborated audit structure organizes the in-store walk-through into</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">five core domains, and a...</text>
+  </g>
+  <g transform="translate(559, 252)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#818CF8" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#818CF8"/>
+    <circle cx="32" cy="30" r="14" fill="#818CF8" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#818CF8" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">4</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Capture Evidence, Not Just Impressions</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A specific, well-documented discipline that makes a store audit genuinely</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">useful rather than just a...</text>
+  </g>
+  <g transform="translate(46, 374)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#818CF8" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#818CF8"/>
+    <circle cx="32" cy="30" r="14" fill="#818CF8" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#818CF8" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">5</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Coaching in the Moment vs. Saving It for the Debrief</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A specific, practical balance the five-part rhythm requires: some coaching</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">happens in real time, on the...</text>
+  </g>
+  <g transform="translate(559, 374)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#818CF8" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#818CF8"/>
+    <circle cx="32" cy="30" r="14" fill="#818CF8" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#818CF8" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">6</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Putting the Vocabulary to Work</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">The complete store-visit sequence this module establishes: prepare using the</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">store's own recent numbers and...</text>
+  </g>
+  <g transform="translate(46, 496)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#818CF8" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#818CF8"/>
+    <circle cx="32" cy="30" r="14" fill="#818CF8" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#818CF8" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">7</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">A Worked Scenario: The Visit That Actually Changed Something</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A district leader arrives at a store having reviewed the location's</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">conversion rate, which has been declining...</text>
+  </g>
+  <g transform="translate(46, 618)">
+    <rect width="1008" height="110" rx="10" fill="#0F172A" stroke="#334155" stroke-width="1.4"/>
+    <text x="20" y="24" fill="#818CF8" font-family="system-ui, sans-serif" font-size="11" font-weight="700" letter-spacing="1.4">KEY TAKEAWAYS</text>
+    <circle cx="26" cy="42" r="3.2" fill="#818CF8"/>
+    <text x="40" y="46" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">A structured store visit follows a five-part rhythm — prepare, observe, coach, verify, follow up — designed...</text>
+    <circle cx="26" cy="61" r="3.2" fill="#818CF8"/>
+    <text x="40" y="65" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Preparation means reviewing the store's own recent numbers and specifically revisiting the previous visit's commitments...</text>
+    <circle cx="26" cy="80" r="3.2" fill="#818CF8"/>
+    <text x="40" y="84" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">A well-corroborated audit structure covers five core domains — merchandising, inventory, operations, customer...</text>
+    <circle cx="26" cy="99" r="3.2" fill="#818CF8"/>
+    <text x="40" y="103" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Capturing specific, dated evidence (photos, written observations) rather than relying on general impression makes an...</text>
+  </g>
+  <text x="46" y="750" fill="#C5A059" font-family="system-ui, sans-serif" font-size="10" font-weight="700" letter-spacing="1.6">JEWELSWELL MASTER ACADEMY</text>
+  <text x="1054" y="750" fill="#64748B" font-family="system-ui, sans-serif" font-size="10" font-weight="400" text-anchor="end">Generated from the module article — headings and takeaways verbatim.</text>
+</svg>

@@ -4,6 +4,11 @@
 
 Every showcase interaction on the sales floor is a small window of risk, repeated dozens of times a day. Unlike a robbery or a burglary, showcase and selling-floor security isn't about a rare, dramatic event — it's about a routine you repeat so many times that it's tempting to get casual about it. That casualness is exactly what distraction theft and switch schemes are designed to exploit. This module covers the specific, sequenced habits that keep every single showing safe, whether it's your first customer of the day or your fiftieth.
 
+<figure>
+  <img src="../assets/c4-m03-showcase-selling-floor-security.svg" alt="Showcase and Selling-Floor Security" width="100%" />
+  <figcaption><strong>Figure 3.1:</strong> Showcase and Selling-Floor Security — module framework at a glance: The Core Selling Protocol · The Anti-Switch Control: Why You Loupe Before AND After.</figcaption>
+</figure>
+
 ## The Core Selling Protocol
 
 Jewelers Mutual's selling protocol lays out a specific sequence to follow every time merchandise comes out of a case to be shown:

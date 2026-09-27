@@ -4,6 +4,11 @@
 
 Every module in this course covered one psychological principle or negotiation technique on its own: motivation, scarcity, pricing psychology, negotiation confidence, HNW discretion, cross-cultural signaling. A real high-ticket negotiation rarely presents these one at a time — a single client conversation might require correctly diagnosing motivation, handling a genuine scarcity fact honestly, presenting price without manufacturing a decoy, negotiating a price objection with real diagnostic skill, and doing all of this with appropriate cultural and discretion awareness, all within one continuous conversation. This capstone brings the full course together into a single simulated negotiation, so what's being assessed is whether the psychology holds up together under real, layered pressure, not any one principle in isolation.
 
+<figure>
+  <img src="../assets/c10-m08-capstone-full-luxury-negotiation-simulation.svg" alt="Capstone: A Full Luxury Negotiation Simulation" width="100%" />
+  <figcaption><strong>Figure 8.1:</strong> Capstone: A Full Luxury Negotiation Simulation — module framework at a glance: What This Capstone Actually Assesses · The Simulation Structure · A Worked Scenario: The Full Negotiation.</figcaption>
+</figure>
+
 ## What This Capstone Actually Assesses
 
 This capstone is the course's formal assessment. A manager or trainer should evaluate the simulation against every prior module's specific standard, not just overall impression:

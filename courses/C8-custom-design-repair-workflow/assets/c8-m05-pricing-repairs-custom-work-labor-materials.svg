@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 690" width="100%" height="100%" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#E5C378"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0.35"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1100" height="690" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1096" height="686" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <g transform="translate(46, 34)">
+    <rect x="0" y="0" width="140" height="24" rx="12" fill="#22D3EE" fill-opacity="0.18"/>
+    <text x="70.2" y="16" fill="#22D3EE" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1">MODULE FRAMEWORK</text>
+    <text x="1008" y="16" fill="#64748B" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="end" letter-spacing="1.2">C8 · MODULE 05</text>
+    <text x="0" y="52" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">Pricing Repairs and Custom Work: Labor, Materials, and Margin</text>
+  </g>
+  <g transform="translate(46, 130)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#22D3EE" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#22D3EE"/>
+    <circle cx="32" cy="30" r="14" fill="#22D3EE" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#22D3EE" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">1</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">The Three-Part Price: Labor, Materials, and Margin</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Every repair or custom-work price needs to account for three distinct</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">components: 1.</text>
+  </g>
+  <g transform="translate(559, 130)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#22D3EE" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#22D3EE"/>
+    <circle cx="32" cy="30" r="14" fill="#22D3EE" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#22D3EE" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">2</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Estimate vs. Quote: A Difference That Prevents Disputes</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">These terms get used loosely, but operationally they mean different things:</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">- An estimate is a good-faith projection based on what is visible at...</text>
+  </g>
+  <g transform="translate(46, 266)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#22D3EE" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#22D3EE"/>
+    <circle cx="32" cy="30" r="14" fill="#22D3EE" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#22D3EE" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">3</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Repair Deposits: When and Why</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Routine, lower-cost repairs may be paid at pickup, but a deposit is</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">reasonable and common when the store must purchase materials, commit...</text>
+  </g>
+  <g transform="translate(559, 266)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#22D3EE" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#22D3EE"/>
+    <circle cx="32" cy="30" r="14" fill="#22D3EE" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#22D3EE" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">4</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Custom Design Deposits: Design Work Is Work</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Custom work adds a separate category of labor that clients don't always see:</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">concept development, sourcing, CAD modeling, and revision cycles.</text>
+  </g>
+  <g transform="translate(46, 402)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#22D3EE" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#22D3EE"/>
+    <circle cx="32" cy="30" r="14" fill="#22D3EE" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#22D3EE" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">5</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Revision Limits and Scope Changes</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A quote that includes unlimited CAD revisions has no real ceiling on labor</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">cost, and the custom-design policies reviewed consistently deal with this...</text>
+  </g>
+  <g transform="translate(559, 402)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#22D3EE" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#22D3EE"/>
+    <circle cx="32" cy="30" r="14" fill="#22D3EE" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#22D3EE" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">6</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">A Worked Scenario: The Scope Change After Inspection</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A client brings in a gold ring with a crack in the shank and receives an</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">estimate for a simple solder repair.</text>
+  </g>
+  <g transform="translate(46, 538)">
+    <rect width="1008" height="110" rx="10" fill="#0F172A" stroke="#334155" stroke-width="1.4"/>
+    <text x="20" y="24" fill="#22D3EE" font-family="system-ui, sans-serif" font-size="11" font-weight="700" letter-spacing="1.4">KEY TAKEAWAYS</text>
+    <circle cx="26" cy="42" r="3.2" fill="#22D3EE"/>
+    <text x="40" y="46" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Every repair or custom price must cover labor, materials, and margin; labor includes the skilled bench time and quality...</text>
+    <circle cx="26" cy="61" r="3.2" fill="#22D3EE"/>
+    <text x="40" y="65" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">An estimate is a good-faith projection based on visible conditions; a quote is a fixed price for a defined scope.</text>
+    <circle cx="26" cy="80" r="3.2" fill="#22D3EE"/>
+    <text x="40" y="84" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Repair deposits are appropriate when a job requires new materials, outside-vendor work, or significant specialized...</text>
+    <circle cx="26" cy="99" r="3.2" fill="#22D3EE"/>
+    <text x="40" y="103" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Custom projects commonly use a design/CAD deposit plus a 30-50% production deposit after approval, with staged payments...</text>
+  </g>
+  <text x="46" y="670" fill="#C5A059" font-family="system-ui, sans-serif" font-size="10" font-weight="700" letter-spacing="1.6">JEWELSWELL MASTER ACADEMY</text>
+  <text x="1054" y="670" fill="#64748B" font-family="system-ui, sans-serif" font-size="10" font-weight="400" text-anchor="end">Generated from the module article — headings and takeaways verbatim.</text>
+</svg>

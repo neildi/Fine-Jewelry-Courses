@@ -4,6 +4,11 @@
 
 C13 built the complete toolkit for running a single store well: hiring, onboarding, coaching, reviewing, and developing a team. This opening module of C14 covers a genuinely different job, not a bigger version of the same one. A district or multi-store leader isn't running a store with more people in it — they're running managers, and the specific skills that made someone an excellent store leader can actively work against them in this new role if they don't consciously change how they operate.
 
+<figure>
+  <img src="../assets/c14-m01-running-store-running-managers.svg" alt="From Running a Store to Running Managers" width="100%" />
+  <figcaption><strong>Figure 1.1:</strong> From Running a Store to Running Managers — module framework at a glance: The Core Shift: From Doing to Enabling Others to Do · Why Being a Great Store Manager Doesn't Automatically Transfer.</figcaption>
+</figure>
+
 ## The Core Shift: From Doing to Enabling Others to Do
 
 The most consistently repeated framing across leadership-transition research: moving into management means stepping away from doing the work directly, and the job becomes mentoring, motivating, and guiding others to do it while holding the connection to the bigger picture. Multi-unit leadership takes this same shift and applies it a full level higher — a district manager's primary job is to develop store managers who can run their locations without the district manager present. The single most direct articulation of this distinction: a struggling multi-unit leader solves problems directly; a strong one builds store managers who solve problems before the district leader ever hears about them. A struggling leader visits a store to inspect it; a strong one visits to develop the person running it.

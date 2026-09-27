@@ -28,6 +28,11 @@ The remainder of this module establishes the foundation beneath that video: the 
 
 A client places a vintage yellow-gold ring on your counter pad. It holds an oval blue stone weighing approximately three carats, flanked by single-cut shoulder diamonds. 
 
+<figure>
+  <img src="../assets/c17-m01-before-grader-short-history-colored-stones.svg" alt="Before the Grader: A Short History of Colored Stones and How to Use GIA's Library" width="100%" />
+  <figcaption><strong>Figure 1.1:</strong> Before the Grader: A Short History of Colored Stones and How to Use GIA's Library — module framework at a glance: The Ring That Isn't What Grandma Called It · Why Colored Stones Are Not &quot;Fancy Diamonds&quot;: The Four Structural Differences.</figcaption>
+</figure>
+
 *"The family always called it a sapphire,"* she explains. *"My grandmother wore it every Sunday. But it doesn't look like the royal-blue stones in your display, and I want to know what it is, what it's worth, and whether it's been treated."*
 
 She expects an answer before she finishes her coffee.

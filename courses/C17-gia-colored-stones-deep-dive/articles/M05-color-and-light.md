@@ -19,6 +19,11 @@ generated: 2026-09-11
 
 A client buys a 2.20 ct oval tanzanite under your showcase's halogen spotlights. She picks a deep violet-blue that she describes as "the color of a peacock's neck" and leaves thrilled. Two days later she returns, upset. At dinner in candlelight the stone looked purple-gray. Under her office fluorescent it looked brownish. The sun coming through her kitchen window brought back the blue she remembered. "You sold me the wrong stone," she says.
 
+<figure>
+  <img src="../assets/c17-m05-color-light-gems-get-their-color.svg" alt="Color and Light: How Gems Get Their Color — and Why Lighting Changes Everything" width="100%" />
+  <figcaption><strong>Figure 5.1:</strong> Color and Light: How Gems Get Their Color — and Why Lighting Changes Everything — module framework at a glance: The tanzanite that changed color · Light is color: a 60-second reminder · The five color-causing mechanisms.</figcaption>
+</figure>
+
 You did not sell her the wrong stone. You sold her a tanzanite without showing it to her in daylight, in incandescent, and in fluorescent light before she wrote the check. Tanzanite is trichroic — it shows three different colors along three different crystal directions — and its dominant transmitted color depends strongly on what wavelength mix is in the light falling on it. Every colored stone in your case will look at least slightly different under different lighting, and some (alexandrite chrysoberyl, color-change garnet, color-change sapphire, zultanite/diaspore) are famous for it. This is not a defect. It is physics.
 
 This module explains where color comes from, why pleochroism and the alexandrite effect exist, how phenomena like star and cat's-eye form, and how to describe color consistently. The anchor references are Fritsch and Rossman's three-part 1987–88 "An Update on Color in Gems" trilogy — still the definitive gemological reference on color science — Richard Hughes' 2014 paper on pleochroism, and Stephanie Bohannon's 2016 plain-language summary of phenomenal cabochon effects.

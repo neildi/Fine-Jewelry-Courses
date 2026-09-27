@@ -8,6 +8,11 @@ David doesn't have a communication problem because he talks too little. He has o
 
 At store level, the daily huddle and weekly team meeting already exist as an established rhythm: a five-day, fifteen-minute Monday KPI review, a daily huddle covering new products, appointments, promotions, repair status and clienteling plans, and a weekly team meeting for clienteling accountability and a scheduled training topic. Your job as district leader is not to invent something new — it is to build the equivalent rhythm one level up, and to make sure the store-level rhythm survives contact with district-level demands instead of getting crowded out by them. The Store Manager to District Manager reporting line is explicit in multi-unit chain structures, and the standard expectation at that reporting line is a monthly business review: review daily, weekly and monthly business and people results and build strategic plans jointly with the District Manager.
 
+<figure>
+  <img src="../assets/c14-m06-district-communication-cadence.svg" alt="District Communication Cadence" width="100%" />
+  <figcaption><strong>Figure 6.1:</strong> District Communication Cadence — module framework at a glance: Why This Matters · The Three Layers of District Communication · Building the Weekly District Check-In.</figcaption>
+</figure>
+
 ## The Three Layers of District Communication
 
 A working district communication system has three distinct layers, each with its own cadence, and conflating them is the single most common cause of the "why does everyone keep asking me the same thing" fatigue David is experiencing.

@@ -4,6 +4,11 @@
 
 A structured hiring process, built across Modules 2 and 3, only pays off if the resulting hire actually ramps into a productive associate quickly rather than drifting through an unstructured first few weeks. This module builds the specific 30-60-90 day structure that turns a new hire's first quarter into a deliberate progression rather than a series of ad hoc shifts, directly targeting the ramp-time KPI this course's official architecture names as one of its central measures.
 
+<figure>
+  <img src="../assets/c13-m04-30-day-onboarding-plan.svg" alt="The 30-Day Onboarding Plan" width="100%" />
+  <figcaption><strong>Figure 4.1:</strong> The 30-Day Onboarding Plan — module framework at a glance: The Three-Phase Structure: Learn, Contribute, Own · What This Looks Like for a Jewelry Sales Associate, Specifically.</figcaption>
+</figure>
+
 ## The Three-Phase Structure: Learn, Contribute, Own
 
 A well-documented onboarding framework breaks the first ninety days into three distinct phases, each with a different goal for the new hire and a different role for the manager. The first thirty days are for learning: understanding the team, the store, the tools, and the customer, with the new hire paired with a buddy from day one, given weekly one-on-ones, and asked to complete one small, real task rather than only observing. Days 31 to 60 are for contributing: taking ownership of recurring work, building real relationships with the rest of the team, and running something end-to-end with less direct oversight. Days 61 to 90 are for owning: driving a specific initiative without a safety net, and this is also the point at which a manager runs a genuine, complete performance check-in rather than only informal feedback.

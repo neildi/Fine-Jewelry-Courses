@@ -19,6 +19,11 @@ generated: 2026-09-11
 
 A bridal client compares two blue sapphires on velvet. Both are oval, both around two carats, both labeled simply "blue sapphire" — and one is three times the price of the other. "They look almost the same to me," she says. "Is it just the brand?"
 
+<figure>
+  <img src="../assets/c17-m02-colored-stones-form-geologic-environments-basalt.svg" alt="How Colored Stones Form: Geologic Environments from Basalt to Pegmatite to Marble" width="100%" />
+  <figcaption><strong>Figure 2.1:</strong> How Colored Stones Form: Geologic Environments from Basalt to Pegmatite to Marble — module framework at a glance: The two-sapphire problem · Corundum is corundum: the geochemistry behind source differences · Environment 1: Alkali basalt — dark sapphire and ruby.</figcaption>
+</figure>
+
 It is not the brand. It is the rock the stone formed in. The darker, inky blue sapphire is from a basalt field in Thailand or Australia — geologically young lava that carried aluminum-rich rock up from 50 kilometers under the surface and with it corundum that absorbed a great deal of iron. The brighter, livelier blue stone is a Sri Lankan or Madagascar sapphire from metamorphosed rock that lost its iron and kept its titanium, giving a saturated but bright royal blue with occasional silk. They are both sapphire — both Al₂O₃, both corundum, both 9 on the Mohs scale — but they crystallized in fundamentally different chemical environments, and every difference in color, silk, inclusion profile, treatment response, and price traces back to that fact.
 
 This module explains those environments. You do not need a geology degree to sell sapphires, but the associate who can say "this one grew in basalt and this one in marble — that's why they look different" is the associate the client trusts.

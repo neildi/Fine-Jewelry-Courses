@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 718" width="100%" height="100%" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#E5C378"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FB923C"/>
+      <stop offset="100%" stop-color="#FB923C" stop-opacity="0.35"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FB923C" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#FB923C" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1100" height="718" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1096" height="714" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <g transform="translate(46, 34)">
+    <rect x="0" y="0" width="140" height="24" rx="12" fill="#FB923C" fill-opacity="0.18"/>
+    <text x="70.2" y="16" fill="#FB923C" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1">CONVERSATION MAP</text>
+    <text x="1008" y="16" fill="#64748B" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="end" letter-spacing="1.2">C7 · MODULE 09</text>
+    <text x="0" y="52" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">The Trade-In Sales Conversation: Turning an Old Piece Into a</text>
+    <text x="0" y="80" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">New Sale</text>
+  </g>
+  <g transform="translate(46, 158)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#FB923C" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#FB923C"/>
+    <circle cx="32" cy="30" r="14" fill="#FB923C" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB923C" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">1</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Recognizing the Emotional Register Before Anything Else</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Trade-in conversations carry more emotional weight than an average sales</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">interaction, and experienced jewelers describe real, sometimes extreme...</text>
+  </g>
+  <g transform="translate(559, 158)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#FB923C" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#FB923C"/>
+    <circle cx="32" cy="30" r="14" fill="#FB923C" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB923C" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">2</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">What Actually Helps: Acknowledging the Piece's History</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Across multiple sources describing how people navigate selling sentimental</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">jewelry, a consistent, specific practice emerges: offering to document</text>
+    <text x="22" y="82" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">the...</text>
+  </g>
+  <g transform="translate(46, 294)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#FB923C" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#FB923C"/>
+    <circle cx="32" cy="30" r="14" fill="#FB923C" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB923C" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">3</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">The Valuation Conversation: Bringing Modules 4 and 5 Together</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Once the emotional register is read correctly, the actual valuation</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">conversation applies Module 4's structure directly: explain the</text>
+    <text x="22" y="82" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">wholesale/retail...</text>
+  </g>
+  <g transform="translate(559, 294)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#FB923C" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#FB923C"/>
+    <circle cx="32" cy="30" r="14" fill="#FB923C" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB923C" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">4</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">The Upgrade Opportunity: Why Trade-In Conversations Are a Genuine</text>
+    <text x="56" y="44" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Sales Moment</text>
+    <text x="22" y="69" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Here's the concrete business case for treating a trade-in conversation as a</text>
+    <text x="22" y="84" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">real sales opportunity, not just an appraisal: a customer trading in a...</text>
+  </g>
+  <g transform="translate(46, 430)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#FB923C" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#FB923C"/>
+    <circle cx="32" cy="30" r="14" fill="#FB923C" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB923C" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">5</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">A Worked Scenario: The Downsizing Client</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A client brings in several pieces inherited from a parent's estate, mentions</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">she's downsizing and doesn't wear most of them, and seems a little...</text>
+  </g>
+  <g transform="translate(46, 566)">
+    <rect width="1008" height="110" rx="10" fill="#0F172A" stroke="#334155" stroke-width="1.4"/>
+    <text x="20" y="24" fill="#FB923C" font-family="system-ui, sans-serif" font-size="11" font-weight="700" letter-spacing="1.4">KEY TAKEAWAYS</text>
+    <circle cx="26" cy="42" r="3.2" fill="#FB923C"/>
+    <text x="40" y="46" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Trade-in conversations frequently carry real emotional weight tied to life transitions; read the emotional register...</text>
+    <circle cx="26" cy="61" r="3.2" fill="#FB923C"/>
+    <text x="40" y="65" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Offering to document a piece's story (photos, the occasion, who gave it) before the transaction concludes is a...</text>
+    <circle cx="26" cy="80" r="3.2" fill="#FB923C"/>
+    <text x="40" y="84" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">The valuation conversation itself applies Module 4's explain-the-structure approach and Module 5's appraisal-type...</text>
+    <circle cx="26" cy="99" r="3.2" fill="#FB923C"/>
+    <text x="40" y="103" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">A trade-in toward an upgrade is a genuinely stronger business outcome than a standalone sale of similar size, which is...</text>
+  </g>
+  <text x="46" y="698" fill="#C5A059" font-family="system-ui, sans-serif" font-size="10" font-weight="700" letter-spacing="1.6">JEWELSWELL MASTER ACADEMY</text>
+  <text x="1054" y="698" fill="#64748B" font-family="system-ui, sans-serif" font-size="10" font-weight="400" text-anchor="end">Generated from the module article — headings and takeaways verbatim.</text>
+</svg>

@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 688" width="100%" height="100%" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#E5C378"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7DD3FC"/>
+      <stop offset="100%" stop-color="#7DD3FC" stop-opacity="0.35"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7DD3FC" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#7DD3FC" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1100" height="688" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1096" height="684" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <g transform="translate(46, 34)">
+    <rect x="0" y="0" width="140" height="24" rx="12" fill="#7DD3FC" fill-opacity="0.18"/>
+    <text x="70.2" y="16" fill="#7DD3FC" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1">CONVERSATION MAP</text>
+    <text x="1008" y="16" fill="#64748B" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="end" letter-spacing="1.2">C16 · MODULE 11</text>
+    <text x="0" y="52" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">Lab-Grown Diamonds: Two Routes, the Arms Race, and the Trust</text>
+    <text x="0" y="80" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">Conversation</text>
+  </g>
+  <g transform="translate(46, 158)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#7DD3FC" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#7DD3FC"/>
+    <circle cx="32" cy="30" r="14" fill="#7DD3FC" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#7DD3FC" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">1</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Self-critique rubric (compact)</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Outcome 5; factual discipline 4.5 (mechanisms and detection logic tied to</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">read/verified sources; no...</text>
+  </g>
+  <g transform="translate(559, 158)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#7DD3FC" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#7DD3FC"/>
+    <circle cx="32" cy="30" r="14" fill="#7DD3FC" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#7DD3FC" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">2</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">The one sentence that should reframe the whole conversation</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A lab-grown diamond is the same material — carbon in the same cubic lattice,</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">the same hardness, the same...</text>
+  </g>
+  <g transform="translate(46, 280)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#7DD3FC" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#7DD3FC"/>
+    <circle cx="32" cy="30" r="14" fill="#7DD3FC" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#7DD3FC" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">3</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Route 1 — HPHT: squeezing carbon in metal</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">High-Pressure High-Temperature growth (the GIA reference card is Shigley et</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">al., &quot;An Updated Chart on the...</text>
+  </g>
+  <g transform="translate(559, 280)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#7DD3FC" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#7DD3FC"/>
+    <circle cx="32" cy="30" r="14" fill="#7DD3FC" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#7DD3FC" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">4</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Route 2 — CVD: growing from a gas</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Chemical Vapor Deposition (the module's core source: Eaton-Magaña &amp; Shigley,</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">&quot;Observations of CVD-Grown...</text>
+  </g>
+  <g transform="translate(46, 402)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#7DD3FC" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#7DD3FC"/>
+    <circle cx="32" cy="30" r="14" fill="#7DD3FC" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#7DD3FC" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">5</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">The type-system payoff</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Recall M08: type classification exists to tell you what to suspect.</text>
+  </g>
+  <g transform="translate(559, 402)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#7DD3FC" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#7DD3FC"/>
+    <circle cx="32" cy="30" r="14" fill="#7DD3FC" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#7DD3FC" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">6</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Detection, honestly described (the arms race)</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">The A19 list is essentially a chronological log of the escalation, and</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">teaching it accurately is your best...</text>
+  </g>
+  <g transform="translate(46, 524)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#7DD3FC" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#7DD3FC"/>
+    <circle cx="32" cy="30" r="14" fill="#7DD3FC" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#7DD3FC" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">7</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Disclosure and grading practice</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">- Reports are explicit.</text>
+  </g>
+  <g transform="translate(559, 524)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#7DD3FC" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#7DD3FC"/>
+    <circle cx="32" cy="30" r="14" fill="#7DD3FC" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#7DD3FC" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">8</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Two scripts that work</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">The customer who wants grown: &quot;Smart buy — same material, same optics, no</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">mine story.</text>
+  </g>
+  <text x="46" y="668" fill="#C5A059" font-family="system-ui, sans-serif" font-size="10" font-weight="700" letter-spacing="1.6">JEWELSWELL MASTER ACADEMY</text>
+  <text x="1054" y="668" fill="#64748B" font-family="system-ui, sans-serif" font-size="10" font-weight="400" text-anchor="end">Generated from the module article — headings and takeaways verbatim.</text>
+</svg>

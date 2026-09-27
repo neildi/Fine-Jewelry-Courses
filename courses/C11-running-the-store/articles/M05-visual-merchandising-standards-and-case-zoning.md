@@ -4,6 +4,11 @@
 
 A showcase is doing two jobs at once: it's a security-sensitive container that has to follow the locked-case discipline covered in Module 2, and it's a genuine sales tool that either draws a client's eye toward the right pieces or lets them wander past without noticing anything at all. This module covers the specific merchandising principles — zoning, grouping, lighting, and hierarchy — that make a case actually work as a selling surface, and how those principles have to operate within, not instead of, the security standards this course already established.
 
+<figure>
+  <img src="../assets/c11-m05-visual-merchandising-standards-case-zoning.svg" alt="Visual Merchandising Standards and Case Zoning" width="100%" />
+  <figcaption><strong>Figure 5.1:</strong> Visual Merchandising Standards and Case Zoning — module framework at a glance: Hot Zones and Cold Zones: Where the Eye Actually Goes First · One Focal Point Per Zone, Grouped in Odd Numbers · Lighting: Not Decorative, Functional.</figcaption>
+</figure>
+
 ## Hot Zones and Cold Zones: Where the Eye Actually Goes First
 
 Retail merchandising research on jewelry specifically identifies predictable zones within any display area: the top-right corner and center of a case are considered "hot zones," ideal for the pieces a store most wants to sell, while the bottom-left corner is a "cold zone," better suited to large, statement pieces or items with steady, dependable demand that don't need extra visual help to get noticed. Eye-level center specifically commands the most attention from the most angles, which is exactly why it should hold a store's highest-margin pieces — while eye-level side positions work well for natural pairings that suggest an add-on sale on their own, like wedding bands positioned beside engagement rings or earrings beside a complementary necklace. Above- and below-eye-level positions aren't dead space, but they need stronger lighting or a bolder display element to compete with the natural pull of the center line.

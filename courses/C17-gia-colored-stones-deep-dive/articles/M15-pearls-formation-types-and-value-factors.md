@@ -19,6 +19,11 @@ generated: 2026-09-11
 
 A client brings in her mother's strand, puts it on the counter, and asks two questions: "Are these real?" and "Are they worth anything?"
 
+<figure>
+  <img src="../assets/c17-m15-pearls-nacre-seven-value-factors-word.svg" alt="Pearls: Nacre, Seven Value Factors, and the Word the FTC Requires" width="100%" />
+  <figcaption><strong>Figure 15.1:</strong> Pearls: Nacre, Seven Value Factors, and the Word the FTC Requires — module framework at a glance: &quot;Are they real?&quot; · How a pearl forms · The types.</figcaption>
+</figure>
+
 Both are harder than they sound. "Real" splits three ways — natural, cultured or imitation — and the answer moves the value by a large factor. "Worth anything" depends on luster, nacre thickness, matching and condition, none of which the client can judge from her side of the counter.
 
 Here is the sentence that starts the conversation properly:

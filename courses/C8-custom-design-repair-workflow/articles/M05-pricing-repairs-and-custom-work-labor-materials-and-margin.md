@@ -4,6 +4,11 @@
 
 A repair or custom quote is a promise, not a rough guess. It needs to cover the actual material cost, the skilled labor involved, and a margin that keeps the service sustainable — while also being clear enough that the client understands what they are agreeing to and what happens if the scope changes. This module covers the pricing logic, deposit structures, revision policies, and estimate-versus-quote distinction behind that promise.
 
+<figure>
+  <img src="../assets/c8-m05-pricing-repairs-custom-work-labor-materials.svg" alt="Pricing Repairs and Custom Work: Labor, Materials, and Margin" width="100%" />
+  <figcaption><strong>Figure 5.1:</strong> Pricing Repairs and Custom Work: Labor, Materials, and Margin — module framework at a glance: The Three-Part Price: Labor, Materials, and Margin · Estimate vs. Quote: A Difference That Prevents Disputes · Repair Deposits: When and Why.</figcaption>
+</figure>
+
 ## The Three-Part Price: Labor, Materials, and Margin
 
 Every repair or custom-work price needs to account for three distinct components:

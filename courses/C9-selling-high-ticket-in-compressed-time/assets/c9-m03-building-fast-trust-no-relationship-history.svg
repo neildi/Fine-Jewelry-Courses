@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 690" width="100%" height="100%" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#E5C378"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FBBF24"/>
+      <stop offset="100%" stop-color="#FBBF24" stop-opacity="0.35"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FBBF24" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#FBBF24" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1100" height="690" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1096" height="686" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <g transform="translate(46, 34)">
+    <rect x="0" y="0" width="140" height="24" rx="12" fill="#FBBF24" fill-opacity="0.18"/>
+    <text x="70.2" y="16" fill="#FBBF24" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1">MODULE FRAMEWORK</text>
+    <text x="1008" y="16" fill="#64748B" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="end" letter-spacing="1.2">C9 · MODULE 03</text>
+    <text x="0" y="52" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">Building Fast Trust With No Relationship History</text>
+  </g>
+  <g transform="translate(46, 130)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#FBBF24" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#FBBF24"/>
+    <circle cx="32" cy="30" r="14" fill="#FBBF24" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FBBF24" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">1</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">The Single Most Important Finding: Warmth Comes Before Competence</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Social psychology research on how people judge new acquaintances converges</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">on two dimensions: warmth (does this person mean well toward me?) and...</text>
+  </g>
+  <g transform="translate(559, 130)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#FBBF24" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#FBBF24"/>
+    <circle cx="32" cy="30" r="14" fill="#FBBF24" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FBBF24" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">2</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">What Warmth Actually Looks Like, Specifically</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Warmth isn't vague friendliness — it has specific, learnable signals: a</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">genuine, relaxed facial expression rather than a tense or performative</text>
+    <text x="22" y="82" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">one;...</text>
+  </g>
+  <g transform="translate(46, 266)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#FBBF24" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#FBBF24"/>
+    <circle cx="32" cy="30" r="14" fill="#FBBF24" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FBBF24" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">3</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">What Competence Actually Looks Like, Once Warmth Is Established</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Once warmth is read as genuine, competence signals do real work: clear,</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">articulate explanation rather than jargon for its own sake; confident,...</text>
+  </g>
+  <g transform="translate(559, 266)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#FBBF24" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#FBBF24"/>
+    <circle cx="32" cy="30" r="14" fill="#FBBF24" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FBBF24" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">4</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Fast-Trust Techniques That Work Inside a Short Window</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Beyond the warmth-first principle, several specific, practical techniques</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">build trust quickly: - Genuine small talk, not generic small talk.</text>
+  </g>
+  <g transform="translate(46, 402)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#FBBF24" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#FBBF24"/>
+    <circle cx="32" cy="30" r="14" fill="#FBBF24" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FBBF24" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">5</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">A Worked Scenario: The Wrong Way to Open, and the Right Way</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A trunk show associate approaches a browsing client and says: &quot;This piece is</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">from a limited collection, hand-finished by our master jeweler using a...</text>
+  </g>
+  <g transform="translate(46, 538)">
+    <rect width="1008" height="110" rx="10" fill="#0F172A" stroke="#334155" stroke-width="1.4"/>
+    <text x="20" y="24" fill="#FBBF24" font-family="system-ui, sans-serif" font-size="11" font-weight="700" letter-spacing="1.4">KEY TAKEAWAYS</text>
+    <circle cx="26" cy="42" r="3.2" fill="#FBBF24"/>
+    <text x="40" y="46" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">People judge warmth before competence, often within a fraction of a second of meeting someone, and demonstrations of...</text>
+    <circle cx="26" cy="61" r="3.2" fill="#FBBF24"/>
+    <text x="40" y="65" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Warmth has specific, learnable signals — a genuine facial expression, open posture, and matched energy/pace — and...</text>
+    <circle cx="26" cy="80" r="3.2" fill="#FBBF24"/>
+    <text x="40" y="84" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Once warmth is established, competence signals (clear explanation, confident problem-solving, and kept promises within...</text>
+    <circle cx="26" cy="99" r="3.2" fill="#FBBF24"/>
+    <text x="40" y="103" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Genuine small talk, visible active listening (the paraphrase-back from Module 2), matched pace, undivided attention,...</text>
+  </g>
+  <text x="46" y="670" fill="#C5A059" font-family="system-ui, sans-serif" font-size="10" font-weight="700" letter-spacing="1.6">JEWELSWELL MASTER ACADEMY</text>
+  <text x="1054" y="670" fill="#64748B" font-family="system-ui, sans-serif" font-size="10" font-weight="400" text-anchor="end">Generated from the module article — headings and takeaways verbatim.</text>
+</svg>

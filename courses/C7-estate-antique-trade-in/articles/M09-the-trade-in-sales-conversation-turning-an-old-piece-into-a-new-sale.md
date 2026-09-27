@@ -4,6 +4,11 @@
 
 Every skill from Modules 1 through 8 — vocabulary, dating, valuation, appraisal type, authentication, pathway selection, and legal compliance — exists to support a single moment: the actual conversation with a client holding a piece they're ready to part with. This module brings those threads together into the two things that conversation needs to do simultaneously: deliver an honest, well-explained valuation, and recognize the genuine upgrade-sale opportunity sitting in front of you.
 
+<figure>
+  <img src="../assets/c7-m09-trade-in-sales-conversation-turning-old-piece.svg" alt="The Trade-In Sales Conversation: Turning an Old Piece Into a New Sale" width="100%" />
+  <figcaption><strong>Figure 9.1:</strong> The Trade-In Sales Conversation: Turning an Old Piece Into a New Sale — module framework at a glance: Recognizing the Emotional Register Before Anything Else · What Actually Helps: Acknowledging the Piece's History.</figcaption>
+</figure>
+
 ## Recognizing the Emotional Register Before Anything Else
 
 Trade-in conversations carry more emotional weight than an average sales interaction, and experienced jewelers describe real, sometimes extreme reactions: one widely-cited industry account describes a client smashing his own wedding band on the counter with a hammer rather than simply handing it over for evaluation. Most trade-in conversations aren't that dramatic, but the underlying principle holds broadly: a piece being traded in is very often tied to a divorce, a death, a downsizing decision, or another significant life transition, and the emotional register of the conversation needs to be read before anything else happens. The consistent advice from veteran jewelers is specific and simple: listen first, and know when to stop being a salesperson and just be a sympathetic presence — taking a client somewhere more private if the conversation turns emotional, maintaining eye contact and reading body language, and resisting the urge to fill silence with a sales pitch when a client needs a moment.

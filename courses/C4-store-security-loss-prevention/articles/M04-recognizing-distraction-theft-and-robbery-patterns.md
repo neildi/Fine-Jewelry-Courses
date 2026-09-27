@@ -4,6 +4,11 @@
 
 Modules 1-3 covered fixed procedures: how to open and close, how to secure a safe, how to run a showcase interaction. This module is different — it's about pattern recognition rather than a fixed sequence, because distraction theft and robbery don't follow a script you can simply execute. They follow patterns you can learn to notice, often early enough to change the outcome. The data is specific enough to be genuinely useful here: JSA logged 1,233 crimes against U.S. jewelry firms in 2025, and its timing data shows robberies peaked between 5:00-6:00 p.m. with a secondary peak at 12:00-1:00 p.m., while grab-and-run thefts clustered between 1:00-6:00 p.m. That's not trivia — it tells you when your attention needs to be highest.
 
+<figure>
+  <img src="../assets/c4-m04-recognizing-distraction-theft-robbery-patterns.svg" alt="Recognizing Distraction Theft and Robbery Patterns" width="100%" />
+  <figcaption><strong>Figure 4.1:</strong> Recognizing Distraction Theft and Robbery Patterns — module framework at a glance: The &quot;Meet and Greet&quot; as a Deterrent — and a Diagnostic · Distraction Theft: Built on Team Coordination · Grab-and-Run: Speed Is the Entire Strategy.</figcaption>
+</figure>
+
 ## The "Meet and Greet" as a Deterrent — and a Diagnostic
 
 Security guidance distributed to retailers frames the simple act of greeting every person who walks in as a genuine security tactic, not just customer service. A prompt, direct greeting does two things at once: it signals to a legitimate customer that they're being attended to, and it signals to someone casing the store that they've been noticed and can't move through the space unobserved. This is also your best chance to start noticing behavior that doesn't fit — someone who avoids eye contact while scanning exits and camera locations, someone more interested in staff positioning and case layout than any specific piece, or someone who asks unusually specific questions about security measures, staffing levels, or closing time.

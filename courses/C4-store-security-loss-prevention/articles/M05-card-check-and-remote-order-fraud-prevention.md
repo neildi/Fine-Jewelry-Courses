@@ -4,6 +4,11 @@
 
 Module 4 covered recognizing behavioral patterns before or during an in-person incident. This module shifts to a different but related skill: recognizing fraud built into the transaction itself, where the "attack" isn't a person casing your store — it's a payment method or a purchase request engineered to separate you from merchandise without a legitimate payment ever actually landing in your account. Card fraud, check fraud, and remote-order fraud all share the same underlying vulnerability: the moment between "this looks like it will clear" and "this has actually cleared" is exactly where a fraudulent transaction does its damage.
 
+<figure>
+  <img src="../assets/c4-m05-card-check-remote-order-fraud-prevention.svg" alt="Card, Check, and Remote-Order Fraud Prevention" width="100%" />
+  <figcaption><strong>Figure 5.1:</strong> Card, Check, and Remote-Order Fraud Prevention — module framework at a glance: Card-Present Discipline: Why the Imprint and Signature Matter · Remote and Phone/Email Orders: The Riskiest Transaction Type.</figcaption>
+</figure>
+
 ## Card-Present Discipline: Why the Imprint and Signature Matter
 
 For a stolen card used in person, card networks generally cover the jeweler's loss only if the jeweler followed proper procedure: obtained authorization, got an imprint of the card, obtained the customer's signature, and followed proper card procedures generally. The blunt version of this rule: if you don't get an imprint of the credit card and the customer's signature, you are personally at risk for the loss, not the card network.

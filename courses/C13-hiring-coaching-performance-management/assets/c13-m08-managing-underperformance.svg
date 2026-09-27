@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 770" width="100%" height="100%" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#E5C378"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2DD4BF"/>
+      <stop offset="100%" stop-color="#2DD4BF" stop-opacity="0.35"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2DD4BF" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1100" height="770" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1096" height="766" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <g transform="translate(46, 34)">
+    <rect x="0" y="0" width="140" height="24" rx="12" fill="#2DD4BF" fill-opacity="0.18"/>
+    <text x="70.2" y="16" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1">MODULE FRAMEWORK</text>
+    <text x="1008" y="16" fill="#64748B" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="end" letter-spacing="1.2">C13 · MODULE 08</text>
+    <text x="0" y="52" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">Managing Underperformance</text>
+  </g>
+  <g transform="translate(46, 130)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">1</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Progressive Discipline: A Structured Sequence, Not a Single Jump to</text>
+    <text x="56" y="44" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Termination</text>
+    <text x="22" y="69" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">The standard framework across HR and employment-law guidance is progressive...</text>
+  </g>
+  <g transform="translate(559, 130)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">2</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">What a Performance Improvement Plan Actually Contains</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A performance improvement plan (PIP), when the process reaches that stage,</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">is a formal written document with...</text>
+  </g>
+  <g transform="translate(46, 252)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">3</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Documentation That Actually Holds Up: What to Avoid</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A specific, repeatedly emphasized legal and HR principle: documentation</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">should describe the specific...</text>
+  </g>
+  <g transform="translate(559, 252)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">4</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Every Criticism Needs a Coaching Path and a Deadline</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A specific, well-corroborated pairing: every documented performance</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">criticism should come with specific...</text>
+  </g>
+  <g transform="translate(46, 374)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">5</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Two-Way Communication and Signed Acknowledgment</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Two further, consistently recommended disciplines: the process should allow</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">genuine two-way communication,...</text>
+  </g>
+  <g transform="translate(559, 374)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">6</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">A Note on Legal Guidance</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">This module describes widely-cited HR and management best practices for</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">progressive discipline and...</text>
+  </g>
+  <g transform="translate(46, 496)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">7</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Putting the Vocabulary to Work</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">The complete underperformance-management sequence this module establishes:</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">recognize a genuine, sustained...</text>
+  </g>
+  <g transform="translate(559, 496)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">8</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">A Worked Scenario: The Documentation That Protected Everyone</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">An associate's performance has genuinely declined over two months — missed</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">customer follow-ups, several...</text>
+  </g>
+  <g transform="translate(46, 618)">
+    <rect width="1008" height="110" rx="10" fill="#0F172A" stroke="#334155" stroke-width="1.4"/>
+    <text x="20" y="24" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="11" font-weight="700" letter-spacing="1.4">KEY TAKEAWAYS</text>
+    <circle cx="26" cy="42" r="3.2" fill="#2DD4BF"/>
+    <text x="40" y="46" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Progressive discipline is a structured, typically four-step sequence (verbal warning, written warning, PIP/final...</text>
+    <circle cx="26" cy="61" r="3.2" fill="#2DD4BF"/>
+    <text x="40" y="65" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">A performance improvement plan has five specific components confirmed consistently across multiple sources:...</text>
+    <circle cx="26" cy="80" r="3.2" fill="#2DD4BF"/>
+    <text x="40" y="84" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Documentation must describe the specific behavior, never the person's character, avoiding vague phrases like &quot;bad...</text>
+    <circle cx="26" cy="99" r="3.2" fill="#2DD4BF"/>
+    <text x="40" y="103" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Every documented criticism needs a specific coaching path and a clear deadline attached, directly extending Module 5's...</text>
+  </g>
+  <text x="46" y="750" fill="#C5A059" font-family="system-ui, sans-serif" font-size="10" font-weight="700" letter-spacing="1.6">JEWELSWELL MASTER ACADEMY</text>
+  <text x="1054" y="750" fill="#64748B" font-family="system-ui, sans-serif" font-size="10" font-weight="400" text-anchor="end">Generated from the module article — headings and takeaways verbatim.</text>
+</svg>

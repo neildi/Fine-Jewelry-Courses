@@ -22,6 +22,11 @@ Outcome 5; factual discipline 4.5 (one claim corrected on arrival — see change
 
 ## The frame: three questions, every stone, always
 
+
+<figure>
+  <img src="../assets/c16-m12-diamond-treatments-history-catalog-disclosure-law.svg" alt="Diamond Treatments: The History, the Catalog, and the Disclosure Law" width="100%" />
+  <figcaption><strong>Figure 12.1:</strong> Diamond Treatments: The History, the Catalog, and the Disclosure Law — module framework at a glance: The frame: three questions, every stone, always · The history you can cite (Overton &amp; Shigley 2008, &quot;A History of Diamond Treatments,&quot; G&amp;G 44:1).</figcaption>
+</figure>
 1. **Has this stone been changed?** (treatment)
 2. **Is the change permanent and stable?** (durability of the alteration)
 3. **Was the change disclosed?** (law and ethics — the only question you can guarantee to answer correctly for every stone you sell)

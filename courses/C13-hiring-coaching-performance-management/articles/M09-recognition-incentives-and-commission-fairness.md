@@ -4,6 +4,11 @@
 
 Module 8 covered the corrective side of performance management. This module covers its counterpart: the specific, well-documented practices for recognizing good work and structuring incentive and commission pay in a way that actually motivates a jewelry sales team rather than quietly breeding resentment, turnover, or the wrong selling behavior. Commission structure specifically is an area where jewelry retail has decades of accumulated, hard-won practical wisdom worth drawing on directly, since a poorly designed plan in this category creates real, visible damage to both morale and customer experience.
 
+<figure>
+  <img src="../assets/c13-m09-recognition-incentives-commission-fairness.svg" alt="Recognition, Incentives and Commission Fairness" width="100%" />
+  <figcaption><strong>Figure 9.1:</strong> Recognition, Incentives and Commission Fairness — module framework at a glance: Recognition: Frequent and Specific Beats Occasional and Generic · The Cost of Getting Incentive Design Wrong.</figcaption>
+</figure>
+
 ## Recognition: Frequent and Specific Beats Occasional and Generic
 
 A specific, well-corroborated finding across retail-recognition research: frequency beats ceremony. Monthly or weekly recognition moves more employees than an annual banquet or a quarterly award, and building recognition into the daily and weekly flow of work (same-day spot recognition, a weekly huddle shout-out, a monthly milestone note) outperforms saving it all for one big annual event. Equally important: specificity beats generality. "Great job this week" registers as noise; a specific, named behavior ("you turned a difficult return into a repeat customer by staying calm and offering a genuine alternative") is what actually lands. Retail-specific research also finds recognition significantly affects retention: employees who experience integrated, high-quality recognition show meaningfully higher odds of planning to stay, feeling a sense of belonging, and reporting high engagement, compared to employees in environments where recognition is rare or generic.

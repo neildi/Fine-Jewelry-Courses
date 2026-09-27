@@ -4,6 +4,11 @@
 
 A $150 watch and a $15,000 watch can tell the same time with the same accuracy. Nobody buying the second one is making a rational calculation about timekeeping. Understanding what actually drives a luxury purchase — and it is almost never the functional benefit of the item itself — is the foundation this entire course builds on. Get this wrong, and every negotiation tactic and objection-handling technique covered in later modules will be aimed at the wrong target.
 
+<figure>
+  <img src="../assets/c10-m01-people-really-buy-luxury-status-identity.svg" alt="Why People Really Buy Luxury: Status, Identity, and Emotion Over Utility" width="100%" />
+  <figcaption><strong>Figure 1.1:</strong> Why People Really Buy Luxury: Status, Identity, and Emotion Over Utility — module framework at a glance: Emotion Motivates, Reason Justifies · Two Different Motivations, Two Different Approaches · Identity: Buying to Complete a Picture of Who You Are.</figcaption>
+</figure>
+
 ## Emotion Motivates, Reason Justifies
 
 Research on luxury consumer psychology converges on a specific two-stage pattern: emotional factors — the desire for status, pleasure, and self-expression — provide the initial motivation to even consider a luxury purchase, while rational factors — quality, durability, investment value — are what a client uses afterward to justify the decision, to themselves and to others. This is not a flaw in how luxury clients think; it's the normal, well-documented pattern for how these purchases actually happen. A sales conversation that leads with rational features (metal purity, stone certification, craftsmanship specifications) without first connecting to the emotional driver underneath is answering a question the client isn't actually asking yet.

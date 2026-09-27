@@ -4,6 +4,11 @@
 
 Every module in this course covered one piece of compressed-time selling in isolation: the core mindset shift, discovery, trust, closing, event logistics, the onboard-retail variant, and recovery when a sale doesn't happen on the spot. A real trunk show, pop-up, or onboard seminar day asks for all seven at once, often with several clients moving through different stages simultaneously, on a schedule that won't wait for any one conversation to finish before the next one starts. This capstone brings the full course together into a single simulated event, so the skill being assessed isn't any one technique in isolation, but whether all of it holds up together under real, simultaneous pressure.
 
+<figure>
+  <img src="../assets/c9-m08-capstone-running-full-compressed-time-selling-event.svg" alt="Capstone: Running a Full Compressed-Time Selling Event" width="100%" />
+  <figcaption><strong>Figure 8.1:</strong> Capstone: Running a Full Compressed-Time Selling Event — module framework at a glance: What This Capstone Actually Assesses · The Simulation Structure · A Worked Scenario: A Ninety-Minute Simulated Trunk Show Window.</figcaption>
+</figure>
+
 ## What This Capstone Actually Assesses
 
 Unlike the earlier modules' shorter practice exercises, this capstone is the course's formal assessment. A manager or trainer should evaluate the simulation against every prior module's specific standard, not just overall impression:

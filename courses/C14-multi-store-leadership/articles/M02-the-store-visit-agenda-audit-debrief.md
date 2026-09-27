@@ -4,6 +4,11 @@
 
 Module 1 established the core mindset shift for multi-unit leadership: coach, don't fix. This module builds the specific, structured practice where that principle actually gets applied — the store visit itself. A store visit without a deliberate structure tends to drift into exactly the pattern Module 1 warned against: a district leader walks in, spots a problem, and fixes it personally, then leaves having accomplished nothing that outlasts their departure. A structured visit does the opposite: it observes, coaches, and verifies in a specific sequence designed to build the store manager's own capability rather than substitute for it.
 
+<figure>
+  <img src="../assets/c14-m02-store-visit-agenda-audit-debrief.svg" alt="The Store Visit: Agenda, Audit, Debrief" width="100%" />
+  <figcaption><strong>Figure 2.1:</strong> The Store Visit: Agenda, Audit, Debrief — module framework at a glance: The Five-Part Rhythm: Prepare, Observe, Coach, Verify, Follow Up · Building the Pre-Visit Agenda.</figcaption>
+</figure>
+
 ## The Five-Part Rhythm: Prepare, Observe, Coach, Verify, Follow Up
 
 A well-documented store-visit structure breaks into five specific phases, each with a distinct purpose. Prepare happens before ever walking into the store: review sales, conversion, payroll, staffing, and other key business results in advance, and specifically revisit the commitments and action items from the previous visit before setting foot on the floor. Observe means watching the store through the customer's eyes before saying anything — assessing customer engagement, selling behaviors, leadership presence, and store standards as a genuine first-time visitor would experience them, not immediately jumping to comparing against a checklist. Coach means engaging the store manager directly, asking questions before offering solutions, and coaching on what's actually observed in real time rather than saving every observation for a formal end-of-visit conversation. Verify means checking that prior commitments were actually followed through on, not just discussed. And follow up means documenting who owns each action, the specific timing, and how the district leader will check back — the same accountability discipline Module 1 identified as where the real leadership work happens.

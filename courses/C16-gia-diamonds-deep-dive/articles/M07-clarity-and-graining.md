@@ -24,6 +24,11 @@ Outcome 5; factual discipline 5 (lab-process claims only where the video transcr
 
 The 11-grade scale (FL, IF, VVS1-2, VS1-2, SI1-2, I1-3) and the **10× rule** — "Flawless indicates that there are no inclusions or blemishes visible at 10x magnification; I3 is for diamonds with inclusions obvious to the naked eye" (GIA's own report-reading narration, video GIA-04, verified live) — are vocabulary every associate has. The research literature (A11's pair, King et al. 2006 being the operative one) exists because the vocabulary leaks at both ends:
 
+<figure>
+  <img src="../assets/c16-m07-clarity-decided-inclusions-graining-boundaries-flawless.svg" alt="Clarity Decided: Inclusions, Graining, and the Boundaries of Flawless" width="100%" />
+  <figcaption><strong>Figure 7.1:</strong> Clarity Decided: Inclusions, Graining, and the Boundaries of Flawless — module framework at a glance: The rule — then the exception that is the real skill · Graining: the whitish and the mirror.</figcaption>
+</figure>
+
 1. **Grading is *relative to a size/position/relief framework*, not counting.** Number, size, relief, nature and position — GIA's five stated factors — plus, per King et al., for some features "analysis that goes beyond visibility at 10× magnification." That phrase is the thesis of the whole A11 assignment, so unpack it concretely below.
 2. **Plotting is identification, not accusation.** The plot diagram exists so "this unique plot helps identify a particular stone" (GIA-04/-03 narration) — a registry, not a rap sheet. Your clarity conversations should inherit that framing: the plot is *why the report matches the stone*, and grade is *how visible it is*.
 

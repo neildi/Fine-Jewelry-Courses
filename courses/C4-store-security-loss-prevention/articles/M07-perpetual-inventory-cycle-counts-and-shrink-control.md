@@ -4,6 +4,11 @@
 
 Module 2 introduced the idea of a perpetual inventory system — unique item numbers, category codes, documented movement forms. This module covers how that system actually gets used day to day: how often you count, what you count, and — critically — exactly what to do before you conclude a missing item is a real loss rather than a paperwork error. Getting this discipline right doesn't just protect against internal and external theft; it's also what keeps your insurance documentation accurate and your shrinkage numbers meaningful rather than noisy.
 
+<figure>
+  <img src="../assets/c4-m07-perpetual-inventory-cycle-counts-shrink-control.svg" alt="Perpetual Inventory, Cycle Counts, and Shrink Control" width="100%" />
+  <figcaption><strong>Figure 7.1:</strong> Perpetual Inventory, Cycle Counts, and Shrink Control — module framework at a glance: Why Annual-Only Counting Is Inadequate · A Concrete Cycle-Count Model You Can Actually Run.</figcaption>
+</figure>
+
 ## Why Annual-Only Counting Is Inadequate
 
 Trade guidance is explicit on this point: every store should do regular inventory control weekly, monthly, or bimonthly, rather than relying on a single once-a-year count. Practices cited by experienced jewelers include inventorying a different department each month, personally counting diamonds on a monthly basis, running frequent case counts, doing random counts of SKUs in back stock, conducting unscheduled checks, and running unannounced surprise inventories focused on specific categories. That last detail — unannounced and surprise — matters for a specific reason: an employee who knows the counting schedule in advance can prepare for it, which defeats much of the point of counting as an internal control in the first place.

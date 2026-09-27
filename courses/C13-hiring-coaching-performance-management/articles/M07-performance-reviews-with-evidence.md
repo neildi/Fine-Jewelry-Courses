@@ -4,6 +4,11 @@
 
 Modules 5 and 6 built the ongoing floor-coaching debriefs and weekly one-on-ones that generate a steady stream of real observations about an associate's performance. This module is where that accumulated evidence gets organized into a formal review — and where a manager who's been coaching well all along can either cash in that discipline for a genuinely fair, well-supported review, or squander it by writing the review from memory in the final week, which is when most of the common review failures actually happen.
 
+<figure>
+  <img src="../assets/c13-m07-performance-reviews-evidence.svg" alt="Performance Reviews With Evidence" width="100%" />
+  <figcaption><strong>Figure 7.1:</strong> Performance Reviews With Evidence — module framework at a glance: The Running Evidence Log: Solving Recency Bias Before It Starts · A Three-Step Discipline for Neutralizing Bias Before Writing.</figcaption>
+</figure>
+
 ## The Running Evidence Log: Solving Recency Bias Before It Starts
 
 The single most important structural habit this module builds: keep a running evidence log throughout the review period, not a document assembled from memory in the final weeks. The specific content to log as it happens: dated, specific examples of strong work, dated examples of misses or development areas, feedback already given formally or informally (which, if Modules 5 and 6 are already running, already exists), progress against goals (what was set, what was achieved, what slipped), and relevant things said by others about the person's work. This directly solves recency bias — the well-documented tendency for a review to overweight whatever happened in the last few weeks, simply because that's what a manager remembers most vividly, while a genuinely strong first four months of the review period fades from memory by the time the review gets written.

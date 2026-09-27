@@ -4,6 +4,11 @@
 
 Running a jewelry store well on the sales floor and running it well on paper are two different disciplines, and the second one is unforgiving in a specific way: missing a filing deadline or letting an insurance schedule go stale doesn't show up as a bad quarter, it shows up as an uncovered loss or a federal compliance violation exactly when the store can least afford either. This module lays out the specific, recurring compliance obligations a store leader owns — insurance-schedule maintenance, cash-transaction reporting, sanctions and origin documentation, and physical-inventory record retention — and the calendar discipline that keeps all of it current without becoming a full-time job.
 
+<figure>
+  <img src="../assets/c11-m09-compliance-calendar-insurance-records-filings.svg" alt="Compliance Calendar: Insurance, Records, Filings" width="100%" />
+  <figcaption><strong>Figure 9.1:</strong> Compliance Calendar: Insurance, Records, Filings — module framework at a glance: Insurance: Keeping the Schedule Current, Not Just Filed · Form 8300: The Federal Cash-Reporting Deadline · AML, OFAC, and G7 Origin Documentation.</figcaption>
+</figure>
+
 ## Insurance: Keeping the Schedule Current, Not Just Filed
 
 A jewelry store's insurance coverage is only as good as the inventory schedule behind it, and that schedule goes stale faster than most managers expect. The specific, insurer-recommended cadence: refresh the itemized inventory list provided to the insurance broker every quarter or at minimum every half-year, plus a complete January export of the full inventory list and photo archive to the broker as a year-end anchor point. Beyond that recurring refresh, a full documented itemized physical inventory needs to happen annually, with the resulting records retained for seven years, stored off-premises so a single event at the store (fire, flood, robbery) can't destroy both the merchandise and the only record of what was lost. A schedule that hasn't been updated in eight months, after the store brought in a new high-value bridal collection, is a schedule an insurer can reasonably contest at claim time — the coverage gap is invisible until the moment it matters most.

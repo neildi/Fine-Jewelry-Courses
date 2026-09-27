@@ -19,6 +19,11 @@ generated: 2026-09-11
 
 A bridal client is choosing between two 2 ct blue sapphire ovals for her ring. Sapphire A is bright and lively face-up, evenly saturated across the table, and commands a strong blue in daylight — but if you tilt it under a bright light you can see a small window at the center, and the pavilion is a bit uneven. Sapphire B looks darker and more imposing under the store's halogen spots, its symmetry is mechanically perfect, and its proportions look "correct" if you are used to reading diamond proportions — but in daylight it closes up to a near-black blue with large areas of extinction, and it faces up lifeless.
 
+<figure>
+  <img src="../assets/c17-m07-cut-orienting-color-weight-retention-colored.svg" alt="Cut: Orienting Color, Weight Retention, and Why Colored Stones Are Not Diamonds" width="100%" />
+  <figcaption><strong>Figure 7.1:</strong> Cut: Orienting Color, Weight Retention, and Why Colored Stones Are Not Diamonds — module framework at a glance: The two sapphire ovals · Colored-stone cut is not diamond cut · Orientation: the cutter's most important decision.</figcaption>
+</figure>
+
 If you judge these sapphires by diamond-cut criteria, Sapphire B looks better. If you judge them by colored-stone criteria, Sapphire A is the better stone. This is the central rule of colored-stone cutting: **colored stones are cut for color, not for light return.** A cut grade that is meaningful for a diamond does not translate directly to a colored stone, and an associate who talks about "excellent cut" the way they would for a diamond will misgrade the case.
 
 This module explains how colored-stone cut works — orientation decisions, face-up appearance, shapes, specialty cuts, native cuts, recutting, and calibrated goods. The anchor reference is Al Gilbertson's 2013 G&G paper "Optimizing Face-Up Appearance in Colored Gemstone Faceting," with supporting pieces from Pay (2016) on cutting the Imperial Flame topaz, Grussing (2016) on large-opal cutting, Hsu/Lucas (2016) on robotic faceting, and the Munsteiner fantasy-cut literature.

@@ -4,6 +4,11 @@
 
 Before a piece can be appraised, authenticated, or priced, it has to be read — and reading a piece of estate or antique jewelry is a specific, learnable skill built on three kinds of evidence: the overall design era, the way it was physically constructed, and the marks stamped into the metal itself. None of these three sources of evidence is reliable alone, but together they let an associate build real confidence about what a piece is, which is the foundation for every module that follows.
 
+<figure>
+  <img src="../assets/c7-m02-reading-piece-period-styles-construction-techniques.svg" alt="Reading a Piece: Period Styles, Construction Techniques, and Hallmarks" width="100%" />
+  <figcaption><strong>Figure 2.1:</strong> Reading a Piece: Period Styles, Construction Techniques, and Hallmarks — module framework at a glance: The Major Period Styles, at a Glance · Construction Clues: Reading the Physical Evidence · Diamond Cuts as Dating Evidence.</figcaption>
+</figure>
+
 ## The Major Period Styles, at a Glance
 
 Design era is the first, most visible clue, and each major period has consistent, recognizable characteristics:

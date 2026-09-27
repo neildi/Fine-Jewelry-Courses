@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 688" width="100%" height="100%" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#E5C378"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FB7185"/>
+      <stop offset="100%" stop-color="#FB7185" stop-opacity="0.35"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FB7185" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#FB7185" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1100" height="688" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1096" height="684" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <g transform="translate(46, 34)">
+    <rect x="0" y="0" width="140" height="24" rx="12" fill="#FB7185" fill-opacity="0.18"/>
+    <text x="70.2" y="16" fill="#FB7185" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1">MODULE FRAMEWORK</text>
+    <text x="1008" y="16" fill="#64748B" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="end" letter-spacing="1.2">C17 · MODULE 10</text>
+    <text x="0" y="52" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">The Colored Stone Market: From Mine to Auction Block to Your</text>
+    <text x="0" y="80" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">Case</text>
+  </g>
+  <g transform="translate(46, 158)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#FB7185" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#FB7185"/>
+    <circle cx="32" cy="30" r="14" fill="#FB7185" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB7185" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">1</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">The $3 million sapphire vs the $8,000 sapphire</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A client is browsing blue sapphires in your case.</text>
+  </g>
+  <g transform="translate(559, 158)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#FB7185" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#FB7185"/>
+    <circle cx="32" cy="30" r="14" fill="#FB7185" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB7185" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">2</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">The pipeline, revisited</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Module 3 walked through the mine-to-market pipeline: miner → local buyer →</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">treatment → cutting → dealer →...</text>
+  </g>
+  <g transform="translate(46, 280)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#FB7185" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#FB7185"/>
+    <circle cx="32" cy="30" r="14" fill="#FB7185" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB7185" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">3</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Key mining regions — a quick reference map</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">This is the map you'll draw from when you talk origins with clients.</text>
+  </g>
+  <g transform="translate(559, 280)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#FB7185" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#FB7185"/>
+    <circle cx="32" cy="30" r="14" fill="#FB7185" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB7185" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">4</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Treatment and cutting hubs</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Where the stones are actually worked on.</text>
+  </g>
+  <g transform="translate(46, 402)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#FB7185" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#FB7185"/>
+    <circle cx="32" cy="30" r="14" fill="#FB7185" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB7185" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">5</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">The shows: where wholesale price discovery happens</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">If you've never been to a major gem show, it is difficult to convey how many</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">colored stones move through a...</text>
+  </g>
+  <g transform="translate(559, 402)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#FB7185" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#FB7185"/>
+    <circle cx="32" cy="30" r="14" fill="#FB7185" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB7185" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">6</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Auctions and record prices</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">The record-breaking colored stones you see in headlines come from the major</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">jewelry auctions — Christie's,...</text>
+  </g>
+  <g transform="translate(46, 524)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#FB7185" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#FB7185"/>
+    <circle cx="32" cy="30" r="14" fill="#FB7185" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB7185" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">7</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Gemfields and branded rough</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Gemfields (operator of Kagem emerald in Zambia and Montepuez ruby in</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Mozambique) has developed a model of...</text>
+  </g>
+  <g transform="translate(559, 524)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#FB7185" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#FB7185"/>
+    <circle cx="32" cy="30" r="14" fill="#FB7185" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB7185" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">8</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Certificates: labs, costs, and what they mean</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">The major colored-stone labs operating internationally are: - GIA</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">(Gemological Institute of America) — the...</text>
+  </g>
+  <text x="46" y="668" fill="#C5A059" font-family="system-ui, sans-serif" font-size="10" font-weight="700" letter-spacing="1.6">JEWELSWELL MASTER ACADEMY</text>
+  <text x="1054" y="668" fill="#64748B" font-family="system-ui, sans-serif" font-size="10" font-weight="400" text-anchor="end">Generated from the module article — headings and takeaways verbatim.</text>
+</svg>

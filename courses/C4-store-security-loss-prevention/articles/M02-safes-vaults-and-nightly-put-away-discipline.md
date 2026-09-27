@@ -4,6 +4,11 @@
 
 Module 1 covered the two-person rule for opening and closing. This module goes deeper into the single asset that rule protects: the safe or vault itself, and the record-keeping discipline that has to travel alongside it. A safe is only as good as three things working together — the physical rating of the safe itself, the discipline of what actually goes into it every night, and the paper (or digital) trail that lets you prove what's supposed to be there. Miss any one of the three, and the other two don't matter as much as you'd hope.
 
+<figure>
+  <img src="../assets/c4-m02-safes-vaults-nightly-put-away-discipline.svg" alt="Safes, Vaults, and Nightly Put-Away Discipline" width="100%" />
+  <figcaption><strong>Figure 2.1:</strong> Safes, Vaults, and Nightly Put-Away Discipline — module framework at a glance: Safe Rating Is Not a Detail — It's the Whole Point · The In-Safe Warranty: Your Insurance Policy Sets the Floor.</figcaption>
+</figure>
+
 ## Safe Rating Is Not a Detail — It's the Whole Point
 
 As covered in Module 1, the Jewelers Security Alliance (JSA) states plainly that safes rated TL-15 or TL-30 are not adequate protection from today's burglars, and that a TRTL-30x6 rated safe is significantly harder for a professional crew to penetrate. It's worth understanding what these ratings actually mean in practice, because the label determines what your insurer will actually cover.

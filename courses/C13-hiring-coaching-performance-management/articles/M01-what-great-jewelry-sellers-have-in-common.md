@@ -4,6 +4,11 @@
 
 Before a store leader can write a role profile, run an interview, or coach an associate, they need a clear, specific answer to a more basic question: what actually makes someone good at selling jewelry, as distinct from being good at retail sales in general? This opening module of C13 builds that answer from converging evidence across jewelry-specific trade sources and general sales-hiring research, so the rest of this course's hiring and coaching content has a concrete target to aim at rather than a vague sense of "a good personality."
 
+<figure>
+  <img src="../assets/c13-m01-great-jewelry-sellers-have-common.svg" alt="What Great Jewelry Sellers Have in Common" width="100%" />
+  <figcaption><strong>Figure 1.1:</strong> What Great Jewelry Sellers Have in Common — module framework at a glance: The Jewelry-Specific Skill List · The Emotional Intelligence Finding in Luxury Retail Specifically · Serving, Not Selling.</figcaption>
+</figure>
+
 ## The Jewelry-Specific Skill List
 
 The most direct, authoritative answer comes from Jewelers of America's own career-pathways description of the jewelry sales professional role, which names a specific cluster of traits: personable and enthusiastic, skilled at storytelling, equipped with enough product knowledge to genuinely inform a purchase, a good communicator across verbal, non-verbal, and newer channels like text and social media, a careful listener, a creative problem solver who uses inventory knowledge and business resources to meet customer needs, determined and persistent without being pushy, even-tempered, trustworthy and ethical, and versatile enough to work with different people and different products. Notice what's specifically absent from this list: raw aggressiveness or a "hard closer" mentality. The explicit "determined, persistent and persuasive, but not pushy" framing is a deliberate distinction, and it shows up again and again across the sources this module draws on.

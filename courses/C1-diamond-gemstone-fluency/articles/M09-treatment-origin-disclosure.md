@@ -44,6 +44,11 @@ updated: 2026-09-07
 
 Modules 4, 6, and 7 each touched on disclosure for a specific product: lab-grown diamonds, treated colored stones, and treated pearls. This module pulls that thread together into a single, reusable rule so you are never guessing whether a given treatment needs to be disclosed. Nearly everything in a typical case has been treated in some way, and the rule that decides whether you must say so is the same rule every time.
 
+<figure>
+  <img src="../assets/c1-m09-treatment-origin-questions-must-disclose.svg" alt="Treatment and Origin Questions: What You Must Disclose" width="100%" />
+  <figcaption><strong>Figure 9.1:</strong> Treatment and Origin Questions: What You Must Disclose — module framework at a glance: The rule that applies to almost everything in your case · Why this matters · The three-part disclosure test.</figcaption>
+</figure>
+
 ## Why this matters
 
 Disclosure is not a matter of store preference, it is a federal requirement under the FTC's Jewelry Guides. Getting this wrong is not a style problem, it is a compliance problem that can expose your store to legal risk and expose you personally to the fallout of a client who feels deceived after the fact. Getting it right, delivered as plain, confident information rather than a nervous disclaimer, actually builds trust and closes sales rather than losing them.

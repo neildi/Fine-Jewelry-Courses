@@ -4,6 +4,11 @@
 
 Ring sizing, prong work, and chain repair make up the overwhelming majority of day-to-day bench traffic, and giving a client an accurate, credible timeline for each depends on actually knowing what the process involves — not a rounded-off guess. This module covers the specific mechanics and realistic timeframes for the repairs that come across the counter most often.
 
+<figure>
+  <img src="../assets/c8-m04-common-bench-repairs-they-involve-long.svg" alt="Common Bench Repairs: What They Involve and How Long They Take" width="100%" />
+  <figcaption><strong>Figure 4.1:</strong> Common Bench Repairs: What They Involve and How Long They Take — module framework at a glance: Ring Sizing: Up, Down, and Everything That Changes the Timeline · Prong Retipping and Rebuilding · Chain and Clasp Repair.</figcaption>
+</figure>
+
 ## Ring Sizing: Up, Down, and Everything That Changes the Timeline
 
 Ring sizing is the single most common bench job, and its timeline depends on more variables than most clients realize:

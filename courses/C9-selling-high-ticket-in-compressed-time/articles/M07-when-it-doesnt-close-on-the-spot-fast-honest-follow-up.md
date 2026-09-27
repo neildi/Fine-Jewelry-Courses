@@ -4,6 +4,11 @@
 
 Not every compressed-time conversation ends in a sale, even when discovery, trust-building, and the close were all handled well. A client who genuinely needs to think, check a budget, or simply ran out of time before the event ended isn't a failure of Module 4's technique — it's a normal outcome that this module exists to handle. What happens in the hours and days immediately after a compressed-time event closes often determines whether that unclosed conversation becomes a sale later or simply evaporates, and the data on how fast that window closes is more dramatic than most people expect.
 
+<figure>
+  <img src="../assets/c9-m07-doesnt-close-spot-fast-honest-follow-up.svg" alt="When It Doesn't Close On the Spot: Fast, Honest Follow-Up" width="100%" />
+  <figcaption><strong>Figure 7.1:</strong> When It Doesn't Close On the Spot: Fast, Honest Follow-Up — module framework at a glance: The Window Closes Faster Than It Feels Like It Should · A Realistic Follow-Up Cadence for an Event.</figcaption>
+</figure>
+
 ## The Window Closes Faster Than It Feels Like It Should
 
 Research on lead response time — most of it developed in general B2B sales contexts, and worth treating as a directional finding rather than a jewelry-specific constant — consistently finds an extremely steep drop-off in the likelihood of ever reaching or converting a prospect as follow-up time increases. Leads contacted within five minutes of expressing interest are commonly found to be around 21 times more likely to qualify than those contacted after thirty minutes, and waiting even 24 hours can reduce the odds of ever making meaningful contact by a factor of dozens compared to responding within the first hour. While these exact multipliers come from general sales research rather than jewelry-specific studies, the underlying pattern — enthusiasm and urgency decay quickly, and every hour of delay compounds the odds against ever closing the loop — maps directly onto a compressed-time client whose actual visit to the store or event has already ended.

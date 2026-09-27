@@ -4,6 +4,11 @@
 
 This module closes the C4 Store Security & Loss Prevention course, and like the capstone modules in other courses in this catalog, its job isn't to introduce a brand-new topic — it's to show how everything in Modules 1-7 fits together into a single underlying discipline. Trade guidance on internal theft states the principle plainly: most successful embezzlement schemes would fail if inventory and accounting records were organized and up-to-date, and no one except the owner should have sole authority for any function in a store. Every procedure in this course — the two-person opening/closing rule, key segregation, the showcase selling protocol, the discrepancy protocol, Form 8300's non-disclosure rule — is a specific application of that same underlying principle: no single point of failure, and no single person with unchecked authority.
 
+<figure>
+  <img src="../assets/c4-m08-internal-controls-building-security-culture.svg" alt="Internal Controls and Building a Security Culture" width="100%" />
+  <figcaption><strong>Figure 8.1:</strong> Internal Controls and Building a Security Culture — module framework at a glance: The Core Principle: No One Person, No Single Point of Failure · Segregation of Duties at the Organizational Level.</figcaption>
+</figure>
+
 ## The Core Principle: No One Person, No Single Point of Failure
 
 Look back across the course and this pattern is everywhere, even though each module presented it as a specific procedural rule rather than naming the underlying principle directly:

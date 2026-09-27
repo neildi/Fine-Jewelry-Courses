@@ -4,6 +4,11 @@
 
 Module 1 established the core problem: a compressed-time format gives an associate one shot to understand a client well enough to make a real recommendation, with none of the follow-up conversations a standard clienteling relationship would use to fill in the gaps. This module covers the actual technique for doing that — a discovery approach that compresses the timeline without compressing the substance, so a client still feels genuinely understood rather than rushed through a checklist.
 
+<figure>
+  <img src="../assets/c9-m02-compressed-discovery-surfacing-priorities-minutes-weeks.svg" alt="Compressed Discovery: Surfacing Priorities in Minutes, Not Weeks" width="100%" />
+  <figcaption><strong>Figure 2.1:</strong> Compressed Discovery: Surfacing Priorities in Minutes, Not Weeks — module framework at a glance: The Real Failure Mode: Rushing to a Pitch, Not Slow Discovery · A Layered Structure That Fits in Minutes · The Time-Boxing Discipline.</figcaption>
+</figure>
+
 ## The Real Failure Mode: Rushing to a Pitch, Not Slow Discovery
 
 The instinct under time pressure is to skip discovery and get straight to showing pieces. This is exactly backward. A jewelry-specific needs-assessment approach makes the underlying logic explicit: the needs assessment produces the answers, and only then do you demonstrate those answers with specific pieces — reversing that order (pitching before understanding) is what produces a scattered, unconvincing presentation regardless of how much time is available. Compressed time makes discovery feel optional; it's actually the opposite — discovery is the one step that most determines whether the next ten minutes land or fall flat, so it deserves to be protected, not skipped.

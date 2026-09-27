@@ -8,6 +8,11 @@ This is the gap between managing performance and building a pipeline. Module 4 t
 
 Multi-unit leadership roles are explicitly built on a track record of developing people, not just hitting numbers. A Signet-style district manager posting requires "three to five years of multi-unit management experience" alongside "proven success and expertise in sales, P&L analysis, and merchandising" and a "recruitment and staff-development track record" — development is named as a qualifying credential for the job itself, not a nice-to-have. At store level, this expectation already exists in writing: an assistant store manager posting lists being "responsible for the selection and development of talent to drive store growth," and a sales manager role calls for "hiring quality talent to plan for and create talent bench." Your job as district leader is to make sure that expectation is actually happening at every store, not just written into every job description.
 
+<figure>
+  <img src="../assets/c14-m07-talent-pipeline-succession.svg" alt="Talent Pipeline and Succession" width="100%" />
+  <figcaption><strong>Figure 7.1:</strong> Talent Pipeline and Succession — module framework at a glance: Why This Matters · The Bench You Can See vs. the Bench You Have · Building the District Talent Map.</figcaption>
+</figure>
+
 ## The Bench You Can See vs. the Bench You Have
 
 Every store has an informal sense of "who's good," but an informal sense is not a pipeline. A pipeline requires three things a hallway conversation never produces: a named list of who is ready now, who is ready in twelve months, and who needs a specific skill gap closed before they're ready for anything. Without that list, the store manager resignation Priya faced turns a one-person problem into a five-week crisis, because nobody had done the naming in advance.

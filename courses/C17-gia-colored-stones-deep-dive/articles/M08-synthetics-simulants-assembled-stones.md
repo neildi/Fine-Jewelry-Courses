@@ -19,6 +19,11 @@ generated: 2026-09-11
 
 A customer comes in with a 5 ct oval "ruby" she bought for $400 at a flea market, set in a worn yellow-gold mounting. She is convinced she has found a hidden Mogok. Under your 10× loupe you see something the seller apparently did not: faint curved color bands sweeping across the stone in gentle arcs, and two spherical gas bubbles near a facet junction. Those two features — curved striae and spherical bubbles — mean this is a **Verneuil flame-fusion synthetic ruby**, grown in a lab in a few hours by melting aluminum oxide powder through an oxyhydrogen flame. It is genuine corundum (same chemistry, same hardness, same refractive index as natural ruby), but it is not natural ruby. The stone is worth perhaps $20 to $50 as a synthetic, not the thousands a natural 5 ct ruby would bring.
 
+<figure>
+  <img src="../assets/c17-m08-synthetics-simulants-assembled-stones-looks-like.svg" alt="Synthetics, Simulants, and Assembled Stones: What Is (and Is Not) What It Looks Like" width="100%" />
+  <figcaption><strong>Figure 8.1:</strong> Synthetics, Simulants, and Assembled Stones: What Is (and Is Not) What It Looks Like — module framework at a glance: The vintage-market ruby · Three categories: synthetic, simulant, assembled · Synthetic growth methods and their detection features.</figcaption>
+</figure>
+
 Telling her this is a disappointing conversation. Failing to tell her would be dishonest. Misidentifying her synthetic as natural and making an offer on that basis would cost you money or, worse, resell a synthetic as natural and damage your store's reputation.
 
 This module covers the three categories of non-natural colored stones you will encounter at the counter: **synthetics** (man-made crystals with the same chemistry and structure as the natural gem), **simulants/imitations** (different materials that only look similar), and **assembled stones** (doublets and triplets — two or three pieces glued together). The anchor references are J. Stone-Sundberg's 2013 four-part Sapphire Series, N. Renfro et al.'s 2010 decade-in-review of synthetics, and a long list of G&G Lab Notes and Gem News reports documenting each newly detected simulant as it appeared. T.W. Overton's 2004 paper on FTC disclosure law governs the language you use.

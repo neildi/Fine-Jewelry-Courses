@@ -4,6 +4,11 @@
 
 A negotiation conversation in luxury jewelry sales is rarely actually about the number on the tag — it's about whether the client feels the number is justified, and whether the associate's response to pushback signals confidence or anxiety. This module covers the specific, research-supported techniques for negotiating price and terms in a way that protects margin, respects the client, and never collapses into an automatic discount offered out of discomfort rather than genuine judgment.
 
+<figure>
+  <img src="../assets/c10-m05-negotiating-confidence-technique-high-ticket-luxury-sales.svg" alt="Negotiating with Confidence: Technique for High-Ticket Luxury Sales" width="100%" />
+  <figcaption><strong>Figure 5.1:</strong> Negotiating with Confidence: Technique for High-Ticket Luxury Sales — module framework at a glance: First Offers Anchor the Whole Negotiation · The Real Skill: Diagnosing the Objection Before Responding to It.</figcaption>
+</figure>
+
 ## First Offers Anchor the Whole Negotiation
 
 A structured review of 119 academic journal articles on negotiation confirms what individual studies have shown repeatedly: first offers have a significant, well-established effect on negotiation outcomes, anchoring both parties' perceptions and consistently influencing the final settlement in favor of whoever made that first offer. In a retail jewelry context, this means the marked price itself functions as a first offer and a real anchor — which is exactly why arbitrarily discounting from that number the moment a client pushes back undermines the anchor an associate has already legitimately set. Further research on negotiation "anchor zones" — the gap between a first offer and the counteroffer that follows it — found that a more aggressive counteroffer measurably reduces the subjective value both parties feel they got from the negotiation, even when the final economic outcome is similar. In plain terms: how firmly and calmly a price is initially held matters as much as the number itself, and both parties end up feeling better about a negotiation that doesn't swing wildly.

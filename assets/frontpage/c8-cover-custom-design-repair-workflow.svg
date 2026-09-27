@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="100%" height="100%" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#E5C378"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0.35"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1600" height="900" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1596" height="896" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <circle cx="1210" cy="450" r="330" fill="url(#glow)"/>
+  <line x1="1210" y1="450" x2="1730.0" y2="450.0" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1704.5" y2="610.7" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1630.7" y2="755.6" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1515.6" y2="870.7" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1370.7" y2="944.5" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1210.0" y2="970.0" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1049.3" y2="944.5" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="904.4" y2="870.7" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="789.3" y2="755.6" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="715.5" y2="610.7" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="690.0" y2="450.0" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="715.5" y2="289.3" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="789.3" y2="144.4" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="904.4" y2="29.3" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1049.3" y2="-44.5" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1210.0" y2="-70.0" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1370.7" y2="-44.5" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1515.6" y2="29.3" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1630.7" y2="144.4" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1704.5" y2="289.3" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.05"/>
+  <rect x="96" y="120" width="64" height="4" rx="2" fill="url(#gold)"/>
+  <text x="96" y="168" fill="#E5C378" font-family="system-ui, sans-serif" font-size="17" font-weight="700" letter-spacing="2.6">MASTERCLASS C8 — BENCH &amp; CUSTOM</text>
+  <text x="96" y="246" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="60" font-weight="800">Custom Design &amp; Repair</text>
+  <text x="96" y="314" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="60" font-weight="800">Workflow</text>
+  <text x="96" y="386" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="22" font-weight="400">CAD wireframe to cast gold — and the</text>
+  <text x="96" y="418" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="22" font-weight="400">turnaround promises you can actually keep.</text>
+  <rect x="96" y="472" width="163" height="38" rx="19" fill="#22D3EE" fill-opacity="0.14" stroke="#22D3EE" stroke-width="1.6"/>
+  <text x="177.39999999999998" y="497" fill="#22D3EE" font-family="system-ui, sans-serif" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="0.8">CAD TO CASTING</text>
+  <rect x="273" y="472" width="132" height="38" rx="19" fill="#22D3EE" fill-opacity="0.14" stroke="#22D3EE" stroke-width="1.6"/>
+  <text x="338.9" y="497" fill="#22D3EE" font-family="system-ui, sans-serif" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="0.8">REPAIR SLAs</text>
+  <rect x="419" y="472" width="173" height="38" rx="19" fill="#22D3EE" fill-opacity="0.14" stroke="#22D3EE" stroke-width="1.6"/>
+  <text x="505.49999999999994" y="497" fill="#22D3EE" font-family="system-ui, sans-serif" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="0.8">REVEAL CEREMONY</text>
+  <circle cx="103" cy="541" r="4.5" fill="#22D3EE"/>
+  <text x="120" y="546" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="17" font-weight="500">Intake that prevents disputes</text>
+  <circle cx="403" cy="541" r="4.5" fill="#22D3EE"/>
+  <text x="420" y="546" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="17" font-weight="500">Common bench repairs</text>
+  <circle cx="103" cy="583" r="4.5" fill="#22D3EE"/>
+  <text x="120" y="588" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="17" font-weight="500">Pricing custom work</text>
+  <circle cx="403" cy="583" r="4.5" fill="#22D3EE"/>
+  <text x="420" y="588" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="17" font-weight="500">Quality control &amp; handoff</text>
+  <rect x="96" y="660" width="3" height="40" rx="1.5" fill="url(#gold)"/>
+  <text x="116" y="678" fill="#E5C378" font-family="system-ui, sans-serif" font-size="14" font-weight="700" letter-spacing="1.8">JEWELSWELL MASTER ACADEMY</text>
+  <text x="116" y="698" fill="#64748B" font-family="system-ui, sans-serif" font-size="13" font-weight="400">Fine Jewelry Retail Curriculum</text>
+  <g>
+    <ellipse cx="1210" cy="450" rx="200.0" ry="40.0" fill="none" stroke="#22D3EE" stroke-width="1.5" stroke-opacity="0.30"/><ellipse cx="1210" cy="450" rx="200.0" ry="72.0" fill="none" stroke="#22D3EE" stroke-width="1.5" stroke-opacity="0.42"/><ellipse cx="1210" cy="450" rx="200.0" ry="104.0" fill="none" stroke="#22D3EE" stroke-width="1.5" stroke-opacity="0.54"/><ellipse cx="1210" cy="450" rx="200.0" ry="136.0" fill="none" stroke="#22D3EE" stroke-width="1.5" stroke-opacity="0.66"/><ellipse cx="1210" cy="450" rx="200.0" ry="168.0" fill="none" stroke="#22D3EE" stroke-width="1.5" stroke-opacity="0.78"/><line x1="1410.0" y1="295.0" x2="1410.0" y2="605.0" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.35"/><line x1="1383.2" y1="295.0" x2="1383.2" y2="605.0" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.35"/><line x1="1310.0" y1="295.0" x2="1310.0" y2="605.0" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.35"/><line x1="1210.0" y1="295.0" x2="1210.0" y2="605.0" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.35"/><line x1="1110.0" y1="295.0" x2="1110.0" y2="605.0" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.35"/><line x1="1036.8" y1="295.0" x2="1036.8" y2="605.0" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.35"/>
+    <circle cx="1210" cy="450" r="200.0" fill="none" stroke="#22D3EE" stroke-width="2.6"/>
+    <circle cx="1210" cy="250.0" r="9" fill="#22D3EE"/>
+  </g>
+  <rect x="1396" y="96" width="108" height="46" rx="10" fill="#22D3EE" fill-opacity="0.16" stroke="#22D3EE" stroke-width="1.8"/>
+  <text x="1450" y="127" fill="#22D3EE" font-family="system-ui, sans-serif" font-size="24" font-weight="800" text-anchor="middle" letter-spacing="1.2">C8</text>
+</svg>

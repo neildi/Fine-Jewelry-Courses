@@ -4,6 +4,11 @@
 
 Module 3 introduced the discipline of handling conflicting evidence honestly. This module extends that discipline into deliberate deception — pieces made or altered specifically to misrepresent what they are. The goal isn't paranoia about every piece that comes across the counter; it's knowing the specific, testable methods that separate a genuine concern from an honest, explainable inconsistency.
 
+<figure>
+  <img src="../assets/c7-m06-authentication-spotting-reproductions-alterations-fakes.svg" alt="Authentication: Spotting Reproductions, Alterations, and Fakes" width="100%" />
+  <figcaption><strong>Figure 6.1:</strong> Authentication: Spotting Reproductions, Alterations, and Fakes — module framework at a glance: Metal Authentication: Why Acid Testing Isn't Enough Anymore · Stone Authentication: The Diamond-Moissanite Problem.</figcaption>
+</figure>
+
 ## Metal Authentication: Why Acid Testing Isn't Enough Anymore
 
 Acid testing has been the traditional first check for gold: a nitric-acid-based solution reacts differently depending on karat purity, giving a quick surface read. But acid testing has a specific, well-documented blind spot that matters enormously for estate and trade-in work: **it only tests the surface.** A gold-plated piece with even a fraction of a micron of real gold on the surface will pass an acid test perfectly, because the acid never reaches the base metal underneath — brass, tungsten, or steel cores have all been documented in counterfeit or deceptively plated pieces that pass acid testing with no issue.

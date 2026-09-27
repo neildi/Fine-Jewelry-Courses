@@ -4,6 +4,11 @@
 
 "Repair" and "custom design" get talked about as if they're two separate departments, but in most jewelry stores they sit on a single continuum, sharing the same intake discipline, the same job-tracking infrastructure, and often the same bench jeweler. This module establishes that continuum and the vocabulary this course uses throughout — the foundation for intake (Module 2), the CAD-to-casting workflow (Module 3), bench repair specifics (Module 4), pricing (Module 5), redesign consultations (Module 6), quality control (Module 7), and the capstone pipeline-management module (Module 8).
 
+<figure>
+  <img src="../assets/c8-m01-repair-custom-design-continuum-simple-fixes.svg" alt="The Repair and Custom Design Continuum: From Simple Fixes to Full Builds" width="100%" />
+  <figcaption><strong>Figure 1.1:</strong> The Repair and Custom Design Continuum: From Simple Fixes to Full Builds — module framework at a glance: The Continuum, From Simple to Complex · Why the Same Infrastructure Serves the Whole Continuum.</figcaption>
+</figure>
+
 ## The Continuum, From Simple to Complex
 
 Work coming across the counter spans a genuinely wide range of complexity, and recognizing where a specific job sits on this continuum shapes almost everything else — timeline, pricing, who handles it, and what the client conversation needs to cover:

@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 718" width="100%" height="100%" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#E5C378"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FB923C"/>
+      <stop offset="100%" stop-color="#FB923C" stop-opacity="0.35"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FB923C" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#FB923C" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1100" height="718" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1096" height="714" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <g transform="translate(46, 34)">
+    <rect x="0" y="0" width="140" height="24" rx="12" fill="#FB923C" fill-opacity="0.18"/>
+    <text x="70.2" y="16" fill="#FB923C" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1">MODULE FRAMEWORK</text>
+    <text x="1008" y="16" fill="#64748B" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="end" letter-spacing="1.2">C7 · MODULE 04</text>
+    <text x="0" y="52" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">Trade-In Evaluation: Setting a Fair Offer Without Under- or</text>
+    <text x="0" y="80" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">Over-Paying</text>
+  </g>
+  <g transform="translate(46, 158)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#FB923C" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#FB923C"/>
+    <circle cx="32" cy="30" r="14" fill="#FB923C" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB923C" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">1</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">The Core Reality: Retail, Wholesale, and Melt Are Three Different</text>
+    <text x="56" y="44" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Numbers</text>
+    <text x="22" y="69" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Every piece of jewelry has multiple, simultaneously legitimate values, and a</text>
+    <text x="22" y="84" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">trade-in offer needs to be built from the right one — not from what the...</text>
+  </g>
+  <g transform="translate(559, 158)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#FB923C" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#FB923C"/>
+    <circle cx="32" cy="30" r="14" fill="#FB923C" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB923C" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">2</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Valuing the Metal: The Melt Value Formula</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">For the metal component specifically, melt value is a precise, calculable</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">number: weight (in grams) × purity (as a decimal) × current spot price</text>
+    <text x="22" y="82" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">per...</text>
+  </g>
+  <g transform="translate(46, 294)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#FB923C" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#FB923C"/>
+    <circle cx="32" cy="30" r="14" fill="#FB923C" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB923C" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">3</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Valuing the Stones: Wholesale, Not Retail</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Diamonds and colored stones follow the same wholesale-not-retail logic as</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">the metal, but the gap between retail and resale is even starker for</text>
+    <text x="22" y="82" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">stones...</text>
+  </g>
+  <g transform="translate(559, 294)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#FB923C" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#FB923C"/>
+    <circle cx="32" cy="30" r="14" fill="#FB923C" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB923C" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">4</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Building the Actual Offer</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A complete trade-in offer combines several components, each evaluated on its</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">own terms: 1.</text>
+  </g>
+  <g transform="translate(46, 430)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#FB923C" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#FB923C"/>
+    <circle cx="32" cy="30" r="14" fill="#FB923C" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB923C" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">5</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Communicating the Offer Honestly and Confidently</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">This is where the technical valuation work meets the actual client</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">conversation, and getting the communication right matters as much as getting</text>
+    <text x="22" y="82" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">the...</text>
+  </g>
+  <g transform="translate(559, 430)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#FB923C" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#FB923C"/>
+    <circle cx="32" cy="30" r="14" fill="#FB923C" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB923C" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">6</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">A Worked Scenario: The Disappointed Client</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A client brings in a ring purchased new for $3,000 two years ago, expecting</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">a trade-in offer close to that figure.</text>
+  </g>
+  <g transform="translate(46, 566)">
+    <rect width="1008" height="110" rx="10" fill="#0F172A" stroke="#334155" stroke-width="1.4"/>
+    <text x="20" y="24" fill="#FB923C" font-family="system-ui, sans-serif" font-size="11" font-weight="700" letter-spacing="1.4">KEY TAKEAWAYS</text>
+    <circle cx="26" cy="42" r="3.2" fill="#FB923C"/>
+    <text x="40" y="46" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">A trade-in offer is built from wholesale and melt value, not the client's original retail purchase price — new jewelry...</text>
+    <circle cx="26" cy="61" r="3.2" fill="#FB923C"/>
+    <text x="40" y="65" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Metal melt value is a precise, calculable number: weight (grams) × purity (decimal) × current spot price per gram —...</text>
+    <circle cx="26" cy="80" r="3.2" fill="#FB923C"/>
+    <text x="40" y="84" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Diamonds typically resell for roughly 20-40% of original retail price through realistic channels, with lab-grown...</text>
+    <circle cx="26" cy="99" r="3.2" fill="#FB923C"/>
+    <text x="40" y="103" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">A complete offer combines metal melt value, stone wholesale value, condition adjustments (up or down), and the store's...</text>
+  </g>
+  <text x="46" y="698" fill="#C5A059" font-family="system-ui, sans-serif" font-size="10" font-weight="700" letter-spacing="1.6">JEWELSWELL MASTER ACADEMY</text>
+  <text x="1054" y="698" fill="#64748B" font-family="system-ui, sans-serif" font-size="10" font-weight="400" text-anchor="end">Generated from the module article — headings and takeaways verbatim.</text>
+</svg>

@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="100%" height="100%" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#E5C378"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#60A5FA"/>
+      <stop offset="100%" stop-color="#60A5FA" stop-opacity="0.35"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#60A5FA" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#60A5FA" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1600" height="900" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1596" height="896" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <circle cx="1210" cy="450" r="330" fill="url(#glow)"/>
+  <line x1="1210" y1="450" x2="1730.0" y2="450.0" stroke="#60A5FA" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1704.5" y2="610.7" stroke="#60A5FA" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1630.7" y2="755.6" stroke="#60A5FA" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1515.6" y2="870.7" stroke="#60A5FA" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1370.7" y2="944.5" stroke="#60A5FA" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1210.0" y2="970.0" stroke="#60A5FA" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1049.3" y2="944.5" stroke="#60A5FA" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="904.4" y2="870.7" stroke="#60A5FA" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="789.3" y2="755.6" stroke="#60A5FA" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="715.5" y2="610.7" stroke="#60A5FA" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="690.0" y2="450.0" stroke="#60A5FA" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="715.5" y2="289.3" stroke="#60A5FA" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="789.3" y2="144.4" stroke="#60A5FA" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="904.4" y2="29.3" stroke="#60A5FA" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1049.3" y2="-44.5" stroke="#60A5FA" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1210.0" y2="-70.0" stroke="#60A5FA" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1370.7" y2="-44.5" stroke="#60A5FA" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1515.6" y2="29.3" stroke="#60A5FA" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1630.7" y2="144.4" stroke="#60A5FA" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1704.5" y2="289.3" stroke="#60A5FA" stroke-width="1" stroke-opacity="0.05"/>
+  <rect x="96" y="120" width="64" height="4" rx="2" fill="url(#gold)"/>
+  <text x="96" y="168" fill="#E5C378" font-family="system-ui, sans-serif" font-size="17" font-weight="700" letter-spacing="2.6">MASTERCLASS C11 — OPERATIONS</text>
+  <text x="96" y="246" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="60" font-weight="800">Running the Store</text>
+  <text x="96" y="318" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="22" font-weight="400">The daily, weekly and monthly rhythm that</text>
+  <text x="96" y="350" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="22" font-weight="400">keeps a jewelry floor on plan.</text>
+  <rect x="96" y="404" width="142" height="38" rx="19" fill="#60A5FA" fill-opacity="0.14" stroke="#60A5FA" stroke-width="1.6"/>
+  <text x="167.2" y="429" fill="#60A5FA" font-family="system-ui, sans-serif" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="0.8">DAILY RHYTHM</text>
+  <rect x="252" y="404" width="214" height="38" rx="19" fill="#60A5FA" fill-opacity="0.14" stroke="#60A5FA" stroke-width="1.6"/>
+  <text x="359.29999999999995" y="429" fill="#60A5FA" font-family="system-ui, sans-serif" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="0.8">TRAFFIC-TO-SCHEDULE</text>
+  <rect x="480" y="404" width="173" height="38" rx="19" fill="#60A5FA" fill-opacity="0.14" stroke="#60A5FA" stroke-width="1.6"/>
+  <text x="566.6999999999999" y="429" fill="#60A5FA" font-family="system-ui, sans-serif" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="0.8">SHOWCASE ZONING</text>
+  <circle cx="103" cy="473" r="4.5" fill="#60A5FA"/>
+  <text x="120" y="478" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="17" font-weight="500">Weekly counts &amp; coaching</text>
+  <circle cx="403" cy="473" r="4.5" fill="#60A5FA"/>
+  <text x="420" y="478" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="17" font-weight="500">Visual merchandising zones</text>
+  <circle cx="103" cy="515" r="4.5" fill="#60A5FA"/>
+  <text x="120" y="520" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="17" font-weight="500">Peak-coverage scheduling</text>
+  <circle cx="403" cy="515" r="4.5" fill="#60A5FA"/>
+  <text x="420" y="520" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="17" font-weight="500">Writing SOPs</text>
+  <rect x="96" y="592" width="3" height="40" rx="1.5" fill="url(#gold)"/>
+  <text x="116" y="610" fill="#E5C378" font-family="system-ui, sans-serif" font-size="14" font-weight="700" letter-spacing="1.8">JEWELSWELL MASTER ACADEMY</text>
+  <text x="116" y="630" fill="#64748B" font-family="system-ui, sans-serif" font-size="13" font-weight="400">Fine Jewelry Retail Curriculum</text>
+  <g>
+    <rect x="995.0" y="235.0" width="430.0" height="430.0"
+          rx="12" fill="url(#accent)" fill-opacity="0.10" stroke="#60A5FA" stroke-width="2.4"/>
+    
+    <rect x="1045.0" y="305.0" width="55.0" height="55.0"
+          rx="5" fill="#60A5FA" fill-opacity="0.85" stroke="#60A5FA" stroke-width="1.8"/>
+    <rect x="1130.0" y="325.0" width="245.0" height="7"
+          rx="3.5" fill="#60A5FA" fill-opacity="0.55"/>
+    <rect x="1045.0" y="390.0" width="55.0" height="55.0"
+          rx="5" fill="#60A5FA" fill-opacity="0.85" stroke="#60A5FA" stroke-width="1.8"/>
+    <rect x="1130.0" y="410.0" width="210.0" height="7"
+          rx="3.5" fill="#60A5FA" fill-opacity="0.45"/>
+    <rect x="1045.0" y="475.0" width="55.0" height="55.0"
+          rx="5" fill="#60A5FA" fill-opacity="0.18" stroke="#60A5FA" stroke-width="1.8"/>
+    <rect x="1130.0" y="495.0" width="175.0" height="7"
+          rx="3.5" fill="#60A5FA" fill-opacity="0.35"/>
+    <rect x="1045.0" y="560.0" width="55.0" height="55.0"
+          rx="5" fill="#60A5FA" fill-opacity="0.18" stroke="#60A5FA" stroke-width="1.8"/>
+    <rect x="1130.0" y="580.0" width="140.0" height="7"
+          rx="3.5" fill="#60A5FA" fill-opacity="0.25"/>
+  </g>
+  <rect x="1396" y="96" width="108" height="46" rx="10" fill="#60A5FA" fill-opacity="0.16" stroke="#60A5FA" stroke-width="1.8"/>
+  <text x="1450" y="127" fill="#60A5FA" font-family="system-ui, sans-serif" font-size="24" font-weight="800" text-anchor="middle" letter-spacing="1.2">C11</text>
+</svg>

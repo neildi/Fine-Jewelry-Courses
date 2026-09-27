@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 690" width="100%" height="100%" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#E5C378"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#60A5FA"/>
+      <stop offset="100%" stop-color="#60A5FA" stop-opacity="0.35"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#60A5FA" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#60A5FA" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1100" height="690" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1096" height="686" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <g transform="translate(46, 34)">
+    <rect x="0" y="0" width="140" height="24" rx="12" fill="#60A5FA" fill-opacity="0.18"/>
+    <text x="70.2" y="16" fill="#60A5FA" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1">CONVERSATION MAP</text>
+    <text x="1008" y="16" fill="#64748B" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="end" letter-spacing="1.2">C11 · MODULE 02</text>
+    <text x="0" y="52" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">The Daily Rhythm: Open, Huddle, Floor, Close</text>
+  </g>
+  <g transform="translate(46, 130)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#60A5FA" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#60A5FA"/>
+    <circle cx="32" cy="30" r="14" fill="#60A5FA" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#60A5FA" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">1</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Why Opening and Closing Get Treated as the Riskiest Routine of</text>
+    <text x="56" y="44" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">the Day</text>
+    <text x="22" y="69" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Insurer and industry-association guidance is specific and consistent:</text>
+    <text x="22" y="84" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">opening and closing are the most dangerous times for a jewelry store...</text>
+  </g>
+  <g transform="translate(559, 130)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#60A5FA" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#60A5FA"/>
+    <circle cx="32" cy="30" r="14" fill="#60A5FA" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#60A5FA" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">2</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Opening: The Two-Person Sequence, in Order</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">The opening sequence, confirmed consistently across multiple insurer and</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">trade-association guides, follows a specific order: one person accesses</text>
+    <text x="22" y="82" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">the...</text>
+  </g>
+  <g transform="translate(46, 266)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#60A5FA" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#60A5FA"/>
+    <circle cx="32" cy="30" r="14" fill="#60A5FA" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#60A5FA" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">3</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">The Morning Huddle: A Short, Structured Briefing, Not an</text>
+    <text x="56" y="44" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Afterthought</text>
+    <text x="22" y="69" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A daily huddle, covering the day's new arrivals, scheduled appointments,</text>
+    <text x="22" y="84" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">active promotions, repair status, and clienteling priorities, is a widely...</text>
+  </g>
+  <g transform="translate(559, 266)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#60A5FA" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#60A5FA"/>
+    <circle cx="32" cy="30" r="14" fill="#60A5FA" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#60A5FA" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">4</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Working the Floor: What a Leader Is Actually Watching For</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">During the working day, a store leader's floor responsibilities include</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">tracking sales against the day's plan, providing real in-store coaching</text>
+    <text x="22" y="82" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">in...</text>
+  </g>
+  <g transform="translate(46, 402)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#60A5FA" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#60A5FA"/>
+    <circle cx="32" cy="30" r="14" fill="#60A5FA" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#60A5FA" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">5</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Closing: Customers Out, Then Merchandise Away</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">The closing sequence reverses the opening logic in a specific order that</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">matters: clear the store of all customers and lock the door before any...</text>
+  </g>
+  <g transform="translate(559, 402)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#60A5FA" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#60A5FA"/>
+    <circle cx="32" cy="30" r="14" fill="#60A5FA" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#60A5FA" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">6</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">A Worked Scenario: The Huddle That Almost Got Skipped</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">On an unusually busy Saturday morning, with three clients already waiting at</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">open, the temptation is to skip the huddle and get straight to the floor.</text>
+  </g>
+  <g transform="translate(46, 538)">
+    <rect width="1008" height="110" rx="10" fill="#0F172A" stroke="#334155" stroke-width="1.4"/>
+    <text x="20" y="24" fill="#60A5FA" font-family="system-ui, sans-serif" font-size="11" font-weight="700" letter-spacing="1.4">KEY TAKEAWAYS</text>
+    <circle cx="26" cy="42" r="3.2" fill="#60A5FA"/>
+    <text x="40" y="46" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Opening and closing are treated as the single riskiest routine of the jewelry retail day, confirmed by crime-timing...</text>
+    <circle cx="26" cy="61" r="3.2" fill="#60A5FA"/>
+    <text x="40" y="65" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">The opening sequence follows a strict two-person order: entry and all-clear signal first, then merchandise out of the...</text>
+    <circle cx="26" cy="80" r="3.2" fill="#60A5FA"/>
+    <text x="40" y="84" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">The daily huddle is a short, structured briefing a store leader actively runs — naming specific sales, appointments,...</text>
+    <circle cx="26" cy="99" r="3.2" fill="#60A5FA"/>
+    <text x="40" y="103" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Floor-level leadership during the working day means coaching in the moment and staying alert to specific,...</text>
+  </g>
+  <text x="46" y="670" fill="#C5A059" font-family="system-ui, sans-serif" font-size="10" font-weight="700" letter-spacing="1.6">JEWELSWELL MASTER ACADEMY</text>
+  <text x="1054" y="670" fill="#64748B" font-family="system-ui, sans-serif" font-size="10" font-weight="400" text-anchor="end">Generated from the module article — headings and takeaways verbatim.</text>
+</svg>

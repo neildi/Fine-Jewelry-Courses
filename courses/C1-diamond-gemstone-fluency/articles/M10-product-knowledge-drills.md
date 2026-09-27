@@ -42,6 +42,11 @@ updated: 2026-09-07
 
 This is the capstone of Diamond & Gemstone Fluency for the Sales Floor, and it does not introduce new facts. Instead, it takes everything from Modules 1 through 9 and turns it into a structured 30-day practice calendar plus a formal 40-question self-test, the same assessment named in this course's terminal outcomes. The goal is simple: by the end of this module, you can answer the fifteen most common product questions a client asks, without needing to check with a manager first.
 
+<figure>
+  <img src="../assets/c1-m10-product-knowledge-drills-30-day-self-test.svg" alt="Product-Knowledge Drills: A 30-Day Self-Test" width="100%" />
+  <figcaption><strong>Figure 10.1:</strong> Product-Knowledge Drills: A 30-Day Self-Test — module framework at a glance: Why this module is different · Why this matters · How to use this module.</figcaption>
+</figure>
+
 ## Why this matters
 
 Knowing a fact once, in isolation, is different from being able to produce it instantly under the pressure of a live sales conversation. The drills in this module are designed the way real client questions arrive: unpredictably, mixed across topics, and expecting a confident answer in seconds. Employers across this industry consistently list product fluency as a baseline expectation for this role, and this module is where that fluency gets tested and locked in before you ask a manager to observe you formally.

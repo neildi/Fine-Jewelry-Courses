@@ -4,6 +4,11 @@
 
 A fine jewelry store runs on a small number of routines that repeat every single day, and the reason they're codified so tightly — rather than left to individual judgment — is that jewelry is a genuinely high-severity, high-shrink retail category. The Jewelers' Security Alliance logged 1,233 crimes against U.S. jewelry firms in 2025, and total dollar losses rose to roughly $145 million even as crime counts declined slightly, driven by professional crews using increasingly aggressive methods. This module walks through the daily rhythm — opening, the morning huddle, the working day, and closing — as the specific, non-negotiable structure a store leader is responsible for running every day, not as a checklist to delegate and forget.
 
+<figure>
+  <img src="../assets/c11-m02-daily-rhythm-open-huddle-floor-close.svg" alt="The Daily Rhythm: Open, Huddle, Floor, Close" width="100%" />
+  <figcaption><strong>Figure 2.1:</strong> The Daily Rhythm: Open, Huddle, Floor, Close — module framework at a glance: Why Opening and Closing Get Treated as the Riskiest Routine of the Day · Opening: The Two-Person Sequence, in Order.</figcaption>
+</figure>
+
 ## Why Opening and Closing Get Treated as the Riskiest Routine of the Day
 
 Insurer and industry-association guidance is specific and consistent: opening and closing are the most dangerous times for a jewelry store, precisely because they're the moments when a store transitions between secured and open states, and staff attention is often divided by the mechanics of the transition itself. Timing data from JSA's crime reporting shows robberies peaking between 5:00-6:00pm, with a secondary peak at 12:00-1:00pm, and no sixty-minute window during a normal business day when robberies did not occur at all. This is why the specific opening and closing sequence below isn't a matter of house style — it's a direct response to a well-documented risk pattern.
