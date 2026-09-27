@@ -19,6 +19,11 @@ generated: 2026-09-11
 
 An estate client brings in a ring set with a 3.02 ct red oval in a worn yellow-gold mounting. She says it has been in her family since the 1960s and asks what you'd pay for it. Under your 10× loupe the stone is a slightly purplish red with moderate extinction, and you can see a few irregular internal features — some tiny crystals, a fingerprint-looking healed fracture near the girdle, and some faint bands of color.
 
+<figure>
+  <img src="../assets/c17-m06-inclusions-micro-world-reading-origin-treatment-history.svg" alt="Inclusions and the Micro-World: Reading Origin, Treatment, and History Under 10×" width="100%" />
+  <figcaption><strong>Figure 6.1:</strong> Inclusions and the Micro-World: Reading Origin, Treatment, and History Under 10× — module framework at a glance: The estate ruby that could be five things · What is an inclusion? · Classifying inclusions: time and type.</figcaption>
+</figure>
+
 Without a microscope and spectroscopy, this stone could be five things:
 1. A natural Burmese (Mogok or Mong Hsu) ruby, possibly heat-treated.
 2. A natural Thai/Cambodian basalt ruby, dark and iron-rich.

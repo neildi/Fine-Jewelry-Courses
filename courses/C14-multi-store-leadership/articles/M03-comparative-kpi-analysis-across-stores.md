@@ -4,6 +4,11 @@
 
 Module 2 established the store-visit structure that generates comparable, consistent observations across every location a district leader oversees. This module covers the parallel discipline for the numbers: comparing stores fairly, on metrics genuinely normalized for size, format, and context, rather than making the single most common comparison mistake in multi-unit retail — ranking a 1,200-square-foot boutique against a 4,000-square-foot flagship on raw sales and concluding the smaller store is simply underperforming.
 
+<figure>
+  <img src="../assets/c14-m03-comparative-kpi-analysis-across-stores.svg" alt="Comparative KPI Analysis Across Stores" width="100%" />
+  <figcaption><strong>Figure 3.1:</strong> Comparative KPI Analysis Across Stores — module framework at a glance: Why Raw Comparisons Mislead · Sales Per Square Foot: The Single Most Useful Normalizer · Building a Focused, Consistent District Scorecard.</figcaption>
+</figure>
+
 ## Why Raw Comparisons Mislead
 
 A specific, well-documented trap: comparing stores directly on raw revenue, raw traffic, or raw transaction counts systematically misleads, because these numbers are driven as much by a store's physical size, format, and local market as by how well it's actually being run. A compact urban shop and a suburban big-box location use space differently, and placing them in the same raw-number ranking hides useful differences rather than revealing them. The specific discipline that fixes this: a metric is only genuinely comparable across stores when its numerator, denominator, scope, period, and exclusions all remain consistent — comparing two stores where one measures only the selling floor and another includes its stockroom in "square footage" isn't a real comparison at all, however similar the resulting numbers might look.

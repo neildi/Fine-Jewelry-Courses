@@ -4,6 +4,11 @@
 
 A schedule built around convenience — the same shifts, week after week, regardless of what's actually happening on the floor — quietly costs a store money twice over: too many hands during slow stretches inflates labor cost against sales, and too few during a genuine rush means missed sales, rushed clients, and exactly the kind of understaffing this course's Module 2 warned drags on discovery and trust-building quality. This module covers how to actually schedule to real traffic, rather than to habit.
 
+<figure>
+  <img src="../assets/c11-m06-scheduling-traffic-peak-coverage.svg" alt="Scheduling to Traffic and Peak Coverage" width="100%" />
+  <figcaption><strong>Figure 6.1:</strong> Scheduling to Traffic and Peak Coverage — module framework at a glance: Map the Real Curve Before You Schedule Anything · Build the Schedule Backward From the Peak, Not Forward From Open.</figcaption>
+</figure>
+
 ## Map the Real Curve Before You Schedule Anything
 
 The starting discipline, confirmed consistently across retail scheduling guidance, is to pull several weeks of real data — POS transaction timestamps and door-count data where available — and plot traffic hour by hour across a typical day, rather than scheduling from instinct or last year's rota. General retail patterns show predictable surges during lunch hours (commonly 11am-2pm) and an after-work window (commonly 4-7pm), with weekend afternoons typically running heaviest overall — though the specific shape of this curve varies by location and should be confirmed against a store's own actual data rather than assumed from general retail patterns. A specific, useful distinction: traffic peaks and purchase peaks don't always align — a jewelry store might see heavy browsing at one time of day but the actual majority of purchases close at a different time, meaning floor coverage and any specialized closing support may need to be staffed for two different peaks, not one.

@@ -32,6 +32,11 @@ generated: 2026-09-13
 
 A client has been trying on a three-stone anniversary ring for ten minutes. She turns her hand in the light, smiles, and asks, "Could you size this down to a 6?"
 
+<figure>
+  <img src="../assets/c2-m04-buying-signals-stop-talking.svg" alt="Buying Signals and When to Stop Talking" width="100%" />
+  <figcaption><strong>Figure 4.1:</strong> Buying Signals and When to Stop Talking — module framework at a glance: The ring was already sold · What a buying signal actually is · The sentence that ends more sales than any objection.</figcaption>
+</figure>
+
 The associate, mid-momentum from a strong presentation, answers: "Absolutely, and while we're on this piece, let me tell you about the clarity grade one more time, because I really want you to understand what you're getting..." Ninety seconds later the client's expression has flattened. She says, "Let me think about it," and walks out.
 
 Nothing the associate said was wrong. It just did not need to be said, because it had already been said, and the client had already answered the only question that mattered: she asked about sizing. That is not a request for more information. It is a buying signal, and the sale was won and then talked back open.

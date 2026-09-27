@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="100%" height="100%" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#E5C378"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.35"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1600" height="900" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1596" height="896" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <circle cx="1180" cy="450" r="380" fill="url(#glow)"/>
+  <polygon points="1440.0,430.0 1405.2,474.2 1310.0,506.6 1180.0,518.4 1050.0,506.6 954.8,474.2 920.0,430.0 954.8,385.8 1050.0,353.4 1180.0,341.6 1310.0,353.4 1405.2,385.8" fill="url(#accent)" fill-opacity="0.10" stroke="#38BDF8" stroke-width="2.6"/>
+  <polygon points="1315.2,331.2 1297.1,354.2 1247.6,371.0 1180.0,377.2 1112.4,371.0 1062.9,354.2 1044.8,331.2 1062.9,308.2 1112.4,291.4 1180.0,285.2 1247.6,291.4 1297.1,308.2" fill="#38BDF8" fill-opacity="0.18" stroke="#38BDF8" stroke-width="2.2"/>
+  <line x1="1440.0" y1="430.0" x2="1180.0" y2="669.2" stroke="#38BDF8" stroke-width="1.4" stroke-opacity="0.68"/>
+  <line x1="1440.0" y1="430.0" x2="1315.2" y2="331.2" stroke="#38BDF8" stroke-width="1.4" stroke-opacity="0.70"/>
+  <circle cx="1440.0" cy="430.0" r="3.6" fill="#38BDF8" fill-opacity="0.9"/>
+  <line x1="1405.2" y1="474.2" x2="1180.0" y2="669.2" stroke="#38BDF8" stroke-width="1.4" stroke-opacity="0.68"/>
+  <line x1="1405.2" y1="474.2" x2="1297.1" y2="354.2" stroke="#38BDF8" stroke-width="1.4" stroke-opacity="0.70"/>
+  <circle cx="1405.2" cy="474.2" r="3.6" fill="#38BDF8" fill-opacity="0.9"/>
+  <line x1="1310.0" y1="506.6" x2="1180.0" y2="669.2" stroke="#38BDF8" stroke-width="1.4" stroke-opacity="0.68"/>
+  <line x1="1310.0" y1="506.6" x2="1247.6" y2="371.0" stroke="#38BDF8" stroke-width="1.4" stroke-opacity="0.70"/>
+  <circle cx="1310.0" cy="506.6" r="3.6" fill="#38BDF8" fill-opacity="0.9"/>
+  <line x1="1180.0" y1="518.4" x2="1180.0" y2="669.2" stroke="#38BDF8" stroke-width="1.4" stroke-opacity="0.68"/>
+  <line x1="1180.0" y1="518.4" x2="1180.0" y2="377.2" stroke="#38BDF8" stroke-width="1.4" stroke-opacity="0.70"/>
+  <circle cx="1180.0" cy="518.4" r="3.6" fill="#38BDF8" fill-opacity="0.9"/>
+  <line x1="1050.0" y1="506.6" x2="1180.0" y2="669.2" stroke="#38BDF8" stroke-width="1.4" stroke-opacity="0.68"/>
+  <line x1="1050.0" y1="506.6" x2="1112.4" y2="371.0" stroke="#38BDF8" stroke-width="1.4" stroke-opacity="0.70"/>
+  <circle cx="1050.0" cy="506.6" r="3.6" fill="#38BDF8" fill-opacity="0.9"/>
+  <line x1="954.8" y1="474.2" x2="1180.0" y2="669.2" stroke="#38BDF8" stroke-width="1.4" stroke-opacity="0.68"/>
+  <line x1="954.8" y1="474.2" x2="1062.9" y2="354.2" stroke="#38BDF8" stroke-width="1.4" stroke-opacity="0.70"/>
+  <circle cx="954.8" cy="474.2" r="3.6" fill="#38BDF8" fill-opacity="0.9"/>
+  <line x1="920.0" y1="430.0" x2="1180.0" y2="669.2" stroke="#38BDF8" stroke-width="1.4" stroke-opacity="0.68"/>
+  <line x1="920.0" y1="430.0" x2="1044.8" y2="331.2" stroke="#38BDF8" stroke-width="1.4" stroke-opacity="0.70"/>
+  <circle cx="920.0" cy="430.0" r="3.6" fill="#38BDF8" fill-opacity="0.9"/>
+  <line x1="954.8" y1="385.8" x2="1180.0" y2="669.2" stroke="#38BDF8" stroke-width="1.4" stroke-opacity="0.22"/>
+  <line x1="954.8" y1="385.8" x2="1062.9" y2="308.2" stroke="#38BDF8" stroke-width="1.4" stroke-opacity="0.28"/>
+  <circle cx="954.8" cy="385.8" r="3.6" fill="#38BDF8" fill-opacity="0.9"/>
+  <line x1="1050.0" y1="353.4" x2="1180.0" y2="669.2" stroke="#38BDF8" stroke-width="1.4" stroke-opacity="0.22"/>
+  <line x1="1050.0" y1="353.4" x2="1112.4" y2="291.4" stroke="#38BDF8" stroke-width="1.4" stroke-opacity="0.28"/>
+  <circle cx="1050.0" cy="353.4" r="3.6" fill="#38BDF8" fill-opacity="0.9"/>
+  <line x1="1180.0" y1="341.6" x2="1180.0" y2="669.2" stroke="#38BDF8" stroke-width="1.4" stroke-opacity="0.22"/>
+  <line x1="1180.0" y1="341.6" x2="1180.0" y2="285.2" stroke="#38BDF8" stroke-width="1.4" stroke-opacity="0.28"/>
+  <circle cx="1180.0" cy="341.6" r="3.6" fill="#38BDF8" fill-opacity="0.9"/>
+  <line x1="1310.0" y1="353.4" x2="1180.0" y2="669.2" stroke="#38BDF8" stroke-width="1.4" stroke-opacity="0.22"/>
+  <line x1="1310.0" y1="353.4" x2="1247.6" y2="291.4" stroke="#38BDF8" stroke-width="1.4" stroke-opacity="0.28"/>
+  <circle cx="1310.0" cy="353.4" r="3.6" fill="#38BDF8" fill-opacity="0.9"/>
+  <line x1="1405.2" y1="385.8" x2="1180.0" y2="669.2" stroke="#38BDF8" stroke-width="1.4" stroke-opacity="0.22"/>
+  <line x1="1405.2" y1="385.8" x2="1297.1" y2="308.2" stroke="#38BDF8" stroke-width="1.4" stroke-opacity="0.28"/>
+  <circle cx="1405.2" cy="385.8" r="3.6" fill="#38BDF8" fill-opacity="0.9"/>
+  <circle cx="1180.0" cy="669.2" r="6" fill="#38BDF8"/>
+  <line x1="1140" y1="310" x2="1376.4" y2="125.3" stroke="#FFFFFF" stroke-width="1.6" stroke-opacity="0.16"/>
+  <line x1="1140" y1="310" x2="1433.4" y2="247.6" stroke="#FFFFFF" stroke-width="1.6" stroke-opacity="0.16"/>
+  <line x1="1140" y1="310" x2="1428.4" y2="392.7" stroke="#FFFFFF" stroke-width="1.6" stroke-opacity="0.16"/>
+  <rect x="96" y="118" width="64" height="4" rx="2" fill="url(#gold)"/>
+  <text x="96" y="166" fill="#E5C378" font-family="system-ui, sans-serif" font-size="19" font-weight="700" letter-spacing="3.2">JEWELSWELL MASTER ACADEMY</text>
+  <text x="96" y="264" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="68" font-weight="800">Fine Jewelry Retail,</text>
+  <text x="96" y="340" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="68" font-weight="800">Mastered End to End.</text>
+  <text x="96" y="398" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="23" font-weight="400">A complete, source-verified curriculum for the</text>
+  <text x="96" y="432" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="23" font-weight="400">selling floor, the client book, the bench and the</text>
+  <text x="96" y="466" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="23" font-weight="400">P&amp;L.</text>
+  <rect x="96" y="520" width="184" height="118" rx="14" fill="#1E293B" fill-opacity="0.75" stroke="#38BDF8" stroke-width="1.6" stroke-opacity="0.55"/>
+  <text x="188" y="582" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="46" font-weight="800" text-anchor="middle">16</text>
+  <text x="188" y="612" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="1.6">COURSES</text>
+  <rect x="306" y="520" width="184" height="118" rx="14" fill="#1E293B" fill-opacity="0.75" stroke="#38BDF8" stroke-width="1.6" stroke-opacity="0.55"/>
+  <text x="398" y="582" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="46" font-weight="800" text-anchor="middle">154</text>
+  <text x="398" y="612" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="1.6">MODULES</text>
+  <rect x="516" y="520" width="184" height="118" rx="14" fill="#1E293B" fill-opacity="0.75" stroke="#38BDF8" stroke-width="1.6" stroke-opacity="0.55"/>
+  <text x="608" y="582" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="46" font-weight="800" text-anchor="middle">55</text>
+  <text x="608" y="612" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="1.6">DIAGRAMS</text>
+  <rect x="96" y="670" width="614" height="1" fill="#334155"/>
+  <text x="96" y="704" fill="#64748B" font-family="system-ui, sans-serif" font-size="15" font-weight="400">Every figure below is generated from the curriculum itself.</text>
+</svg>

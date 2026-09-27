@@ -19,6 +19,11 @@ generated: 2026-09-11
 
 A client returns a year after buying a "ruby" ring from you. She cleaned it at home in a commercial jewelry cleaner (a mild acid dip) and now the stone looks cloudy, with white spots along several fractures and a dull surface. She is angry: "You told me ruby is 9 on the Mohs scale and almost as hard as diamond. How is this possible?"
 
+<figure>
+  <img src="../assets/c17-m09-treatments-heat-diffusion-filling-oiling-irradiation.svg" alt="Treatments: Heat, Diffusion, Filling, Oiling, Irradiation, Coating, Dyeing — and Disclosure" width="100%" />
+  <figcaption><strong>Figure 9.1:</strong> Treatments: Heat, Diffusion, Filling, Oiling, Irradiation, Coating, Dyeing — and Disclosure — module framework at a glance: The lead-glass-filled ruby that came back damaged · Why treatments exist, and why disclosure is the law · Treatment by treatment.</figcaption>
+</figure>
+
 The stone is a **lead-glass-filled ruby**. A high volume of fine fractures in the original rough had been filled with high-lead-content glass to make the stone look transparent. The glass is not corundum. It is soft, soluble in mild acid, melts under a jeweler's torch, shatters under ultrasonic/steam, and chips easily. You sold it as "ruby" without disclosing the fill and without giving her the care rules. The damaged stone is the result.
 
 This module is about making sure that scenario does not happen. Treatments are ancient (Nassau 1984 documents emerald oiling in Roman literature, agate heat treatment in Pliny, dyeing of turquoise and chalcedony for millennia), modern, ubiquitous, and in most cases legitimate — but the FTC Jewelry Guides (Overton 2004) are unambiguous: any treatment that is not permanent, affects value, or requires special care must be disclosed to the buyer before sale. The client in our opening scenario didn't stand a chance of caring for her stone because she didn't know what she had bought.

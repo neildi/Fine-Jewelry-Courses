@@ -4,6 +4,11 @@
 
 "Old jewelry" is not one category, and treating it like one is the fastest way to misprice a piece, misinform a client, or miss a genuine sales opportunity. Estate, antique, vintage, and trade-in are four distinct terms with different legal and practical meanings, and confusing them affects everything from the value conversation to the marketing language on a price tag. This module builds the vocabulary and market context the rest of this course depends on.
 
+<figure>
+  <img src="../assets/c7-m01-secondary-market-estate-antique-trade-in-are.svg" alt="The Secondary Market: Why Estate, Antique, and Trade-In Are Distinct Categories" width="100%" />
+  <figcaption><strong>Figure 1.1:</strong> The Secondary Market: Why Estate, Antique, and Trade-In Are Distinct Categories — module framework at a glance: The Four Terms, Defined Precisely · Trade-In: A Different Transaction Entirely · The Secondary Market Is Real, and It's Growing.</figcaption>
+</figure>
+
 ## The Four Terms, Defined Precisely
 
 These terms get used interchangeably in casual conversation, but they mean genuinely different things, and the distinction matters for pricing, marketing, and client conversations:

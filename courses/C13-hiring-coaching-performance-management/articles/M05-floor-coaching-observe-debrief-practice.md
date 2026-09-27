@@ -4,6 +4,11 @@
 
 Onboarding, built in Module 4, gets a new hire to a baseline of competence. What happens after that — the ongoing, week-to-week coaching that turns a competent associate into a genuinely strong one — is a distinct skill this module builds specifically. This is the direct source of evidence Module 7's performance reviews will eventually draw on, and it's the specific behavior this course's assessment (a recorded coaching debrief) asks a store leader to actually demonstrate.
 
+<figure>
+  <img src="../assets/c13-m05-floor-coaching-observe-debrief-practice.svg" alt="Floor Coaching: Observe, Debrief, Practice" width="100%" />
+  <figcaption><strong>Figure 5.1:</strong> Floor Coaching: Observe, Debrief, Practice — module framework at a glance: The Core Coaching Loop: Observe, Debrief, Practice · What Makes a Debrief Actually Land: Observation, Impact, Alternative.</figcaption>
+</figure>
+
 ## The Core Coaching Loop: Observe, Debrief, Practice
 
 The three-part structure this module is named for maps onto a well-documented floor-coaching sequence. Observation happens during a live customer interaction, ideally on a regular, scheduled cadence rather than only when something goes visibly wrong. The debrief happens immediately after, or as close to immediately as practical — five minutes maximum, before moving to the next interaction or the next task, since coaching value decays quickly once too much time passes between the observed behavior and the conversation about it. Practice is the specific commitment the associate makes for their very next interaction, which the manager then follows up on at the next observation, closing the loop rather than leaving the conversation as a one-off comment.

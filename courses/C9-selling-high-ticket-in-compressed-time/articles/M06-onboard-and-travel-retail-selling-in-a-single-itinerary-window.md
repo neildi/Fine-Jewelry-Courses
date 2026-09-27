@@ -4,6 +4,11 @@
 
 Onboard and travel retail — cruise ship jewelry seminars, duty-free showroom selling, port-day promotions — is a compressed-time format with a genuinely difficult reputation problem this module needs to address directly. Consumer-facing travel press regularly warns travelers about "high-pressure sales routines," free-gift hooks designed to trap a captive audience, and sales pitches that get "more desperate" as a cruise nears its end. Every technique this course has built — honest urgency, fast trust, pressure-free closing — exists specifically to do this format right, in a category where doing it wrong is common enough that it's now a familiar warning in travel guides. This module covers what makes onboard retail structurally different from a trunk show, and how to run it in a way that builds a genuine seminar-to-showroom relationship rather than reinforcing the reputation this format has earned.
 
+<figure>
+  <img src="../assets/c9-m06-onboard-travel-retail-selling-single-itinerary.svg" alt="Onboard and Travel Retail: Selling in a Single Itinerary Window" width="100%" />
+  <figcaption><strong>Figure 6.1:</strong> Onboard and Travel Retail: Selling in a Single Itinerary Window — module framework at a glance: The Itinerary Is the Deadline, and It's a Real One · The Seminar-to-Showroom Model · What the Showroom Conversation Should Actually Look Like.</figcaption>
+</figure>
+
 ## The Itinerary Is the Deadline, and It's a Real One
 
 Onboard retail's defining constraint isn't a designer's travel schedule — it's the ship's own itinerary. A passenger who doesn't visit the showroom before the ship reaches its next port, or before the "all-aboard" time on a port day, has genuinely lost the opportunity in a way that's structurally identical to Module 1's core compressed-time principle, but tied to a fixed schedule neither the associate nor the client controls. This is exactly the kind of real, specific, honestly-statable constraint Module 1 distinguished from manufactured pressure — "we'll be back in this port area again in about eight months" or "this promotion is tied to today's sea day and won't repeat tomorrow" are true facts about how the format works, not invented scarcity.

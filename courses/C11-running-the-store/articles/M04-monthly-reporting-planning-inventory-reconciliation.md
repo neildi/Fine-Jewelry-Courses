@@ -4,6 +4,11 @@
 
 If the daily rhythm keeps a store safe and the weekly rhythm keeps it on track, the monthly cycle is where a store leader steps back far enough to see whether the actual business is moving in the direction it needs to — and where the highest-value verification work and the store's real financial accountability come together. This module covers the specific monthly disciplines a store leader owns: the business review with district or ownership leadership, the rotating departmental audit, the high-value item verification protocol, and the reconciliation work that has to close out cleanly by a specific date every month.
 
+<figure>
+  <img src="../assets/c11-m04-monthly-reporting-planning-inventory-reconciliation.svg" alt="Monthly Reporting, Planning, Inventory Reconciliation" width="100%" />
+  <figcaption><strong>Figure 4.1:</strong> Monthly Reporting, Planning, Inventory Reconciliation — module framework at a glance: The Monthly Business Review: Numbers and People, Together · Rotating Departmental Audits: Structural Protection, Not Personal Suspicion.</figcaption>
+</figure>
+
 ## The Monthly Business Review: Numbers and People, Together
 
 A store leader's monthly review with district leadership or ownership covers daily, weekly, and monthly business and people results together, and builds strategic plans jointly rather than the store leader simply reporting numbers upward. The specific, defining monthly financial responsibility at store level is ensuring the store actually hits its monthly budgeted contribution — not just tracking whether it did, but taking ownership of getting there. This review is also where concrete administrative deadlines land: a layaway report graded and submitted, and transfer reconciliation completed, both by the 25th of each month in real published examples, with next month's staffing schedule built directly to the payroll budget rather than to convenience.

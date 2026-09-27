@@ -4,6 +4,11 @@
 
 Modules 2 and 3 built toward this exact moment: a client whose real priorities have been surfaced and who has genuine reason to trust the associate in front of them. Now the compressed-time format demands something a standard boutique conversation could defer — an actual decision, today, without the benefit of "think it over and come back." This module covers how to ask for that decision directly and honestly, using the client's own signals rather than pressure, and how to handle the price conversation and the silence that follows without either one collapsing the sale.
 
+<figure>
+  <img src="../assets/c9-m04-decision-moment-closing-without-pressure.svg" alt="The Decision Moment: Closing Without Pressure" width="100%" />
+  <figcaption><strong>Figure 4.1:</strong> The Decision Moment: Closing Without Pressure — module framework at a glance: Trial Closes: Testing the Water Before Asking for the Decision · The Actual Close: Confidence, Not Force · Respecting the Client's Need for Space.</figcaption>
+</figure>
+
 ## Trial Closes: Testing the Water Before Asking for the Decision
 
 The instinct to save every closing question for one final, high-stakes moment at the end of a presentation is a mistake. A trial close is a low-pressure question that tests a client's reaction without asking them to commit to anything — it asks for an opinion, not a decision. Something as simple as "how does that feel on your hand?" or "is this closer to what you had in mind?" surfaces objections and gauges readiness throughout the conversation, not just at the very end. The practical value specifically for a compressed-time format: trial closes let an associate read where a client actually stands well before the clock runs out, so the final ask isn't a guess sprung on someone who hasn't been checked in with along the way.

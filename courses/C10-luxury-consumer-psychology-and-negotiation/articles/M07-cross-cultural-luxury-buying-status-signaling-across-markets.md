@@ -4,6 +4,11 @@
 
 The motivational framework covered in Modules 1 and 2 — personal-oriented, social-oriented, and self-completion motivations — holds up remarkably well across cultures, but how those motivations get expressed, and which specific colors, numbers, and gestures carry meaning, varies enough between markets that an approach that works perfectly with one client can genuinely offend or confuse another. This module covers what's actually generalizable about luxury motivation across cultures, what specifically isn't, and the concrete cultural knowledge that prevents an unintentional, avoidable mistake with an international client.
 
+<figure>
+  <img src="../assets/c10-m07-cross-cultural-luxury-buying-status-signaling-across.svg" alt="Cross-Cultural Luxury Buying: Status Signaling Across Markets" width="100%" />
+  <figcaption><strong>Figure 7.1:</strong> Cross-Cultural Luxury Buying: Status Signaling Across Markets — module framework at a glance: The Core Motivations Are Universal; the Expression Isn't · Face Consumption: A Specific Cultural Variant of Social-Oriented Motivation.</figcaption>
+</figure>
+
 ## The Core Motivations Are Universal; the Expression Isn't
 
 Foundational cross-cultural consumer research, comparing luxury motivation across multiple countries, reaches a genuinely reassuring conclusion for this course's overall framework: the basic motivational drivers of luxury consumption are generalizable across cultures — people everywhere buy luxury for some combination of the personal, social, and identity-related reasons covered in Modules 1 and 2. What differs is not whether these motivations exist, but how individual consumers within different cultures perceive and prioritize them, and — critically for this module — how they are culturally expressed and what specific symbols carry that meaning. This means the underlying skill from Modules 1-2 (listening for personal vs. social vs. identity language) remains the right foundation with any client from any background; what this module adds is the specific cultural knowledge layered on top of that foundation.

@@ -32,6 +32,11 @@ generated: 2026-09-13
 
 A client buys a $4,000 engagement ring. Before she leaves, the associate says, "You'll want our protection plan too, it's only $200 more," without explaining what it covers, whether her homeowner's insurance might already cover loss and theft, or that a jewelry-specific policy actually covers different things than a store warranty does. She buys it because she was told to, not because anyone helped her understand what she was protecting and from what.
 
+<figure>
+  <img src="../assets/c2-m08-add-ons-protection-plans-care-products-done.svg" alt="Add-Ons, Protection Plans and Care Products Done Ethically" width="100%" />
+  <figcaption><strong>Figure 8.1:</strong> Add-Ons, Protection Plans and Care Products Done Ethically — module framework at a glance: The add-on that isn't really a service · Why these add-ons genuinely matter · Know what each one actually is, so you never misrepresent it.</figcaption>
+</figure>
+
 Nothing about that exchange was illegal. But it also wasn't service, and jewelry-specific add-ons, done right, genuinely are one of the most valuable things you can offer a client. This module is about doing them right.
 
 ## Why these add-ons genuinely matter

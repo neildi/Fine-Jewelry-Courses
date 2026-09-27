@@ -24,6 +24,11 @@ Outcome 5; factual discipline 5 (every lab-process claim traces to a read abstra
 
 King, Geurts, Gilbertson & Shigley (G&G Winter 2008, the definitive GIA Lab description) open, verbatim from the abstract, with two facts most sellers don't know they're quoting:
 
+<figure>
+  <img src="../assets/c16-m09-grading-color-masterstones-d-to-z-system-fancy-color.svg" alt="Grading Color: Masterstones, the D-to-Z System, and Fancy-Color Grading" width="100%" />
+  <figcaption><strong>Figure 9.1:</strong> Grading Color: Masterstones, the D-to-Z System, and Fancy-Color Grading — module framework at a glance: What the article says about its own system · The D origin, honestly · Why a boundary is the right place to argue — and how labs decide it.</figcaption>
+</figure>
+
 1. **Age & universality:** GIA's D-to-Z scale was "introduced in the early 1950s" and since then "has been used to color grade the overwhelming majority of colorless to light yellow gem-quality polished diamonds on which laboratory reports have been issued." The letters are now "virtually universal in the gem and jewelry industry" —
 2. — **but**: "the use of **GIA color grading standards and procedures** is not [universal]."
 

@@ -8,6 +8,11 @@ This is the leadership problem this article solves. As a store manager, you enfo
 
 Your terminal outcome as a district leader is to enforce compliance across sites — not to personally perform every count, but to build a calendar, an audit rhythm, and an escalation path that catches gaps before an insurer, an auditor, or a regulator does. This work sits squarely inside the district-manager job description: Signet's own DM role explicitly lists "Loss prevention" and "Expense control" as things the DM manages across the district, alongside "Overall district administration." A wholesale-channel regional role frames the same responsibility as owning "turnover [and] profit" across a multi-unit territory. Compliance oversight is not a side duty at your level — it is one of the things you are formally measured on.
 
+<figure>
+  <img src="../assets/c14-m05-compliance-risk-oversight-scale.svg" alt="Compliance and Risk Oversight at Scale" width="100%" />
+  <figcaption><strong>Figure 5.1:</strong> Compliance and Risk Oversight at Scale — module framework at a glance: Why This Matters · What &quot;Compliance at Scale&quot; Actually Covers · The District Compliance Calendar: Building the Master Version.</figcaption>
+</figure>
+
 ## What "Compliance at Scale" Actually Covers
 
 At store level, compliance means following the calendar someone else built. At district level, it means building and auditing that calendar across every site, and knowing where the calendar came from. Four domains recur across the research on jewelry-retail operations:

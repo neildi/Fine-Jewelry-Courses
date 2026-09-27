@@ -19,6 +19,11 @@ generated: 2026-09-11
 
 A bridal client sits down and says she wants "a sapphire ring like Kate Middleton's." She has done her homework: she knows the ring was Princess Diana's, and she has also read that Kashmir sapphires sell for millions of dollars. She would quite like the second thing at the price of the first.
 
+<figure>
+  <img src="../assets/c17-m12-blue-sapphire-velvet-cornflower-ring-diana.svg" alt="Blue Sapphire: Velvet, Cornflower and the Ring Diana Chose" width="100%" />
+  <figcaption><strong>Figure 12.1:</strong> Blue Sapphire: Velvet, Cornflower and the Ring Diana Chose — module framework at a glance: The most famous sapphire is not the most valuable one · Why sapphire is blue: it takes two elements · Treatment: heat, diffusion, and cobalt glass.</figcaption>
+</figure>
+
 This is an unusually easy conversation if you know two facts.
 
 The first: **the ring is a Ceylon sapphire.** Lady Diana Spencer chose a 12-carat oval blue sapphire surrounded by solitaires, made by Garrard, in 1981; it passed to Prince William and was given to Catherine Middleton in 2010. It is a Sri Lankan stone of good commercial-to-fine quality — a beautiful, accessible thing, and the reason sapphire engagement rings had a decade-long renaissance.

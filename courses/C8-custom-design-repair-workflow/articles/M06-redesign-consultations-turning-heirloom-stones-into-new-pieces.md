@@ -4,6 +4,11 @@
 
 A redesign consultation combines every technical skill in this course with the highest emotional stakes on the entire continuum. The client is rarely thinking about carat weight or alloy composition first — they're thinking about the person who wore this piece before them. This module covers how to run that consultation so the client's history is respected, the technical reality of their materials is assessed honestly, and no irreversible step happens before the client understands exactly what it means.
 
+<figure>
+  <img src="../assets/c8-m06-redesign-consultations-turning-heirloom-stones-into.svg" alt="Redesign Consultations: Turning Heirloom Stones Into New Pieces" width="100%" />
+  <figcaption><strong>Figure 6.1:</strong> Redesign Consultations: Turning Heirloom Stones Into New Pieces — module framework at a glance: Document Before You Touch Anything · The Discovery Conversation: What to Actually Ask · Assessing What You're Actually Working With.</figcaption>
+</figure>
+
 ## Document Before You Touch Anything
 
 The single non-negotiable first step, before any cleaning, disassembly, or stone removal, is creating a complete "before" record: photograph every side of every piece, all marks and hallmarks, existing settings, any loose parts, and any documents or boxes that came with the piece. This connects directly to Module 2's intake discipline, but for redesign work it matters even more, because the next step in the process is often genuinely irreversible — once a stone is removed from decades-old prongs or gold is melted, there is no going back to compare "before."

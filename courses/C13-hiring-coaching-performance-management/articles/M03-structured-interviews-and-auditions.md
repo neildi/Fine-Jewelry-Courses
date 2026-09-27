@@ -4,6 +4,11 @@
 
 Module 2 built a role profile where every must-have competency has a named piece of evidence attached. This module builds the actual interview guide that generates that evidence — the specific questions, the audition exercises, and the scoring discipline that turns an interview from a pleasant conversation into a genuine measurement tool. This is the direct, practical payoff of Module 1's research finding that structured interviews are among the strongest predictors of job performance available to a hiring manager.
 
+<figure>
+  <img src="../assets/c13-m03-structured-interviews-auditions.svg" alt="Structured Interviews and Auditions" width="100%" />
+  <figcaption><strong>Figure 3.1:</strong> Structured Interviews and Auditions — module framework at a glance: What Makes an Interview &quot;Structured&quot; · The STAR Method for Behavioral Questions · Building Questions From Module 2's Must-Have List.</figcaption>
+</figure>
+
 ## What Makes an Interview "Structured"
 
 A structured interview means every candidate for a given role answers the same predetermined questions, in the same order, and gets evaluated against the same predefined scoring criteria — as opposed to an unstructured conversation that wanders differently with each candidate. The specific build sequence: start with a comprehensive job analysis identifying the specific knowledge, skills, abilities, and other characteristics critical for success (this is exactly the must-have competency list Module 2 already produced), then develop targeted question sets mixing behavioral, situational, and competency-based questions that reflect actual job challenges, then create standardized scoring rubrics defining what an excellent, satisfactory, and unsatisfactory answer to each specific question looks like, and finally train every interviewer on delivery, objective evaluation, and bias mitigation before anyone conducts a live interview.

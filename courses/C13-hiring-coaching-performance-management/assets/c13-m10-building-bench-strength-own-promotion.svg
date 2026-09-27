@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 770" width="100%" height="100%" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#E5C378"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2DD4BF"/>
+      <stop offset="100%" stop-color="#2DD4BF" stop-opacity="0.35"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2DD4BF" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1100" height="770" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1096" height="766" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <g transform="translate(46, 34)">
+    <rect x="0" y="0" width="140" height="24" rx="12" fill="#2DD4BF" fill-opacity="0.18"/>
+    <text x="70.2" y="16" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1">MODULE FRAMEWORK</text>
+    <text x="1008" y="16" fill="#64748B" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="end" letter-spacing="1.2">C13 · MODULE 10</text>
+    <text x="0" y="52" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">Building Bench Strength for Your Own Promotion</text>
+  </g>
+  <g transform="translate(46, 130)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">1</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">The Specific Behaviors That Signal Leadership Potential</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A well-documented, specific set of observable signals separates future</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">leaders from simply strong sellers,...</text>
+  </g>
+  <g transform="translate(559, 130)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">2</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Say It Out Loud</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A specific, easy-to-skip step once a manager has actually identified</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">high-potential associates: tell them...</text>
+  </g>
+  <g transform="translate(46, 252)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">3</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Readiness Tiers: Not Everyone Is Ready at the Same Pace</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A useful, more structured framework for thinking about a bench of potential</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">future leaders sorts candidates...</text>
+  </g>
+  <g transform="translate(559, 252)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">4</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Delegation as the Development Tool, Not Just a Time-Saver</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">The single most direct, practical tool for building bench strength is</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">deliberate delegation, and a specific,...</text>
+  </g>
+  <g transform="translate(46, 374)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">5</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">What Should Never Be Delegated</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A specific, important boundary: certain responsibilities should not be</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">delegated regardless of how ready a...</text>
+  </g>
+  <g transform="translate(559, 374)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">6</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Putting the Vocabulary to Work</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">The complete bench-strength-building sequence this module establishes: watch</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">for the specific behavioral...</text>
+  </g>
+  <g transform="translate(46, 496)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">7</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">A Worked Scenario: The Associate Who Didn't Know They Were Ready</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A store's second-highest seller consistently helps train new hires without</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">being asked and has, on more than...</text>
+  </g>
+  <g transform="translate(559, 496)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">8</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Closing the Course</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">This module completes C13.</text>
+  </g>
+  <g transform="translate(46, 618)">
+    <rect width="1008" height="110" rx="10" fill="#0F172A" stroke="#334155" stroke-width="1.4"/>
+    <text x="20" y="24" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="11" font-weight="700" letter-spacing="1.4">KEY TAKEAWAYS</text>
+    <circle cx="26" cy="42" r="3.2" fill="#2DD4BF"/>
+    <text x="40" y="46" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Specific, observable behaviors — asking &quot;why&quot; and thinking ahead, helping without being asked, and making other people...</text>
+    <circle cx="26" cy="61" r="3.2" fill="#2DD4BF"/>
+    <text x="40" y="65" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Naming leadership potential directly to the associate who shows it is a distinct, easy-to-skip step; potential that's...</text>
+    <circle cx="26" cy="80" r="3.2" fill="#2DD4BF"/>
+    <text x="40" y="84" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Sorting a bench of potential leaders into readiness tiers (ready now, within a year, within two-to-three years,...</text>
+    <circle cx="26" cy="99" r="3.2" fill="#2DD4BF"/>
+    <text x="40" y="103" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Deliberate delegation, following a specific discipline (clear outcome, deliberate person-selection, explained...</text>
+  </g>
+  <text x="46" y="750" fill="#C5A059" font-family="system-ui, sans-serif" font-size="10" font-weight="700" letter-spacing="1.6">JEWELSWELL MASTER ACADEMY</text>
+  <text x="1054" y="750" fill="#64748B" font-family="system-ui, sans-serif" font-size="10" font-weight="400" text-anchor="end">Generated from the module article — headings and takeaways verbatim.</text>
+</svg>

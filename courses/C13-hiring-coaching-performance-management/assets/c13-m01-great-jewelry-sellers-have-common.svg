@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 770" width="100%" height="100%" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#E5C378"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2DD4BF"/>
+      <stop offset="100%" stop-color="#2DD4BF" stop-opacity="0.35"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2DD4BF" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1100" height="770" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1096" height="766" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <g transform="translate(46, 34)">
+    <rect x="0" y="0" width="140" height="24" rx="12" fill="#2DD4BF" fill-opacity="0.18"/>
+    <text x="70.2" y="16" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1">MODULE FRAMEWORK</text>
+    <text x="1008" y="16" fill="#64748B" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="end" letter-spacing="1.2">C13 · MODULE 01</text>
+    <text x="0" y="52" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">What Great Jewelry Sellers Have in Common</text>
+  </g>
+  <g transform="translate(46, 130)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">1</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">The Jewelry-Specific Skill List</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">The most direct, authoritative answer comes from Jewelers of America's own</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">career-pathways description of the...</text>
+  </g>
+  <g transform="translate(559, 130)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">2</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">The Emotional Intelligence Finding in Luxury Retail Specifically</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A more specialized analysis of luxury retail hiring identifies emotional</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">intelligence as the single...</text>
+  </g>
+  <g transform="translate(46, 252)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">3</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Serving, Not Selling</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A specific, memorable framing from luxury-retail hiring research: hire</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">people who serve rather than sell, who...</text>
+  </g>
+  <g transform="translate(559, 252)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">4</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">What the Research on Predicting Sales Success Actually Shows</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Sales-hiring literature has long pointed to cognitive ability as a top</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">predictor of job performance, and this...</text>
+  </g>
+  <g transform="translate(46, 374)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">5</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">The Personality Cluster That Complements Cognitive Ability</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Beyond raw cognitive ability, a consistent cluster of personality traits</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">correlates with sales success across...</text>
+  </g>
+  <g transform="translate(559, 374)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">6</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Reconciling Two Traditions: The Closer and the Advisor</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A store leader reading both the general sales-hiring literature and the</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">jewelry- and luxury-specific sources...</text>
+  </g>
+  <g transform="translate(46, 496)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">7</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Putting the Vocabulary to Work</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">This module's synthesized list becomes the direct input for Module 2 of this</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">course, where a store leader...</text>
+  </g>
+  <g transform="translate(559, 496)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">8</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">A Worked Scenario: The Impressive Interview That Didn't Translate</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A store manager hires a candidate who interviews exceptionally well:</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">confident, articulate, clearly...</text>
+  </g>
+  <g transform="translate(46, 618)">
+    <rect width="1008" height="110" rx="10" fill="#0F172A" stroke="#334155" stroke-width="1.4"/>
+    <text x="20" y="24" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="11" font-weight="700" letter-spacing="1.4">KEY TAKEAWAYS</text>
+    <circle cx="26" cy="42" r="3.2" fill="#2DD4BF"/>
+    <text x="40" y="46" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Jewelers of America's own jewelry sales professional skill list explicitly distinguishes &quot;determined, persistent and...</text>
+    <circle cx="26" cy="61" r="3.2" fill="#2DD4BF"/>
+    <text x="40" y="65" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Emotional intelligence is identified as the cornerstone trait among successful luxury sales advisors, ahead of product...</text>
+    <circle cx="26" cy="80" r="3.2" fill="#2DD4BF"/>
+    <text x="40" y="84" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">&quot;Serve, don't sell&quot; is a specific, screenable hiring principle: watch for any tendency in a candidate to size up a...</text>
+    <circle cx="26" cy="99" r="3.2" fill="#2DD4BF"/>
+    <text x="40" y="103" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Structured interviews and job-specific work-sample tests are consistently among the strongest predictors of sales-role...</text>
+  </g>
+  <text x="46" y="750" fill="#C5A059" font-family="system-ui, sans-serif" font-size="10" font-weight="700" letter-spacing="1.6">JEWELSWELL MASTER ACADEMY</text>
+  <text x="1054" y="750" fill="#64748B" font-family="system-ui, sans-serif" font-size="10" font-weight="400" text-anchor="end">Generated from the module article — headings and takeaways verbatim.</text>
+</svg>

@@ -4,6 +4,11 @@
 
 C13 built a complete coaching toolkit: observation, debrief structures, GROW-model conversations, evidence-based reviews. That toolkit was built for coaching an individual associate. This module covers a genuinely different skill: coaching a store manager on how they coach their own associates — a level of removal this course calls meta-coaching, and one of the specific capabilities that most clearly separates a district leader from a store manager doing the same job at a bigger scale.
 
+<figure>
+  <img src="../assets/c14-m04-coaching-managers-coaching.svg" alt="Coaching Managers on Coaching" width="100%" />
+  <figcaption><strong>Figure 4.1:</strong> Coaching Managers on Coaching — module framework at a glance: The &quot;Hats&quot; Framework: Knowing Which Role You're in · Coach the Manager on the Metric, Not the Associate on the Task.</figcaption>
+</figure>
+
 ## The "Hats" Framework: Knowing Which Role You're in
 
 A useful framing for the range of roles a district leader moves through: at different moments, the same person needs to be a strategist, a financial analyst, an operator, and a coach, and knowing which hat the moment actually calls for is itself a skill. The coach hat specifically means the leader's primary focus shifts to the store manager's own development, motivation, and performance, using powerful questions rather than direct instruction. The single most common pitfall this framing identifies: telling instead of asking, and solving problems for a store manager instead of teaching them how to solve problems themselves — precisely the trap Module 1 already warned against, now named specifically as a coaching failure mode rather than only an operational one.

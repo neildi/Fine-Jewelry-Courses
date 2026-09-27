@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 770" width="100%" height="100%" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#E5C378"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2DD4BF"/>
+      <stop offset="100%" stop-color="#2DD4BF" stop-opacity="0.35"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2DD4BF" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1100" height="770" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1096" height="766" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <g transform="translate(46, 34)">
+    <rect x="0" y="0" width="133" height="24" rx="12" fill="#2DD4BF" fill-opacity="0.18"/>
+    <text x="66.5" y="16" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1">PEOPLE PRACTICE</text>
+    <text x="1008" y="16" fill="#64748B" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="end" letter-spacing="1.2">C13 · MODULE 07</text>
+    <text x="0" y="52" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">Performance Reviews With Evidence</text>
+  </g>
+  <g transform="translate(46, 130)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">1</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">The Running Evidence Log: Solving Recency Bias Before It Starts</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">The single most important structural habit this module builds: keep a</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">running evidence log throughout the...</text>
+  </g>
+  <g transform="translate(559, 130)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">2</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">A Three-Step Discipline for Neutralizing Bias Before Writing</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A specific, well-documented three-step preparation sequence, run before</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">drafting any review: first, evidence...</text>
+  </g>
+  <g transform="translate(46, 252)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">3</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Behavior, Not Personality: The Single Most Important Writing</text>
+    <text x="56" y="44" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Discipline</text>
+    <text x="22" y="69" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">The most consistently repeated principle across performance-review writing...</text>
+  </g>
+  <g transform="translate(559, 252)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">4</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">The SBI Model: Situation, Behavior, Impact</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">The standard structure for turning an evidence-log entry into review</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">language is SBI: Situation (describe...</text>
+  </g>
+  <g transform="translate(46, 374)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">5</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Structuring the Full Review: Strength, Growth Area, Forward Plan</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A well-corroborated overall structure for a complete review: open with</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">genuine strengths, each supported by a...</text>
+  </g>
+  <g transform="translate(559, 374)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">6</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Simpler Rating Scales Reduce Bias</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A specific, credible research finding worth building into how a store</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">designs its own review rubric, if it...</text>
+  </g>
+  <g transform="translate(46, 496)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">7</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Putting the Vocabulary to Work</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">The complete evidence-based review sequence this module establishes:</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">maintain a running evidence log...</text>
+  </g>
+  <g transform="translate(559, 496)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#2DD4BF" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#2DD4BF"/>
+    <circle cx="32" cy="30" r="14" fill="#2DD4BF" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">8</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">A Worked Scenario: The Review That Held Up Under Scrutiny</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A manager preparing a six-month review pulls up their running evidence log</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">rather than starting from memory,...</text>
+  </g>
+  <g transform="translate(46, 618)">
+    <rect width="1008" height="110" rx="10" fill="#0F172A" stroke="#334155" stroke-width="1.4"/>
+    <text x="20" y="24" fill="#2DD4BF" font-family="system-ui, sans-serif" font-size="11" font-weight="700" letter-spacing="1.4">KEY TAKEAWAYS</text>
+    <circle cx="26" cy="42" r="3.2" fill="#2DD4BF"/>
+    <text x="40" y="46" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">A running evidence log, maintained throughout the entire review period rather than assembled from memory at the end, is...</text>
+    <circle cx="26" cy="61" r="3.2" fill="#2DD4BF"/>
+    <text x="40" y="65" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">A three-step preparation discipline — evidence collection spanning the full period, an explicit bias-check against...</text>
+    <circle cx="26" cy="80" r="3.2" fill="#2DD4BF"/>
+    <text x="40" y="84" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">The single most consistently repeated writing principle across performance-review guidance is behavior over...</text>
+    <circle cx="26" cy="99" r="3.2" fill="#2DD4BF"/>
+    <text x="40" y="103" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">The SBI model (Situation, Behavior, Impact) is the standard structure for review language, directly extending the...</text>
+  </g>
+  <text x="46" y="750" fill="#C5A059" font-family="system-ui, sans-serif" font-size="10" font-weight="700" letter-spacing="1.6">JEWELSWELL MASTER ACADEMY</text>
+  <text x="1054" y="750" fill="#64748B" font-family="system-ui, sans-serif" font-size="10" font-weight="400" text-anchor="end">Generated from the module article — headings and takeaways verbatim.</text>
+</svg>

@@ -4,6 +4,11 @@
 
 Module 7 built the evidence-based documentation habit that runs continuously through every associate's performance. This module covers what happens when that evidence starts showing a genuine, sustained pattern of underperformance rather than a normal, isolated slip — the specific, structured process a store leader follows to give an associate a real chance to improve while protecting the store, its team, and its legal position if the situation eventually requires a difficult decision.
 
+<figure>
+  <img src="../assets/c13-m08-managing-underperformance.svg" alt="Managing Underperformance" width="100%" />
+  <figcaption><strong>Figure 8.1:</strong> Managing Underperformance — module framework at a glance: Progressive Discipline: A Structured Sequence, Not a Single Jump to Termination · What a Performance Improvement Plan Actually Contains.</figcaption>
+</figure>
+
 ## Progressive Discipline: A Structured Sequence, Not a Single Jump to Termination
 
 The standard framework across HR and employment-law guidance is progressive discipline: a structured sequence of increasingly formal steps, typically four, that a manager works through in order rather than jumping straight to termination the first time a real performance problem surfaces. The most commonly cited sequence: a verbal warning (a direct, documented conversation naming the specific issue and what needs to change), a written warning (a formal document if the issue persists or is serious enough to warrant skipping straight past the verbal stage), a performance improvement plan or final written warning (a more structured, time-bound document representing a final attempt to resolve the issue), and termination if the pattern continues despite this process. The core principle behind this sequence, cited consistently across multiple sources: act early, before poor performance becomes a habit, and give the associate a genuine, fair opportunity to improve before the process escalates further.

@@ -4,6 +4,11 @@
 
 C6 introduced retail replacement value and fair market value for standard bridal insurance purposes. Estate and trade-in work adds a third value type — liquidation value — and a genuinely wider range of purposes that each demand a specific, correctly-matched appraisal type. Producing the wrong appraisal type for a client's actual need isn't a minor technicality; it can cause real financial and legal problems, from an inflated estate-tax bill to an inadequate divorce settlement.
 
+<figure>
+  <img src="../assets/c7-m05-appraisals-estate-trade-in-fair-market-value.svg" alt="Appraisals for Estate and Trade-In: Fair Market Value, Retail Replacement, and Liquidation Value" width="100%" />
+  <figcaption><strong>Figure 5.1:</strong> Appraisals for Estate and Trade-In: Fair Market Value, Retail Replacement, and Liquidation Value — module framework at a glance: The Three Value Types, Precisely Defined · Matching Appraisal Type to Purpose · Why This Matters Beyond Compliance.</figcaption>
+</figure>
+
 ## The Three Value Types, Precisely Defined
 
 - **Retail replacement value (RRV)** is the cost to replace an item with an equivalent new piece at a traditional retail store, including materials, labor, and standard markup. It is intentionally the highest of the three values, and it's the correct basis for insurance coverage — covered in depth in C6's appraisal module.

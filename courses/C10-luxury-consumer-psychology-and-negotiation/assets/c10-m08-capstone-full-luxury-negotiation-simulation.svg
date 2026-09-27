@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 582" width="100%" height="100%" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#E5C378"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C084FC"/>
+      <stop offset="100%" stop-color="#C084FC" stop-opacity="0.35"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#C084FC" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#C084FC" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1100" height="582" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1096" height="578" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <g transform="translate(46, 34)">
+    <rect x="0" y="0" width="170" height="24" rx="12" fill="#C084FC" fill-opacity="0.18"/>
+    <text x="85.0" y="16" fill="#C084FC" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1">CAPSTONE WALKTHROUGH</text>
+    <text x="1008" y="16" fill="#64748B" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="end" letter-spacing="1.2">C10 · MODULE 08</text>
+    <text x="0" y="52" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">Capstone: A Full Luxury Negotiation Simulation</text>
+  </g>
+  <g transform="translate(46, 130)">
+    <rect width="495" height="132" rx="10" fill="#1E293B" stroke="#C084FC" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="132" rx="2" fill="#C084FC"/>
+    <circle cx="32" cy="30" r="14" fill="#C084FC" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#C084FC" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">1</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">What This Capstone Actually Assesses</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">This capstone is the course's formal assessment.</text>
+  </g>
+  <g transform="translate(559, 130)">
+    <rect width="495" height="132" rx="10" fill="#1E293B" stroke="#C084FC" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="132" rx="2" fill="#C084FC"/>
+    <circle cx="32" cy="30" r="14" fill="#C084FC" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#C084FC" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">2</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">The Simulation Structure</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A full capstone negotiation simulation should combine at least three of</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">these elements into a single continuous client interaction, rather than...</text>
+  </g>
+  <g transform="translate(46, 280)">
+    <rect width="495" height="132" rx="10" fill="#1E293B" stroke="#C084FC" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="132" rx="2" fill="#C084FC"/>
+    <circle cx="32" cy="30" r="14" fill="#C084FC" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#C084FC" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">3</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">A Worked Scenario: The Full Negotiation</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A trainee is presented with a roleplay client: plainly dressed, quiet,</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">asking precise technical questions about a piece intended as a...</text>
+  </g>
+  <g transform="translate(46, 430)">
+    <rect width="1008" height="110" rx="10" fill="#0F172A" stroke="#334155" stroke-width="1.4"/>
+    <text x="20" y="24" fill="#C084FC" font-family="system-ui, sans-serif" font-size="11" font-weight="700" letter-spacing="1.4">KEY TAKEAWAYS</text>
+    <circle cx="26" cy="42" r="3.2" fill="#C084FC"/>
+    <text x="40" y="46" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">This capstone is the course's formal assessment: it evaluates whether all seven prior modules' psychological principles...</text>
+    <circle cx="26" cy="61" r="3.2" fill="#C084FC"/>
+    <text x="40" y="65" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">A genuine capstone simulation layers at least three elements — ambiguous motivation, a real price objection requiring...</text>
+    <circle cx="26" cy="80" r="3.2" fill="#C084FC"/>
+    <text x="40" y="84" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Every scarcity, exclusivity, or social-proof claim used in the simulation should still pass Module 3's verifiability...</text>
+    <circle cx="26" cy="99" r="3.2" fill="#C084FC"/>
+    <text x="40" y="103" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Appearance-based assumptions (Module 6) and rigid cultural scripts (Module 7) should be actively avoided throughout, in...</text>
+  </g>
+  <text x="46" y="562" fill="#C5A059" font-family="system-ui, sans-serif" font-size="10" font-weight="700" letter-spacing="1.6">JEWELSWELL MASTER ACADEMY</text>
+  <text x="1054" y="562" fill="#64748B" font-family="system-ui, sans-serif" font-size="10" font-weight="400" text-anchor="end">Generated from the module article — headings and takeaways verbatim.</text>
+</svg>

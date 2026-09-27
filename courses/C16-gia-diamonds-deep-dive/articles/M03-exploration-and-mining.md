@@ -24,6 +24,11 @@ Outcome 5; factual discipline 5 (all figures verbatim from the four G&G abstract
 
 "What makes a deposit a deposit?" Nobody asks it in those words, but it is what people mean when they ask "are Canadian diamonds a thing?" or "why are Lesotho stones so expensive per carat?" This module gives you the trade's own record — four G&G landmark studies — for the answers.
 
+<figure>
+  <img src="../assets/c16-m03-finding-them-mining-them-exploration-mining.svg" alt="Finding Them, Mining Them: Exploration and Mining from Kimberley to the Arctic" width="100%" />
+  <figcaption><strong>Figure 3.1:</strong> Finding Them, Mining Them: Exploration and Mining from Kimberley to the Arctic — module framework at a glance: The geologist's question at the counter · How diamonds are found: a five-step method, with its Canadian proof.</figcaption>
+</figure>
+
 ## How diamonds are found: a five-step method, with its Canadian proof
 
 Exploration is one of the most failure-dense businesses on Earth. The method, as Kjarsgaard & Levinson tell it for Canada (G&G Fall 2002, 538 kimberlites reported nationally, "typically small but with high diamond grades"):

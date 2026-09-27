@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 690" width="100%" height="100%" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#E5C378"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F87171"/>
+      <stop offset="100%" stop-color="#F87171" stop-opacity="0.35"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F87171" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#F87171" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1100" height="690" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1096" height="686" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <g transform="translate(46, 34)">
+    <rect x="0" y="0" width="111" height="24" rx="12" fill="#F87171" fill-opacity="0.18"/>
+    <text x="55.400000000000006" y="16" fill="#F87171" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1">RISK CONTROL</text>
+    <text x="1008" y="16" fill="#64748B" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="end" letter-spacing="1.2">C4 · MODULE 05</text>
+    <text x="0" y="52" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">Card, Check, and Remote-Order Fraud Prevention</text>
+  </g>
+  <g transform="translate(46, 130)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#F87171" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#F87171"/>
+    <circle cx="32" cy="30" r="14" fill="#F87171" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#F87171" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">1</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Card-Present Discipline: Why the Imprint and Signature Matter</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">For a stolen card used in person, card networks generally cover the</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">jeweler's loss only if the jeweler followed proper procedure: obtained...</text>
+  </g>
+  <g transform="translate(559, 130)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#F87171" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#F87171"/>
+    <circle cx="32" cy="30" r="14" fill="#F87171" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#F87171" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">2</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Remote and Phone/Email Orders: The Riskiest Transaction Type</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Remote orders — placed by phone or email rather than in person — are flagged</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">specifically as one of the riskiest transaction types in the jewelry...</text>
+  </g>
+  <g transform="translate(46, 266)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#F87171" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#F87171"/>
+    <circle cx="32" cy="30" r="14" fill="#F87171" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#F87171" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">3</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Checks and &quot;Cleared Funds&quot;: Why Calling the Bank Isn't Enough</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">It's tempting to think that calling a customer's bank to &quot;confirm funds&quot;</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">resolves the risk of a bad check.</text>
+  </g>
+  <g transform="translate(559, 266)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#F87171" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#F87171"/>
+    <circle cx="32" cy="30" r="14" fill="#F87171" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#F87171" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">4</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Layered Card Verification: No Single Control Is a Silver Bullet</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Larger jewelers use a stack of overlapping card-verification tools rather</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">than relying on any one control: Address Verification Service (AVS), CVV...</text>
+  </g>
+  <g transform="translate(46, 402)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#F87171" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#F87171"/>
+    <circle cx="32" cy="30" r="14" fill="#F87171" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#F87171" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">5</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">A Documented Sales-Order Process, Not Ad-Hoc Judgment</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Trade association guidance frames fraud prevention as something that should</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">be a documented process, not left to each associate's individual judgment...</text>
+  </g>
+  <g transform="translate(559, 402)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#F87171" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#F87171"/>
+    <circle cx="32" cy="30" r="14" fill="#F87171" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#F87171" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">6</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">A Worked Scenario: The Remote Order That Doesn't Add Up</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A caller from out of state wants to buy a $15,000 tennis bracelet, pay by</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">card over the phone, and have it shipped overnight to an address</text>
+    <text x="22" y="82" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">different...</text>
+  </g>
+  <g transform="translate(46, 538)">
+    <rect width="1008" height="110" rx="10" fill="#0F172A" stroke="#334155" stroke-width="1.4"/>
+    <text x="20" y="24" fill="#F87171" font-family="system-ui, sans-serif" font-size="11" font-weight="700" letter-spacing="1.4">KEY TAKEAWAYS</text>
+    <circle cx="26" cy="42" r="3.2" fill="#F87171"/>
+    <text x="40" y="46" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">For a card-present sale, the imprint and signature — not just terminal authorization — are what typically determine...</text>
+    <circle cx="26" cy="61" r="3.2" fill="#F87171"/>
+    <text x="40" y="65" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Remote phone/email orders concentrate multiple risk factors at once: unknown customer, remote shipping address, rush...</text>
+    <circle cx="26" cy="80" r="3.2" fill="#F87171"/>
+    <text x="40" y="84" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">A bank's verbal confirmation of &quot;sufficient funds&quot; does not protect against check fraud; only waiting for funds to...</text>
+    <circle cx="26" cy="99" r="3.2" fill="#F87171"/>
+    <text x="40" y="103" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">No single card-verification tool is sufficient on its own — AVS, CVV, fraud review on first-time transactions,...</text>
+  </g>
+  <text x="46" y="670" fill="#C5A059" font-family="system-ui, sans-serif" font-size="10" font-weight="700" letter-spacing="1.6">JEWELSWELL MASTER ACADEMY</text>
+  <text x="1054" y="670" fill="#64748B" font-family="system-ui, sans-serif" font-size="10" font-weight="400" text-anchor="end">Generated from the module article — headings and takeaways verbatim.</text>
+</svg>

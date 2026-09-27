@@ -4,6 +4,11 @@
 
 Scarcity, exclusivity, and social proof are three of the most extensively studied and most reliably effective principles in the entire psychology of persuasion. They are also three of the most commonly abused principles in retail sales generally, and jewelry sales specifically — which is exactly why Module 1 of C9 already warned against manufactured urgency, and why this module exists to draw a precise, defensible line between using these real psychological principles honestly and exploiting them. Every technique in this module works. The question this module actually answers is when it's appropriate to use them.
 
+<figure>
+  <img src="../assets/c10-m03-scarcity-exclusivity-social-proof-using-real.svg" alt="Scarcity, Exclusivity, and Social Proof: Using Real Principles Ethically" width="100%" />
+  <figcaption><strong>Figure 3.1:</strong> Scarcity, Exclusivity, and Social Proof: Using Real Principles Ethically — module framework at a glance: Scarcity: A Real Principle With a Documented Ethical Trap Built In · Exclusivity: The Paradox at the Heart of Luxury Marketing.</figcaption>
+</figure>
+
 ## Scarcity: A Real Principle With a Documented Ethical Trap Built In
 
 Robert Cialdini's foundational research identified scarcity as one of the core, universal principles of persuasion: people consistently assign higher value to things they perceive as limited in availability. The uncomfortable finding, directly from Cialdini's own research, is this: his observations of professional salespeople found that the scarcity tactic's effect on increasing desire and compliance remained potent "whether the scarcity was genuine or perceived." In other words, the psychological mechanism does not distinguish between a real limitation and a fabricated one — which is precisely why fabricating scarcity is both effective and, on a longer view, damaging. It works in the moment; it also means an associate who fabricates scarcity is relying on a psychological vulnerability rather than an honest fact, and — as this course's C9 content already established — a client who eventually recognizes the fabrication loses trust in everything else that was said.

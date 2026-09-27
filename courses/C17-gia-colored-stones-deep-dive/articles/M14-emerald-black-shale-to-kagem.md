@@ -19,6 +19,11 @@ generated: 2026-09-11
 
 A client inherits her grandmother's emerald ring. She takes it to a jeweler for a complimentary cleaning, and it comes back dull, cloudy, and — to her eye — ruined. The stone has not been destroyed. What happened is that the ultrasonic cleaner stripped the oil out of the fissures that run through it, and the fissures are now visible again.
 
+<figure>
+  <img src="../assets/c17-m14-emerald-black-shale-jardin-treatment-must.svg" alt="Emerald: Black Shale, Jardin, and the Treatment You Must Disclose" width="100%" />
+  <figcaption><strong>Figure 14.1:</strong> Emerald: Black Shale, Jardin, and the Treatment You Must Disclose — module framework at a glance: The ultrasonic that ruined a good stone · Beryl, chromium and vanadium · Colombia: the black-shale anomaly.</figcaption>
+</figure>
+
 This is the single most common emerald complaint in the jewelry trade, and it is entirely preventable. Emerald is the one major gem species where "put it in the ultrasonic" is **always** the wrong answer — not usually, not "check first," but always. The reason is also the reason this module is organized the way it is: emerald is characteristically fractured, that fracturing is routinely treated with a filler, and the filler is the least durable part of the stone.
 
 Learn that sentence and you have already prevented the most expensive mistake most associates make with emerald.

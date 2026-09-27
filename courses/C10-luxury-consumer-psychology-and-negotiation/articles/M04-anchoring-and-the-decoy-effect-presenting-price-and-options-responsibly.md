@@ -4,6 +4,11 @@
 
 How a price is presented changes how it's perceived, independent of whether the underlying value changed at all. Two of the most famous findings in this area — anchoring and the decoy effect — are genuinely well-documented psychological phenomena, and they are also easy to misuse in ways that manipulate rather than inform. This module covers what these effects actually are, what the evidence genuinely supports (including an important caveat about one of them that most sales training doesn't mention), and how to use price presentation responsibly rather than as a trick.
 
+<figure>
+  <img src="../assets/c10-m04-anchoring-decoy-effect-presenting-price-options.svg" alt="Anchoring and the Decoy Effect: Presenting Price and Options Responsibly" width="100%" />
+  <figcaption><strong>Figure 4.1:</strong> Anchoring and the Decoy Effect: Presenting Price and Options Responsibly — module framework at a glance: Anchoring: The First Number Sets the Frame · The Decoy Effect: A Famous Finding With a Real Asterisk.</figcaption>
+</figure>
+
 ## Anchoring: The First Number Sets the Frame
 
 Anchoring, first documented by Amos Tversky and Daniel Kahneman in their foundational 1974 research on judgment under uncertainty, describes a robust and well-replicated cognitive bias: people rely heavily on the first piece of information they receive about something — the "anchor" — and subsequent judgments get evaluated relative to that anchor, even when the anchor itself is arbitrary or irrelevant. In a pricing context, the first number a client sees becomes their mental reference point, and everything shown afterward gets evaluated as more or less expensive relative to that reference point, not in some absolute sense. Luxury retail applies this directly and openly: showing an ultra-high-price piece first can make everything shown afterward feel more reasonable by comparison, purely as a function of sequencing, independent of any change in the actual pieces or their value.

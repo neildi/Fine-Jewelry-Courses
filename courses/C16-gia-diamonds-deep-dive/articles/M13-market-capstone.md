@@ -24,6 +24,11 @@ Outcome 5; factual discipline 4.5 (every number traces to a read source in this 
 
 Everything the previous modules measured is priced by a unit that behaves non-linearly, and the bibliography's own documents let you teach it from primary sources:
 
+<figure>
+  <img src="../assets/c16-m13-marketplace-weight-recut-famous-stones-price.svg" alt="The Marketplace: Weight, the Recut, Famous Stones, and the Price Ladder" width="100%" />
+  <figcaption><strong>Figure 13.1:</strong> The Marketplace: Weight, the Recut, Famous Stones, and the Price Ladder — module framework at a glance: 1. Carat: the unit that is not linear · 2. The recut: from Cullinan to the Wittelsbach — the same decision at every scale.</figcaption>
+</figure>
+
 - **Weight at the lab** is to 1/100 ct (GIA-04 narration, verified) — but weight *at market* is a step function. The Cullinan story (read PDF, M01): a 3,106 ct rough crystal was cleaved/sawed/polished into 105 stones, top 530.4 ct — meaning yield engineering dominates everything above the ordinary goods.
 - **The "magic size" economics** (a framework the handout's rough-grading entry, Kautsky 2016, states at the business level — link dead, [VERIFY via library]): price per carat jumps at 0.50/0.75/1.00/1.50/2.00/3.00/5.00 ct thresholds; a 0.98 is a *different product* than a 1.02. Consequences you can practice tomorrow:
   - Selling below a threshold: "This 0.93 has the same face-up spread as the 1.00 next to it and you keep ~30% — the stone doesn't know what scale it sat on." [The % must match *your* current sheet — script the shape, not the number.]

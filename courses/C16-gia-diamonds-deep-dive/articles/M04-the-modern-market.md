@@ -24,6 +24,11 @@ Outcome 5 (explains the price mechanics a buyer meets weekly); factual disciplin
 
 Modules 2–3 were about stones. This one is about **the machine that turns stones into prices**. When a client asks "why did the price move last year?", the honest answer lives here. GIA's own market chronicler for roughly two decades, Russell Shor, wrote the core reading; his G&G Winter 2014 article *Rough Diamond Auctions: Sweeping Changes in Pricing and Distribution* is a history of the entire distribution system in one paper, and we build on his text.
 
+<figure>
+  <img src="../assets/c16-m04-market-london-syndicate-auction-floor.svg" alt="The Market: From the London Syndicate to the Auction Floor" width="100%" />
+  <figcaption><strong>Figure 4.1:</strong> The Market: From the London Syndicate to the Auction Floor — module framework at a glance: Why this module is different · One century of one seller (verbatim history) · Sights vs. tenders vs. live auctions — know the three sales floors.</figcaption>
+</figure>
+
 ## One century of one seller (verbatim history)
 
 - **1888:** De Beers Consolidated Mines, born from Rhodes defeating Barnato, takes control of the Kimberley mines. The problem it solved: those mines yielded "millions of carats each year, most of which were sold into the market at wildly fluctuating prices."

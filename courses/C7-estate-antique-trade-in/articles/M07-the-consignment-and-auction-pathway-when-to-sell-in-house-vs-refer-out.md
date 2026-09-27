@@ -4,6 +4,11 @@
 
 Not every piece belongs in the store's own case. Some pieces are genuinely better served by consignment to a specialty dealer, or by referral to an auction house, than by an outright purchase and in-house resale. Recognizing which path serves the client and the piece best — and understanding the real mechanics of consignment and auction commissions well enough to explain them credibly — is the skill this module covers.
 
+<figure>
+  <img src="../assets/c7-m07-consignment-auction-pathway-sell-in-house-vs.svg" alt="The Consignment and Auction Pathway: When to Sell In-House vs. Refer Out" width="100%" />
+  <figcaption><strong>Figure 7.1:</strong> The Consignment and Auction Pathway: When to Sell In-House vs. Refer Out — module framework at a glance: When a Piece Belongs In-House · When a Piece Belongs on Consignment · When a Piece Belongs at Auction.</figcaption>
+</figure>
+
 ## When a Piece Belongs In-House
 
 Most estate and trade-in pieces are well-suited to in-house purchase and resale: routine gold and diamond pieces with straightforward, verifiable value (Modules 4-6 cover exactly how to evaluate these), pieces the store can resell at a healthy margin within a reasonable holding period, and pieces without significant provenance or maker attribution that would benefit from specialized marketing. For these pieces, an outright purchase (a trade-in offer or straight cash purchase) gives the client immediate certainty and payment, and gives the store full margin control.

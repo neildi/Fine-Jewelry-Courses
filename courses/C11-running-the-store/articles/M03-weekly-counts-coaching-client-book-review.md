@@ -4,6 +4,11 @@
 
 Daily routines keep a store safe and functioning; weekly routines are where a store leader actually steers it. A week is long enough to see real patterns in sales, inventory, and client relationships that a single day can't reveal, and short enough that problems get caught while they're still small. This module covers the three weekly disciplines that matter most: a fixed-slot business review, a real cycle-count rhythm, and active oversight of how the team is actually building client relationships — not just logging contact information.
 
+<figure>
+  <img src="../assets/c11-m03-weekly-counts-coaching-client-book-review.svg" alt="Weekly Counts, Coaching, Client-Book Review" width="100%" />
+  <figcaption><strong>Figure 3.1:</strong> Weekly Counts, Coaching, Client-Book Review — module framework at a glance: The Weekly Business Review: Same Slot, Same Five Reports, Every Time · Weekly Cycle Counts: The Alternative to the Annual Big-Bang Count.</figcaption>
+</figure>
+
 ## The Weekly Business Review: Same Slot, Same Five Reports, Every Time
 
 A specific, published weekly-review model calls for a fixed time slot — the same day and time every week, ideally Monday morning — running through five specific reports in the same sequence each time, completed in under fifteen minutes when nothing unusual surfaces: weekly turnover split between product sales and gift-card redemptions, compared against the same week last year and the previous four weeks; net profit margin for that same period; repairs completed, open-within-deadline, and overdue; customer purchases and old-gold acquisitions, specifically to identify which customers are worth a proactive follow-up; and top sellers and slow movers, by product, category, seller, and date range. The value of this specific structure — same slot, same five reports, same order — isn't the individual numbers themselves; it's that a fixed review habit surfaces a real problem within a week of it starting, rather than a month or a quarter later when it's harder to reverse.

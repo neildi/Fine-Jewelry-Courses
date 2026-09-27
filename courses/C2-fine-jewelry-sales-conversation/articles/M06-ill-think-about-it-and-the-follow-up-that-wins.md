@@ -32,6 +32,11 @@ generated: 2026-09-13
 
 A client spends forty minutes with an associate, tries on three rings, and says, "This is beautiful. I need to think about it." The associate smiles, says "Of course, take your time," and hands over a business card. Nothing happens after that. Eleven days later, the client buys a similar ring somewhere else, at a store that called her two days after her visit.
 
+<figure>
+  <img src="../assets/c2-m06-ill-think-about-follow-up-wins.svg" alt="&quot;I'll Think About It&quot; and the Follow-Up That Wins" width="100%" />
+  <figcaption><strong>Figure 6.1:</strong> &quot;I'll Think About It&quot; and the Follow-Up That Wins — module framework at a glance: The sale that was never actually lost · What &quot;I'll think about it&quot; usually means · Ask one question before you let them go.</figcaption>
+</figure>
+
 The sale was not lost in that first conversation. It was lost in the silence afterward. "I'll think about it" is not a no. It is a pause, and pauses only turn into losses when nobody manages what happens during them.
 
 ## What "I'll think about it" usually means

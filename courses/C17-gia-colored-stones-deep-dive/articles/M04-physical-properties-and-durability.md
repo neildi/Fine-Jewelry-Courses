@@ -19,6 +19,11 @@ generated: 2026-09-11
 
 Three months after purchase a client returns with a tanzanite ring. The girdle is chipped, a fracture runs through the crown, and she is upset. She wore it every day, cleaned it in her home ultrasonic, and keeps saying "but the salesman told me it was precious."
 
+<figure>
+  <img src="../assets/c17-m04-physical-properties-hardness-toughness-stability-ri.svg" alt="Physical Properties: Hardness, Toughness, Stability, RI, SG, and Durability in Design" width="100%" />
+  <figcaption><strong>Figure 4.1:</strong> Physical Properties: Hardness, Toughness, Stability, RI, SG, and Durability in Design — module framework at a glance: The tanzanite that came back cracked · Durability has three parts, not one · Hardness and the Mohs scale.</figcaption>
+</figure>
+
 No one lied. Tanzanite is genuinely precious — rare, single-source, prized by collectors, and genuinely beautiful. But it sits at 6–6.5 on the Mohs scale (a full 2.5 points below sapphire, 3 points below diamond), has perfect cleavage in one direction, and is brittle enough that a single knock against a doorframe can produce the chip on her ring. No one mentioned that at the counter.
 
 Tanzanite is not the only stone this happens to. Opal cracks in sudden temperature changes. Emerald fractures propagate if the stone is set without clearance. Pearls dissolve in vinegar and abrade against every-day dust. Kunzite fades in prolonged strong sunlight. These are not mysteries — they are predictable consequences of measurable physical properties. This module covers the six numbers every colored-stone associate needs, and how to translate them into the pre-sale conversation that prevents the return.

@@ -19,6 +19,11 @@ generated: 2026-09-11
 
 The first client wants a padparadscha sapphire for her twentieth anniversary. She has found one online at roughly a quarter of your price, complete with a certificate from a laboratory you have never heard of.
 
+<figure>
+  <img src="../assets/c17-m13-fancy-sapphire-phenomenal-corundum-padparadscha-stars.svg" alt="Fancy Sapphire and Phenomenal Corundum: Padparadscha, Stars, Color Change — and the Diffusion Scandal" width="100%" />
+  <figcaption><strong>Figure 13.1:</strong> Fancy Sapphire and Phenomenal Corundum: Padparadscha, Stars, Color Change — and the Diffusion Scandal — module framework at a glance: Two clients, one skill · What &quot;fancy&quot; means, and what causes each color · Padparadscha: the most argued-about name in corundum.</figcaption>
+</figure>
+
 The second wants to put a white sapphire in an engagement ring instead of a diamond, to save money, and wants to know what she is giving up.
 
 These look like unrelated conversations. They are the same conversation. Both hinge on knowing **which fancy-corundum claims are ordinary commercial facts and which have to be settled in a laboratory** — because fancy sapphire is where the trade's treatment problems concentrate. The colors that command the biggest premiums in fancy corundum — vivid orange, intense pink, padparadscha — are precisely the colors that modern diffusion treatment can manufacture.

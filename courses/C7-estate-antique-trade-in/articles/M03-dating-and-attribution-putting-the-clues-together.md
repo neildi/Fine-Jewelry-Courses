@@ -4,6 +4,11 @@
 
 Module 2 introduced three separate types of evidence — style, construction, and hallmarks. This module is about the actual discipline of combining them into a defensible conclusion, including the genuinely common cases where the evidence doesn't neatly agree. Confident, honest attribution is a skill in its own right, distinct from simply knowing the reference facts, and it's the skill that everything from pricing to appraisal type depends on.
 
+<figure>
+  <img src="../assets/c7-m03-dating-attribution-putting-clues-together.svg" alt="Dating and Attribution: Putting the Clues Together" width="100%" />
+  <figcaption><strong>Figure 3.1:</strong> Dating and Attribution: Putting the Clues Together — module framework at a glance: The Systematic Examination Process · Weighing Evidence: Building Toward a Confident Conclusion · Married Jewelry: When a Piece Isn't All One Thing.</figcaption>
+</figure>
+
 ## The Systematic Examination Process
 
 Before any conclusions get drawn, a piece needs to be examined methodically, not glanced at. The standard tool is a 10x triplet loupe (three lenses, correcting for chromatic and spherical aberration) — this is the gemological industry standard magnification, consistent across virtually every professional source, though some examiners keep a 14x or 20x loupe on hand for resolving finer diagnostic detail once something suspicious has already been spotted at 10x. Good technique matters as much as the tool itself: hold the loupe close to your eye (roughly 1-2 inches), bring the object to the loupe rather than the loupe to the object, use a directed light source at a low angle to maximize contrast on surface detail, and work through the piece systematically rather than randomly — overall silhouette and proportions first, then stone-by-stone examination (table, crown, pavilion, girdle in sequence), then metalwork and joins, then hallmark search last, since hallmarks are often small and easy to miss if looked for too early or too casually.

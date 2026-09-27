@@ -4,6 +4,11 @@
 
 Nobody becomes a store manager and simply keeps doing what made them a great sales associate, only more of it. The role changes in ways that are genuinely hard to see from the outside — invisible until you're the one carrying them — and the associates who don't yet lead a store rarely realize how much has actually shifted. This module names that shift directly, so the transition into store leadership starts with clear eyes rather than the common mistake of trying to out-sell your way through a job that no longer rewards that instinct alone.
 
+<figure>
+  <img src="../assets/c11-m01-sales-floor-store-leadership-actually-changes.svg" alt="From Sales Floor to Store Leadership: What Actually Changes" width="100%" />
+  <figcaption><strong>Figure 1.1:</strong> From Sales Floor to Store Leadership: What Actually Changes — module framework at a glance: The Core Shift: From Doing the Work to Enabling Others to Do It Well · P&amp;L Ownership Arrives With No Warm-Up.</figcaption>
+</figure>
+
 ## The Core Shift: From Doing the Work to Enabling Others to Do It Well
 
 The single most consistently named surprise among people who've actually made this transition is that the job stops being about personal output and starts being about the output of everyone else. A sales associate is measured by their own conversion, their own average ticket, their own client relationships. A store manager inherits full accountability for all of that across an entire team, while their own individual selling becomes just one input among many — and often a smaller one than it used to be. This is a genuine, disorienting shift, not a minor adjustment: the skills that made someone the best salesperson on the floor (closing ability, product knowledge, individual client rapport) don't automatically transfer into the skill of making an entire team better at those same things, and treating the new role as "selling, plus some extra paperwork" is a common, avoidable mistake in the first months.

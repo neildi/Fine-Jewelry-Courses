@@ -4,6 +4,11 @@
 
 A store leader doesn't personally do most of the vendor negotiating, bench repair, or custom-design consultation happening in the store — but they own whether all of it actually runs on schedule, stays financially sound, and doesn't quietly damage a client relationship somewhere in the pipeline. This module covers the specific leadership-level responsibilities across three interconnected areas: vendor and memo/consignment relationships, the repair pipeline, and custom-order production — each of which this project's course catalog develops in much greater bench-level and associate-level depth elsewhere, but which a store leader needs to see and manage at the pipeline level, across every job at once.
 
+<figure>
+  <img src="../assets/c11-m07-vendor-repair-custom-pipeline-management.svg" alt="Vendor, Repair and Custom Pipeline Management" width="100%" />
+  <figcaption><strong>Figure 7.1:</strong> Vendor, Repair and Custom Pipeline Management — module framework at a glance: Memo and Consignment Goods: A Distinct Liability, Not Just Inventory · Vendor Terms Determine Real Floor Decisions.</figcaption>
+</figure>
+
 ## Memo and Consignment Goods: A Distinct Liability, Not Just Inventory
 
 Vendor relationships in jewelry retail commonly involve memo and consignment goods — merchandise a store holds but doesn't yet own outright. This distinction matters specifically because these goods are treated as a liability while in the store's possession, generating a payment due only after the item is actually sold or consumed, rather than being simple owned inventory from day one. A store leader's specific responsibility is tracking memo and consignment stock as its own distinct category — not commingled with owned inventory in a way that obscures what the store actually owes a vendor versus what it already owns outright — and ensuring the store's POS system's stock-status tracking (in stock, on memo, on consignment, in repair, reserved) is actually being used correctly and consistently by the team, not just available as a feature.

@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 718" width="100%" height="100%" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#E5C378"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FB923C"/>
+      <stop offset="100%" stop-color="#FB923C" stop-opacity="0.35"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FB923C" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#FB923C" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1100" height="718" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1096" height="714" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <g transform="translate(46, 34)">
+    <rect x="0" y="0" width="140" height="24" rx="12" fill="#FB923C" fill-opacity="0.18"/>
+    <text x="70.2" y="16" fill="#FB923C" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1">MODULE FRAMEWORK</text>
+    <text x="1008" y="16" fill="#64748B" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="end" letter-spacing="1.2">C7 · MODULE 01</text>
+    <text x="0" y="52" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">The Secondary Market: Why Estate, Antique, and Trade-In Are</text>
+    <text x="0" y="80" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">Distinct Categories</text>
+  </g>
+  <g transform="translate(46, 158)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#FB923C" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#FB923C"/>
+    <circle cx="32" cy="30" r="14" fill="#FB923C" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB923C" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">1</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">The Four Terms, Defined Precisely</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">These terms get used interchangeably in casual conversation, but they mean</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">genuinely different things, and the distinction matters for pricing,...</text>
+  </g>
+  <g transform="translate(559, 158)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#FB923C" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#FB923C"/>
+    <circle cx="32" cy="30" r="14" fill="#FB923C" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB923C" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">2</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Trade-In: A Different Transaction Entirely</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Trade-in is a distinct concept from all three age/ownership terms above —</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">it's a specific transaction structure, not a jewelry classification.</text>
+  </g>
+  <g transform="translate(46, 294)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#FB923C" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#FB923C"/>
+    <circle cx="32" cy="30" r="14" fill="#FB923C" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB923C" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">3</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">The Secondary Market Is Real, and It's Growing</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">This isn't a niche corner of the industry.</text>
+  </g>
+  <g transform="translate(559, 294)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#FB923C" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#FB923C"/>
+    <circle cx="32" cy="30" r="14" fill="#FB923C" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB923C" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">4</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Why This Distinction Matters for the Rest of This Course</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Every module that follows in this course depends on getting this vocabulary</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">right.</text>
+  </g>
+  <g transform="translate(46, 430)">
+    <rect width="495" height="118" rx="10" fill="#1E293B" stroke="#FB923C" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="118" rx="2" fill="#FB923C"/>
+    <circle cx="32" cy="30" r="14" fill="#FB923C" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB923C" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">5</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">A Worked Scenario: The Misused Word</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A client brings in a ring inherited from a grandmother and says, &quot;I think</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">this is an antique.&quot; Rather than accepting or rejecting the claim</text>
+    <text x="22" y="82" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">outright,...</text>
+  </g>
+  <g transform="translate(46, 566)">
+    <rect width="1008" height="110" rx="10" fill="#0F172A" stroke="#334155" stroke-width="1.4"/>
+    <text x="20" y="24" fill="#FB923C" font-family="system-ui, sans-serif" font-size="11" font-weight="700" letter-spacing="1.4">KEY TAKEAWAYS</text>
+    <circle cx="26" cy="42" r="3.2" fill="#FB923C"/>
+    <text x="40" y="46" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Estate describes ownership history (previously owned, any age); vintage describes age (roughly 20-100 years); antique...</text>
+    <circle cx="26" cy="61" r="3.2" fill="#FB923C"/>
+    <text x="40" y="65" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">A single piece can belong to multiple categories at once, or to none of the age-based categories despite being...</text>
+    <circle cx="26" cy="80" r="3.2" fill="#FB923C"/>
+    <text x="40" y="84" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">Trade-in is a transaction structure, not an age or ownership classification; it typically credits a traded piece's...</text>
+    <circle cx="26" cy="99" r="3.2" fill="#FB923C"/>
+    <text x="40" y="103" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11.5" font-weight="400">The secondary jewelry market is a genuine, sizable, and growing segment of the industry, not a niche side business —...</text>
+  </g>
+  <text x="46" y="698" fill="#C5A059" font-family="system-ui, sans-serif" font-size="10" font-weight="700" letter-spacing="1.6">JEWELSWELL MASTER ACADEMY</text>
+  <text x="1054" y="698" fill="#64748B" font-family="system-ui, sans-serif" font-size="10" font-weight="400" text-anchor="end">Generated from the module article — headings and takeaways verbatim.</text>
+</svg>

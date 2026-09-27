@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="100%" height="100%" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#E5C378"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4ADE80"/>
+      <stop offset="100%" stop-color="#4ADE80" stop-opacity="0.35"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#4ADE80" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#4ADE80" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1600" height="900" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1596" height="896" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <circle cx="1210" cy="450" r="330" fill="url(#glow)"/>
+  <line x1="1210" y1="450" x2="1730.0" y2="450.0" stroke="#4ADE80" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1704.5" y2="610.7" stroke="#4ADE80" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1630.7" y2="755.6" stroke="#4ADE80" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1515.6" y2="870.7" stroke="#4ADE80" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1370.7" y2="944.5" stroke="#4ADE80" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1210.0" y2="970.0" stroke="#4ADE80" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1049.3" y2="944.5" stroke="#4ADE80" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="904.4" y2="870.7" stroke="#4ADE80" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="789.3" y2="755.6" stroke="#4ADE80" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="715.5" y2="610.7" stroke="#4ADE80" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="690.0" y2="450.0" stroke="#4ADE80" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="715.5" y2="289.3" stroke="#4ADE80" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="789.3" y2="144.4" stroke="#4ADE80" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="904.4" y2="29.3" stroke="#4ADE80" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1049.3" y2="-44.5" stroke="#4ADE80" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1210.0" y2="-70.0" stroke="#4ADE80" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1370.7" y2="-44.5" stroke="#4ADE80" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1515.6" y2="29.3" stroke="#4ADE80" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1630.7" y2="144.4" stroke="#4ADE80" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1704.5" y2="289.3" stroke="#4ADE80" stroke-width="1" stroke-opacity="0.05"/>
+  <rect x="96" y="120" width="64" height="4" rx="2" fill="url(#gold)"/>
+  <text x="96" y="168" fill="#E5C378" font-family="system-ui, sans-serif" font-size="17" font-weight="700" letter-spacing="2.6">MASTERCLASS C12 — ANALYTICS</text>
+  <text x="96" y="246" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="60" font-weight="800">Retail KPIs &amp;</text>
+  <text x="96" y="314" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="60" font-weight="800">Reporting</text>
+  <text x="96" y="386" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="22" font-weight="400">From KPI vocabulary to GMROI and a one-page</text>
+  <text x="96" y="418" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="22" font-weight="400">store performance review.</text>
+  <rect x="96" y="472" width="71" height="38" rx="19" fill="#4ADE80" fill-opacity="0.14" stroke="#4ADE80" stroke-width="1.6"/>
+  <text x="131.5" y="497" fill="#4ADE80" font-family="system-ui, sans-serif" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="0.8">GMROI</text>
+  <rect x="181" y="472" width="193" height="38" rx="19" fill="#4ADE80" fill-opacity="0.14" stroke="#4ADE80" stroke-width="1.6"/>
+  <text x="277.7" y="497" fill="#4ADE80" font-family="system-ui, sans-serif" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="0.8">CONVERSION FUNNEL</text>
+  <rect x="388" y="472" width="122" height="38" rx="19" fill="#4ADE80" fill-opacity="0.14" stroke="#4ADE80" stroke-width="1.6"/>
+  <text x="449.4" y="497" fill="#4ADE80" font-family="system-ui, sans-serif" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="0.8">DASHBOARDS</text>
+  <circle cx="103" cy="541" r="4.5" fill="#4ADE80"/>
+  <text x="120" y="546" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="17" font-weight="500">ATV, UPT &amp; product mix</text>
+  <circle cx="403" cy="541" r="4.5" fill="#4ADE80"/>
+  <text x="420" y="546" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="17" font-weight="500">Inventory productivity</text>
+  <circle cx="103" cy="583" r="4.5" fill="#4ADE80"/>
+  <text x="120" y="588" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="17" font-weight="500">Client-book health</text>
+  <circle cx="403" cy="583" r="4.5" fill="#4ADE80"/>
+  <text x="420" y="588" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="17" font-weight="500">Diagnosing a miss</text>
+  <rect x="96" y="660" width="3" height="40" rx="1.5" fill="url(#gold)"/>
+  <text x="116" y="678" fill="#E5C378" font-family="system-ui, sans-serif" font-size="14" font-weight="700" letter-spacing="1.8">JEWELSWELL MASTER ACADEMY</text>
+  <text x="116" y="698" fill="#64748B" font-family="system-ui, sans-serif" font-size="13" font-weight="400">Fine Jewelry Retail Curriculum</text>
+  <g>
+    <line x1="985.0" y1="605.0" x2="1435.0" y2="605.0"
+          stroke="#4ADE80" stroke-width="2.4" stroke-opacity="0.7"/>
+    <rect x="1015.0" y="491.0" width="60.0" height="114.0" rx="4" fill="#4ADE80" fill-opacity="0.35"/><rect x="1110.0" y="431.0" width="60.0" height="174.0" rx="4" fill="#4ADE80" fill-opacity="0.48"/><rect x="1205.0" y="467.0" width="60.0" height="138.0" rx="4" fill="#4ADE80" fill-opacity="0.61"/><rect x="1300.0" y="383.0" width="60.0" height="222.0" rx="4" fill="#4ADE80" fill-opacity="0.74"/><rect x="1395.0" y="329.0" width="60.0" height="276.0" rx="4" fill="#4ADE80" fill-opacity="0.87"/>
+    <polyline points="1045.0,479.0 1140.0,419.0 1235.0,455.0 1330.0,371.0 1425.0,317.0" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-opacity="0.9"
+              stroke-dasharray="6 4"/>
+  </g>
+  <rect x="1396" y="96" width="108" height="46" rx="10" fill="#4ADE80" fill-opacity="0.16" stroke="#4ADE80" stroke-width="1.8"/>
+  <text x="1450" y="127" fill="#4ADE80" font-family="system-ui, sans-serif" font-size="24" font-weight="800" text-anchor="middle" letter-spacing="1.2">C12</text>
+</svg>

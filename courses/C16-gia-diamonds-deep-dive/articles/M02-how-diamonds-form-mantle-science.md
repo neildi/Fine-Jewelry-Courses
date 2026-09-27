@@ -24,6 +24,11 @@ Rubric per Prompt Kit B6a, scored 1-5: outcome alignment 5 (every section return
 
 Ask ten professionals "where do diamonds form?" and most will say "deep in the earth, under pressure." Correct and useless. The precise answer is what unlocks the rest of this course:
 
+<figure>
+  <img src="../assets/c16-m02-diamonds-form-mantle-science-inclusions-reveal.svg" alt="How Diamonds Form: Mantle Science and What Inclusions Reveal" width="100%" />
+  <figcaption><strong>Figure 2.1:</strong> How Diamonds Form: Mantle Science and What Inclusions Reveal — module framework at a glance: Why a sales-floor or valuation conversation should start 200 kilometers underground · The stability field: cold, deep, and ancient.</figcaption>
+</figure>
+
 - Why large D-color, type IIa stones from Cullinan-type sources behave differently in the market (Module 13).
 - Why "origin" is written into some reports and can never be written into most others.
 - Why inclusions are the diamond's autobiography — the reason a grader studies them instead of just counting them (Module 7).

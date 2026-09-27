@@ -24,6 +24,11 @@ Outcome 5; factual discipline 5 (mechanisms verbatim; stone anecdotes flagged); 
 
 Plain-language sales copy says a perfect diamond is colorless. GIA's lab literature says the *contrapositive* is the science: **"A theoretically 'pure and perfect' diamond containing no such defects would appear colorless"** — and every color that isn't a graining or inclusion effect is a *defect* interacting with light. Color is not a flaw in the crystal; color **is** the crystal's flaws, selectively read.
 
+<figure>
+  <img src="../assets/c16-m08-diamonds-have-color-optical-defects-type.svg" alt="Why Diamonds Have Color: Optical Defects, the Type System, and Famous Fancy Stones" width="100%" />
+  <figcaption><strong>Figure 8.1:</strong> Why Diamonds Have Color: Optical Defects, the Type System, and Famous Fancy Stones — module framework at a glance: The inversion that reorganizes everything · The type system in one table (with the market column) · The defect families that make the headline colors.</figcaption>
+</figure>
+
 Shigley & Breeding's 2013 quick-reference chart (G&G 49:2) is the handout's best single tool. Read verbatim, its core definitions are:
 
 - Defect centers = **impurity atoms** (typically nitrogen; occasionally boron or hydrogen), **vacancies** (single or clustered carbon holes), **interstitials** (stray carbon in the gaps), and **dislocations** from **plastic deformation**.

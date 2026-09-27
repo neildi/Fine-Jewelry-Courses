@@ -4,6 +4,11 @@
 
 In standard clienteling, trust accumulates: a kept promise here, a thoughtful follow-up there, months of small proof points adding up. Compressed-time selling doesn't have months — often it doesn't have more than a few minutes. This module covers what actually substitutes for that accumulated history: a small set of specific, learnable signals that let a client decide, almost instantly, whether an associate they've never met before is someone worth trusting with a high-ticket decision.
 
+<figure>
+  <img src="../assets/c9-m03-building-fast-trust-no-relationship-history.svg" alt="Building Fast Trust With No Relationship History" width="100%" />
+  <figcaption><strong>Figure 3.1:</strong> Building Fast Trust With No Relationship History — module framework at a glance: The Single Most Important Finding: Warmth Comes Before Competence · What Warmth Actually Looks Like, Specifically.</figcaption>
+</figure>
+
 ## The Single Most Important Finding: Warmth Comes Before Competence
 
 Social psychology research on how people judge new acquaintances converges on two dimensions: warmth (does this person mean well toward me?) and competence (can this person actually deliver?). The critical, counterintuitive finding for this module is the order: people judge warmth first, and weigh it more heavily, often within a fraction of a second of meeting someone — before any real evaluation of competence even begins. Demonstrations of competence offered before warmth is established tend to read as a threat rather than a reassurance, because the brain hasn't yet decided whether this person's skill is going to be used for the client's benefit or against their interest.

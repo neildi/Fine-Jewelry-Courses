@@ -24,6 +24,11 @@ Outcome 5; factual discipline 4.5 (mechanisms and detection logic tied to read/v
 
 A lab-grown diamond is **the same material** — carbon in the same cubic lattice, the same hardness, the same dispersion, the same type classification (M08) — arriving by a different *route*. Everything commercially interesting about lab-grown diamonds follows from that single fact: identical properties means identical grading scales apply, and the *difference* is origin, provenance, and market structure — not gemology.
 
+<figure>
+  <img src="../assets/c16-m11-lab-grown-diamonds-two-routes-arms-race.svg" alt="Lab-Grown Diamonds: Two Routes, the Arms Race, and the Trust Conversation" width="100%" />
+  <figcaption><strong>Figure 11.1:</strong> Lab-Grown Diamonds: Two Routes, the Arms Race, and the Trust Conversation — module framework at a glance: The one sentence that should reframe the whole conversation · Route 1 — HPHT: squeezing carbon in metal · Route 2 — CVD: growing from a gas.</figcaption>
+</figure>
+
 Which is exactly why the 2013 GIA optical-defects intro (read verbatim) matters here: the same sentence that describes color treatments also describes synthetic detection. Separation of natural from synthetic "is not always possible using standard gemological methods"; "advanced spectroscopic analysis at a professional gem-testing laboratory is required." The lab-grown business is built on that sentence.
 
 ## Route 1 — HPHT: squeezing carbon in metal

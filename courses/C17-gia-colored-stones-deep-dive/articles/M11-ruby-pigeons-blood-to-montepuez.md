@@ -19,6 +19,11 @@ generated: 2026-09-11
 
 A client sits down with her phone open. She has found a 3 ct "pigeon's blood Burmese ruby," certified, for $900 — and she has just been quoted $14,000 for the 1.2 ct unheated Mozambique ruby in your case. She is not being difficult; she is being reasonable. Both stones are called ruby, and one costs roughly fifteen times more per carat than the other.
 
+<figure>
+  <img src="../assets/c17-m11-ruby-pigeons-blood-marble-basalt-filled.svg" alt="Ruby: Pigeon's Blood, Marble and Basalt — and the Filled Stone You Must Disclose" width="100%" />
+  <figcaption><strong>Figure 11.1:</strong> Ruby: Pigeon's Blood, Marble and Basalt — and the Filled Stone You Must Disclose — module framework at a glance: Two rubies, fifteen times the price · Why ruby is red: chromium in corundum · The marble/basalt split: the most useful idea in ruby.</figcaption>
+</figure>
+
 Here is the answer, and it is the organizing idea of this entire module: **"ruby" is the gem trade's widest price band.** At one end sits untreated marble-hosted material from Mogok, where a 25.59 ct stone sold at Sotheby's Geneva in May 2015 for CHF 28.25 million (about $30.3 million — over $1.1 million per carat). At the other sits a heavily fractured piece of low-grade rough that has been injected with lead glass so it looks transparent: a manufactured composite that trades for tens of dollars per carat, dissolves in jewelry dip, and must never be sold without disclosure.
 
 The $900 stone is not a bargain. It is a different product wearing the same name. Your job in the next ten minutes is to understand that gap well enough to explain it without condescension — because the client who came in with a screenshot is the client most likely to become a serious collector client if you handle her honestly.

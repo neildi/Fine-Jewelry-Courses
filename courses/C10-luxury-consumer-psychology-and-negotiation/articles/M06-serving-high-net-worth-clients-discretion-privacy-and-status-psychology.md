@@ -4,6 +4,11 @@
 
 The single most consequential mistake an associate can make with a high-net-worth client often happens before a word is spoken — in the split-second judgment of who's actually worth serious attention based on how they look. This module covers why that judgment is measurably unreliable, what genuine HNW and UHNW clients actually expect in terms of discretion and privacy, and the specific psychology of "quiet luxury" that makes appearance an especially poor guide in exactly this segment of the client base.
 
+<figure>
+  <img src="../assets/c10-m06-serving-high-net-worth-clients-discretion-privacy-status.svg" alt="Serving High-Net-Worth Clients: Discretion, Privacy, and Status Psychology" width="100%" />
+  <figcaption><strong>Figure 6.1:</strong> Serving High-Net-Worth Clients: Discretion, Privacy, and Status Psychology — module framework at a glance: The Appearance-Bias Problem Is Real and Measured · Quiet Luxury: Why Genuine Wealth Often Looks Unremarkable.</figcaption>
+</figure>
+
 ## The Appearance-Bias Problem Is Real and Measured
 
 Academic research on salesperson behavior confirms a specific, documented mechanism: salespeople attribute a higher purchase budget to clients who display visible signs of status, and this activates more attentive, higher-effort service specifically for those clients — a mechanism the research explicitly ties to relying on "readily accessible information, such as visual signs of a client's age, gender, or wealth," rather than anything a client has actually said or done. This isn't a hypothetical concern: a large, first-of-its-kind national retail study found that three in five retail employees surveyed cited behavioral attributes, not physical appearance, as their stated basis for how they treated shoppers — while at the same time, shoppers overwhelmingly reported experiencing the opposite, with a majority perceiving their treatment as driven by appearance. This gap between self-reported intention and actual perceived experience is exactly why appearance-based judgment is dangerous: it often operates below conscious awareness, meaning good intentions alone don't prevent it.

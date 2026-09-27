@@ -36,6 +36,11 @@ sources: GIA "For Further Reading — Diamonds & Diamond Grading" handout, Assig
 
 You can grade. You can sell. You can walk a client through a report in ninety seconds. But sooner or later — usually at a jewelry show, a valuation intake, or a dinner with a serious collector — someone asks the question that no sales-floor script contains:
 
+<figure>
+  <img src="../assets/c16-m01-before-report-4cs-were-invented-birth.svg" alt="Before the Report: How the 4Cs Were Invented, and the Birth of the Modern Diamond Industry" width="100%" />
+  <figcaption><strong>Figure 1.1:</strong> Before the Report: How the 4Cs Were Invented, and the Birth of the Modern Diamond Industry — module framework at a glance: The question nobody trains you for · Four centuries of almost-language · Before the cut: the diamond the Romans never touched.</figcaption>
+</figure>
+
 "Who decided D was the top color? And why should I care what GIA thinks?"
 
 Most professionals answer with a shrug and a brand reference. The real answer is a better story than anything the marketing produced: the grading language you use every day was invented by one man in the 1930s and '40s as a *teaching device*, was adopted by the industry's biggest advertiser two decades later, and was built on a supply shock that began when a child in South Africa picked a shiny pebble out of a river in 1867.

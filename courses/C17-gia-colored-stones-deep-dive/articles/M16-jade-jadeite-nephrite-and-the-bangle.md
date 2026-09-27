@@ -19,6 +19,11 @@ generated: 2026-09-11
 
 A client puts a green bangle on the counter. She bought it in a tourist market years ago, she paid what she remembers as a lot of money, and she would like to know whether it is "real jade" and what it is worth.
 
+<figure>
+  <img src="../assets/c17-m16-jade-jadeite-vs-nephrite-type-abc.svg" alt="Jade: Jadeite vs Nephrite, Type A/B/C, and the Bangle That Must Fit" width="100%" />
+  <figcaption><strong>Figure 16.1:</strong> Jade: Jadeite vs Nephrite, Type A/B/C, and the Bangle That Must Fit — module framework at a glance: Three questions hiding in one sentence · Two different rocks called jade · Where jade comes from.</figcaption>
+</figure>
+
 There are three questions hiding in that sentence, and they are answered in order:
 
 1. **Is it jade at all?** It could be serpentine, aventurine quartz, dyed chalcedony, garnet, or glass. A surprising amount of "jade" sold to tourists is not jade in any sense.

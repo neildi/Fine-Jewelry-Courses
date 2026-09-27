@@ -4,6 +4,11 @@
 
 Every module in this course so far has established a specific, correct way to run something — the daily open/close sequence, the weekly cycle count, the monthly high-value verification protocol, the vendor and pipeline visibility disciplines. None of that consistency survives past the person who currently knows it in their head, unless it gets written down in a form the rest of the team will actually pick up and follow. This module covers why most written procedures fail to get used, and the specific, well-documented practices that produce ones that don't.
 
+<figure>
+  <img src="../assets/c11-m08-writing-sops-team-will-actually-use.svg" alt="Writing SOPs Your Team Will Actually Use" width="100%" />
+  <figcaption><strong>Figure 8.1:</strong> Writing SOPs Your Team Will Actually Use — module framework at a glance: Why Most SOPs Fail: The Same Five Problems, Repeatedly · The Deeper Point: An Ignored SOP Is Often a Design Problem, Not a Discipline Problem.</figcaption>
+</figure>
+
 ## Why Most SOPs Fail: The Same Five Problems, Repeatedly
 
 Analysis of why standard operating procedures go unused converges on a consistent, specific set of failure modes, not a vague general complaint about "compliance." A procedure gets written by someone who's never actually done the task themselves, and it shows — steps are technically accurate but missing the practical judgment calls someone who's actually stood at the register or the case would know to include. A procedure runs too long — a genuinely thorough SOP that takes ten minutes to read gets skimmed, not followed, and the specific fix cited across multiple sources is blunt: write it so simply a layperson could execute it correctly, not so exhaustively that it becomes its own obstacle. A procedure gets buried somewhere inconvenient — if finding it requires opening a shared drive, locating the right folder, and confirming it's the current version, most people simply won't do that in the middle of a busy shift. A procedure goes stale — the actual process changed months ago, but the document still describes the old way, which teaches the team that written procedures are unreliable in general. And a procedure has no assigned ownership — nobody is specifically responsible for a given step, and nobody is actually tracking whether it happened, so it quietly becomes optional.

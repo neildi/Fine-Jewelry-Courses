@@ -32,6 +32,11 @@ generated: 2026-09-13
 
 Psychologist Hermann Ebbinghaus's forgetting curve, a foundational and widely cited finding in learning science, describes something every sales manager has watched happen in real life: people forget a large share of new information within a day or two of learning it, unless it is deliberately revisited. Exact percentages vary across the many sources that cite this research, but the direction is not in dispute, and it applies directly to the nine modules before this one. Reading a script about the assumptive close once is not the same as being able to deliver it, calmly and confidently, to a real client under real pressure. The gap between those two things is practice, specifically the kind that's repeated and spaced out, not crammed into a single orientation day and never revisited.
 
+<figure>
+  <img src="../assets/c2-m10-role-play-scripts-weekly-practice-cadence.svg" alt="Role-Play Scripts and a Weekly Practice Cadence" width="100%" />
+  <figcaption><strong>Figure 10.1:</strong> Role-Play Scripts and a Weekly Practice Cadence — module framework at a glance: What happens to training by next Tuesday · Why role-play specifically, not just re-reading · Rules for running it well.</figcaption>
+</figure>
+
 This module doesn't teach new sales technique. It gives you the scripts and the calendar to make Modules 1 through 9 actually stick.
 
 ## Why role-play specifically, not just re-reading

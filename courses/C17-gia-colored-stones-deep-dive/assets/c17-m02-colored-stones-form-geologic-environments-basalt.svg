@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 688" width="100%" height="100%" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#E5C378"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FB7185"/>
+      <stop offset="100%" stop-color="#FB7185" stop-opacity="0.35"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FB7185" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#FB7185" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1100" height="688" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1096" height="684" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <g transform="translate(46, 34)">
+    <rect x="0" y="0" width="140" height="24" rx="12" fill="#FB7185" fill-opacity="0.18"/>
+    <text x="70.2" y="16" fill="#FB7185" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1">MODULE FRAMEWORK</text>
+    <text x="1008" y="16" fill="#64748B" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="end" letter-spacing="1.2">C17 · MODULE 02</text>
+    <text x="0" y="52" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">How Colored Stones Form: Geologic Environments from Basalt to</text>
+    <text x="0" y="80" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">Pegmatite to Marble</text>
+  </g>
+  <g transform="translate(46, 158)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#FB7185" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#FB7185"/>
+    <circle cx="32" cy="30" r="14" fill="#FB7185" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB7185" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">1</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">The two-sapphire problem</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">A bridal client compares two blue sapphires on velvet.</text>
+  </g>
+  <g transform="translate(559, 158)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#FB7185" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#FB7185"/>
+    <circle cx="32" cy="30" r="14" fill="#FB7185" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB7185" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">2</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Corundum is corundum: the geochemistry behind source differences</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Sapphire and ruby are both the mineral corundum, with the chemical formula</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Al₂O₃ — aluminum oxide.</text>
+  </g>
+  <g transform="translate(46, 280)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#FB7185" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#FB7185"/>
+    <circle cx="32" cy="30" r="14" fill="#FB7185" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB7185" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">3</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Environment 1: Alkali basalt — dark sapphire and ruby</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Rock type: Extrusive igneous — alkali basalt lava flows erupted from</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">volcanoes at continental margins...</text>
+  </g>
+  <g transform="translate(559, 280)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#FB7185" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#FB7185"/>
+    <circle cx="32" cy="30" r="14" fill="#FB7185" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB7185" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">4</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Environment 2: Pegmatites — tourmaline, beryl, topaz, kunzite and</text>
+    <text x="56" y="44" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">quartz</text>
+    <text x="22" y="69" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Rock type: Igneous, but not erupted — pegmatites are exceptionally...</text>
+  </g>
+  <g transform="translate(46, 402)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#FB7185" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#FB7185"/>
+    <circle cx="32" cy="30" r="14" fill="#FB7185" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB7185" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">5</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Environment 3: Hydrothermal deposits — emerald, imperial topaz, quartz</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Rock type: Hydrothermal veins form when hot, pressurized, mineral-rich water</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">flows through fractures in...</text>
+  </g>
+  <g transform="translate(559, 402)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#FB7185" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#FB7185"/>
+    <circle cx="32" cy="30" r="14" fill="#FB7185" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB7185" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">6</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Environment 4: Metamorphic rocks — marble-hosted ruby/sapphire,</text>
+    <text x="56" y="44" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Kashmir sapphire, jadeite</text>
+    <text x="22" y="69" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">Rock type: Metamorphic — rocks transformed by heat and pressure (often...</text>
+  </g>
+  <g transform="translate(46, 524)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#FB7185" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#FB7185"/>
+    <circle cx="32" cy="30" r="14" fill="#FB7185" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB7185" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">7</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Environment 5: Sedimentary and supergene deposits — opal, turquoise,</text>
+    <text x="56" y="44" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">malachite, and the gravels that concentrate everything else</text>
+    <text x="22" y="69" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">This category covers two different things, but they both happen near the...</text>
+  </g>
+  <g transform="translate(559, 524)">
+    <rect width="495" height="104" rx="10" fill="#1E293B" stroke="#FB7185" stroke-width="1.4" stroke-opacity="0.85"/>
+    <rect width="4" height="104" rx="2" fill="#FB7185"/>
+    <circle cx="32" cy="30" r="14" fill="#FB7185" fill-opacity="0.22"/>
+    <text x="32" y="35" fill="#FB7185" font-family="system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">8</text>
+    <text x="56" y="27" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">A quick reference table: five environments at a glance</text>
+    <text x="22" y="52" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">(Note: red beryl in topaz rhyolite, demantoid garnet in skarn, tanzanite in</text>
+    <text x="22" y="67" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="400">hydrothermally altered...</text>
+  </g>
+  <text x="46" y="668" fill="#C5A059" font-family="system-ui, sans-serif" font-size="10" font-weight="700" letter-spacing="1.6">JEWELSWELL MASTER ACADEMY</text>
+  <text x="1054" y="668" fill="#64748B" font-family="system-ui, sans-serif" font-size="10" font-weight="400" text-anchor="end">Generated from the module article — headings and takeaways verbatim.</text>
+</svg>

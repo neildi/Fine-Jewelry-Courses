@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="100%" height="100%" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#E5C378"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7DD3FC"/>
+      <stop offset="100%" stop-color="#7DD3FC" stop-opacity="0.35"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7DD3FC" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#7DD3FC" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1600" height="900" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1596" height="896" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <circle cx="1210" cy="450" r="330" fill="url(#glow)"/>
+  <line x1="1210" y1="450" x2="1730.0" y2="450.0" stroke="#7DD3FC" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1704.5" y2="610.7" stroke="#7DD3FC" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1630.7" y2="755.6" stroke="#7DD3FC" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1515.6" y2="870.7" stroke="#7DD3FC" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1370.7" y2="944.5" stroke="#7DD3FC" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1210.0" y2="970.0" stroke="#7DD3FC" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1049.3" y2="944.5" stroke="#7DD3FC" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="904.4" y2="870.7" stroke="#7DD3FC" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="789.3" y2="755.6" stroke="#7DD3FC" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="715.5" y2="610.7" stroke="#7DD3FC" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="690.0" y2="450.0" stroke="#7DD3FC" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="715.5" y2="289.3" stroke="#7DD3FC" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="789.3" y2="144.4" stroke="#7DD3FC" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="904.4" y2="29.3" stroke="#7DD3FC" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1049.3" y2="-44.5" stroke="#7DD3FC" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1210.0" y2="-70.0" stroke="#7DD3FC" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1370.7" y2="-44.5" stroke="#7DD3FC" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1515.6" y2="29.3" stroke="#7DD3FC" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1630.7" y2="144.4" stroke="#7DD3FC" stroke-width="1" stroke-opacity="0.05"/>
+  <line x1="1210" y1="450" x2="1704.5" y2="289.3" stroke="#7DD3FC" stroke-width="1" stroke-opacity="0.05"/>
+  <rect x="96" y="120" width="64" height="4" rx="2" fill="url(#gold)"/>
+  <text x="96" y="168" fill="#E5C378" font-family="system-ui, sans-serif" font-size="17" font-weight="700" letter-spacing="2.6">MASTERCLASS C16 — GIA DEEP DIVE</text>
+  <text x="96" y="246" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="60" font-weight="800">The GIA Diamonds Deep</text>
+  <text x="96" y="314" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="60" font-weight="800">Dive</text>
+  <text x="96" y="386" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="22" font-weight="400">Mantle genesis to ray-traced light return,</text>
+  <text x="96" y="418" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="22" font-weight="400">plus lab-grown diagnostics.</text>
+  <rect x="96" y="472" width="163" height="38" rx="19" fill="#7DD3FC" fill-opacity="0.14" stroke="#7DD3FC" stroke-width="1.6"/>
+  <text x="177.39999999999998" y="497" fill="#7DD3FC" font-family="system-ui, sans-serif" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="0.8">CARBON LATTICE</text>
+  <rect x="273" y="472" width="163" height="38" rx="19" fill="#7DD3FC" fill-opacity="0.14" stroke="#7DD3FC" stroke-width="1.6"/>
+  <text x="354.19999999999993" y="497" fill="#7DD3FC" font-family="system-ui, sans-serif" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="0.8">3D RAY TRACING</text>
+  <rect x="450" y="472" width="142" height="38" rx="19" fill="#7DD3FC" fill-opacity="0.14" stroke="#7DD3FC" stroke-width="1.6"/>
+  <text x="520.8" y="497" fill="#7DD3FC" font-family="system-ui, sans-serif" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="0.8">LAB-GROWN ID</text>
+  <circle cx="103" cy="541" r="4.5" fill="#7DD3FC"/>
+  <text x="120" y="546" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="17" font-weight="500">Mantle science &amp; genesis</text>
+  <circle cx="403" cy="541" r="4.5" fill="#7DD3FC"/>
+  <text x="420" y="546" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="17" font-weight="500">Exploration &amp; mining</text>
+  <circle cx="103" cy="583" r="4.5" fill="#7DD3FC"/>
+  <text x="120" y="588" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="17" font-weight="500">Cut-grade science</text>
+  <circle cx="403" cy="583" r="4.5" fill="#7DD3FC"/>
+  <text x="420" y="588" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="17" font-weight="500">Treatments &amp; marketplace</text>
+  <rect x="96" y="660" width="3" height="40" rx="1.5" fill="url(#gold)"/>
+  <text x="116" y="678" fill="#E5C378" font-family="system-ui, sans-serif" font-size="14" font-weight="700" letter-spacing="1.8">JEWELSWELL MASTER ACADEMY</text>
+  <text x="116" y="698" fill="#64748B" font-family="system-ui, sans-serif" font-size="13" font-weight="400">Fine Jewelry Retail Curriculum</text>
+  <g><polygon points="1210.0,200.0 1405.0,450.0 1210.0,700.0 1015.0,450.0" fill="url(#accent)" fill-opacity="0.14"/><line x1="1210.0" y1="200.0" x2="1015.0" y2="450.0" stroke="#7DD3FC" stroke-width="2" stroke-opacity="0.85"/><line x1="1210.0" y1="200.0" x2="1405.0" y2="450.0" stroke="#7DD3FC" stroke-width="2" stroke-opacity="0.85"/><line x1="1210.0" y1="200.0" x2="1125.0" y2="525.0" stroke="#7DD3FC" stroke-width="2" stroke-opacity="0.85"/><line x1="1210.0" y1="200.0" x2="1295.0" y2="375.0" stroke="#7DD3FC" stroke-width="2" stroke-opacity="0.85"/><line x1="1210.0" y1="700.0" x2="1015.0" y2="450.0" stroke="#7DD3FC" stroke-width="2" stroke-opacity="0.85"/><line x1="1210.0" y1="700.0" x2="1405.0" y2="450.0" stroke="#7DD3FC" stroke-width="2" stroke-opacity="0.85"/><line x1="1210.0" y1="700.0" x2="1125.0" y2="525.0" stroke="#7DD3FC" stroke-width="2" stroke-opacity="0.85"/><line x1="1210.0" y1="700.0" x2="1295.0" y2="375.0" stroke="#7DD3FC" stroke-width="2" stroke-opacity="0.85"/><line x1="1015.0" y1="450.0" x2="1125.0" y2="525.0" stroke="#7DD3FC" stroke-width="2" stroke-opacity="0.85"/><line x1="1125.0" y1="525.0" x2="1405.0" y2="450.0" stroke="#7DD3FC" stroke-width="2" stroke-opacity="0.85"/><line x1="1405.0" y1="450.0" x2="1295.0" y2="375.0" stroke="#7DD3FC" stroke-width="2" stroke-opacity="0.4" stroke-dasharray="5 4"/><line x1="1295.0" y1="375.0" x2="1015.0" y2="450.0" stroke="#7DD3FC" stroke-width="2" stroke-opacity="0.4" stroke-dasharray="5 4"/><circle cx="1210.0" cy="200.0" r="5" fill="#7DD3FC"/><circle cx="1210.0" cy="700.0" r="5" fill="#7DD3FC"/><circle cx="1015.0" cy="450.0" r="5" fill="#7DD3FC"/><circle cx="1405.0" cy="450.0" r="5" fill="#7DD3FC"/><circle cx="1125.0" cy="525.0" r="5" fill="#7DD3FC"/><circle cx="1295.0" cy="375.0" r="5" fill="#7DD3FC"/></g>
+  <rect x="1396" y="96" width="108" height="46" rx="10" fill="#7DD3FC" fill-opacity="0.16" stroke="#7DD3FC" stroke-width="1.8"/>
+  <text x="1450" y="127" fill="#7DD3FC" font-family="system-ui, sans-serif" font-size="24" font-weight="800" text-anchor="middle" letter-spacing="1.2">C16</text>
+</svg>

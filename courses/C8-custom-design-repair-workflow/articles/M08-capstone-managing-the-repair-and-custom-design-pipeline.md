@@ -4,6 +4,11 @@
 
 Every prior module in this course covered a single job in isolation — intake, casting, a repair, pricing, a redesign consultation, a handoff. In real store operations, none of that happens one job at a time. A bench jeweler or store manager is tracking dozens of jobs simultaneously, at every stage from intake to pickup, at every complexity level from a quick clasp fix to a months-long custom build. This capstone module brings every earlier module together into the skill that actually determines whether a repair and custom program runs smoothly or constantly feels behind: managing the full pipeline at once.
 
+<figure>
+  <img src="../assets/c8-m08-capstone-managing-repair-custom-design-pipeline.svg" alt="Capstone: Managing the Repair and Custom Design Pipeline" width="100%" />
+  <figcaption><strong>Figure 8.1:</strong> Capstone: Managing the Repair and Custom Design Pipeline — module framework at a glance: The Pipeline as a Real Structure, Not a Pile · Prioritization: Not Just First-In, First-Out · Capacity: Don't Schedule Every Available Hour.</figcaption>
+</figure>
+
 ## The Pipeline as a Real Structure, Not a Pile
 
 The single biggest failure mode in multi-job repair operations is treating every job as its own isolated task with no shared structure. A functioning pipeline organizes every job into a small number of clear stages that reflect what's actually happening, not an idealized version of the process:

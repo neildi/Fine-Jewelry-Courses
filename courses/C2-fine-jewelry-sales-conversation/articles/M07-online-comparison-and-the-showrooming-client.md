@@ -32,6 +32,11 @@ generated: 2026-09-13
 
 A client has spent twenty minutes admiring a 1-carat solitaire, then pulls out her phone. "I found the same thing online for $3,800 less." The associate's stomach drops, and the instinct is to either apologize and discount on the spot, or get defensive about the store's prices. Neither response addresses the actual question sitting on the counter: is it really the same thing?
 
+<figure>
+  <img src="../assets/c2-m07-online-comparison-showrooming-client.svg" alt="Online Comparison and the Showrooming Client" width="100%" />
+  <figcaption><strong>Figure 7.1:</strong> Online Comparison and the Showrooming Client — module framework at a glance: The phone on the counter · Why they're still standing in your store · Verify before you react.</figcaption>
+</figure>
+
 Showrooming, using a physical store to see and try something in person, then buying it cheaper elsewhere, is a real and common pattern in jewelry retail. But Kyle Bullock, manager of Bullock's Jewelry in Roswell, New Mexico, reframes it usefully: a customer holding up a phone usually isn't finished shopping, they are still shopping, and the fact that they're standing in your store with a screen in hand instead of buying elsewhere already tells you something. As Bullock puts it, if you accept that people use the internet to interact with and learn about the products you sell, "that's a good thing... it doesn't have to be our enemy."
 
 ## Why they're still standing in your store

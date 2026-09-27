@@ -4,6 +4,11 @@
 
 Module 1 built the trait cluster that defines a great jewelry seller. This module turns that cluster into two concrete, practical documents a store leader actually needs before posting a single job ad: a role profile that names what the job is actually for, and a sourcing plan that gets the right candidates seeing that role in the first place. Skipping straight to posting a generic job ad without either of these steps is the single most common reason a hiring process produces a pile of resumes that don't match what the store actually needs.
 
+<figure>
+  <img src="../assets/c13-m02-role-profiles-sourcing.svg" alt="Role Profiles and Sourcing" width="100%" />
+  <figcaption><strong>Figure 2.1:</strong> Role Profiles and Sourcing — module framework at a glance: The Five-Block Role Profile · Why &quot;Must-Have&quot; Needs Evidence Attached · Applying This to a Jewelry Sales Role.</figcaption>
+</figure>
+
 ## The Five-Block Role Profile
 
 A well-documented job-profile structure breaks into five specific blocks, built in a deliberate order: role purpose (one sentence explaining why this role exists and who it serves), key outcomes (three to five specific results this hire owns, each with a measure attached, written before the day-to-day responsibilities are listed), must-have competencies (four to six items, each with a named piece of evidence that verifies it — a specific assessment, work sample, structured interview question, or reference-check question), nice-to-have competencies (two or three items explicitly not screened on), and success measures at 30, 60, and 90 days. The specific discipline behind writing outcomes before responsibilities: ask what has to be true twelve months in for this hire to be obviously worth it, write three to five answers, and those become the outcomes — only then work backward to the specific competencies a person needs to produce them.
