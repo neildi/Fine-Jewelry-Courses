@@ -14,6 +14,12 @@ UK jewellers' block insurance guidelines add a specific reason why this procedur
 
 ## The Two-Person Rule and the All-Clear Signal
 
+<figure>
+  <img src="../assets/c4-m01-dual-custody-opening-closing-sop.svg" alt="Dual-Custody Store Opening and Closing Protocol" width="100%" />
+  <figcaption><strong>Figure 1.1:</strong> Dual-Custody Store Opening &amp; Closing SOP — 4-phase entry sequence, physical all-clear signals, dual safe combination control, and empty showcase display protocols.</figcaption>
+</figure>
+
+
 Jewelers Mutual's 24/7 security guidance prescribes a specific sequence:
 
 1. Use two or more people during opening procedures.

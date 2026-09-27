@@ -42,6 +42,12 @@ Southern Jewelry News takes this further with a specific figure worth rememberin
 
 ## Diagnose before you answer
 
+<figure>
+  <img src="../assets/c2-m05-price-objection-ladder.svg" alt="The 4-Step Price Objection Ladder" width="100%" />
+  <figcaption><strong>Figure 5.1:</strong> The 4-Step Price Objection Ladder — Acknowledging without flinching, isolating price vs. style, re-engineering 4Cs levers, and offering promotional financing.</figcaption>
+</figure>
+
+
 The single most important move in this module happens before you say a word in response. Jewelry sales trainer Shane Decker uses two diagnostic questions when a customer says a price is too high, both delivered with a smile, not a challenge:
 
 1. "Compared to what?" This forces the customer to name a reference point — a competitor, an online listing, last year's price, or a number they simply invented — which becomes the actual thing you can address.

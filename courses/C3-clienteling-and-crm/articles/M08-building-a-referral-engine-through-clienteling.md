@@ -20,6 +20,12 @@ A real referral engine fixes all three: it asks at the right moment, with a spec
 
 ## The Three Moments When Referral-Asking Actually Works
 
+<figure>
+  <img src="../assets/c3-m08-referral-engine-flywheel.svg" alt="Organic Luxury Referral Flywheel" width="100%" />
+  <figcaption><strong>Figure 8.1:</strong> The Luxury Referral Flywheel — 5-stage organic referral generation and verbatim luxury concierge scripts.</figcaption>
+</figure>
+
+
 **1. Peak satisfaction, not point of sale.** The best moment to invite a referral is when the client is visibly delighted — trying on the finished piece for the first time, receiving a compliment they mention to you, or during a warm post-purchase check-in (from Module 6) where they've confirmed they love it. This is when their genuine enthusiasm is highest and easiest to translate into action.
 
 **2. When they mention someone by name.** If a client says "my sister would love this" or "I have a friend getting engaged," that is a direct, low-friction opening. You don't need to introduce the idea of a referral — the client already has; you simply need to make it easy to act on.

@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">Demographic Bridal Personas: 4 Core Buyer Archetypes</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">Tailoring language, design presentation, and value framing across distinct generational customer segments</text>
+
+  <!-- 4 Personas Grid -->
+  <g transform="translate(50, 100)">
+    <!-- Persona 1: The Traditionalist -->
+    <rect x="0" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+    <rect x="0" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="15" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8">1. THE TRADITIONALIST</text>
+    
+    <text x="15" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Profile &amp; Priorities:</text>
+    <text x="15" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Values classic timeless elegance</text>
+    <text x="15" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Prefers Natural GIA diamonds</text>
+    <text x="15" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Round brilliant or Cushion cut</text>
+
+    <text x="15" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Metal &amp; Mounting:</text>
+    <text x="15" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">Platinum or 18K Yellow Gold solitaire</text>
+
+    <text x="15" y="210" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Effective Sales Angle:</text>
+    <text x="15" y="230" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Focus on heritage, enduring rarity,</text>
+    <text x="15" y="248" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">and multi-generational legacy value.</text>
+
+    <rect x="10" y="275" width="215" height="70" rx="6" fill="#0F172A"/>
+    <text x="15" y="295" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#38BDF8">Key Phrase:</text>
+    <text x="15" y="315" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">"A timeless heirloom that will look</text>
+    <text x="15" y="330" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">just as iconic in fifty years."</text>
+
+    <!-- Persona 2: The Modern Minimalist -->
+    <rect x="255" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+    <rect x="255" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="270" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#10B981">2. MODERN MINIMALIST</text>
+    
+    <text x="270" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Profile &amp; Priorities:</text>
+    <text x="270" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Clean architectural lines</text>
+    <text x="270" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Step cut (Emerald/Asscher) or Oval</text>
+    <text x="270" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Rejects heavy ornate halos</text>
+
+    <text x="270" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Metal &amp; Mounting:</text>
+    <text x="270" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">Ultra-thin 1.6mm band or Bezel cup</text>
+
+    <text x="270" y="210" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Effective Sales Angle:</text>
+    <text x="270" y="230" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Focus on diamond clarity purity,</text>
+    <text x="270" y="248" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">understated luxury, and daily comfort.</text>
+
+    <rect x="265" y="275" width="215" height="70" rx="6" fill="#0F172A"/>
+    <text x="270" y="295" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#10B981">Key Phrase:</text>
+    <text x="270" y="315" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">"Pure geometric design that lets</text>
+    <text x="270" y="330" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">the diamond speak for itself."</text>
+
+    <!-- Persona 3: Eco & Unique -->
+    <rect x="510" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#F59E0B" stroke-width="1.5"/>
+    <rect x="510" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="525" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F59E0B">3. ECO &amp; UNIQUE</text>
+    
+    <text x="525" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Profile &amp; Priorities:</text>
+    <text x="525" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Values sustainability &amp; ethics</text>
+    <text x="525" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Open to Lab-Grown or Sapphires</text>
+    <text x="525" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Vintage details, milgrain, east-west</text>
+
+    <text x="525" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Metal &amp; Mounting:</text>
+    <text x="525" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">100% Recycled Gold or Fairmined 18K</text>
+
+    <text x="525" y="210" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Effective Sales Angle:</text>
+    <text x="525" y="230" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Focus on traceable supply chain,</text>
+    <text x="525" y="248" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">bespoke individuality, and artistry.</text>
+
+    <rect x="520" y="275" width="215" height="70" rx="6" fill="#0F172A"/>
+    <text x="525" y="295" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#F59E0B">Key Phrase:</text>
+    <text x="525" y="315" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">"A uniquely expressive design crafted</text>
+    <text x="525" y="330" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">with verified ethical provenance."</text>
+
+    <!-- Persona 4: High-Carat Maximalist -->
+    <rect x="765" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#EC4899" stroke-width="1.5"/>
+    <rect x="765" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="780" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#EC4899">4. HIGH-CARAT MAXIMALIST</text>
+    
+    <text x="780" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Profile &amp; Priorities:</text>
+    <text x="780" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Maximum finger presence &amp; flash</text>
+    <text x="780" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• 3.0ct to 5.0ct+ center stone</text>
+    <text x="780" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Elongated Radiant, Oval, or Pear</text>
+
+    <text x="780" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Metal &amp; Mounting:</text>
+    <text x="780" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">Hidden halo + 3/4 diamond pavé shank</text>
+
+    <text x="780" y="210" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Effective Sales Angle:</text>
+    <text x="780" y="230" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Showcase 360° light performance,</text>
+    <text x="780" y="248" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">scintillation, and statement scale.</text>
+
+    <rect x="775" y="275" width="215" height="70" rx="6" fill="#0F172A"/>
+    <text x="780" y="295" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#EC4899">Key Phrase:</text>
+    <text x="780" y="315" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">"Unrivaled stage presence that</text>
+    <text x="780" y="330" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">commands the entire room."</text>
+  </g>
+
+  <!-- Summary Box -->
+  <g transform="translate(50, 480)">
+    <rect x="0" y="0" width="1000" height="150" rx="8" fill="#1E293B"/>
+    <text x="20" y="30" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#38BDF8">HOW TO IDENTIFY PERSONAS IN THE FIRST 60 SECONDS:</text>
+    <text x="20" y="58" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">Observe their phone lock screen, watch choice, and jewelry worn into the store. Ask: <em>"When you envision your everyday style, do you gravitate toward clean architectural lines, vintage antique romance, or bold statement brilliance?"</em></text>
+  </g>
+</svg>

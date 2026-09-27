@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">Custom Bridal Design Pipeline: 5 Milestone Approval Gates</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">From client Pinterest mood board to finished bespoke bridal heirloom with zero expectation mismatches</text>
+
+  <!-- 5 Stage Flow Pipeline -->
+  <g transform="translate(50, 100)">
+    <!-- Gate 1 -->
+    <rect x="0" y="0" width="185" height="340" rx="8" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+    <circle cx="92" cy="35" r="18" fill="#38BDF8"/>
+    <text x="92" y="41" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#0F172A" text-anchor="middle">1</text>
+    <text x="92" y="75" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6" text-anchor="middle">Concept &amp; Deposit</text>
+    <text x="15" y="105" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Mood board review</text>
+    <text x="15" y="125" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Select center stone</text>
+    <text x="15" y="145" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Hand sketch sign-off</text>
+    <text x="15" y="165" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• 50% Custom Deposit</text>
+    
+    <rect x="10" y="240" width="165" height="85" rx="6" fill="#0F172A"/>
+    <text x="15" y="265" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#38BDF8">Gate 1 Approval:</text>
+    <text x="15" y="285" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Written design brief</text>
+    <text x="15" y="305" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">&amp; center diamond locked</text>
+
+    <!-- Gate 2 -->
+    <rect x="205" y="0" width="185" height="340" rx="8" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+    <circle cx="297" cy="35" r="18" fill="#10B981"/>
+    <text x="297" y="41" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#0F172A" text-anchor="middle">2</text>
+    <text x="297" y="75" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6" text-anchor="middle">3D CAD Renders</text>
+    <text x="220" y="105" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• 3D digital model built</text>
+    <text x="220" y="125" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• 4-angle photorealistic</text>
+    <text x="220" y="145" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  360° video renders</text>
+    <text x="220" y="165" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Max 2 revision rounds</text>
+    
+    <rect x="215" y="240" width="165" height="85" rx="6" fill="#0F172A"/>
+    <text x="220" y="265" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#10B981">Gate 2 Approval:</text>
+    <text x="220" y="285" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">CAD proportion &amp; head</text>
+    <text x="220" y="305" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">height signed by client</text>
+
+    <!-- Gate 3 -->
+    <rect x="410" y="0" width="185" height="340" rx="8" fill="#161B22" stroke="#F59E0B" stroke-width="1.5"/>
+    <circle cx="502" cy="35" r="18" fill="#F59E0B"/>
+    <text x="502" y="41" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#0F172A" text-anchor="middle">3</text>
+    <text x="502" y="75" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6" text-anchor="middle">Wax/Resin Try-On</text>
+    <text x="425" y="105" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• 3D printed physical wax</text>
+    <text x="425" y="125" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• In-store finger try-on</text>
+    <text x="425" y="145" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Client checks scale,</text>
+    <text x="425" y="165" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  profile height &amp; fit</text>
+    
+    <rect x="420" y="240" width="165" height="85" rx="6" fill="#0F172A"/>
+    <text x="425" y="265" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#F59E0B">Gate 3 Approval:</text>
+    <text x="425" y="285" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Physical wax approved</text>
+    <text x="425" y="305" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">before casting metal</text>
+
+    <!-- Gate 4 -->
+    <rect x="615" y="0" width="185" height="340" rx="8" fill="#161B22" stroke="#EC4899" stroke-width="1.5"/>
+    <circle cx="707" cy="35" r="18" fill="#EC4899"/>
+    <text x="707" y="41" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#0F172A" text-anchor="middle">4</text>
+    <text x="707" y="75" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6" text-anchor="middle">Casting &amp; Setting</text>
+    <text x="630" y="105" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Lost-wax casting</text>
+    <text x="630" y="125" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Master bench clean-up</text>
+    <text x="630" y="145" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Microscope diamond setting</text>
+    <text x="630" y="165" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Hand polish &amp; hallmark</text>
+    
+    <rect x="625" y="240" width="165" height="85" rx="6" fill="#0F172A"/>
+    <text x="630" y="265" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#EC4899">Bench Quality:</text>
+    <text x="630" y="285" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">10-point internal QC</text>
+    <text x="630" y="305" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">prong tightness check</text>
+
+    <!-- Gate 5 -->
+    <rect x="820" y="0" width="180" height="340" rx="8" fill="#161B22" stroke="#A855F7" stroke-width="1.5"/>
+    <circle cx="910" cy="35" r="18" fill="#A855F7"/>
+    <text x="910" y="41" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#0F172A" text-anchor="middle">5</text>
+    <text x="910" y="75" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6" text-anchor="middle">Final Unveiling</text>
+    <text x="835" y="105" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Champagne reveal</text>
+    <text x="835" y="125" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Appraisal &amp; GIA binder</text>
+    <text x="835" y="145" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Balance payment</text>
+    <text x="835" y="165" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Lifetime warranty hand-off</text>
+    
+    <rect x="830" y="240" width="160" height="85" rx="6" fill="#0F172A"/>
+    <text x="835" y="265" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#A855F7">Final Milestone:</text>
+    <text x="835" y="285" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Total client delight &amp;</text>
+    <text x="835" y="305" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">referral foundation</text>
+  </g>
+
+  <!-- Timeline & Turnaround Summary -->
+  <g transform="translate(50, 470)">
+    <rect x="0" y="0" width="1000" height="160" rx="8" fill="#1E293B"/>
+    <text x="20" y="30" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#38BDF8">STANDARD BRIDAL CUSTOM TIMELINE: 3 TO 5 WEEKS TOTAL</text>
+    <text x="20" y="60" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">• <strong fill="#38BDF8">CAD Modeling &amp; Rendering:</strong> 3–5 Business Days</text>
+    <text x="20" y="82" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#10B981">• <strong fill="#10B981">Wax Printing &amp; Client Try-On:</strong> 2–4 Business Days</text>
+    <text x="20" y="104" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#F59E0B">• <strong fill="#F59E0B">Casting, Bench Assembly, Setting &amp; QC:</strong> 8–12 Business Days</text>
+    <text x="20" y="128" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">⚠️ Always buffer 5 extra days during peak holiday/Valentine's rush.</text>
+  </g>
+</svg>

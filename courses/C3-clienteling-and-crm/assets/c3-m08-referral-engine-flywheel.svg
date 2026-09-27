@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">The Luxury Referral Engine: The 5-Stage Organic Flywheel</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">Generating high-net-worth peer referrals without desperate requests or tacky cash bounties</text>
+
+  <!-- Flywheel Flow Nodes -->
+  <g transform="translate(60, 110)">
+    <!-- Node 1 -->
+    <rect x="0" y="0" width="180" height="230" rx="8" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+    <circle cx="90" cy="40" r="22" fill="#0F172A" stroke="#38BDF8" stroke-width="2"/>
+    <text x="90" y="46" font-family="Inter, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#38BDF8" text-anchor="middle">1</text>
+    <text x="90" y="85" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6" text-anchor="middle">Flawless Unboxing</text>
+    <text x="15" y="115" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Impeccable packaging</text>
+    <text x="15" y="135" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Pristine polish &amp; presentation</text>
+    <text x="15" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Handwritten note included</text>
+    <text x="15" y="185" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#38BDF8">Outcome: High emotion</text>
+
+    <!-- Node 2 -->
+    <rect x="200" y="0" width="180" height="230" rx="8" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+    <circle cx="290" cy="40" r="22" fill="#0F172A" stroke="#10B981" stroke-width="2"/>
+    <text x="290" y="46" font-family="Inter, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#10B981" text-anchor="middle">2</text>
+    <text x="290" y="85" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6" text-anchor="middle">The Compliment Spark</text>
+    <text x="215" y="115" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Worn in social settings</text>
+    <text x="215" y="135" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Friends notice sparkle &amp; cut</text>
+    <text x="215" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• "Where did you get that?"</text>
+    <text x="215" y="185" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#10B981">Outcome: Social pride</text>
+
+    <!-- Node 3 -->
+    <rect x="400" y="0" width="180" height="230" rx="8" fill="#161B22" stroke="#F59E0B" stroke-width="1.5"/>
+    <circle cx="490" cy="40" r="22" fill="#0F172A" stroke="#F59E0B" stroke-width="2"/>
+    <text x="490" y="46" font-family="Inter, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#F59E0B" text-anchor="middle">3</text>
+    <text x="490" y="85" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6" text-anchor="middle">The Referral Bridge</text>
+    <text x="415" y="115" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Proactive advisor touchpoint</text>
+    <text x="415" y="135" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• "If a friend is looking..."</text>
+    <text x="415" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• White-glove concierge offer</text>
+    <text x="415" y="185" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#F59E0B">Outcome: Effortless intro</text>
+
+    <!-- Node 4 -->
+    <rect x="600" y="0" width="180" height="230" rx="8" fill="#161B22" stroke="#EC4899" stroke-width="1.5"/>
+    <circle cx="690" cy="40" r="22" fill="#0F172A" stroke="#EC4899" stroke-width="2"/>
+    <text x="690" y="46" font-family="Inter, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#EC4899" text-anchor="middle">4</text>
+    <text x="690" y="85" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6" text-anchor="middle">VIP Peer Welcome</text>
+    <text x="615" y="115" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Referred peer arrives</text>
+    <text x="615" y="135" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Mention referring friend</text>
+    <text x="615" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Red carpet appointment</text>
+    <text x="615" y="185" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#EC4899">Outcome: Instant trust</text>
+
+    <!-- Node 5 -->
+    <rect x="800" y="0" width="180" height="230" rx="8" fill="#161B22" stroke="#A855F7" stroke-width="1.5"/>
+    <circle cx="890" cy="40" r="22" fill="#0F172A" stroke="#A855F7" stroke-width="2"/>
+    <text x="890" y="46" font-family="Inter, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#A855F7" text-anchor="middle">5</text>
+    <text x="890" y="85" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6" text-anchor="middle">Grateful Recognition</text>
+    <text x="815" y="115" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Immediate handwritten thank you</text>
+    <text x="815" y="135" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Fine champagne / floral gift</text>
+    <text x="815" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Deepened loyalty lock-in</text>
+    <text x="815" y="185" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#A855F7">Outcome: Perpetual loop</text>
+  </g>
+
+  <!-- Verbatim Scripts Comparison -->
+  <g transform="translate(60, 370)">
+    <rect x="0" y="0" width="470" height="250" rx="8" fill="#161B22" stroke="#EF4444" stroke-width="1.5"/>
+    <rect x="0" y="0" width="470" height="32" rx="8" fill="#450A0A"/>
+    <text x="15" y="22" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#EF4444">❌ THE CLUMSY / DESPERATE REFERRAL ASK</text>
+    <text x="15" y="55" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FECACA">"We really survive on word of mouth, so if you have any friends</text>
+    <text x="15" y="73" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FECACA">getting engaged, please tell them to come see me. If you send</text>
+    <text x="15" y="91" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FECACA">someone in who buys, I can give you a $100 store credit card!"</text>
+    
+    <text x="15" y="125" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#FCA5A5">Why it fails:</text>
+    <text x="15" y="145" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#FECACA">• Makes the sales consultant look desperate for commission</text>
+    <text x="15" y="165" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#FECACA">• Insults high-net-worth clients by treating friendship as a bounty</text>
+    <text x="15" y="185" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#FECACA">• Degrades the luxury exclusivity of the retail house</text>
+
+    <!-- Professional Script -->
+    <rect x="500" y="0" width="480" height="250" rx="8" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+    <rect x="500" y="0" width="480" height="32" rx="8" fill="#064E3B"/>
+    <text x="515" y="22" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#10B981">✓ THE LUXURY CONCIERGE REFERRAL SCRIPT</text>
+    <text x="515" y="55" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#D1FAE5">"Julian, working together on Sophia's emerald ring was a genuine</text>
+    <text x="515" y="73" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#D1FAE5">pleasure. Many of our clients have close friends who find fine</text>
+    <text x="515" y="91" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#D1FAE5">jewelry shopping intimidating. If anyone in your circle ever</text>
+    <text x="515" y="109" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#D1FAE5">needs private advice or a private salon viewing, please pass</text>
+    <text x="515" y="127" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#D1FAE5">along my personal mobile. I will take extraordinary care of them."</text>
+    
+    <text x="515" y="160" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#6EE7B7">Why it succeeds:</text>
+    <text x="515" y="180" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#D1FAE5">• Positions you as an elite private advisor helping their peer group</text>
+    <text x="515" y="200" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#D1FAE5">• Gives the client social capital to offer exclusive access to friends</text>
+  </g>
+</svg>

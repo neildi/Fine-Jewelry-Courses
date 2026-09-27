@@ -6,6 +6,12 @@ A custom engagement ring is often the single highest-emotion, highest-stakes pur
 
 ## The Five-Stage Workflow
 
+<figure>
+  <img src="../assets/c6-m07-bridal-custom-cad-milestones.svg" alt="Custom Bridal CAD Design Milestones" width="100%" />
+  <figcaption><strong>Figure 7.1:</strong> Custom Bridal Design Pipeline — 5 milestone approval gates (Concept, CAD Renders, Wax Try-On, Bench Casting/Setting, Final Unveiling).</figcaption>
+</figure>
+
+
 Custom bridal orders consistently follow the same core sequence across the sources reviewed, even though naming and exact timing vary somewhat by jeweler:
 
 1. **Initial consultation and design brief** (typically 30 minutes to 2 hours): The associate captures the client's vision, budget, stone preferences, and any specific inspiration references, and this gets translated into a written design brief — center stone specs, metal type, band style, sizing, and any engraving. This brief becomes the reference point for everything that follows.

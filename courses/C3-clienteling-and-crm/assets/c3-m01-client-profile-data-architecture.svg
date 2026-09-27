@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">Client Profile Data Architecture: The 4 High-Yield Quadrants</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">Essential CRM data capture standards for luxury sales consultants vs. prohibited personal data</text>
+
+  <!-- Quadrant 1: Identity & Relationships -->
+  <rect x="50" y="100" width="480" height="230" rx="8" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+  <rect x="50" y="100" width="480" height="36" rx="8" fill="#1E293B"/>
+  <text x="70" y="124" font-family="Inter, -apple-system, sans-serif" font-size="15" font-weight="bold" fill="#38BDF8">QUADRANT 1: Core Identity &amp; Key Relationships</text>
+  
+  <text x="70" y="160" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6">• Full Legal Name &amp; Preferred Name / Nickname</text>
+  <text x="70" y="180" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#9CA3AF">  Always capture phonetic pronunciation for culturally diverse clients</text>
+  <text x="70" y="210" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6">• Verified Contact Channels &amp; Preferred Time/Method</text>
+  <text x="70" y="230" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#9CA3AF">  Direct SMS vs. WhatsApp vs. Private Email (explicit consent recorded)</text>
+  <text x="70" y="260" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6">• Partner, Spouse &amp; Significant Other Linkages</text>
+  <text x="70" y="280" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#9CA3AF">  Link accounts for cross-gifting, secret surprise proposals, and anniversaries</text>
+  <text x="70" y="310" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6">• Executive Assistant / Personal Stylist Details</text>
+
+  <!-- Quadrant 2: Physical Attributes & Sizing -->
+  <rect x="570" y="100" width="480" height="230" rx="8" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+  <rect x="570" y="100" width="480" height="36" rx="8" fill="#1E293B"/>
+  <text x="590" y="124" font-family="Inter, -apple-system, sans-serif" font-size="15" font-weight="bold" fill="#10B981">QUADRANT 2: Physical Sizing &amp; Wear Preferences</text>
+  
+  <text x="590" y="160" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6">• Exact Finger Sizing (Per Finger &amp; Hand)</text>
+  <text x="590" y="180" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#9CA3AF">  Left Ring Finger (Bridal), Right Ring, Index, Pinky (summer vs. winter)</text>
+  <text x="590" y="210" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6">• Wrist Circumference &amp; Preferred Bracelet Drape</text>
+  <text x="590" y="230" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#9CA3AF">  Snug cuff vs. loose 7.25" tennis link drape; watch lug-to-lug scale</text>
+  <text x="590" y="260" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6">• Neckline &amp; Chain Length Preferences</text>
+  <text x="590" y="280" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#9CA3AF">  16" Choker vs. 18" Princess vs. 24" Opera layering habits</text>
+  <text x="590" y="310" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6">• Pierced Earring Post Length &amp; Sensitivity Allergies (Nickel/Gold)</text>
+
+  <!-- Quadrant 3: Aesthetic Taste & Wishlist -->
+  <rect x="50" y="350" width="480" height="200" rx="8" fill="#161B22" stroke="#F59E0B" stroke-width="1.5"/>
+  <rect x="50" y="350" width="480" height="36" rx="8" fill="#1E293B"/>
+  <text x="70" y="374" font-family="Inter, -apple-system, sans-serif" font-size="15" font-weight="bold" fill="#F59E0B">QUADRANT 3: Aesthetic Profile &amp; Curated Wishlist</text>
+  
+  <text x="70" y="410" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6">• Precious Metal Preference Hierarchy</text>
+  <text x="70" y="430" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#9CA3AF">  e.g., 18K Yellow Gold exclusively, Platinum for high-carat diamonds</text>
+  <text x="70" y="460" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6">• Gemstone Affinity &amp; Birthstone Connections</text>
+  <text x="70" y="480" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#9CA3AF">  Loves unheated sapphires, Colombian emeralds; avoids marquise shapes</text>
+  <text x="70" y="510" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6">• Active Wishlist Items with SKU, Target Specs &amp; Price</text>
+
+  <!-- Quadrant 4: Milestone Calendar -->
+  <rect x="570" y="350" width="480" height="200" rx="8" fill="#161B22" stroke="#EC4899" stroke-width="1.5"/>
+  <rect x="570" y="350" width="480" height="36" rx="8" fill="#1E293B"/>
+  <text x="590" y="374" font-family="Inter, -apple-system, sans-serif" font-size="15" font-weight="bold" fill="#EC4899">QUADRANT 4: Milestone Calendar &amp; Life Triggers</text>
+  
+  <text x="590" y="410" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6">• Client &amp; Partner Birthdays (Day &amp; Month)</text>
+  <text x="590" y="430" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#9CA3AF">  Trigger partner outreach 4 to 6 weeks prior to event</text>
+  <text x="590" y="460" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6">• Wedding &amp; Relationship Anniversaries</text>
+  <text x="590" y="480" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#9CA3AF">  Year landmark tracking (5th, 10th, 25th major upgrade milestones)</text>
+  <text x="590" y="510" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6">• Career Milestones, Graduations, Annual Travel Traditions</text>
+
+  <!-- Prohibited Data Banner -->
+  <rect x="50" y="570" width="1000" height="85" rx="8" fill="#450A0A" stroke="#EF4444" stroke-width="1.5"/>
+  <text x="70" y="595" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#FCA5A5">⚠️ STRICT CRM COMPLIANCE: NEVER RECORD IN CLIENT PROFILES</text>
+  <text x="70" y="618" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#FECACA">❌ Speculative wealth/income assumptions ("cheap", "loaded") • ❌ Protected demographic/religious/political opinions</text>
+  <text x="70" y="638" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#FECACA">❌ Personal marital drama or derogatory gossip • ❌ Unencrypted credit card or social security numbers</text>
+</svg>

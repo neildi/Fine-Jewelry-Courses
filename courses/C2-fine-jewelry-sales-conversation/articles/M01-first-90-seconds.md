@@ -79,6 +79,12 @@ INSTORE Magazine, the premier publication for American independent fine jewelers
 
 ## The Luxury Decompression Zone: The First Ten Seconds
 
+<figure>
+  <img src="../assets/c2-m01-first-90-seconds-flow.svg" alt="The First 90 Seconds Floor Protocol" width="100%" />
+  <figcaption><strong>Figure 1.1:</strong> The First 90 Seconds Approach Map — 10-foot proximity buffer, eliminating 'Can I help you?', and the tactile transition to the presentation pad.</figcaption>
+</figure>
+
+
 Before speaking a single syllable, understand the physical and neurological transition a client undergoes when entering a fine jewelry boutique.
 
 In retail architectural psychology, the area immediately inside the entrance is known as the **Decompression Zone** (typically the first 10 to 15 feet). When a client enters from a bustling street or an indoor shopping concourse, their sensory system is recalibrating:

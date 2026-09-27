@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">Proposal Logistics &amp; Stealth Protocol: The Complete Checklist</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">Helping the proposer orchestrate a flawless, stress-free surprise engagement milestone</text>
+
+  <!-- 4 Tactical Pillars Grid -->
+  <g transform="translate(50, 100)">
+    <!-- Pillar 1: Packaging & Secrecy -->
+    <rect x="0" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+    <rect x="0" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="15" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8">1. STEALTH PACKAGING</text>
+    
+    <text x="15" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">The Box Bulge Problem:</text>
+    <text x="15" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Standard luxury boxes are 2.5"</text>
+    <text x="15" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">  cubes that bulge in suit pants</text>
+    <text x="15" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Ruins surprise during dinner</text>
+
+    <text x="15" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">The Solution:</text>
+    <text x="15" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Supply slim 0.75" flat leather</text>
+    <text x="15" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  pocket proposal box</text>
+    <text x="15" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Retain master box for home</text>
+
+    <rect x="10" y="260" width="215" height="85" rx="6" fill="#0F172A"/>
+    <text x="15" y="285" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#38BDF8">Floor Rule:</text>
+    <text x="15" y="305" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Give every bridal client both</text>
+    <text x="15" y="325" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">presentation and stealth boxes.</text>
+
+    <!-- Pillar 2: Airport & Travel -->
+    <rect x="255" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+    <rect x="255" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="270" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#10B981">2. AIRPORT TRAVEL SECURITY</text>
+    
+    <text x="270" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">TSA Screening Tactics:</text>
+    <text x="270" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• NEVER put in checked luggage</text>
+    <text x="270" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Keep in carry-on bag zippered</text>
+    <text x="270" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">  interior pocket (never on body)</text>
+
+    <text x="270" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Stealth TSA Note:</text>
+    <text x="270" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Attach discreet printed tag:</text>
+    <text x="270" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#D1FAE5">  "ENGAGEMENT RING INSIDE.</text>
+    <text x="270" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#D1FAE5">  PLEASE BE DISCREET."</text>
+
+    <rect x="265" y="260" width="215" height="85" rx="6" fill="#0F172A"/>
+    <text x="270" y="285" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#10B981">Hotel Security:</text>
+    <text x="270" y="305" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Place in room safe immediately</text>
+    <text x="270" y="325" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">upon destination arrival.</text>
+
+    <!-- Pillar 3: Insurance Coverage -->
+    <rect x="510" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#F59E0B" stroke-width="1.5"/>
+    <rect x="510" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="525" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F59E0B">3. DAY-ZERO INSURANCE</text>
+    
+    <text x="525" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">The Uninsured Gap Trap:</text>
+    <text x="525" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Many proposers wait until AFTER</text>
+    <text x="525" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">  proposal to insure the ring</text>
+    <text x="525" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Beach / cliff proposals have</text>
+    <text x="525" y="140" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">  the highest loss risk</text>
+
+    <text x="525" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">The Protocol:</text>
+    <text x="525" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Issue appraisal at pickup</text>
+    <text x="525" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Guide client to bind policy</text>
+    <text x="525" y="235" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  BEFORE leaving the store</text>
+
+    <rect x="520" y="260" width="215" height="85" rx="6" fill="#0F172A"/>
+    <text x="525" y="285" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#F59E0B">Jewelers Mutual / Rider:</text>
+    <text x="525" y="305" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Ensure coverage covers worldwide</text>
+    <text x="525" y="325" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">loss, theft, and accidental drop.</text>
+
+    <!-- Pillar 4: Post-Proposal Care -->
+    <rect x="765" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#EC4899" stroke-width="1.5"/>
+    <rect x="765" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="780" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#EC4899">4. POST-PROPOSAL VISIT</text>
+    
+    <text x="780" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">The Second Reception:</text>
+    <text x="780" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Complimentary post-proposal</text>
+    <text x="780" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">  exact finger re-sizing</text>
+    <text x="780" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Champagne toast with fiancée</text>
+
+    <text x="780" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#EC4899">Wedding Band Bridge:</text>
+    <text x="780" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Introduce wedding bands</text>
+    <text x="780" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  during the re-sizing visit</text>
+    <text x="780" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Show flush-fit matching bands</text>
+
+    <rect x="775" y="260" width="215" height="85" rx="6" fill="#0F172A"/>
+    <text x="780" y="285" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#EC4899">Client Lock-In:</text>
+    <text x="780" y="305" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Converts proposer into permanent</text>
+    <text x="780" y="325" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">couple client relationship.</text>
+  </g>
+
+  <!-- Summary Box -->
+  <g transform="translate(50, 480)">
+    <rect x="0" y="0" width="1000" height="150" rx="8" fill="#1E293B"/>
+    <text x="20" y="30" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#38BDF8">WHY PROPOSAL LOGISTICS ADVICE BUILDS LIFELONG LOYALTY:</text>
+    <text x="20" y="58" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">When you proactively address the proposer's hidden fears — box bulk in a pocket, airport security surprises, and insurance coverage — you transition from a commodity jeweler to an indispensable trusted advisor.</text>
+  </g>
+</svg>

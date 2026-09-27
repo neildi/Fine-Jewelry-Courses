@@ -6,6 +6,12 @@ Every custom piece follows a physical process most clients never see, and unders
 
 ## Stage One: From CAD File to Physical Pattern
 
+<figure>
+  <img src="../assets/c8-m03-cad-to-casting-7-stage-pipeline.svg" alt="The 7-Stage CAD-to-Casting Custom Workflow" width="100%" />
+  <figcaption><strong>Figure 3.1:</strong> The 7-Stage CAD-to-Casting Custom Jewelry Pipeline — From initial sketch to 3D CAD, CAM wax model, lost-wax casting, stone setting, and final QC delivery.</figcaption>
+</figure>
+
+
 Once a CAD design is approved (the sign-off discipline covered in this course's bridal-specific content applies here too — approval locks the specifications), the digital file needs to become a physical wax or resin pattern before any metal is involved. Two methods dominate:
 
 - **3D-printed wax or resin patterns**: a printer builds the pattern directly from the CAD file, layer by layer, with no physical mold required. This is now the dominant method for one-off custom pieces specifically because it requires no tooling and can capture fine CAD detail precisely.

@@ -49,6 +49,12 @@ Metal-quality questions come up in nearly every sale, and clients frequently do 
 
 ## Gold karat purity, in one table
 
+<figure>
+  <img src="../assets/c1-m08-precious-metals-hallmarks.svg" alt="Precious Metals, Alloys and Hallmarks Guide" width="100%" />
+  <figcaption><strong>Figure 8.1:</strong> Precious Metals &amp; International Hallmarks Guide — Gold karatage fineness, Platinum PT950 vs. White Gold trade-offs, and UK/US/EU hallmark stamps.</figcaption>
+</figure>
+
+
 Karat measures the proportion of pure gold in an alloy, out of 24 parts. Pure gold is 24 karat; everything below that is gold mixed with other metals for durability, color, or cost.
 
 | Karat | Fraction pure gold | Approximate percentage | Millesimal fineness mark |

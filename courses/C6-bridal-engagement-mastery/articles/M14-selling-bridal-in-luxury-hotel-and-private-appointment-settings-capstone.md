@@ -6,6 +6,12 @@ This capstone module closes C6 by shifting to the opposite end of the retail-for
 
 ## The Format: What Private and Hotel-Based Bridal Selling Actually Looks Like
 
+<figure>
+  <img src="../assets/c6-m14-private-salon-bridal-experience.svg" alt="Private Salon Bridal Luxury Blueprint" width="100%" />
+  <figcaption><strong>Figure 14.1:</strong> The Private Salon Bridal Experience — Atmospheric staging, curated tray presentation, interactive gemological reveal, and white-glove concierge close.</figcaption>
+</figure>
+
+
 Private appointment and luxury hotel selling takes a few recognizable forms, and it's useful to understand the landscape: hotel-suite trunk shows, where a jeweler rents a suite (commonly $2,000+ per night at a five-star property) for a multi-day private showing, inviting core clients individually or in small groups; formal hotel-brand partnerships, where a luxury hotel books a specialist's private in-suite viewing directly for guests (some arrangements require two weeks' advance notice to curate a selection matched to the guest's taste); and by-appointment private showrooms or "ateliers," often NDA-protected, serving high-profile or high-net-worth clients who specifically want to avoid a public retail floor. What unifies all of these formats is the absence of walk-in traffic and the presence of real lead time — the opposite of Module 13's structural time pressure, and a genuine opportunity to apply every consultative skill this course has covered without the constraints that shape faster-paced retail.
 
 ## Discretion as the Core Service, Not an Add-On

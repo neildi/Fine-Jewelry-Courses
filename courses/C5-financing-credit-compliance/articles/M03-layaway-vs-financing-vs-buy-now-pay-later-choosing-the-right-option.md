@@ -6,6 +6,12 @@ Modules 1 and 2 covered financing in depth. But financing is only one of at leas
 
 ## Layaway: The Store Holds the Item, the Customer Owns Nothing Yet
 
+<figure>
+  <img src="../assets/c5-m03-payment-options-comparison-matrix.svg" alt="Payment Solutions Matrix" width="100%" />
+  <figcaption><strong>Figure 3.1:</strong> Payment Solutions Matrix — Strategic comparison of Vault Layaway, Store Financing (0% APR), and Buy-Now-Pay-Later (BNPL).</figcaption>
+</figure>
+
+
 Layaway is structurally the simplest of the three options, and also the most different from the other two: it is not credit at all. The store holds the physical item, the customer makes scheduled payments toward the full price, and ownership transfers only once the final payment is made. No interest, no credit check, no credit agreement — because no credit is being extended. This is why layaway job duties appear in real job postings as a distinct process from financing ("process sales, returns, layaways, and financing applications" is a job spec line that treats these as separate line items, not synonyms), and why layaway reports are tracked and graded on their own administrative cadence separate from financing reconciliation.
 
 Layaway is the right recommendation for a customer who:

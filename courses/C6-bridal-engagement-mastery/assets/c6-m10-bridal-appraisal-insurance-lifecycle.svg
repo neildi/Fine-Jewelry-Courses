@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">Lifetime Bridal Protection: Appraisal, Insurance &amp; Aftercare</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">Protecting client emotional and financial investment through comprehensive documentation and preventative maintenance</text>
+
+  <!-- 4-Stage Lifetime Wheel -->
+  <g transform="translate(50, 100)">
+    <!-- Stage 1 -->
+    <rect x="0" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+    <rect x="0" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="15" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8">1. RETAIL APPRAISAL</text>
+    
+    <text x="15" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Point of Sale Delivery:</text>
+    <text x="15" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Retail Replacement Value (RRV)</text>
+    <text x="15" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Full 4Cs specs, metal gram</text>
+    <text x="15" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">  weight, and maker marks</text>
+    <text x="15" y="140" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• High-res macro photo included</text>
+
+    <text x="15" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#EF4444">Appraisal Warning:</text>
+    <text x="15" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">• Never hyper-inflate values</text>
+    <text x="15" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">  (forces client to pay excess</text>
+    <text x="15" y="235" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">  annual insurance premiums)</text>
+
+    <rect x="10" y="260" width="215" height="85" rx="6" fill="#0F172A"/>
+    <text x="15" y="285" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#38BDF8">Update Cadence:</text>
+    <text x="15" y="305" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Re-evaluate every 3–5 years</text>
+    <text x="15" y="325" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">for precious metal shifts.</text>
+
+    <!-- Stage 2 -->
+    <rect x="255" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+    <rect x="255" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="270" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#10B981">2. SPECIALIZED INSURANCE</text>
+    
+    <text x="255" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Policy Comparison:</text>
+    <text x="270" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Homeowners Rider:</text>
+    <text x="270" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">  High deductibles; strict caps;</text>
+    <text x="270" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">  claim may increase home rates</text>
+
+    <text x="270" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">• Standalone Jewelry Policy:</text>
+    <text x="270" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#D1FAE5">  (Jewelers Mutual / BriteCo)</text>
+    <text x="270" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#D1FAE5">  $0 deductible; mysterious loss;</text>
+    <text x="270" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#D1FAE5">  worldwide travel coverage</text>
+
+    <rect x="265" y="260" width="215" height="85" rx="6" fill="#0F172A"/>
+    <text x="270" y="285" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#10B981">Client Cost:</text>
+    <text x="270" y="305" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Approx 1% to 2% of appraised</text>
+    <text x="270" y="325" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">value annually (~$100/$10k).</text>
+
+    <!-- Stage 3 -->
+    <rect x="510" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#F59E0B" stroke-width="1.5"/>
+    <rect x="510" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="525" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F59E0B">3. 6-MONTH INSPECTIONS</text>
+    
+    <text x="525" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Preventative Maintenance:</text>
+    <text x="525" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• 10x Loupe prong check</text>
+    <text x="525" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Stone looseness tap test</text>
+    <text x="525" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Pavé bead wear analysis</text>
+    <text x="525" y="140" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Ultrasonic &amp; steam cleaning</text>
+
+    <text x="525" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Warranty Validation:</text>
+    <text x="525" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Log inspection in CRM</text>
+    <text x="525" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Extends store diamond loss</text>
+    <text x="525" y="235" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  guarantee coverage</text>
+
+    <rect x="520" y="260" width="215" height="85" rx="6" fill="#0F172A"/>
+    <text x="525" y="285" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#F59E0B">Client Touchpoint:</text>
+    <text x="525" y="305" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Brings couple back into the</text>
+    <text x="525" y="325" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">store twice every year.</text>
+
+    <!-- Stage 4 -->
+    <rect x="765" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#EC4899" stroke-width="1.5"/>
+    <rect x="765" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="780" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#EC4899">4. HOME CARE PROTOCOL</text>
+    
+    <text x="780" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Client Care Education:</text>
+    <text x="780" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• "Last On, First Off" rule</text>
+    <text x="780" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Remove for gym/weights, pool,</text>
+    <text x="780" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">  gardening, &amp; household bleach</text>
+
+    <text x="780" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Safe Home Cleaning:</text>
+    <text x="780" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Warm water + mild Dawn soap</text>
+    <text x="780" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Baby soft toothbrush behind head</text>
+    <text x="780" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Lint-free microfiber dry</text>
+
+    <rect x="775" y="260" width="215" height="85" rx="6" fill="#0F172A"/>
+    <text x="780" y="285" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#EC4899">Chlorine Warning:</text>
+    <text x="780" y="305" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Chlorine leaches alloys from gold,</text>
+    <text x="780" y="325" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">causing prongs to snap off.</text>
+  </g>
+
+  <!-- Summary Banner -->
+  <g transform="translate(50, 480)">
+    <rect x="0" y="0" width="1000" height="150" rx="8" fill="#1E293B"/>
+    <text x="20" y="30" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#38BDF8">THE LIFETIME VALUE (LTV) BRIDGE OF AFTERCARE:</text>
+    <text x="20" y="58" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">When you deliver a museum-grade appraisal binder and schedule the first complimentary 6-month spa check-in before the client leaves the store, you guarantee that this couple will return to you for their wedding bands, first anniversary, and every milestone celebration for decades to come.</text>
+  </g>
+</svg>

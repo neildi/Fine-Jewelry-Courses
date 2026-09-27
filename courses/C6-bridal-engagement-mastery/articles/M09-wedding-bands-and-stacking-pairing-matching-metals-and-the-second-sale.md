@@ -6,6 +6,12 @@ The engagement ring sale isn't the end of the bridal relationship — it's the b
 
 ## Pairing a Band with the Engagement Ring: Contour, Not Just Color
 
+<figure>
+  <img src="../assets/c6-m09-wedding-band-pairing-matrix.svg" alt="Wedding Band Pairing and Stacking Matrix" width="100%" />
+  <figcaption><strong>Figure 9.1:</strong> Wedding Band &amp; Stacking Architecture — Straight Flush Fit vs. Contoured vs. Chevron Jackets and metal alloy friction wear rules.</figcaption>
+</figure>
+
+
 The single most technically important pairing consideration isn't metal color — it's physical fit against the engagement ring's profile. A straight, flat wedding band pushed up against a raised solitaire or a halo setting often leaves a visible gap on either side of the center stone; a **contoured or curved band**, shaped specifically to follow the engagement ring's profile, closes that gap and creates a seamless look when the two rings sit side by side. This matters most for halo, three-stone, and vintage-style engagement rings with pronounced side detail; a simple solitaire has more flexibility to pair with either a straight or contoured band.
 
 Metal matching matters for a different, more practical reason than aesthetics alone: pairing different metals of significantly different hardness against each other in constant contact (worn on the same hand, touching daily) can cause the softer metal to wear down faster, and different metal alloys in prolonged contact can in some cases contribute to galvanic corrosion. This is why the standard recommendation is to match metal type for rings worn together on the same finger, or, if a client wants to intentionally mix metals for a style reason, to separate them with a spacer band rather than let dissimilar metals wear directly against each other.

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">Client Book Segmentation: The 80/20 Luxury Clienteling Pyramid</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">Prioritizing sales consultant time, investment allocation, and contact frequency across customer tiers</text>
+
+  <!-- Pyramid Graphics -->
+  <polygon points="270,120 120,480 420,480" fill="#161B22" stroke="#334155" stroke-width="2"/>
+
+  <!-- Tier 1 Top: VIC -->
+  <polygon points="270,120 230,200 310,200" fill="#F59E0B" fill-opacity="0.9"/>
+  <text x="270" y="170" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#0B0E14" text-anchor="middle">VIC (Top 5%)</text>
+
+  <!-- Tier 2: Core VIP -->
+  <polygon points="230,200 190,290 350,290 310,200" fill="#38BDF8" fill-opacity="0.85"/>
+  <text x="270" y="250" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#0B0E14" text-anchor="middle">Core Repeat (15%)</text>
+
+  <!-- Tier 3: Developing -->
+  <polygon points="190,290 150,380 390,380 350,290" fill="#10B981" fill-opacity="0.8"/>
+  <text x="270" y="340" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#0B0E14" text-anchor="middle">Developing (30%)</text>
+
+  <!-- Tier 4: Base / Lapsed -->
+  <polygon points="150,380 120,480 420,480 390,380" fill="#64748B" fill-opacity="0.7"/>
+  <text x="270" y="435" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F8FAFC" text-anchor="middle">Base &amp; Occasional (50%)</text>
+
+  <!-- Detail Cards on Right -->
+  <!-- VIC Card -->
+  <rect x="470" y="110" width="580" height="95" rx="6" fill="#161B22" stroke="#F59E0B" stroke-width="1.5"/>
+  <text x="490" y="135" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#F59E0B">TIER 1: VERY IMPORTANT CLIENTS (VIC) — Top 5% of Book</text>
+  <text x="490" y="158" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">• Generates 45–55% of annual commission • LTV &gt; $50,000+ • Multiple high-ticket pieces/yr</text>
+  <text x="490" y="180" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#94A3B8">Cadence: 1–2 personalized touches/month • First-look trunk shows • Private salon champagne tastings</text>
+
+  <!-- Core Repeat Card -->
+  <rect x="470" y="215" width="580" height="95" rx="6" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+  <text x="490" y="240" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#38BDF8">TIER 2: CORE REPEAT COLLECTORS — Next 15% of Book</text>
+  <text x="490" y="263" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">• Generates 25–30% of sales • LTV $10,000–$50,000 • Reliable annual anniversary/holiday buyers</text>
+  <text x="490" y="285" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#94A3B8">Cadence: 6–8 curated touches/year • Milestone date anticipation • Designer launch invitations</text>
+
+  <!-- Developing Card -->
+  <rect x="470" y="320" width="580" height="95" rx="6" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+  <text x="490" y="345" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#10B981">TIER 3: DEVELOPING / HIGH POTENTIAL — 30% of Book</text>
+  <text x="490" y="368" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">• Generates 15% of sales • First-time engagement ring or luxury watch buyers</text>
+  <text x="490" y="390" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#94A3B8">Cadence: 2-2-2 post-sale sequence • Wedding band bridge • 1st anniversary upgrade outreach</text>
+
+  <!-- Base Card -->
+  <rect x="470" y="425" width="580" height="95" rx="6" fill="#161B22" stroke="#64748B" stroke-width="1.5"/>
+  <text x="490" y="450" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#94A3B8">TIER 4: BASE &amp; OCCASIONAL BUYERS — Bottom 50% of Book</text>
+  <text x="490" y="473" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">• Small gift buyers, minor repairs, walk-in impulse purchases • Under $2,500 LTV</text>
+  <text x="490" y="495" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#94A3B8">Cadence: Automated store newsletter • Annual jewelry cleaning invite • Seasonal promotional triggers</text>
+
+  <!-- Bottom Rule -->
+  <rect x="50" y="540" width="1000" height="100" rx="8" fill="#1E293B"/>
+  <text x="70" y="570" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#38BDF8">THE GOLDEN RULE OF BOOK TIME ALLOCATION:</text>
+  <text x="70" y="598" font-family="Inter, -apple-system, sans-serif" font-size="13" fill="#F3F4F6">Invest 60% of daily outreach time into Tier 1 (VICs), 25% into Tier 2 (Core), and 15% into Tier 3 (Developing).</text>
+  <text x="70" y="622" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#9CA3AF">Never let routine transactional administrative work crowd out proactive personal outreach to your top 20% relationships.</text>
+</svg>

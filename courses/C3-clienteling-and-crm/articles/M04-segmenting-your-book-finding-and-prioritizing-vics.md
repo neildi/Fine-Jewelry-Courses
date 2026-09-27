@@ -38,6 +38,12 @@ The risk of not segmenting isn't abstract. A seasoned associate at a busy store 
 
 ## Five signals that actually identify a VIC
 
+<figure>
+  <img src="../assets/c3-m04-client-book-segmentation-pyramid.svg" alt="Client Book Segmentation Pyramid" width="100%" />
+  <figcaption><strong>Figure 4.1:</strong> The 80/20 Luxury Clienteling Pyramid — Time allocation, revenue contribution, and contact cadences across VIC, Core, Developing, and Base customer tiers.</figcaption>
+</figure>
+
+
 Rather than guessing by gut feel or simply ranking by total spend, a more reliable segmentation approach looks at five separate signals together, per Endear's own clienteling framework for luxury retail:
 
 | Signal | What it looks like in a jewelry book |

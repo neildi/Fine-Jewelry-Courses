@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 700" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="pearlShine" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="40%" stop-color="#F1F5F9"/>
+      <stop offset="100%" stop-color="#CBD5E1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1100" height="700" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1096" height="696" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <!-- Header -->
+  <g transform="translate(50, 35)">
+    <rect x="0" y="0" width="180" height="24" rx="12" fill="#38BDF8" fill-opacity="0.2"/>
+    <text x="90" y="16" fill="#7DD3FC" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1">ORGANIC GEMOLOGY</text>
+    <text x="0" y="52" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">Pearl Varieties &amp; GIA 7 Value Factors</text>
+    <text x="0" y="74" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="13">Akoya vs. South Sea vs. Tahitian vs. Freshwater, grading vocabulary, and counter care rules.</text>
+  </g>
+
+  <!-- 4 Pearl Types Grid -->
+  <g transform="translate(50, 120)">
+    <!-- Akoya -->
+    <g transform="translate(0, 0)">
+      <rect width="235" height="240" rx="8" fill="#1E293B" stroke="#38BDF8" stroke-width="1.5"/>
+      <circle cx="117" cy="55" r="28" fill="url(#pearlShine)" stroke="#CBD5E1" stroke-width="1"/>
+      <text x="117" y="110" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="15" font-weight="700" text-anchor="middle">Akoya Pearls</text>
+      <text x="117" y="128" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Japan &amp; China | Pinctada fucata</text>
+
+      <text x="15" y="155" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11">• <tspan font-weight="700">Size:</tspan> 2mm – 10mm (avg 7-8mm)</text>
+      <text x="15" y="173" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11">• <tspan font-weight="700">Luster:</tspan> Sharp, mirror-like gloss</text>
+      <text x="15" y="191" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11">• <tspan font-weight="700">Color:</tspan> White/Cream + Rose overtone</text>
+      <text x="15" y="215" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">The classic bridal single strand standard.</text>
+    </g>
+
+    <!-- South Sea -->
+    <g transform="translate(255, 0)">
+      <rect width="235" height="240" rx="8" fill="#1E293B" stroke="#F59E0B" stroke-width="1.5"/>
+      <circle cx="117" cy="55" r="34" fill="#FEF3C7" stroke="#FBBF24" stroke-width="1"/>
+      <text x="117" y="110" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="15" font-weight="700" text-anchor="middle">South Sea Pearls</text>
+      <text x="117" y="128" fill="#FBBF24" font-family="system-ui, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Australia &amp; Indonesia | P. maxima</text>
+
+      <text x="15" y="155" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11">• <tspan font-weight="700">Size:</tspan> 8mm – 20mm (avg 11-14mm)</text>
+      <text x="15" y="173" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11">• <tspan font-weight="700">Luster:</tspan> Deep, satiny velvety glow</text>
+      <text x="15" y="191" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11">• <tspan font-weight="700">Color:</tspan> White, Silver, Golden</text>
+      <text x="15" y="215" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">The "Queen of Pearls" — highest ticket value.</text>
+    </g>
+
+    <!-- Tahitian -->
+    <g transform="translate(510, 0)">
+      <rect width="235" height="240" rx="8" fill="#1E293B" stroke="#10B981" stroke-width="1.5"/>
+      <circle cx="117" cy="55" r="32" fill="#1E293B" stroke="#34D399" stroke-width="2"/>
+      <circle cx="110" cy="48" r="8" fill="#34D399" fill-opacity="0.3"/>
+      <text x="117" y="110" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="15" font-weight="700" text-anchor="middle">Tahitian Pearls</text>
+      <text x="117" y="128" fill="#34D399" font-family="system-ui, sans-serif" font-size="11" font-weight="600" text-anchor="middle">French Polynesia | P. margaritifera</text>
+
+      <text x="15" y="155" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11">• <tspan font-weight="700">Size:</tspan> 8mm – 18mm (avg 9-12mm)</text>
+      <text x="15" y="173" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11">• <tspan font-weight="700">Luster:</tspan> Metallic, shimmering overtone</text>
+      <text x="15" y="191" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11">• <tspan font-weight="700">Color:</tspan> Peacock green, aubergine, charcoal</text>
+      <text x="15" y="215" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">Naturally black (never dyed when fine).</text>
+    </g>
+
+    <!-- Freshwater -->
+    <g transform="translate(765, 0)">
+      <rect width="235" height="240" rx="8" fill="#1E293B" stroke="#A855F7" stroke-width="1.5"/>
+      <circle cx="117" cy="55" r="26" fill="#FAF5FF" stroke="#C084FC" stroke-width="1"/>
+      <text x="117" y="110" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="15" font-weight="700" text-anchor="middle">Freshwater Pearls</text>
+      <text x="117" y="128" fill="#C084FC" font-family="system-ui, sans-serif" font-size="11" font-weight="600" text-anchor="middle">China | Hyriopsis cumingii</text>
+
+      <text x="15" y="155" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11">• <tspan font-weight="700">Size:</tspan> 2mm – 15mm (avg 6-9mm)</text>
+      <text x="15" y="173" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11">• <tspan font-weight="700">Luster:</tspan> Soft, porcelain finish</text>
+      <text x="15" y="191" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11">• <tspan font-weight="700">Structure:</tspan> 100% solid nacre (no bead)</text>
+      <text x="15" y="215" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">Extreme durability at accessible price points.</text>
+    </g>
+  </g>
+
+  <!-- Bottom 7 Value Factors + Care -->
+  <g transform="translate(50, 390)">
+    <rect width="1000" height="270" rx="10" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+
+    <!-- 7 Factors Grid -->
+    <g transform="translate(25, 20)">
+      <text x="0" y="15" fill="#FBBF24" font-family="system-ui, sans-serif" font-size="14" font-weight="700">GIA 7 PEARL VALUE FACTORS</text>
+
+      <g transform="translate(0, 30)">
+        <!-- 1 -->
+        <rect x="0" y="0" width="125" height="90" rx="6" fill="#0F172A"/>
+        <text x="10" y="22" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="11" font-weight="700">1. SIZE</text>
+        <text x="10" y="42" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">Larger diameter</text>
+        <text x="10" y="58" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">exponentially</text>
+        <text x="10" y="74" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">increases value.</text>
+
+        <!-- 2 -->
+        <rect x="135" y="0" width="125" height="90" rx="6" fill="#0F172A"/>
+        <text x="10" y="22" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="11" font-weight="700">2. SHAPE</text>
+        <text x="10" y="42" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">Round &gt; Near-Round</text>
+        <text x="10" y="58" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">&gt; Oval &gt; Drop &gt;</text>
+        <text x="10" y="74" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">Button &gt; Baroque.</text>
+
+        <!-- 3 -->
+        <rect x="270" y="0" width="125" height="90" rx="6" fill="#0F172A"/>
+        <text x="10" y="22" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="11" font-weight="700">3. COLOR</text>
+        <text x="10" y="42" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">Bodycolor +</text>
+        <text x="10" y="58" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">Overtone +</text>
+        <text x="10" y="74" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">Orient (iridescence).</text>
+
+        <!-- 4 -->
+        <rect x="405" y="0" width="125" height="90" rx="6" fill="#0F172A"/>
+        <text x="10" y="22" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="11" font-weight="700">4. LUSTER</text>
+        <text x="10" y="42" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">Most important:</text>
+        <text x="10" y="58" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">Excellent (sharp)</text>
+        <text x="10" y="74" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">to Poor (dim/chalky).</text>
+
+        <!-- 5 -->
+        <rect x="540" y="0" width="125" height="90" rx="6" fill="#0F172A"/>
+        <text x="10" y="22" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="11" font-weight="700">5. SURFACE</text>
+        <text x="10" y="42" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">Clean to Heavily</text>
+        <text x="10" y="58" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">Blemished (pits,</text>
+        <text x="10" y="74" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">bumps, cracks).</text>
+
+        <!-- 6 -->
+        <rect x="675" y="0" width="125" height="90" rx="6" fill="#0F172A"/>
+        <text x="10" y="22" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="11" font-weight="700">6. NACRE</text>
+        <text x="10" y="42" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">Thickness &amp;</text>
+        <text x="10" y="58" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">quality. Thin</text>
+        <text x="10" y="74" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">nacre blinks bead.</text>
+
+        <!-- 7 -->
+        <rect x="810" y="0" width="135" height="90" rx="6" fill="#0F172A"/>
+        <text x="10" y="22" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="11" font-weight="700">7. MATCHING</text>
+        <text x="10" y="42" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">Uniformity of size,</text>
+        <text x="10" y="58" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">color &amp; luster</text>
+        <text x="10" y="74" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">across full strand.</text>
+      </g>
+    </g>
+
+    <!-- Floor Care & Handling Rule -->
+    <g transform="translate(25, 160)">
+      <rect width="950" height="85" rx="6" fill="#0F172A" stroke="#E11D48" stroke-width="1"/>
+      <text x="20" y="24" fill="#FDA4AF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">FLOOR CLIENT CARE MANTRA: "LAST THING ON, FIRST THING OFF"</text>
+      <text x="20" y="46" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11">• Organic calcium carbonate (aragonite) has Mohs 2.5–4.0 hardness. Easily dissolved by perfumes, hairspray, acids, and chlorine.</text>
+      <text x="20" y="66" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11">• Clean ONLY with damp soft cloth. Store flat in chamois pouch (never hang on hook; silk threads stretch). Restring every 12–24 months.</text>
+    </g>
+  </g>
+</svg>

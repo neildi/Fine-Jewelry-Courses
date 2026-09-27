@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">Executive Weekly Store Dashboard: Fine Jewelry Performance</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">Store 104 — Week 42 Performance Summary (Sales vs Plan, Conversion, ATV, and Staff Leaderboard)</text>
+
+  <!-- Top Metrics Bar -->
+  <g transform="translate(50, 95)">
+    <!-- Metric 1: Total Sales -->
+    <rect x="0" y="0" width="235" height="85" rx="6" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+    <text x="15" y="25" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#94A3B8">WEEKLY SALES</text>
+    <text x="15" y="55" font-family="Inter, -apple-system, sans-serif" font-size="22" font-weight="bold" fill="#10B981">$184,500</text>
+    <text x="15" y="75" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#10B981">▲ 108.5% of Plan ($170k)</text>
+
+    <!-- Metric 2: Conversion -->
+    <rect x="255" y="0" width="235" height="85" rx="6" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+    <text x="270" y="25" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#94A3B8">STORE CONVERSION</text>
+    <text x="270" y="55" font-family="Inter, -apple-system, sans-serif" font-size="22" font-weight="bold" fill="#38BDF8">16.4%</text>
+    <text x="270" y="75" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#38BDF8">▲ +1.8% vs LY (14.6%)</text>
+
+    <!-- Metric 3: ATV -->
+    <rect x="510" y="0" width="235" height="85" rx="6" fill="#161B22" stroke="#F59E0B" stroke-width="1.5"/>
+    <text x="525" y="25" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#94A3B8">AVERAGE TICKET (ATV)</text>
+    <text x="525" y="55" font-family="Inter, -apple-system, sans-serif" font-size="22" font-weight="bold" fill="#F59E0B">$3,481</text>
+    <text x="525" y="75" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#F59E0B">Plan: $3,200 (53 Sales)</text>
+
+    <!-- Metric 4: UPT & Margin -->
+    <rect x="765" y="0" width="235" height="85" rx="6" fill="#161B22" stroke="#EC4899" stroke-width="1.5"/>
+    <text x="780" y="25" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#94A3B8">GROSS MARGIN %</text>
+    <text x="780" y="55" font-family="Inter, -apple-system, sans-serif" font-size="22" font-weight="bold" fill="#EC4899">52.3%</text>
+    <text x="780" y="75" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#EC4899">UPT: 1.34 Units/Sale</text>
+  </g>
+
+  <!-- Middle: Associate Leaderboard & Category Breakdown -->
+  <g transform="translate(50, 200)">
+    <!-- Associate Table -->
+    <rect x="0" y="0" width="580" height="290" rx="8" fill="#161B22" stroke="#334155"/>
+    <rect x="0" y="0" width="580" height="32" rx="8" fill="#1E293B"/>
+    <text x="20" y="22" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8">SALES CONSULTANT SCORECARD</text>
+
+    <g transform="translate(15, 40)">
+      <!-- Table Header -->
+      <text x="10" y="20" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#94A3B8">CONSULTANT</text>
+      <text x="170" y="20" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#94A3B8">SALES ($)</text>
+      <text x="270" y="20" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#94A3B8">% PLAN</text>
+      <text x="350" y="20" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#94A3B8">CONV %</text>
+      <text x="440" y="20" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#94A3B8">ATV</text>
+
+      <!-- Row 1 -->
+      <rect x="0" y="30" width="550" height="36" rx="4" fill="#0F172A"/>
+      <text x="10" y="53" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F3F4F6">1. Sarah Jenkins</text>
+      <text x="170" y="53" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#10B981">$64,200</text>
+      <text x="270" y="53" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#10B981">128%</text>
+      <text x="350" y="53" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">21.2%</text>
+      <text x="440" y="53" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">$4,280</text>
+
+      <!-- Row 2 -->
+      <rect x="0" y="70" width="550" height="36" rx="4" fill="#161B22"/>
+      <text x="10" y="93" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F3F4F6">2. Michael Chang</text>
+      <text x="170" y="93" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#10B981">$48,100</text>
+      <text x="270" y="93" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#10B981">114%</text>
+      <text x="350" y="93" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">17.5%</text>
+      <text x="440" y="93" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">$3,700</text>
+
+      <!-- Row 3 -->
+      <rect x="0" y="110" width="550" height="36" rx="4" fill="#0F172A"/>
+      <text x="10" y="133" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F3F4F6">3. Elena Rostova</text>
+      <text x="170" y="133" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F59E0B">$42,800</text>
+      <text x="270" y="133" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#F59E0B">95%</text>
+      <text x="350" y="133" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">15.1%</text>
+      <text x="440" y="133" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">$3,057</text>
+
+      <!-- Row 4 -->
+      <rect x="0" y="150" width="550" height="36" rx="4" fill="#161B22"/>
+      <text x="10" y="173" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F3F4F6">4. David Vance</text>
+      <text x="170" y="173" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#EF4444">$29,400</text>
+      <text x="270" y="173" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#EF4444">78%</text>
+      <text x="350" y="173" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#FCA5A5">11.8%</text>
+      <text x="440" y="173" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">$2,450</text>
+
+      <!-- Coaching Callout -->
+      <rect x="0" y="195" width="550" height="42" rx="4" fill="#2A1215" stroke="#EF4444"/>
+      <text x="10" y="221" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FECACA">Coaching Priority: David Vance — Conversion miss (11.8%). Coach on 1st 90s discovery.</text>
+    </g>
+
+    <!-- Category Mix Box -->
+    <rect x="605" y="0" width="395" height="290" rx="8" fill="#161B22" stroke="#334155"/>
+    <rect x="605" y="0" width="395" height="32" rx="8" fill="#1E293B"/>
+    <text x="625" y="22" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#10B981">CATEGORY SALES BREAKDOWN</text>
+
+    <g transform="translate(625, 50)">
+      <text x="0" y="20" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F3F4F6">Bridal &amp; Engagement</text>
+      <text x="260" y="20" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#38BDF8">$88,500 (48%)</text>
+      <rect x="0" y="28" width="350" height="10" rx="3" fill="#334155"/>
+      <rect x="0" y="28" width="168" height="10" rx="3" fill="#38BDF8"/>
+
+      <text x="0" y="65" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F3F4F6">Diamond Fashion &amp; Gold</text>
+      <text x="260" y="65" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#10B981">$55,300 (30%)</text>
+      <rect x="0" y="73" width="350" height="10" rx="3" fill="#334155"/>
+      <rect x="0" y="73" width="105" height="10" rx="3" fill="#10B981"/>
+
+      <text x="0" y="110" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F3F4F6">Luxury Timepieces</text>
+      <text x="260" y="110" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F59E0B">$24,000 (13%)</text>
+      <rect x="0" y="118" width="350" height="10" rx="3" fill="#334155"/>
+      <rect x="0" y="118" width="45" height="10" rx="3" fill="#F59E0B"/>
+
+      <text x="0" y="155" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F3F4F6">Custom &amp; Repair Services</text>
+      <text x="260" y="155" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#EC4899">$16,700 (9%)</text>
+      <rect x="0" y="163" width="350" height="10" rx="3" fill="#334155"/>
+      <rect x="0" y="163" width="31" height="10" rx="3" fill="#EC4899"/>
+
+      <text x="0" y="210" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">Total Gross Margin Rate: 52.3% (Target: 50.0%)</text>
+    </g>
+  </g>
+
+  <!-- Bottom Takeaway -->
+  <g transform="translate(50, 510)">
+    <rect x="0" y="0" width="1000" height="120" rx="8" fill="#1E293B"/>
+    <text x="20" y="28" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8">STORE MANAGER ACTION ITEMS FOR WEEK 43:</text>
+    <text x="20" y="55" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">1. Run 15-minute morning huddle on diamond studs attach to lift UPT from 1.34 to 1.45.</text>
+    <text x="20" y="78" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">2. Pair David Vance with Sarah Jenkins on Saturday floor shifts for discovery shadow coaching.</text>
+  </g>
+</svg>

@@ -57,6 +57,12 @@ This also matters for plain comparison shopping. Diamond retailers and independe
 
 ## Two labs, two philosophies, one goal
 
+<figure>
+  <img src="../assets/c1-m03-ags-vs-gia-conversion-scale.svg" alt="AGS 0-10 Scale vs GIA Nomenclature" width="100%" />
+  <figcaption><strong>Figure 3.1:</strong> AGS 0–10 Numerical Scale vs. GIA Grading Nomenclature — Direct conversion matrix for Cut, Color, and Clarity grades.</figcaption>
+</figure>
+
+
 GIA (Gemological Institute of America) was established in 1931 and created the 4Cs and the letter-and-number grading language most of the trade uses by default: D-to-Z color, FL-to-I3 clarity, and Excellent-to-Poor cut. AGS (American Gem Society) is a separate, also nonprofit, membership and grading organization, founded in 1934 by Robert M. Shipley, the same gemologist who founded GIA three years earlier. AGS Laboratories introduced diamond cut grading on its certificates in 1996, using a 0-to-10 numerical scale where 0 is the highest possible grade and 10 is the lowest, applied to cut, color, and clarity alike. AGS was built specifically to protect jewelry buyers from fraud and false advertising, and its numerical cut-grading system was one of the first to precisely measure how well a diamond was shaped, a factor the letter systems of the era did not directly address.
 
 Both labs assess the same underlying physical facts about a stone. They simply describe those facts using different notation, and AGS's cut methodology in particular goes further than GIA's in one specific way worth knowing: AGS pioneered "light performance" grading, measuring brightness, fire, and contrast, using ray-tracing and physical scans rather than relying only on proportion measurements. In 2022, GIA acquired this light-performance grading technology from AGS and began incorporating it into its own reporting as an AGS Ideal Report addendum to a standard GIA grading report, which is a sign of how much the two labs' methods have converged even while their labels stayed different.

@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">Lapsed Client Re-Engagement Ladder: Systematic 4-Stage Winback Protocol</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">Reactivating silent past clients without awkwardness, discounting, or aggressive sales pitches</text>
+
+  <!-- Step 1: 90 Days -->
+  <rect x="50" y="110" width="230" height="340" rx="8" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+  <rect x="50" y="110" width="230" height="36" rx="8" fill="#1E293B"/>
+  <text x="65" y="134" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#38BDF8">STAGE 1: 90-Day Silence</text>
+  
+  <text x="65" y="170" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F3F4F6">The Casual Touchpoint</text>
+  <text x="65" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Goal: Keep name warm</text>
+  <text x="65" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• No product selling</text>
+  <text x="65" y="235" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Life interest share</text>
+  
+  <rect x="60" y="260" width="210" height="175" rx="6" fill="#0F172A"/>
+  <text x="70" y="285" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#38BDF8">Recommended Script:</text>
+  <text x="70" y="310" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">"Hi David, was thinking of</text>
+  <text x="70" y="328" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">that vintage Chronograph</text>
+  <text x="70" y="346" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">we talked about. Saw this</text>
+  <text x="70" y="364" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">article on dial restorations</text>
+  <text x="70" y="382" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">and thought of you!"</text>
+
+  <!-- Step 2: 180 Days -->
+  <rect x="310" y="110" width="230" height="340" rx="8" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+  <rect x="310" y="110" width="230" height="36" rx="8" fill="#1E293B"/>
+  <text x="325" y="134" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#10B981">STAGE 2: 180-Day Silence</text>
+  
+  <text x="325" y="170" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F3F4F6">Service &amp; Spa Value</text>
+  <text x="325" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Goal: Re-enter store</text>
+  <text x="325" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Complimentary care</text>
+  <text x="325" y="235" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• 6-month prong check</text>
+  
+  <rect x="320" y="260" width="210" height="175" rx="6" fill="#0F172A"/>
+  <text x="330" y="285" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Recommended Script:</text>
+  <text x="330" y="310" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">"Hi Claire, it's been 6</text>
+  <text x="330" y="328" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">months since you took home</text>
+  <text x="330" y="346" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">your diamond necklace. Pop</text>
+  <text x="330" y="364" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">in for our master ultrasonic</text>
+  <text x="330" y="382" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">spa &amp; espresso on us!"</text>
+
+  <!-- Step 3: 270 Days -->
+  <rect x="570" y="110" width="230" height="340" rx="8" fill="#161B22" stroke="#F59E0B" stroke-width="1.5"/>
+  <rect x="570" y="110" width="230" height="36" rx="8" fill="#1E293B"/>
+  <text x="585" y="134" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#F59E0B">STAGE 3: 270-Day Silence</text>
+  
+  <text x="585" y="170" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F3F4F6">VIP Private Preview</text>
+  <text x="585" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Goal: Spark fresh curiosity</text>
+  <text x="585" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Vault trunk show invite</text>
+  <text x="585" y="235" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• High-value aesthetic match</text>
+  
+  <rect x="580" y="260" width="210" height="175" rx="6" fill="#0F172A"/>
+  <text x="590" y="285" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Recommended Script:</text>
+  <text x="590" y="310" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">"Hi Arthur, our Italian high-</text>
+  <text x="590" y="328" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">jewelry trunk show arrives</text>
+  <text x="590" y="346" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">next Thursday. I reserved</text>
+  <text x="590" y="364" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">2 private preview slots for</text>
+  <text x="590" y="382" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">our top collectors."</text>
+
+  <!-- Step 4: 365+ Days -->
+  <rect x="830" y="110" width="220" height="340" rx="8" fill="#161B22" stroke="#EC4899" stroke-width="1.5"/>
+  <rect x="830" y="110" width="220" height="36" rx="8" fill="#1E293B"/>
+  <text x="845" y="134" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#EC4899">STAGE 4: 365+ Days</text>
+  
+  <text x="845" y="170" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F3F4F6">Handwritten Sincere Note</text>
+  <text x="845" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Goal: Reopen relationship</text>
+  <text x="845" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Physical luxury card</text>
+  <text x="845" y="235" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Mailed with stamp</text>
+  
+  <rect x="840" y="260" width="200" height="175" rx="6" fill="#0F172A"/>
+  <text x="850" y="285" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#EC4899">Recommended Card:</text>
+  <text x="850" y="310" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">"Happy 1-Year Anniversary!</text>
+  <text x="850" y="328" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">It was such an honor helping</text>
+  <text x="850" y="346" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">you choose the ring. May</text>
+  <text x="850" y="364" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">this milestone be filled</text>
+  <text x="850" y="382" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">with joy. — Julian"</text>
+
+  <!-- Diagnostic Checklist Below -->
+  <rect x="50" y="475" width="1000" height="170" rx="8" fill="#1E293B"/>
+  <text x="70" y="505" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#38BDF8">WHY CLIENTS LAPSE &amp; HOW TO FIX THE ROOT CAUSE:</text>
+  <text x="70" y="535" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">1. <strong fill="#F3F4F6">Consultant Neglect (68% of lapsed clients):</strong> They didn't leave because they were angry; they felt forgotten after the sale.</text>
+  <text x="70" y="560" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">2. <strong fill="#F3F4F6">Service Failure (14%):</strong> A delayed repair or stiff counter interaction. <em>Solution: Call directly, own the error with grace, offer white-glove resolution.</em></text>
+  <text x="70" y="585" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">3. <strong fill="#F3F4F6">Consultant Turnover (18%):</strong> Original salesperson left. <em>Solution: Reassign to a senior advisor with a formal warm introduction letter.</em></text>
+</svg>

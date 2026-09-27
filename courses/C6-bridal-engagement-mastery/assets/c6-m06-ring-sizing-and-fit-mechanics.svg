@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">Ring Sizing, Fit &amp; Comfort: Getting It Right the First Time</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">Knuckle anatomy, seasonal biological fluctuations, comfort-fit dome profiles, and spin remedies</text>
+
+  <!-- Left: Sizing Mechanics & Knuckle Types -->
+  <g transform="translate(50, 100)">
+    <rect x="0" y="0" width="480" height="380" rx="8" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+    <rect x="0" y="0" width="480" height="36" rx="8" fill="#1E293B"/>
+    <text x="15" y="24" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#38BDF8">ANATOMY OF RING FIT &amp; KNUCKLE VARIATIONS</text>
+
+    <!-- Case A: Conical Finger -->
+    <rect x="15" y="50" width="450" height="95" rx="6" fill="#0F172A" stroke="#334155"/>
+    <text x="30" y="75" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#38BDF8">A. Conical Finger (Base larger than knuckle)</text>
+    <text x="30" y="98" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Finger tapers outward toward hand base</text>
+    <text x="30" y="118" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Risk: Ring can slide off easily when hands are cold or wet</text>
+    <text x="30" y="136" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#38BDF8">Fitting Rule: Snug fit at base; should require a gentle twist to remove</text>
+
+    <!-- Case B: Prominent Knuckle -->
+    <rect x="15" y="155" width="450" height="105" rx="6" fill="#0F172A" stroke="#334155"/>
+    <text x="30" y="180" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F59E0B">B. Prominent Knuckle (Knuckle wider than base)</text>
+    <text x="30" y="203" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Sized to clear knuckle, then spins loosely at the base</text>
+    <text x="30" y="223" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Heavy center diamond causes top-heavy flop</text>
+    <text x="30" y="245" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Fitting Remedies: Sizing beads, horseshoe spring, or Euro-shank</text>
+
+    <!-- Case C: Band Width Adjustment -->
+    <rect x="15" y="270" width="450" height="95" rx="6" fill="#0F172A" stroke="#334155"/>
+    <text x="30" y="295" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#10B981">C. Shank Width Compensation</text>
+    <text x="30" y="318" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Narrow shank (1.5mm–2mm): Fits true to size</text>
+    <text x="30" y="338" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Wide band (6mm+ or stacked set): <strong fill="#10B981">Must size up 1/4 to 1/2 size</strong></text>
+  </g>
+
+  <!-- Right: Comfort Fit vs Standard + Environmental -->
+  <g transform="translate(560, 100)">
+    <rect x="0" y="0" width="490" height="380" rx="8" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+    <rect x="0" y="0" width="490" height="36" rx="8" fill="#1E293B"/>
+    <text x="15" y="24" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#10B981">STANDARD FIT vs. COMFORT FIT PROFILE</text>
+
+    <!-- Cross Section Comparison -->
+    <g transform="translate(20, 50)">
+      <!-- Standard -->
+      <rect x="0" y="0" width="215" height="150" rx="6" fill="#0F172A" stroke="#334155"/>
+      <text x="15" y="25" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#CBD5E1">Standard Flat Fit</text>
+      <!-- Diagram -->
+      <rect x="30" y="45" width="150" height="20" rx="2" fill="#334155" stroke="#94A3B8"/>
+      <text x="15" y="90" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Flat interior surface</text>
+      <text x="15" y="110" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Edges create skin friction</text>
+      <text x="15" y="130" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">Feels tighter over knuckle</text>
+
+      <!-- Comfort Fit -->
+      <rect x="235" y="0" width="215" height="150" rx="6" fill="#0F172A" stroke="#10B981"/>
+      <text x="250" y="25" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#10B981">Comfort Fit (Domed)</text>
+      <!-- Diagram -->
+      <path d="M 265 45 Q 340 55, 415 45 L 415 65 Q 340 65, 265 65 Z" fill="#064E3B" stroke="#10B981"/>
+      <text x="250" y="90" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#D1FAE5">• Convex rounded interior</text>
+      <text x="250" y="110" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#D1FAE5">• Glides smoothly over knuckle</text>
+      <text x="250" y="130" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Standard for men's bands</text>
+    </g>
+
+    <!-- Seasonal & Biological Fluctuations -->
+    <g transform="translate(20, 220)">
+      <rect x="0" y="0" width="450" height="140" rx="6" fill="#0F172A"/>
+      <text x="15" y="25" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F59E0B">BIOLOGICAL SIZING VARIABLES TO EXPLAIN:</text>
+      <text x="15" y="50" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• <strong fill="#F3F4F6">Temperature:</strong> Fingers expand up to 1/2 size in hot summer / humidity</text>
+      <text x="15" y="70" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• <strong fill="#F3F4F6">Time of Day:</strong> Hands are smallest in morning; largest in late afternoon</text>
+      <text x="15" y="90" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• <strong fill="#F3F4F6">Dominant Hand:</strong> Dominant hand ring finger is almost always 1/4–1/2 size larger</text>
+      <text x="15" y="115" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Advise client to measure at room temperature during midday</text>
+    </g>
+  </g>
+
+  <!-- Bottom Best Practice Banner -->
+  <g transform="translate(50, 500)">
+    <rect x="0" y="0" width="1000" height="130" rx="8" fill="#1E293B"/>
+    <text x="20" y="30" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8">SECRECY SIZING HACKS FOR SURPRISE PROPOSALS:</text>
+    <text x="20" y="55" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">1. <strong fill="#10B981">Borrow an Existing Ring:</strong> Ensure it is worn on the left ring finger (not middle or right hand).</text>
+    <text x="20" y="75" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">2. <strong fill="#38BDF8">The Soap/Candle Impression:</strong> Press her ring into a bar of soap, or trace inside circumference on paper.</text>
+    <text x="20" y="95" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#F59E0B">3. <strong fill="#F59E0B">The Best Friend / Sister Ally:</strong> Have her try on a friend's engagement ring casually during lunch.</text>
+  </g>
+</svg>

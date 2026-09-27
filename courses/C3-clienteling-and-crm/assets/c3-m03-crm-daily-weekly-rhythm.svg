@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">CRM Daily &amp; Weekly Operating Rhythm: The 15-Minute Morning Engine</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">Systematic daily habits that generate 60–75% of repeat fine jewelry book sales</text>
+
+  <!-- 15-Min Daily Flow Box -->
+  <rect x="50" y="100" width="1000" height="260" rx="8" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+  <rect x="50" y="100" width="1000" height="36" rx="8" fill="#1E293B"/>
+  <text x="70" y="124" font-family="Inter, -apple-system, sans-serif" font-size="15" font-weight="bold" fill="#38BDF8">THE 15-MINUTE MORNING CRM ROUTINE (Pre-Store Opening: 9:45 – 10:00 AM)</text>
+
+  <!-- Step 1 -->
+  <rect x="70" y="150" width="215" height="185" rx="6" fill="#0F172A" stroke="#334155" stroke-width="1"/>
+  <circle cx="100" cy="175" r="14" fill="#38BDF8"/>
+  <text x="96" y="180" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#0F172A">1</text>
+  <text x="125" y="180" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#F3F4F6">Milestone Alerts</text>
+  <text x="85" y="210" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">• Review Birthdays</text>
+  <text x="85" y="230" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">• Review Anniversaries</text>
+  <text x="85" y="250" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#94A3B8">(Occurring in 4–6 wks)</text>
+  <text x="85" y="280" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#38BDF8">Target: 3 Partner Calls/Texts</text>
+
+  <!-- Step 2 -->
+  <rect x="310" y="150" width="215" height="185" rx="6" fill="#0F172A" stroke="#334155" stroke-width="1"/>
+  <circle cx="340" cy="175" r="14" fill="#10B981"/>
+  <text x="336" y="180" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#0F172A">2</text>
+  <text x="365" y="180" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#F3F4F6">2-2-2 Cadence</text>
+  <text x="325" y="210" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">• Day 2 Thank You SMS</text>
+  <text x="325" y="230" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">• Wk 2 Fit/Reaction Call</text>
+  <text x="325" y="250" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">• Mo 2 Spa Invitation</text>
+  <text x="325" y="280" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#10B981">Target: 4 Touchpoints</text>
+
+  <!-- Step 3 -->
+  <rect x="550" y="150" width="215" height="185" rx="6" fill="#0F172A" stroke="#334155" stroke-width="1"/>
+  <circle cx="580" cy="175" r="14" fill="#F59E0B"/>
+  <text x="576" y="180" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#0F172A">3</text>
+  <text x="605" y="180" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#F3F4F6">Wishlist Match</text>
+  <text x="565" y="210" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">• Check New Intake Memos</text>
+  <text x="565" y="230" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">• Match fresh gems to VIPs</text>
+  <text x="565" y="250" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#94A3B8">• Snap 5-sec macro video</text>
+  <text x="565" y="280" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#F59E0B">Target: 2 Private Previews</text>
+
+  <!-- Step 4 -->
+  <rect x="790" y="150" width="235" height="185" rx="6" fill="#0F172A" stroke="#334155" stroke-width="1"/>
+  <circle cx="820" cy="175" r="14" fill="#EC4899"/>
+  <text x="816" y="180" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#0F172A">4</text>
+  <text x="845" y="180" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#F3F4F6">Service Follow-Up</text>
+  <text x="805" y="210" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">• Repair / Custom ready</text>
+  <text x="805" y="230" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">• Appraisal delivery alerts</text>
+  <text x="805" y="250" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#94A3B8">• Special order arrivals</text>
+  <text x="805" y="280" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#EC4899">Target: High-Touch Service</text>
+
+  <!-- Weekly Rhythm -->
+  <rect x="50" y="380" width="1000" height="260" rx="8" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+  <rect x="50" y="380" width="1000" height="36" rx="8" fill="#1E293B"/>
+  <text x="70" y="404" font-family="Inter, -apple-system, sans-serif" font-size="15" font-weight="bold" fill="#10B981">WEEKLY STRATEGIC CLIENTELING CADENCE</text>
+
+  <g transform="translate(70, 435)">
+    <!-- Monday -->
+    <rect x="0" y="0" width="180" height="180" rx="6" fill="#0F172A" stroke="#334155"/>
+    <text x="15" y="25" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8">MONDAY</text>
+    <text x="15" y="55" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">Weekend Traffic Review</text>
+    <text x="15" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Log all weekend walk-ins</text>
+    <text x="15" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Complete profile cards</text>
+    <text x="15" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Tag undecided bridal leads</text>
+    <text x="15" y="150" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#38BDF8">Action: Pipeline audit</text>
+
+    <!-- Wednesday -->
+    <rect x="200" y="0" width="180" height="180" rx="6" fill="#0F172A" stroke="#334155"/>
+    <text x="215" y="25" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#10B981">WEDNESDAY</text>
+    <text x="215" y="55" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">VIC Private Curation</text>
+    <text x="215" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Top 20 client book review</text>
+    <text x="215" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Preview new collection</text>
+    <text x="215" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Schedule salon viewings</text>
+    <text x="215" y="150" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Action: 5 VIP touches</text>
+
+    <!-- Thursday -->
+    <rect x="400" y="0" width="180" height="180" rx="6" fill="#0F172A" stroke="#334155"/>
+    <text x="415" y="25" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F59E0B">THURSDAY</text>
+    <text x="415" y="55" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">Lapsed Book Reactivation</text>
+    <text x="415" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Filter 180+ day silence</text>
+    <text x="415" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Complimentary prong check</text>
+    <text x="415" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Pearl restringing invite</text>
+    <text x="415" y="150" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Action: 5 Win-backs</text>
+
+    <!-- Friday -->
+    <rect x="600" y="0" width="180" height="180" rx="6" fill="#0F172A" stroke="#334155"/>
+    <text x="615" y="25" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#EC4899">FRIDAY</text>
+    <text x="615" y="55" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">Weekend Staging</text>
+    <text x="615" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Confirm appts on calendar</text>
+    <text x="615" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Pull trays in advance</text>
+    <text x="615" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Prep personalized cards</text>
+    <text x="615" y="150" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#EC4899">Action: Staged trays</text>
+
+    <!-- Sunday / EOW -->
+    <rect x="800" y="0" width="160" height="180" rx="6" fill="#0F172A" stroke="#334155"/>
+    <text x="815" y="25" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#A855F7">SUNDAY</text>
+    <text x="815" y="55" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">Metrics &amp; Scorecard</text>
+    <text x="815" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Total client outreach: 50</text>
+    <text x="815" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Appointments held: 6</text>
+    <text x="815" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Sales from CRM: $42,000</text>
+    <text x="815" y="150" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#A855F7">Goal: 65% Book Sales</text>
+  </g>
+</svg>

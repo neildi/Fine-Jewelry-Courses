@@ -18,6 +18,12 @@ Deferred-interest store financing is related to, but distinct from, Buy Now, Pay
 
 ## Handling a Declined Application
 
+<figure>
+  <img src="../assets/c5-m02-pos-financing-application-sop.svg" alt="POS Financing Application SOP" width="100%" />
+  <figcaption><strong>Figure 2.1:</strong> Point-of-Sale Financing Protocol — 5-step private compliance flow (Discreet Bridge, Tablet Hand-Off, Prequalification, TILA Disclosures, Dignified Decline).</figcaption>
+</figure>
+
+
 Not every financing application is approved, and how you handle a decline matters both for the customer relationship and for compliance. When an application comes back declined:
 
 - Don't guess at or speculate about the specific reason for the decline in front of the customer — the financing partner, not the store, determines and communicates the specific adverse-action reasons required by law.

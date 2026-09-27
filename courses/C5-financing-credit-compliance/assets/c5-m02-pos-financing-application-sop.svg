@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">Point-of-Sale Financing Protocol: Privacy &amp; Compliance SOP</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">The 5-step discreet, dignified process for executing credit applications at the counter without awkwardness</text>
+
+  <!-- 5-Step Process Flow -->
+  <g transform="translate(50, 100)">
+    <!-- Step 1 -->
+    <rect x="0" y="0" width="185" height="260" rx="8" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+    <circle cx="92" cy="35" r="18" fill="#38BDF8"/>
+    <text x="92" y="41" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#0F172A" text-anchor="middle">1</text>
+    <text x="92" y="75" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6" text-anchor="middle">Discreet Bridge</text>
+    <text x="15" y="105" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Introduce financing as a</text>
+    <text x="15" y="125" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  standard smart cash flow</text>
+    <text x="15" y="145" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  management tool.</text>
+    <text x="15" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Never assume inability to pay</text>
+    <text x="15" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Offer 0% promo option</text>
+    <text x="15" y="230" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#38BDF8">Tone: Dignified &amp; Normal</text>
+
+    <!-- Step 2 -->
+    <rect x="205" y="0" width="185" height="260" rx="8" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+    <circle cx="297" cy="35" r="18" fill="#10B981"/>
+    <text x="297" y="41" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#0F172A" text-anchor="middle">2</text>
+    <text x="297" y="75" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6" text-anchor="middle">Tablet Hand-Off</text>
+    <text x="220" y="105" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Hand sanitized tablet</text>
+    <text x="220" y="125" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  directly to client.</text>
+    <text x="220" y="145" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Never ask for SSN or</text>
+    <text x="220" y="165" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  income aloud across floor.</text>
+    <text x="220" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Step back 3 paces for</text>
+    <text x="220" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">  complete visual privacy.</text>
+    <text x="220" y="245" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#10B981">Privacy: Strict Compliance</text>
+
+    <!-- Step 3 -->
+    <rect x="410" y="0" width="185" height="260" rx="8" fill="#161B22" stroke="#F59E0B" stroke-width="1.5"/>
+    <circle cx="502" cy="35" r="18" fill="#F59E0B"/>
+    <text x="502" y="41" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#0F172A" text-anchor="middle">3</text>
+    <text x="502" y="75" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6" text-anchor="middle">Prequalification</text>
+    <text x="425" y="105" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Run Soft Credit Pull</text>
+    <text x="425" y="125" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  first (no score impact).</text>
+    <text x="425" y="145" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Display approved credit</text>
+    <text x="425" y="165" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  limit to client privately.</text>
+    <text x="425" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Client formally accepts</text>
+    <text x="425" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">  prior to hard pull submit.</text>
+    <text x="425" y="245" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#F59E0B">Underwriting: Instant 30s</text>
+
+    <!-- Step 4 -->
+    <rect x="615" y="0" width="185" height="260" rx="8" fill="#161B22" stroke="#EC4899" stroke-width="1.5"/>
+    <circle cx="707" cy="35" r="18" fill="#EC4899"/>
+    <text x="707" y="41" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#0F172A" text-anchor="middle">4</text>
+    <text x="707" y="75" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6" text-anchor="middle">Disclosure Terms</text>
+    <text x="630" y="105" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• State Truth-in-Lending</text>
+    <text x="630" y="125" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  terms clearly.</text>
+    <text x="630" y="145" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Clarify monthly due date,</text>
+    <text x="630" y="165" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  promo period end date,</text>
+    <text x="630" y="185" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  and auto-pay setup.</text>
+    <text x="630" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Provide printed copy.</text>
+    <text x="630" y="245" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#EC4899">Legal: TILA Compliance</text>
+
+    <!-- Step 5 -->
+    <rect x="820" y="0" width="180" height="260" rx="8" fill="#161B22" stroke="#A855F7" stroke-width="1.5"/>
+    <circle cx="910" cy="35" r="18" fill="#A855F7"/>
+    <text x="910" y="41" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#0F172A" text-anchor="middle">5</text>
+    <text x="910" y="75" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6" text-anchor="middle">Decline Protocol</text>
+    <text x="835" y="105" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• IF DECLINED:</text>
+    <text x="835" y="125" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  Never express shock or</text>
+    <text x="835" y="145" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  embarrass the client.</text>
+    <text x="835" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">"The bank will mail a</text>
+    <text x="835" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">letter directly. We can split</text>
+    <text x="835" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">cards or do layaway!"</text>
+    <text x="835" y="245" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#A855F7">Grace: Save Relationship</text>
+  </g>
+
+  <!-- Verbatim Scripts Bottom Box -->
+  <g transform="translate(50, 390)">
+    <rect x="0" y="0" width="1000" height="240" rx="8" fill="#161B22" stroke="#334155"/>
+    <rect x="0" y="0" width="1000" height="32" rx="8" fill="#1E293B"/>
+    <text x="20" y="22" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#38BDF8">VERBATIM FLOOR SCRIPTS: HANDLING FINANCING WITH LUXURY ELEGANCE</text>
+
+    <!-- Script 1 -->
+    <rect x="20" y="50" width="465" height="170" rx="6" fill="#0F172A" stroke="#38BDF8" stroke-width="1"/>
+    <text x="35" y="75" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8">The Unsolicited Seamless Bridge</text>
+    <text x="35" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">"Most of our clients take advantage of our 12-month 0% interest</text>
+    <text x="35" y="118" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">plan so they can keep their investment capital in their accounts.</text>
+    <text x="35" y="136" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">It takes about 45 seconds on our private tablet to check approval</text>
+    <text x="35" y="154" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">without affecting your credit score. Shall we take a quick look?"</text>
+
+    <!-- Script 2 -->
+    <rect x="515" y="50" width="465" height="170" rx="6" fill="#0F172A" stroke="#10B981" stroke-width="1"/>
+    <text x="530" y="75" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#10B981">The Dignified Soft Decline Transition</text>
+    <text x="530" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">"It looks like the bank's automated algorithm needs additional</text>
+    <text x="530" y="118" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">verification, which they will send privately by mail. In the meantime,</text>
+    <text x="530" y="136" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">we can easily split the total across two personal credit cards, or</text>
+    <text x="530" y="154" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">place the piece on our custom 60-day vault layaway hold."</text>
+  </g>
+</svg>

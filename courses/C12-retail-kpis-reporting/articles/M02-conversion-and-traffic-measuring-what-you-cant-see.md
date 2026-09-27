@@ -14,6 +14,12 @@ For a store without budget for dedicated hardware, Google's "Popular Times" feat
 
 ## What Conversion Rate Should Actually Look Like in a Jewelry Store
 
+<figure>
+  <img src="../assets/c12-m02-traffic-conversion-funnel.svg" alt="Store Traffic and Conversion Funnel" width="100%" />
+  <figcaption><strong>Figure 2.1:</strong> Traffic &amp; Conversion Analytics — The 4-stage fine jewelry storefront funnel (Door Swings, Qualified Opportunities, Showcase Presentations, Closed Sales).</figcaption>
+</figure>
+
+
 A conversion rate that would be a five-alarm crisis in a grocery store (which typically converts 20 to 40 percent of visitors, since most people walking into a grocery store already intend to buy) is often a perfectly healthy number in fine jewelry retail, precisely because jewelry purchases involve far more browsing-without-buying, price research, and multi-visit decision journeys. One retail-benchmarking source specifically tracking luxury and jewelry retail places typical conversion in the 8 to 15 percent range, alongside average transaction values of $800 to $3,000 and units per transaction of 1.2 to 1.6 — numbers that reflect a category defined by low velocity and high ticket rather than high-volume, low-consideration purchasing. A manager who benchmarks their jewelry store's conversion rate against a general retail-industry average, without adjusting for category, will draw the wrong conclusion in either direction: alarmed by a rate that's actually normal for the category, or falsely reassured by a rate that's actually underperforming against comparable jewelry stores.
 
 ## Staff-Exclusion: A Small Detail That Changes the Number

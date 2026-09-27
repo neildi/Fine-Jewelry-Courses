@@ -67,6 +67,12 @@ Knowing that real companies received real warning letters over exactly this issu
 
 ## Natural, lab-grown, and simulant are three different categories
 
+<figure>
+  <img src="../assets/c1-m04-disclosure-decision-tree.svg" alt="Natural vs Lab-Grown vs Simulant Disclosure Decision Tree" width="100%" />
+  <figcaption><strong>Figure 4.1:</strong> Counter Disclosure Decision Tree — FTC mandatory terminology, physical/chemical origins, and presentation scripts for Natural, Lab-Grown, and Simulant stones.</figcaption>
+</figure>
+
+
 Keeping these three words straight is the whole job. Confusing any two of them with each other is the single most common source of client complaints in this area.
 
 | Category | What it physically is | Chemical and optical match to a mined diamond |

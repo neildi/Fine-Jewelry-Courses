@@ -6,6 +6,12 @@ A store manager who can't define conversion, ATV, or GMROI precisely can't diagn
 
 ## Conversion Rate: The Percentage That Explains Everything Else
 
+<figure>
+  <img src="../assets/c12-m01-retail-kpi-hierarchy-pyramid.svg" alt="Jewelry Retail KPI Cascade Hierarchy" width="100%" />
+  <figcaption><strong>Figure 1.1:</strong> Jewelry Retail KPI Cascade Hierarchy — Connecting top-line GMROI and margin dollars down to traffic, conversion %, ATV, and UPT floor drivers.</figcaption>
+</figure>
+
+
 Conversion rate measures how many of the people who walked into the store actually bought something. The formula: number of transactions divided by foot traffic (or visits) for the period, multiplied by 100. A store with 400 visitors and 60 transactions in a week is converting at 15 percent. Conversion is the single number most directly affected by staffing, floor coverage, and product knowledge — exactly the disciplines covered in this course's companion course, C11, on daily and weekly store operations. A manager who only tracks total sales and not conversion can be fooled by a week where higher foot traffic masks declining sales skill on the floor.
 
 ## Average Ticket (ATV) and Units Per Transaction (UPT)

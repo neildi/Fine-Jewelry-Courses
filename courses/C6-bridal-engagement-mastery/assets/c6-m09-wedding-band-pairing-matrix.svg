@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">Wedding Band &amp; Stacking Architecture: Pairing &amp; Metal Compatibility</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">Mastering flush-fit profiles, curved contours, chevron jackets, and metal galvanic hardness wear</text>
+
+  <!-- 3 Band Fit Categories Top -->
+  <g transform="translate(50, 100)">
+    <!-- Flush Fit -->
+    <rect x="0" y="0" width="315" height="340" rx="8" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+    <rect x="0" y="0" width="315" height="36" rx="8" fill="#1E293B"/>
+    <text x="15" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8">1. STRAIGHT FLUSH FIT</text>
+    
+    <text x="15" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Head Architecture:</text>
+    <text x="15" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• High-set or peg head gallery</text>
+    <text x="15" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Center stone sits elevated above shank</text>
+    <text x="15" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Straight band slides completely flush</text>
+
+    <text x="15" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Benefits &amp; Versatility:</text>
+    <text x="15" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Band looks stunning when worn alone</text>
+    <text x="15" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Easy to add 2nd &amp; 3rd anniversary stacks</text>
+    <text x="15" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Universal classic eternity band match</text>
+
+    <rect x="10" y="250" width="295" height="75" rx="6" fill="#0F172A"/>
+    <text x="15" y="275" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#38BDF8">Style Recommendation:</text>
+    <text x="15" y="295" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Best for round solitaires, oval peg heads,</text>
+    <text x="15" y="310" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">and cathedral high-basket mountings.</text>
+
+    <!-- Contoured / Curved -->
+    <rect x="340" y="0" width="315" height="340" rx="8" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+    <rect x="340" y="0" width="315" height="36" rx="8" fill="#1E293B"/>
+    <text x="355" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#10B981">2. CONTOURED / CURVED FIT</text>
+    
+    <text x="355" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Head Architecture:</text>
+    <text x="355" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Low-set basket or wide halo</text>
+    <text x="355" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Diamond sits flush on the finger</text>
+    <text x="355" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Straight band creates an awkward gap</text>
+
+    <text x="355" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Benefits &amp; Considerations:</text>
+    <text x="355" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Hugs the exact contours of the ring</text>
+    <text x="355" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Creates a unified, cohesive look</text>
+    <text x="355" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">• May look unbalanced if worn solo</text>
+
+    <rect x="350" y="250" width="295" height="75" rx="6" fill="#0F172A"/>
+    <text x="355" y="275" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#10B981">Style Recommendation:</text>
+    <text x="355" y="295" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Best for low-profile emerald cuts, halos,</text>
+    <text x="355" y="310" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">and large low-set elongated shapes.</text>
+
+    <!-- Chevron / Jacket -->
+    <rect x="680" y="0" width="320" height="340" rx="8" fill="#161B22" stroke="#F59E0B" stroke-width="1.5"/>
+    <rect x="680" y="0" width="320" height="36" rx="8" fill="#1E293B"/>
+    <text x="695" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F59E0B">3. CHEVRON &amp; NESTED JACKET</text>
+    
+    <text x="695" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Head Architecture:</text>
+    <text x="695" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Pointed tip (Pear, Marquise) or cluster</text>
+    <text x="695" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• V-shape chevron cradles the point</text>
+    <text x="695" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Tiara / Crown diamond accents</text>
+
+    <text x="695" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Benefits &amp; Considerations:</text>
+    <text x="695" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Dramatic, fashionable royal styling</text>
+    <text x="695" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Protects exposed pear/marquise tips</text>
+    <text x="695" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Can frame top and bottom as a jacket</text>
+
+    <rect x="690" y="250" width="300" height="75" rx="6" fill="#0F172A"/>
+    <text x="695" y="275" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#F59E0B">Style Recommendation:</text>
+    <text x="695" y="295" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Best for pear drops, marquise solitaires,</text>
+    <text x="695" y="310" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">and art-deco bohemian bridal stacks.</text>
+  </g>
+
+  <!-- Metal Hardness & Wear Warning Bottom -->
+  <g transform="translate(50, 460)">
+    <rect x="0" y="0" width="1000" height="170" rx="8" fill="#1E293B"/>
+    <text x="20" y="30" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#EF4444">CRITICAL BENCH RULE: METAL ALLOY COMPATIBILITY IN STACKING</text>
+    
+    <g transform="translate(20, 50)">
+      <text x="0" y="20" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">1. <strong fill="#FCA5A5">Never Stack Platinum Against 14K Gold:</strong> Platinum is far denser and harder on contact. Over 2–3 years of daily friction, the platinum band will saw through the softer gold prongs and shank.</text>
+      <text x="0" y="45" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">2. <strong fill="#6EE7B7">Match Karat Purity:</strong> Always pair 14K with 14K, 18K with 18K, and Platinum with Platinum to maintain equal wear friction.</text>
+      <text x="0" y="70" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">3. <strong fill="#38BDF8">Soldering Consideration:</strong> If spinning causes prong rubbing, advise soldering the engagement ring and band together.</text>
+    </g>
+  </g>
+</svg>

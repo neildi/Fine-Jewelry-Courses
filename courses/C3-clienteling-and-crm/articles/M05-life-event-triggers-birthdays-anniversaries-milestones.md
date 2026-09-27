@@ -30,6 +30,12 @@ generated: 2026-09-14
 
 ## Beyond "happy anniversary"
 
+<figure>
+  <img src="../assets/c3-m05-milestone-anticipation-timeline.svg" alt="Life-Event Milestone Anticipation Horizon" width="100%" />
+  <figcaption><strong>Figure 5.1:</strong> Life-Event Milestone Anticipation — The 6-week outreach horizon and lead-time requirements for anniversaries, decade birthdays, and push presents.</figcaption>
+</figure>
+
+
 Module 2 gave you the mechanics: capture three dates, message the gift-giver two weeks out, keep the tone light. This module goes one layer deeper, into the specific knowledge that turns a generic reminder into a genuinely helpful suggestion, and the judgment needed for the milestones that don't fit neatly into a cheerful text at all. A tenth anniversary is not the same conversation as a first. A client's birthday during a season when new engagement rings sell doesn't need the same message as one during a quiet month. And a milestone date that lands the year after a loss needs a completely different response than an automated system will ever generate on its own.
 
 ## Milestone anniversary years and their traditional gemstones

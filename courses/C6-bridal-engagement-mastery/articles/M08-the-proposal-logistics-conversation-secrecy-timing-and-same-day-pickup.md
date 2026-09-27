@@ -6,6 +6,12 @@ For a surprise proposal, the sale doesn't end at checkout — the ring still has
 
 ## Discreet Packaging and Pickup
 
+<figure>
+  <img src="../assets/c6-m08-proposal-logistics-timeline.svg" alt="Proposal Logistics and Stealth Protocol" width="100%" />
+  <figcaption><strong>Figure 8.1:</strong> Proposal Logistics &amp; Stealth Protocol — Pocket-friendly stealth boxes, airport travel security, day-zero insurance, and post-proposal re-sizing.</figcaption>
+</figure>
+
+
 Discretion starts the moment the ring leaves the store, and it's worth being proactive about this rather than waiting for a client to ask. Several practical measures are consistently recommended across sources: ship or hand over the ring in unbranded, unmarked packaging with no visible jewelry-store logo or indication of contents on the outside; offer in-store pickup as the most secure option when the client's home isn't reliably private (a delivery can arrive at an inconvenient time, and a household member or roommate might intercept it); and, when shipping is unavoidable, schedule delivery for a window when the recipient won't be home, or ship to a trusted friend's address instead.
 
 Once the client actually has the ring, concealment becomes their problem to solve, but it's a genuinely useful thing to be able to speak to knowledgeably: common hiding spots for the days or weeks before the proposal include a hollowed-out book, an inner coat pocket in an out-of-season garment, inside a sock at the back of a drawer, or a mini travel safe. For the moment of the proposal itself, common on-body concealment options include an inner blazer or coat lining, a bag appropriate to the setting (camera bag, backpack), or a pocket with a low-bulk ring box. The one universally recommended practice worth passing along: do a dry run in the actual planned outfit at least 48 hours ahead, since a box that seems well-hidden standing still can shift, print through fabric, or become noticeable when sitting, bending, or during a hug.

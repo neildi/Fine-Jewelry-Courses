@@ -49,6 +49,12 @@ Colored stones are chemically and physically diverse in a way diamonds are not, 
 
 ## Hardness sets the baseline for every care conversation
 
+<figure>
+  <img src="../assets/c1-m06-colored-stone-top-10-matrix.svg" alt="Top 10 Colored Stones Reference Matrix" width="100%" />
+  <figcaption><strong>Figure 6.1:</strong> Top 10 Colored Gemstones Reference Matrix — Species, Mohs hardness, toughness ratings, routine treatment norms, and ultrasonic/steam cleaning safety.</figcaption>
+</figure>
+
+
 The Mohs scale measures a mineral's resistance to scratching, from 1 (softest) to 10 (diamond, the hardest). It is not a complete durability measure on its own, since some stones are hard but brittle, but it is the fastest way to know which stones can handle daily wear and which need more careful placement and handling.
 
 | Stone | Mohs hardness | Daily-wear suitability |

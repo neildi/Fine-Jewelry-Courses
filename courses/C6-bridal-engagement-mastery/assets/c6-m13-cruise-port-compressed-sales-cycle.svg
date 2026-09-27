@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">Port-of-Call Bridal Sales Velocity: The 180-Minute Execution Model</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">Selling high-ticket bridal jewelry under tight cruise ship port departure time constraints</text>
+
+  <!-- 4-Stage Compressed Clock -->
+  <g transform="translate(50, 100)">
+    <!-- Stage 1: Minutes 0-15 -->
+    <rect x="0" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+    <rect x="0" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="15" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8">STAGE 1: 0 – 15 MIN</text>
+    
+    <text x="15" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Immediate Engagement:</text>
+    <text x="15" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Warm vacation greeting</text>
+    <text x="15" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Determine Ship &amp; All-Aboard</text>
+    <text x="15" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">  time (e.g. 4:30 PM departure)</text>
+    <text x="15" y="140" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Rapid discovery: Anniv vs Proposal</text>
+
+    <text x="15" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#38BDF8">Duty-Free Positioning:</text>
+    <text x="15" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Frame tax-free &amp; duty-free</text>
+    <text x="15" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  island savings immediately</text>
+
+    <rect x="10" y="260" width="215" height="85" rx="6" fill="#0F172A"/>
+    <text x="15" y="285" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#38BDF8">Action:</text>
+    <text x="15" y="305" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Offer cold beverage, seat couple</text>
+    <text x="15" y="325" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">at private presentation counter.</text>
+
+    <!-- Stage 2: Minutes 15-45 -->
+    <rect x="255" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+    <rect x="255" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="270" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#10B981">STAGE 2: 15 – 45 MIN</text>
+    
+    <text x="270" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">The Curated 3-Piece Edit:</text>
+    <text x="270" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Pull max 3 showstopper rings</text>
+    <text x="270" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Place directly on her finger</text>
+    <text x="270" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Pair with natural sunlight view</text>
+
+    <text x="270" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Vacation Emotion Anchor:</text>
+    <text x="270" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• "Every time she looks at this,</text>
+    <text x="270" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  she will remember this voyage."</text>
+
+    <rect x="265" y="260" width="215" height="85" rx="6" fill="#0F172A"/>
+    <text x="270" y="285" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#10B981">Action:</text>
+    <text x="270" y="305" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Isolate the single winning ring;</text>
+    <text x="270" y="325" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">remove other distraction pieces.</text>
+
+    <!-- Stage 3: Minutes 45-75 -->
+    <rect x="510" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#F59E0B" stroke-width="1.5"/>
+    <rect x="510" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="525" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F59E0B">STAGE 3: 45 – 75 MIN</text>
+    
+    <text x="525" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Rapid Bench Execution:</text>
+    <text x="525" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Measure exact finger size</text>
+    <text x="525" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Rush sizing to on-site bench</text>
+    <text x="525" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">  (Guaranteed 45-min turnaround)</text>
+    <text x="525" y="140" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Complete POS transaction</text>
+
+    <text x="525" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Trust Reassurance:</text>
+    <text x="525" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• GIA Certificate in hand</text>
+    <text x="525" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• US Service Center warranty</text>
+
+    <rect x="520" y="260" width="215" height="85" rx="6" fill="#0F172A"/>
+    <text x="525" y="285" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#F59E0B">Action:</text>
+    <text x="525" y="305" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Provide customs declaration slip</text>
+    <text x="525" y="325" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">and certified appraisal packet.</text>
+
+    <!-- Stage 4: Minutes 75-120 -->
+    <rect x="765" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#EC4899" stroke-width="1.5"/>
+    <rect x="765" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="780" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#EC4899">STAGE 4: 75 – 120 MIN</text>
+    
+    <text x="780" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Delivery &amp; Ship Return:</text>
+    <text x="780" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Ring polished, cleaned &amp; boxed</text>
+    <text x="780" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Worn out of store onto ship</text>
+    <text x="780" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">  for formal captain's dinner</text>
+
+    <text x="780" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#EC4899">Failsafe Pier Courier:</text>
+    <text x="780" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• If intricate bench sizing runs</text>
+    <text x="780" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  late, bonded courier delivers</text>
+    <text x="780" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  directly to ship purser desk</text>
+
+    <rect x="775" y="260" width="215" height="85" rx="6" fill="#0F172A"/>
+    <text x="780" y="285" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#EC4899">Action:</text>
+    <text x="780" y="305" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Capture digital email/SMS for</text>
+    <text x="780" y="325" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">post-cruise clienteling cadence.</text>
+  </g>
+
+  <!-- Summary Box -->
+  <g transform="translate(50, 480)">
+    <rect x="0" y="0" width="1000" height="150" rx="8" fill="#1E293B"/>
+    <text x="20" y="30" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#38BDF8">THE CRITICAL SUCCESS FACTOR IN PORT RETAIL:</text>
+    <text x="20" y="58" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">Speed without rushing elegance. Travelers will make major $10k+ purchase decisions in under an hour if they feel complete security regarding authentic GIA certification, on-site master jeweler sizing, and domestic warranty service centers.</text>
+  </g>
+</svg>

@@ -6,6 +6,12 @@ Modules 4 and 5 covered recognizing fraud and theft patterns. This module covers
 
 ## What Triggers a Filing
 
+<figure>
+  <img src="../assets/c4-m06-form-8300-cash-compliance-tree.svg" alt="IRS Form 8300 Cash Compliance Decision Tree" width="100%" />
+  <figcaption><strong>Figure 6.1:</strong> IRS Form 8300 &amp; FinCEN Compliance Decision Tree — Cash definition, 24-hour transaction aggregation, 15-day e-filing clock, and anti-structuring rules.</figcaption>
+</figure>
+
+
 The $10,000 threshold applies to cash received in one transaction, or in related transactions — meaning a customer cannot avoid the filing requirement by splitting a single purchase into multiple cash payments across separate visits if those payments are connected to the same underlying transaction. Since January 1, 2024, electronic filing is required for businesses that must e-file certain other information returns, which covers most jewelry retailers of any meaningful size.
 
 It's worth being precise about what counts as "cash" for this purpose in your own mental model: this filing requirement is specifically about cash (and cash-equivalent instruments in certain contexts), not about card or check payments, which carry their own fraud-prevention considerations covered in Module 5 but do not trigger Form 8300 on their own.

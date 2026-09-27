@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1100" height="680" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1096" height="676" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <!-- Header -->
+  <g transform="translate(50, 35)">
+    <rect x="0" y="0" width="180" height="24" rx="12" fill="#EF4444" fill-opacity="0.2"/>
+    <text x="90" y="16" fill="#FCA5A5" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1">OBJECTION NAVIGATION</text>
+    <text x="0" y="52" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">The 4-Step Price Objection Ladder</text>
+    <text x="0" y="74" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="13">Handling "That's more than I wanted to spend" with dignity, margin protection, and zero discounting.</text>
+  </g>
+
+  <!-- Ladder Steps -->
+  <g transform="translate(50, 120)">
+    <!-- Step 1 -->
+    <g transform="translate(0, 0)">
+      <rect width="1000" height="110" rx="8" fill="#1E293B" stroke="#38BDF8" stroke-width="1.5"/>
+      <circle cx="45" cy="55" r="22" fill="#0284C7"/>
+      <text x="45" y="62" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="16" font-weight="800" text-anchor="middle">1</text>
+      <text x="85" y="40" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="15" font-weight="700">ACKNOWLEDGE &amp; VALIDATE (Do Not Flinch)</text>
+      <text x="85" y="60" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="12">Never apologize for the price tag or rush to drop margin. Agree that fine jewelry is an important investment.</text>
+      <text x="85" y="85" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="11" font-weight="700">Script: "I completely understand. When you're looking at something this fine, you want every dollar to make total sense."</text>
+    </g>
+
+    <!-- Step 2 -->
+    <g transform="translate(0, 125)">
+      <rect width="1000" height="110" rx="8" fill="#1E293B" stroke="#10B981" stroke-width="1.5"/>
+      <circle cx="45" cy="55" r="22" fill="#059669"/>
+      <text x="45" y="62" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="16" font-weight="800" text-anchor="middle">2</text>
+      <text x="85" y="40" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="15" font-weight="700">ISOLATE: IS IT THE PRICE OR THE PIECE?</text>
+      <text x="85" y="60" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="12">Determine if they love the aesthetic design first. If they dislike the style, a 20% discount will still not close the sale.</text>
+      <text x="85" y="85" fill="#34D399" font-family="system-ui, sans-serif" font-size="11" font-weight="700">Script: "Setting the price aside for just one second — is this the design and look you truly love for her?"</text>
+    </g>
+
+    <!-- Step 3 -->
+    <g transform="translate(0, 250)">
+      <rect width="1000" height="110" rx="8" fill="#1E293B" stroke="#F59E0B" stroke-width="1.5"/>
+      <circle cx="45" cy="55" r="22" fill="#D97706"/>
+      <text x="45" y="62" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="16" font-weight="800" text-anchor="middle">3</text>
+      <text x="85" y="40" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="15" font-weight="700">ADJUST THE VALUE LEVERS (Engineering to Budget)</text>
+      <text x="85" y="60" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="12">If budget is strict, adjust the 4Cs variables (e.g. F to H color, VS1 to SI1, 14k gold, or lab-grown) to preserve design.</text>
+      <text x="85" y="85" fill="#FBBF24" font-family="system-ui, sans-serif" font-size="11" font-weight="700">Script: "We can keep this exact mounting design and shift to an eye-clean SI1 center to bring it right to your $4,500 target."</text>
+    </g>
+
+    <!-- Step 4 -->
+    <g transform="translate(0, 375)">
+      <rect width="1000" height="140" rx="8" fill="#1E293B" stroke="#A855F7" stroke-width="1.5"/>
+      <circle cx="45" cy="70" r="22" fill="#7E22CE"/>
+      <text x="45" y="77" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="16" font-weight="800" text-anchor="middle">4</text>
+      <text x="85" y="40" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="15" font-weight="700">OFFER CONSTRUCTIVE PAYMENT &amp; TRADE SOLUTIONS</text>
+      <text x="85" y="60" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="12">Introduce 12-month promotional financing, layaway, or gold trade-in credit before even considering price concession.</text>
+      <rect x="85" y="75" width="880" height="45" rx="4" fill="#0F172A"/>
+      <text x="95" y="95" fill="#C084FC" font-family="system-ui, sans-serif" font-size="11" font-weight="700">Financing Script: "With our 12-month zero-interest program, you don't have to compromise on the diamond;</text>
+      <text x="95" y="110" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="10">it comes out to $375 a month, keeping your cash completely untouched."</text>
+    </g>
+  </g>
+</svg>

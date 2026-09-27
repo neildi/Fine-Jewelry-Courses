@@ -36,6 +36,12 @@ A clienteling calendar solves both problems with the same tool: a small number o
 
 ## The post-sale sequence: 30, 90, 365
 
+<figure>
+  <img src="../assets/c3-m02-2-2-2-clienteling-cadence.svg" alt="The 2-2-2 Client Retention and Outreach Cadence" width="100%" />
+  <figcaption><strong>Figure 2.1:</strong> The 2-2-2 Relationship Cadence — Day 2 gratitude SMS, Week 2 reaction check-in, and Month 2 complimentary ultrasonic cleaning invitation.</figcaption>
+</figure>
+
+
 The single most reliable cadence a new associate can run starts the moment a sale closes, using a three-step timeline that WJewel, a jewelry retail software provider, describes as simple, scalable, and absent from most stores. Thirty days after a sale, send a short note from the associate who helped the client, asking how the piece is working out. Ninety days after, send a complimentary cleaning-and-inspection reminder. At the one-year mark, send an anniversary note about the piece itself, not a generic greeting: "It has been a year since we helped you pick out the sapphire ring." Each of these three touches has a distinct, legitimate reason to exist, which is what separates it from a promotional blast.
 
 ## The date-based sequence: three dates, two weeks' notice

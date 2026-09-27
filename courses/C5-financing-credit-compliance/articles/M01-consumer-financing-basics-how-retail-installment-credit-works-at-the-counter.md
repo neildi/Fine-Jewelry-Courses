@@ -6,6 +6,12 @@ Financing is one of the most common tools you'll use to make a high-ticket piece
 
 ## What a Retail Installment Contract Actually Is
 
+<figure>
+  <img src="../assets/c5-m01-retail-installment-financing-flow.svg" alt="Retail Installment Credit Mechanics" width="100%" />
+  <figcaption><strong>Figure 1.1:</strong> Consumer Installment Credit Mechanics — 3-party architecture (Client, Retailer, Lender), MDR settlement, and Revolving vs. Equal-Pay comparison.</figcaption>
+</figure>
+
+
 The Consumer Financial Protection Bureau (CFPB) defines a retail installment sales contract (sometimes called a retail installment agreement) as a credit agreement in which a buyer purchases goods and agrees to pay for them over time in installments, with the seller (or a financing partner acting on the seller's behalf) extending the credit. This is distinct from a general-purpose credit card in an important way: a retail installment contract is typically tied to a specific purchase and a specific merchant program, rather than being a revolving line the customer can use anywhere.
 
 In jewelry retail, this usually takes the form of a store-branded or partner-branded financing program — a "Jewelry Credit Card" or similar product issued through a financing partner (Synchrony is one commonly used example in this space) rather than the store extending credit directly itself.

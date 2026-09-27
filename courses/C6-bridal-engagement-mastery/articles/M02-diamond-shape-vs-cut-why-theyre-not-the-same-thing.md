@@ -6,6 +6,12 @@
 
 ## The Core Distinction
 
+<figure>
+  <img src="../assets/c6-m02-diamond-shapes-and-facet-architectures.svg" alt="Diamond Shape vs Cut Architectures" width="100%" />
+  <figcaption><strong>Figure 2.1:</strong> Diamond Shape vs. Cut Architecture — Brilliant Cut vs. Step Cut vs. Mixed Cut facet families and optical performance dynamics.</figcaption>
+</figure>
+
+
 **Shape** refers to the outline of the diamond as seen from above — round, oval, pear, cushion, emerald, princess, marquise, and so on. This is a design choice, driven by personal taste.
 
 **Cut** refers to the quality of the faceting — how precisely the angles are set, how well-proportioned the stone is, and how effectively it handles light. This is a craftsmanship and quality factor, and every shape can be cut well or poorly. A round brilliant can be cut to Excellent standards or cut too deep, too shallow, or with uneven facets that kill its sparkle — and the exact same is true of an oval, an emerald, or any other shape.

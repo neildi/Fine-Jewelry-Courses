@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">The Modern Bridal Path-to-Purchase: Psychology &amp; Decision Stages</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">Navigating solo vs. couple dynamics, digital research overload, and proposal milestone anxiety</text>
+
+  <!-- 4-Phase Journey Map -->
+  <g transform="translate(50, 100)">
+    <!-- Phase 1 -->
+    <rect x="0" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+    <rect x="0" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="15" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8">PHASE 1: Digital Discovery</text>
+    
+    <text x="15" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Buyer Mindset:</text>
+    <text x="15" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• 3–6 months pre-purchase</text>
+    <text x="15" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Browses Instagram, TikTok, Pinterest</text>
+    <text x="15" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Confused by 4Cs specs &amp; pricing</text>
+
+    <text x="15" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Core Emotional Driver:</text>
+    <text x="15" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">Fear of overpaying or choosing the wrong style</text>
+
+    <rect x="10" y="220" width="215" height="125" rx="6" fill="#0F172A"/>
+    <text x="15" y="245" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#38BDF8">Advisor Floor Strategy:</text>
+    <text x="15" y="270" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">• Publish educational video content</text>
+    <text x="15" y="290" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">• Offer transparent online scheduling</text>
+    <text x="15" y="310" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">• Provide low-pressure digital guides</text>
+
+    <!-- Phase 2 -->
+    <rect x="255" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+    <rect x="255" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="270" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#10B981">PHASE 2: The Joint Exploration</text>
+    
+    <text x="270" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Buyer Mindset:</text>
+    <text x="270" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• 78% of couples shop together first</text>
+    <text x="270" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Partner tries on shapes (Oval, Pear)</text>
+    <text x="270" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Pinpoints finger size &amp; metal tone</text>
+
+    <text x="270" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Core Emotional Driver:</text>
+    <text x="270" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">Excitement of shared milestone commitment</text>
+
+    <rect x="265" y="220" width="215" height="125" rx="6" fill="#0F172A"/>
+    <text x="270" y="245" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Advisor Floor Strategy:</text>
+    <text x="270" y="270" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">• Build private wishlist profile</text>
+    <text x="270" y="290" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">• Focus on how it feels on her hand</text>
+    <text x="270" y="310" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">• Record exact finger size &amp; favorite 2</text>
+
+    <!-- Phase 3 -->
+    <rect x="510" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#F59E0B" stroke-width="1.5"/>
+    <rect x="510" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="525" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F59E0B">PHASE 3: Solo Return &amp; Budget</text>
+    
+    <text x="525" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Buyer Mindset:</text>
+    <text x="525" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Purchaser returns alone</text>
+    <text x="525" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Focuses on final stone selection</text>
+    <text x="525" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Budget balancing (Carat vs Quality)</text>
+
+    <text x="525" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Core Emotional Driver:</text>
+    <text x="525" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">Desire to be the hero &amp; deliver perfection</text>
+
+    <rect x="520" y="220" width="215" height="125" rx="6" fill="#0F172A"/>
+    <text x="525" y="245" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Advisor Floor Strategy:</text>
+    <text x="525" y="270" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">• Pull her exact wishlist notes</text>
+    <text x="525" y="290" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">• Re-engineer 4Cs to hit target price</text>
+    <text x="525" y="310" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">• Offer 0% financing for diamond upgrade</text>
+
+    <!-- Phase 4 -->
+    <rect x="765" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#EC4899" stroke-width="1.5"/>
+    <rect x="765" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="780" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#EC4899">PHASE 4: Proposal Execution</text>
+    
+    <text x="780" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Buyer Mindset:</text>
+    <text x="780" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• High logistical tension</text>
+    <text x="780" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Hiding ring box, travel security</text>
+    <text x="780" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Proposal timing countdown</text>
+
+    <text x="780" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Core Emotional Driver:</text>
+    <text x="780" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">Anxiety about surprise secrecy &amp; logistics</text>
+
+    <rect x="775" y="220" width="215" height="125" rx="6" fill="#0F172A"/>
+    <text x="780" y="245" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#EC4899">Advisor Floor Strategy:</text>
+    <text x="780" y="270" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">• Provide slim flat pocket ring box</text>
+    <text x="780" y="290" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">• Complete insurance appraisal binder</text>
+    <text x="780" y="310" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">• Reassure with free post-proposal sizing</text>
+  </g>
+
+  <!-- Bottom Core Insight Box -->
+  <g transform="translate(50, 480)">
+    <rect x="0" y="0" width="1000" height="150" rx="8" fill="#1E293B"/>
+    <text x="20" y="30" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#38BDF8">THE CRITICAL BRIDAL SELLING PRINCIPLE:</text>
+    <text x="20" y="58" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">The modern engagement ring purchase is rarely a single transaction — it is a high-trust, multi-visit relationship.</text>
+    <text x="20" y="80" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">• When both partners are present: <strong fill="#10B981">Never talk price or discount numbers in front of the recipient</strong> — focus entirely on aesthetics and emotion.</text>
+    <text x="20" y="102" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">• When the buyer returns alone: <strong fill="#F59E0B">Execute precision commercial closure</strong> with the exact specs and reassurance they need.</text>
+  </g>
+</svg>

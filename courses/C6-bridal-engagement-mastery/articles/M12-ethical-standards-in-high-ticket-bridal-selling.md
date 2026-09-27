@@ -6,6 +6,12 @@ Bridal purchases combine two things that make ethical clarity especially importa
 
 ## FTC Disclosure Requirements Are Not Optional
 
+<figure>
+  <img src="../assets/c6-m12-ethical-selling-code-pillars.svg" alt="Ethical Selling Standards in Bridal" width="100%" />
+  <figcaption><strong>Figure 12.1:</strong> Ethical Standards in High-Ticket Bridal Selling — The 4 core pillars (Unbiased Disclosure, No Fear/Guilt, Transparent Pricing, Conflict-Free Sourcing).</figcaption>
+</figure>
+
+
 The Federal Trade Commission's Jewelry Guides (16 CFR Part 23) set legally binding rules for how lab-grown diamonds and treated stones must be described, and these aren't a matter of company style preference — they're federal consumer-protection law, enforced with actual warning letters to retailers who get it wrong.
 
 **For lab-grown diamonds:** The word "diamond" alone implies a mined stone. Any time "diamond" is used to describe a lab-grown stone, it must be immediately preceded by a clear, equally conspicuous qualifier — "laboratory-grown," "laboratory-created," "[manufacturer name]-created," or another term that clearly conveys the same meaning. The word "cultured" is permitted but only alongside one of these qualifiers, never standing alone. Critically, the disclosure must appear at the *same visual and verbal prominence* as the word "diamond" itself — a small-print qualifier next to a large-type "diamond" doesn't satisfy the rule, whether in an advertisement, a price tag, or a verbal sales conversation. The terms "real," "natural," "genuine," and "precious" are specifically prohibited when describing lab-grown stones. This obligation applies at every carat weight the Guides cover, including small melee accent stones — not just center stones.

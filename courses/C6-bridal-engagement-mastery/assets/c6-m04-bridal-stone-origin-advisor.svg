@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">Ethical Bridal Stone Advisory: Natural vs. Lab-Grown vs. Simulant</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">Guiding engagement ring clients with unbiased facts, value retention transparency, and emotional respect</text>
+
+  <!-- 3-Way Comparative Pillars -->
+  <g transform="translate(50, 100)">
+    <!-- Pillar 1: Natural -->
+    <rect x="0" y="0" width="315" height="370" rx="8" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+    <rect x="0" y="0" width="315" height="36" rx="8" fill="#1E293B"/>
+    <text x="15" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8">NATURAL DIAMOND</text>
+    
+    <text x="15" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Origin &amp; Geological Story:</text>
+    <text x="15" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Formed 1–3 billion years ago deep in Earth</text>
+    <text x="15" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Finite global supply; natural rarity</text>
+
+    <text x="15" y="135" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Value &amp; Price Profile:</text>
+    <text x="15" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Higher initial investment ($5,000–$50,000+)</text>
+    <text x="15" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Historical market liquidity &amp; heirloom value</text>
+
+    <text x="15" y="210" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Client Archetype Fit:</text>
+    <text x="15" y="230" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Values ancient geological rarity, tradition,</text>
+    <text x="15" y="248" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">and multi-generational heirloom symbolism.</text>
+
+    <rect x="10" y="275" width="295" height="80" rx="6" fill="#0F172A"/>
+    <text x="15" y="298" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#38BDF8">Floor Presentation Script:</text>
+    <text x="15" y="320" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">"A natural diamond is an ancient miracle of Earth</text>
+    <text x="15" y="338" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">that took billions of years to reach her hand."</text>
+
+    <!-- Pillar 2: Lab-Grown -->
+    <rect x="340" y="0" width="315" height="370" rx="8" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+    <rect x="340" y="0" width="315" height="36" rx="8" fill="#1E293B"/>
+    <text x="355" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#10B981">LABORATORY-GROWN DIAMOND</text>
+    
+    <text x="355" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Origin &amp; Technological Story:</text>
+    <text x="355" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Grown in reactor via HPHT or CVD in weeks</text>
+    <text x="355" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• 100% identical physical, optical, chemical</text>
+
+    <text x="355" y="135" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Value &amp; Price Profile:</text>
+    <text x="355" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• 70–90% lower price per carat</text>
+    <text x="355" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Depreciating market replacement cost</text>
+
+    <text x="355" y="210" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Client Archetype Fit:</text>
+    <text x="355" y="230" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Wants maximum carat size (2.5ct–4ct+) and</text>
+    <text x="355" y="248" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">flawless clarity within an accessible budget.</text>
+
+    <rect x="350" y="275" width="295" height="80" rx="6" fill="#0F172A"/>
+    <text x="355" y="298" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#10B981">Floor Presentation Script:</text>
+    <text x="355" y="320" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">"It gives you the exact sparkle of diamond</text>
+    <text x="355" y="338" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">physics while maximizing finger coverage today."</text>
+
+    <!-- Pillar 3: Simulants -->
+    <rect x="680" y="0" width="320" height="370" rx="8" fill="#161B22" stroke="#F59E0B" stroke-width="1.5"/>
+    <rect x="680" y="0" width="320" height="36" rx="8" fill="#1E293B"/>
+    <text x="695" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F59E0B">DIAMOND SIMULANTS (Moissanite/CZ)</text>
+    
+    <text x="695" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Origin &amp; Material Composition:</text>
+    <text x="695" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Moissanite: Silicon Carbide (SiC)</text>
+    <text x="695" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Cubic Zirconia: Zirconium Dioxide (ZrO2)</text>
+
+    <text x="695" y="135" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Value &amp; Price Profile:</text>
+    <text x="695" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Nominal cost ($50 – $800)</text>
+    <text x="695" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Double refraction / disco-ball rainbow fire</text>
+
+    <text x="695" y="210" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Client Archetype Fit:</text>
+    <text x="695" y="230" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Temporary travel ring or temporary placeholder</text>
+    <text x="695" y="248" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">prior to purchasing a permanent heirloom.</text>
+
+    <rect x="690" y="275" width="300" height="80" rx="6" fill="#0F172A"/>
+    <text x="695" y="298" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#F59E0B">Floor Presentation Script:</text>
+    <text x="695" y="320" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">"A distinct gemstone material that mimics diamond</text>
+    <text x="695" y="338" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">appearance at an entry travel price point."</text>
+  </g>
+
+  <!-- Advisory Code Banner -->
+  <g transform="translate(50, 490)">
+    <rect x="0" y="0" width="1000" height="140" rx="8" fill="#1E293B"/>
+    <text x="20" y="30" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8">THE GOLDEN RULE OF ETHICAL BRIDAL ADVISING:</text>
+    <text x="20" y="55" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#F3F4F6">Never judge, shame, or push a client toward one origin based on your commission preference.</text>
+    <text x="20" y="75" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">Be 100% transparent about physical facts, origin, and secondary market value dynamics. When clients feel fully informed without pressure, they trust your guidance for life.</text>
+  </g>
+</svg>

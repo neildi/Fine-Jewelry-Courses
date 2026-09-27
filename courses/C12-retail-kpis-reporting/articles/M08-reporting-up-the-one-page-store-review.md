@@ -14,6 +14,12 @@ A well-documented executive-summary structure names four specific fields that be
 
 ## Building the One-Page Version
 
+<figure>
+  <img src="../assets/c12-m08-one-page-store-performance-review.svg" alt="One Page Store Performance Review" width="100%" />
+  <figcaption><strong>Figure 8.1:</strong> The 1-Page Executive Store Performance Review — Standardized executive reporting template covering P&amp;L snapshot, KPI variances, wins/losses, and corrective action plans.</figcaption>
+</figure>
+
+
 For a single store leader reporting weekly or monthly results (rather than a multi-store or regional review), the one-page version compresses to a small number of core sections: an executive-summary paragraph following the context-insight-action structure above; the core numbers from this course's Module 6 dashboard (sales vs. plan, conversion, ATV, UPT, GMROI, or whichever subset is most relevant this period) each shown with its comparison point; the specific driver or drivers identified using Module 7's diagnostic decision tree; and a short action list, each item with a named owner and a due date. This is deliberately not a dashboard dump — every element on the page should answer a specific question a district manager or owner actually has, not simply display everything the store's systems are capable of producing.
 
 ## A Script for the Verbal Version
