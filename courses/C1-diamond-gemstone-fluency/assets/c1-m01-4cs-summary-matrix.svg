@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 700" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#E5C378"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1100" height="700" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1096" height="696" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <!-- Header -->
+  <g transform="translate(50, 40)">
+    <text x="0" y="20" fill="url(#gold)" font-family="system-ui, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">JEWELSWELL COUNTER DRILL</text>
+    <text x="0" y="50" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="24" font-weight="700">The 4Cs Sales Floor Demonstration Matrix</text>
+    <text x="0" y="72" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="13">What the client asks vs. What the associate demonstrates with stones on the pad.</text>
+  </g>
+
+  <!-- 4 Quadrants -->
+  <!-- 1. CUT -->
+  <g transform="translate(50, 130)">
+    <rect width="480" height="240" rx="10" fill="#1E293B" stroke="#38BDF8" stroke-width="1.5"/>
+    <circle cx="35" cy="35" r="18" fill="#0284C7"/>
+    <text x="35" y="41" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="14" font-weight="800" text-anchor="middle">1</text>
+    <text x="65" y="32" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="16" font-weight="700">CUT — "The Human Artistry"</text>
+    <text x="65" y="50" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="11" font-weight="600">GIA: Excellent | Very Good | Good | Fair | Poor</text>
+
+    <text x="20" y="85" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="12"><tspan font-weight="700" fill="#F8FAFC">Client Question:</tspan> "Why does this one sparkle so much more?"</text>
+    <text x="20" y="110" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="12"><tspan font-weight="700" fill="#38BDF8">Counter Move:</tspan> Rock two stones under the spot light.</text>
+    <text x="20" y="130" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">• Point out <tspan font-weight="700" fill="#FFFFFF">Brightness</tspan> (white return) vs <tspan font-weight="700" fill="#FFFFFF">Fire</tspan> (rainbow dispersion).</text>
+    <text x="20" y="148" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">• Show that cut controls 100% of light return; color &amp; clarity cannot compensate.</text>
+
+    <rect x="20" y="175" width="440" height="45" rx="6" fill="#0F172A"/>
+    <text x="30" y="195" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11"><tspan font-weight="700" fill="#FBBF24">Rule of Thumb:</tspan> Never compromise below Very Good cut for bridal;</text>
+    <text x="30" y="210" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">an Excellent cut masks minor body tint and slight inclusions.</text>
+  </g>
+
+  <!-- 2. COLOR -->
+  <g transform="translate(570, 130)">
+    <rect width="480" height="240" rx="10" fill="#1E293B" stroke="#F59E0B" stroke-width="1.5"/>
+    <circle cx="35" cy="35" r="18" fill="#D97706"/>
+    <text x="35" y="41" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="14" font-weight="800" text-anchor="middle">2</text>
+    <text x="65" y="32" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="16" font-weight="700">COLOR — "The Absence of Tint"</text>
+    <text x="65" y="50" fill="#FBBF24" font-family="system-ui, sans-serif" font-size="11" font-weight="600">D-F (Colorless) | G-J (Near Colorless) | K-M (Faint)</text>
+
+    <text x="20" y="85" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="12"><tspan font-weight="700" fill="#F8FAFC">Client Question:</tspan> "Do I need a D color stone to look white?"</text>
+    <text x="20" y="110" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="12"><tspan font-weight="700" fill="#FBBF24">Counter Move:</tspan> Place a G/H next to a D/E upside-down on a white card.</text>
+    <text x="20" y="130" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">• Show that face-up in platinum/white gold, G-H reads icy white to the eye.</text>
+    <text x="20" y="148" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">• In yellow or rose gold, I-J stones match warmth seamlessly at 25-35% savings.</text>
+
+    <rect x="20" y="175" width="440" height="45" rx="6" fill="#0F172A"/>
+    <text x="30" y="195" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11"><tspan font-weight="700" fill="#FBBF24">Floor Phrasing:</tspan> "Color is graded through the side against pure white.</text>
+    <text x="30" y="210" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">Face up in a setting, cut brilliance masks subtle warmth effortlessly."</text>
+  </g>
+
+  <!-- 3. CLARITY -->
+  <g transform="translate(50, 400)">
+    <rect width="480" height="240" rx="10" fill="#1E293B" stroke="#10B981" stroke-width="1.5"/>
+    <circle cx="35" cy="35" r="18" fill="#059669"/>
+    <text x="35" y="41" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="14" font-weight="800" text-anchor="middle">3</text>
+    <text x="65" y="32" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="16" font-weight="700">CLARITY — "Earth's Birthmarks"</text>
+    <text x="65" y="50" fill="#34D399" font-family="system-ui, sans-serif" font-size="11" font-weight="600">FL/IF | VVS1-2 | VS1-2 | SI1-2 | I1-3 (Graded under 10x)</text>
+
+    <text x="20" y="85" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="12"><tspan font-weight="700" fill="#F8FAFC">Client Question:</tspan> "Does this diamond have flaws in it?"</text>
+    <text x="20" y="110" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="12"><tspan font-weight="700" fill="#34D399">Counter Move:</tspan> Hand them the 10x loupe and define 'Eye-Clean'.</text>
+    <text x="20" y="130" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">• 5 Factors: Size, Number, Location (prong vs table), Relief (dark vs clear), Nature.</text>
+    <text x="20" y="148" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">• Explain that VS2/SI1 gives 100% eye-clean appearance at counter distance.</text>
+
+    <rect x="20" y="175" width="440" height="45" rx="6" fill="#0F172A"/>
+    <text x="30" y="195" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11"><tspan font-weight="700" fill="#34D399">Floor Phrasing:</tspan> "Inclusions are diamond fingerprints from 100 miles below ground.</text>
+    <text x="30" y="210" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">Our goal is an eye-clean stone where no feature interferes with light return."</text>
+  </g>
+
+  <!-- 4. CARAT -->
+  <g transform="translate(570, 400)">
+    <rect width="480" height="240" rx="10" fill="#1E293B" stroke="#A855F7" stroke-width="1.5"/>
+    <circle cx="35" cy="35" r="18" fill="#7E22CE"/>
+    <text x="35" y="41" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="14" font-weight="800" text-anchor="middle">4</text>
+    <text x="65" y="32" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="16" font-weight="700">CARAT — "Mass, Not Physical Size"</text>
+    <text x="65" y="50" fill="#C084FC" font-family="system-ui, sans-serif" font-size="11" font-weight="600">1.00 ct = 200 mg = 100 Points | Spread vs Depth</text>
+
+    <text x="20" y="85" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="12"><tspan font-weight="700" fill="#F8FAFC">Client Question:</tspan> "I want a 1.00ct stone. Why does this 0.90ct look just as big?"</text>
+    <text x="20" y="110" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="12"><tspan font-weight="700" fill="#C084FC">Counter Move:</tspan> Measure diameter with mm gauge on the pad.</text>
+    <text x="20" y="130" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">• An Excellent cut 0.90ct spreads ~6.2mm; a deep 1.00ct spreads only ~6.2mm.</text>
+    <text x="20" y="148" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">• Explain 'Magic Price Thresholds' at 1.00ct, 1.50ct, 2.00ct.</text>
+
+    <rect x="20" y="175" width="440" height="45" rx="6" fill="#0F172A"/>
+    <text x="30" y="195" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="11"><tspan font-weight="700" fill="#C084FC">Floor Phrasing:</tspan> "You don't wear a scale on your finger; you wear mm spread.</text>
+    <text x="30" y="210" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">Shopping just below round numbers gives you identical visual size at exceptional value."</text>
+  </g>
+</svg>

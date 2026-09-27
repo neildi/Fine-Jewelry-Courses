@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">The High-Ticket Sales Engine: ATV, UPT &amp; Category Mix</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">The mathematical levers that multiply retail gross margin and store top-line revenue</text>
+
+  <!-- Formula Equation Card -->
+  <g transform="translate(50, 100)">
+    <rect x="0" y="0" width="1000" height="110" rx="8" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+    <text x="25" y="32" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#38BDF8">THE MASTER RETAIL REVENUE EQUATION:</text>
+    
+    <g transform="translate(25, 45)">
+      <rect x="0" y="10" width="180" height="42" rx="6" fill="#0F172A" stroke="#38BDF8"/>
+      <text x="90" y="36" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#38BDF8" text-anchor="middle">TRAFFIC</text>
+
+      <text x="200" y="36" font-family="Inter, -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#94A3B8">×</text>
+
+      <rect x="225" y="10" width="180" height="42" rx="6" fill="#0F172A" stroke="#10B981"/>
+      <text x="315" y="36" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#10B981" text-anchor="middle">CONVERSION %</text>
+
+      <text x="425" y="36" font-family="Inter, -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#94A3B8">×</text>
+
+      <rect x="450" y="10" width="220" height="42" rx="6" fill="#0F172A" stroke="#F59E0B"/>
+      <text x="560" y="36" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F59E0B" text-anchor="middle">AVG TICKET (ATV)</text>
+
+      <text x="690" y="36" font-family="Inter, -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#94A3B8">=</text>
+
+      <rect x="715" y="10" width="235" height="42" rx="6" fill="#064E3B" stroke="#10B981"/>
+      <text x="832" y="36" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#D1FAE5" text-anchor="middle">GROSS SALES ($)</text>
+    </g>
+  </g>
+
+  <!-- 3 Strategic Levers Grid -->
+  <g transform="translate(50, 230)">
+    <!-- Lever 1: ATV -->
+    <rect x="0" y="0" width="315" height="230" rx="8" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+    <rect x="0" y="0" width="315" height="36" rx="8" fill="#1E293B"/>
+    <text x="15" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8">1. AVERAGE TICKET (ATV)</text>
+    <text x="15" y="60" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F3F4F6">Formula: Total Sales $ ÷ Transactions</text>
+    <text x="15" y="85" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Example: $350,000 ÷ 140 = $2,500 ATV</text>
+    <text x="15" y="115" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#38BDF8">How to Drive on Floor:</text>
+    <text x="15" y="135" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Diamond upgrade laddering (e.g. 1.0ct → 1.25ct)</text>
+    <text x="15" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Metal tier upselling (14K → 18K / Platinum)</text>
+    <text x="15" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• 0% financing to bridge payment spread</text>
+    <text x="15" y="205" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#38BDF8">Impact: Expands revenue without extra traffic</text>
+
+    <!-- Lever 2: UPT -->
+    <rect x="340" y="0" width="315" height="230" rx="8" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+    <rect x="340" y="0" width="315" height="36" rx="8" fill="#1E293B"/>
+    <text x="355" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#10B981">2. UNITS PER TRANSACTION (UPT)</text>
+    <text x="355" y="60" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F3F4F6">Formula: Total Units Sold ÷ Transactions</text>
+    <text x="355" y="85" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Example: 182 units ÷ 140 sales = 1.30 UPT</text>
+    <text x="355" y="115" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">How to Drive on Floor:</text>
+    <text x="355" y="135" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Companion add-on: Matching diamond studs</text>
+    <text x="355" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Wedding band attach at ring purchase</text>
+    <text x="355" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Jewelry care kit &amp; travel case attach</text>
+    <text x="355" y="205" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Impact: High-margin incremental profit</text>
+
+    <!-- Lever 3: Category Mix -->
+    <rect x="680" y="0" width="320" height="230" rx="8" fill="#161B22" stroke="#F59E0B" stroke-width="1.5"/>
+    <rect x="680" y="0" width="320" height="36" rx="8" fill="#1E293B"/>
+    <text x="695" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F59E0B">3. CATEGORY PRODUCT MIX</text>
+    <text x="695" y="60" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F3F4F6">Optimal Fine Jewelry Margin Mix:</text>
+    <text x="695" y="85" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Bridal &amp; Engagement: 45% (High ATV)</text>
+    <text x="695" y="105" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Fashion Diamond / Gold: 30% (55% Margin)</text>
+    <text x="695" y="125" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Timepieces: 15% (Brand Prestige)</text>
+    <text x="695" y="145" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Custom Design &amp; Repair: 10% (75% Margin)</text>
+    <text x="695" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Goal: Balance high dollar volume with high margin rate</text>
+  </g>
+
+  <!-- Summary Box Bottom -->
+  <g transform="translate(50, 480)">
+    <rect x="0" y="0" width="1000" height="150" rx="8" fill="#1E293B"/>
+    <text x="20" y="30" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#38BDF8">THE COMPOUNDING MULTIPLIER EFFECT:</text>
+    <text x="20" y="58" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">If a store increases <strong fill="#10B981">Conversion by 10%</strong>, increases <strong fill="#38BDF8">ATV by 10%</strong>, and lifts <strong fill="#F59E0B">UPT by 5%</strong>:</text>
+    <text x="20" y="82" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#10B981">Total Store Revenue Increases by +27.05% Without Spending an Extra Dollar on Traffic Advertising.</text>
+  </g>
+</svg>

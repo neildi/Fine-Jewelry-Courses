@@ -10,6 +10,12 @@ A useful distinction: footfall counts how many people entered the store, while A
 
 ## Reading the Two Numbers Together, Not Separately
 
+<figure>
+  <img src="../assets/c12-m03-atv-upt-product-mix-engine.svg" alt="High Ticket Sales Engine ATV UPT" width="100%" />
+  <figcaption><strong>Figure 3.1:</strong> The High-Ticket Sales Engine — Interplay between Average Ticket (ATV), Units Per Transaction (UPT), and optimal margin category mix.</figcaption>
+</figure>
+
+
 A specific analytical habit worth building: read ATV and UPT side by side rather than one at a time, since the combination reveals a different story than either number alone. Two associates completing the same 100 transactions can produce very different total revenue purely from a UPT difference — one averaging 3 items per transaction at $50 average sale value generates $5,000 in revenue from those 100 transactions, while another averaging 6 items per transaction at $90 average sale value generates $9,000 from the identical transaction count. Neither associate is necessarily better at closing sales; the second associate is simply better at expanding the transaction once it's already happening, which is a specific, trainable, and separately coachable skill from the initial close itself.
 
 ## Jewelry-Specific Benchmarks for ATV and UPT

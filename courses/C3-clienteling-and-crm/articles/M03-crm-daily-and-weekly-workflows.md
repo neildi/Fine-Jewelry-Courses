@@ -36,6 +36,12 @@ Gem Logic's own description of an unmanaged jewelry store captures the same patt
 
 ## The daily habit: know what today has already promised
 
+<figure>
+  <img src="../assets/c3-m03-crm-daily-weekly-rhythm.svg" alt="CRM Daily and Weekly Operating Rhythm" width="100%" />
+  <figcaption><strong>Figure 3.1:</strong> CRM Daily &amp; Weekly Operating Rhythm — The 15-minute morning routine and structured weekly clienteling playbook.</figcaption>
+</figure>
+
+
 Before your first client interaction of the day, look at exactly what today already owes people. Gem Logic's manager-level routine calls this "know what today has already promised," and the same three-part check works at an individual associate's scale:
 
 - **Repairs and special orders due today.** Are they actually ready? If anything has slipped, the client deserves a message before they call you, not after.

@@ -6,6 +6,12 @@ Module 1 established that every job on the repair-to-custom-design continuum nee
 
 ## Inspect Before You Accept: The Pre-Existing Condition Check
 
+<figure>
+  <img src="../assets/c8-m02-jewelry-intake-condition-map.svg" alt="Jewelry Intake Condition Mapping Template" width="100%" />
+  <figcaption><strong>Figure 2.1:</strong> Jewelry Intake Condition Mapping Template &amp; 6-Point Checklist — 10x magnification flaw documentation, stone tightness testing, and pre-existing damage disclosure.</figcaption>
+</figure>
+
+
 The single most important discipline at intake is documenting a piece's condition *before* accepting it for work, not after. This protects everyone: the client from a store that might (even unintentionally) blame a pre-existing problem on the repair process, and the store from a client who might later attribute unrelated, pre-existing damage to the work performed.
 
 A thorough intake inspection, done under magnification, specifically checks for: thinning metal, porosity, stress fractures, worn or bent prongs, hidden solder seams from earlier repairs, and structural fatigue in the metal generally. For any stone in the piece, this same inspection should note existing chips, abrasions, or identifying inclusions *before* any work begins — this is what lets a store later prove a stone's condition was unchanged by the repair, rather than simply asserting it. Rotating the piece and checking it from multiple angles matters specifically because a single viewing angle can miss loose settings, hairline cracks, or residue hiding a deeper problem; the standard operating principle worth internalizing is simple: **inspect, rotate, confirm, and document** — never draw a conclusion from one angle alone.

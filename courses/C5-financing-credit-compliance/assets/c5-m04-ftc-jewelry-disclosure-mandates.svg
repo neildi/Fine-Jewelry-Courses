@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">FTC Jewelry Guides Compliance: Counter Disclosure Mandates</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">Federal Trade Commission legal requirements for gemstone treatments, synthetic disclosure, and metal stamping</text>
+
+  <!-- 4 Core Compliance Pillars -->
+  <g transform="translate(50, 100)">
+    <!-- Pillar 1: Lab-Grown Diamonds -->
+    <rect x="0" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+    <rect x="0" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="15" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8">1. LAB-GROWN DIAMONDS</text>
+    
+    <text x="15" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">✓ APPROVED FTC TERMS:</text>
+    <text x="15" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• "Laboratory-Grown"</text>
+    <text x="15" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• "Laboratory-Created"</text>
+    <text x="15" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• "[Brand]-Created"</text>
+
+    <text x="15" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#EF4444">❌ ILLEGAL / BARRED TERMS:</text>
+    <text x="15" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">• "Cultured" (without qualifier)</text>
+    <text x="15" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">• "Real" or "Natural"</text>
+    <text x="15" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">• "Found in nature"</text>
+    <text x="15" y="235" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">• Omitting modifier on tag/receipt</text>
+
+    <rect x="10" y="270" width="215" height="75" rx="6" fill="#0F172A"/>
+    <text x="15" y="290" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#38BDF8">Rule:</text>
+    <text x="15" y="310" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Modifier must have EQUAL</text>
+    <text x="15" y="325" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">conspicuousness &amp; size.</text>
+
+    <!-- Pillar 2: Gemstone Treatments -->
+    <rect x="255" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+    <rect x="255" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="270" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#10B981">2. GEMSTONE TREATMENTS</text>
+    
+    <text x="270" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">MANDATORY DISCLOSURE:</text>
+    <text x="270" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Emerald Oil / Resin filling</text>
+    <text x="270" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Sapphire/Ruby Heat treatment</text>
+    <text x="270" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Beryllium diffusion in corundum</text>
+    <text x="270" y="140" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Lead-glass filled ruby (Hybrid)</text>
+    <text x="270" y="160" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Irradiation (Blue Topaz/Diamonds)</text>
+
+    <text x="270" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#EF4444">SPECIAL CARE NOTICE:</text>
+    <text x="270" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">• Must disclose if treatment is</text>
+    <text x="270" y="235" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">  non-permanent or requires</text>
+    <text x="270" y="255" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">  special cleaning caution.</text>
+
+    <rect x="265" y="270" width="215" height="75" rx="6" fill="#0F172A"/>
+    <text x="270" y="290" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#10B981">Rule:</text>
+    <text x="270" y="310" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Written disclosure required</text>
+    <text x="270" y="325" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">prior to sale completion.</text>
+
+    <!-- Pillar 3: Metal Fineness -->
+    <rect x="510" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#F59E0B" stroke-width="1.5"/>
+    <rect x="510" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="525" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F59E0B">3. METAL KARAT &amp; MARKS</text>
+    
+    <text x="525" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#38BDF8">TOLERANCES &amp; STANDARDS:</text>
+    <text x="525" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• 14K must be ≥ 583.3 ppt (58.3%)</text>
+    <text x="525" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• 18K must be ≥ 750 ppt (75.0%)</text>
+    <text x="525" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Platinum: 950 Plat vs 900 Plat</text>
+
+    <text x="525" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">TRADEMARK RULE (US):</text>
+    <text x="525" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• If quality mark (e.g. "14K") is</text>
+    <text x="525" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">  stamped, a registered maker's</text>
+    <text x="525" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">  trademark stamp is mandatory.</text>
+
+    <rect x="520" y="270" width="215" height="75" rx="6" fill="#0F172A"/>
+    <text x="525" y="290" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#F59E0B">Vermeil Standard:</text>
+    <text x="525" y="310" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Sterling silver base + min</text>
+    <text x="525" y="325" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">2.5 microns 10K+ gold plating.</text>
+
+    <!-- Pillar 4: Pricing & Advertising -->
+    <rect x="765" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#EC4899" stroke-width="1.5"/>
+    <rect x="765" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="780" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#EC4899">4. PRICING &amp; ADVERTISING</text>
+    
+    <text x="780" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#EF4444">DECEPTIVE PRICING RULES:</text>
+    <text x="780" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">• Fictitious "Original" Prices:</text>
+    <text x="780" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">  Cannot mark "Was $10k, Now $5k"</text>
+    <text x="780" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">  unless offered at $10k in good</text>
+    <text x="780" y="140" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">  faith for a substantial period.</text>
+
+    <text x="780" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#38BDF8">CARAT WEIGHT RANGES:</text>
+    <text x="780" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Fractional weights must state</text>
+    <text x="780" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">  exact tolerance or decimal (e.g.</text>
+    <text x="780" y="235" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">  3/4 ct = 0.69 – 0.82 ct).</text>
+
+    <rect x="775" y="270" width="215" height="75" rx="6" fill="#0F172A"/>
+    <text x="780" y="290" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#EC4899">Appraisal Trap:</text>
+    <text x="780" y="310" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Never use inflated insurance</text>
+    <text x="780" y="325" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">values as a sales discount tool.</text>
+  </g>
+
+  <!-- Legal Penalties Warning -->
+  <rect x="50" y="480" width="1000" height="150" rx="8" fill="#2A1215" stroke="#EF4444" stroke-width="1.5"/>
+  <text x="70" y="510" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#EF4444">LEGAL &amp; CIVIL PENALTIES FOR FTC NON-COMPLIANCE</text>
+  <text x="70" y="535" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#FECACA">• <strong fill="#FCA5A5">FTC Enforcement:</strong> Civil penalties exceed $50,000 per violation for deceptive commercial practices and false origins.</text>
+  <text x="70" y="560" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#FECACA">• <strong fill="#FCA5A5">Lanham Act Civil Lawsuits:</strong> Competing jewelers and brands can sue for treble damages and attorney fees for mislabeled stones.</text>
+  <text x="70" y="585" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#FECACA">• <strong fill="#FCA5A5">Point of Sale Rule:</strong> All gemstone treatments, lab origins, and metal purities must appear on physical and digital receipts.</text>
+</svg>

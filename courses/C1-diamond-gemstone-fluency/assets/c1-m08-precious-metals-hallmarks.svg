@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 700" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1100" height="700" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1096" height="696" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <!-- Header -->
+  <g transform="translate(50, 35)">
+    <rect x="0" y="0" width="180" height="24" rx="12" fill="#EAB308" fill-opacity="0.2"/>
+    <text x="90" y="16" fill="#FEF08A" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1">METALLURGY &amp; MARKS</text>
+    <text x="0" y="52" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">Precious Metals, Alloys &amp; Hallmark Standards</text>
+    <text x="0" y="74" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="13">Gold karatage, Platinum vs. White Gold trade-offs, and international stamp identification.</text>
+  </g>
+
+  <!-- Metals Comparison Columns -->
+  <g transform="translate(50, 120)">
+    <!-- 1. Gold Karatage -->
+    <g transform="translate(0, 0)">
+      <rect width="310" height="380" rx="8" fill="#1E293B" stroke="#EAB308" stroke-width="1.5"/>
+      <rect x="15" y="15" width="280" height="35" rx="6" fill="#EAB308" fill-opacity="0.2"/>
+      <text x="155" y="38" fill="#FEF08A" font-family="system-ui, sans-serif" font-size="14" font-weight="700" text-anchor="middle">GOLD KARATAGE &amp; PURITY</text>
+
+      <g transform="translate(20, 65)">
+        <text x="0" y="18" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">24K (Fineness 999 / 99.9%)</text>
+        <text x="0" y="34" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">Pure gold. Very soft, easily deformed; standard in Asia/India.</text>
+
+        <text x="0" y="60" fill="#FEF08A" font-family="system-ui, sans-serif" font-size="12" font-weight="700">18K (Fineness 750 / 75.0%)</text>
+        <text x="0" y="76" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">18 parts gold, 6 parts alloy. Luxury maison standard; rich color.</text>
+
+        <text x="0" y="102" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">14K (Fineness 585 / 58.5%)</text>
+        <text x="0" y="118" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">14 parts gold, 10 parts alloy. US bridal workhorse; high durability.</text>
+
+        <text x="0" y="144" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">10K (Fineness 417 / 41.7%)</text>
+        <text x="0" y="160" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">Legal minimum in US to be called gold. Very hard, highly alloyed.</text>
+
+        <rect x="-5" y="185" width="280" height="110" rx="6" fill="#0F172A"/>
+        <text x="10" y="205" fill="#FEF08A" font-family="system-ui, sans-serif" font-size="11" font-weight="700">Gold Color Recipes:</text>
+        <text x="10" y="225" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">• <tspan font-weight="700" fill="#EAB308">Yellow Gold:</tspan> Gold + Copper + Silver</text>
+        <text x="10" y="243" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">• <tspan font-weight="700" fill="#F87171">Rose Gold:</tspan> Gold + Copper (75% Au / 25% Cu)</text>
+        <text x="10" y="261" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">• <tspan font-weight="700" fill="#E2E8F0">White Gold:</tspan> Gold + Nickel/Palladium + Rhodium</text>
+      </g>
+    </g>
+
+    <!-- 2. Platinum vs White Gold -->
+    <g transform="translate(345, 0)">
+      <rect width="310" height="380" rx="8" fill="#1E293B" stroke="#38BDF8" stroke-width="1.5"/>
+      <rect x="15" y="15" width="280" height="35" rx="6" fill="#0284C7" fill-opacity="0.2"/>
+      <text x="155" y="38" fill="#93C5FD" font-family="system-ui, sans-serif" font-size="14" font-weight="700" text-anchor="middle">PLATINUM (PT950 / PT900)</text>
+
+      <g transform="translate(20, 65)">
+        <text x="0" y="18" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Properties &amp; Metallurgy</text>
+        <text x="0" y="36" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="11">• 90–95% pure elemental platinum</text>
+        <text x="0" y="54" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="11">• 60% denser than 14k gold (heavy heft)</text>
+        <text x="0" y="72" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="11">• 100% naturally white (no plating)</text>
+        <text x="0" y="90" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="11">• Hypoallergenic (ideal for sensitive skin)</text>
+
+        <line x1="0" y1="110" x2="270" y2="110" stroke="#334155" stroke-width="1"/>
+
+        <text x="0" y="130" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Patina vs. Gold Metal Loss</text>
+        <text x="0" y="150" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">When gold scratches, metal is scraped away. When platinum scratches, metal merely displaces (patina), which can be burnished back without losing mass.</text>
+
+        <rect x="-5" y="185" width="280" height="110" rx="6" fill="#0F172A"/>
+        <text x="10" y="205" fill="#93C5FD" font-family="system-ui, sans-serif" font-size="11" font-weight="700">Counter Script on Re-plating:</text>
+        <text x="10" y="225" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="10">"White gold is yellow gold bleached with alloys</text>
+        <text x="10" y="241" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="10">and rhodium plated; it needs re-dipping.</text>
+        <text x="10" y="257" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="10">Platinum is naturally white forever and never</text>
+        <text x="10" y="273" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="10">changes color."</text>
+      </g>
+    </g>
+
+    <!-- 3. Sterling Silver & Alternative Metals -->
+    <g transform="translate(690, 0)">
+      <rect width="310" height="380" rx="8" fill="#1E293B" stroke="#94A3B8" stroke-width="1.5"/>
+      <rect x="15" y="15" width="280" height="35" rx="6" fill="#64748B" fill-opacity="0.3"/>
+      <text x="155" y="38" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="14" font-weight="700" text-anchor="middle">STERLING &amp; CONTEMPORARY</text>
+
+      <g transform="translate(20, 65)">
+        <text x="0" y="18" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Sterling Silver 925</text>
+        <text x="0" y="36" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="11">• 92.5% silver, 7.5% copper</text>
+        <text x="0" y="54" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="11">• Tarnishes from sulfur exposure (Ag2S)</text>
+        <text x="0" y="72" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="11">• Soft: Mohs 2.5–3.0 (fashion, not bridal)</text>
+
+        <line x1="0" y1="95" x2="270" y2="95" stroke="#334155" stroke-width="1"/>
+
+        <text x="0" y="115" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Men's Contemporary Metals</text>
+        <text x="0" y="133" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">• <tspan font-weight="700" fill="#FFFFFF">Titanium:</tspan> Lightweight, hard, cannot resize</text>
+        <text x="0" y="151" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">• <tspan font-weight="700" fill="#FFFFFF">Tungsten Carbide:</tspan> Scratch-proof, brittle (shatters under impact), cannot resize</text>
+        <text x="0" y="169" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">• <tspan font-weight="700" fill="#FFFFFF">Tantalum / Cobalt:</tspan> Dense, shatter-resistant</text>
+
+        <rect x="-5" y="185" width="280" height="110" rx="6" fill="#0F172A"/>
+        <text x="10" y="205" fill="#F87171" font-family="system-ui, sans-serif" font-size="11" font-weight="700">Crucial Resizing Warning:</text>
+        <text x="10" y="225" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="10">Always inform clients buying Tungsten,</text>
+        <text x="10" y="241" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="10">Titanium, or Carbon Fiber that the ring</text>
+        <text x="10" y="257" fill="#EF4444" font-family="system-ui, sans-serif" font-size="10">CANNOT BE RESIZED on the jeweler's bench;</text>
+        <text x="10" y="273" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="10">it must be fully replaced if size changes.</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- International Hallmarks Bar -->
+  <g transform="translate(50, 520)">
+    <rect width="1000" height="145" rx="8" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+    <text x="25" y="28" fill="#FBBF24" font-family="system-ui, sans-serif" font-size="13" font-weight="700">INTERNATIONAL HALLMARK RECOGNITION GUIDE</text>
+
+    <g transform="translate(25, 45)">
+      <rect x="0" y="0" width="220" height="75" rx="4" fill="#0F172A"/>
+      <text x="15" y="22" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">United States (FTC)</text>
+      <text x="15" y="42" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">Karat mark + Maker's Trademark</text>
+      <text x="15" y="58" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">e.g., "14K", "18K", "PLAT"</text>
+
+      <rect x="245" y="0" width="220" height="75" rx="4" fill="#0F172A"/>
+      <text x="15" y="22" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">United Kingdom (Assay)</text>
+      <text x="15" y="42" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">Sponsor + Fineness + Town + Year</text>
+      <text x="15" y="58" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">e.g., 750 (Crown), Anchor (Bham)</text>
+
+      <rect x="490" y="0" width="220" height="75" rx="4" fill="#0F172A"/>
+      <text x="15" y="22" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">European Millesimal</text>
+      <text x="15" y="42" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">Pure parts per 1,000</text>
+      <text x="15" y="58" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">375 (9K), 585 (14K), 750 (18K), 950 (Pt)</text>
+
+      <rect x="735" y="0" width="220" height="75" rx="4" fill="#0F172A"/>
+      <text x="15" y="22" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">BIS Hallmark (India)</text>
+      <text x="15" y="42" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">BIS Logo + Karat/Fineness (22K916)</text>
+      <text x="15" y="58" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">+ 6-digit alphanumeric HUID code</text>
+    </g>
+  </g>
+</svg>

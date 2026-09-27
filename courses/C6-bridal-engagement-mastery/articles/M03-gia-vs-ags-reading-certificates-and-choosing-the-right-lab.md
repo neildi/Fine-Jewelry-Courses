@@ -12,6 +12,12 @@ AGS didn't open its own diamond-grading laboratory until 1996, and it did so spe
 
 ## The Core Methodological Difference: Proportion Buckets vs. Measured Light Performance
 
+<figure>
+  <img src="../assets/c6-m03-bridal-lab-selection-matrix.svg" alt="Bridal Grading Lab Selection Guide" width="100%" />
+  <figcaption><strong>Figure 3.1:</strong> Bridal Grading Lab Comparative Guide — GIA, AGS, IGI, and GCAL strictness benchmarks and retail counter positioning.</figcaption>
+</figure>
+
+
 This is the single most important technical distinction in this module:
 
 - **GIA's cut grade** is a categorical system: Excellent, Very Good, Good, Fair, or Poor. It's determined primarily through proportions (table percentage, crown angle, pavilion angle), polish, symmetry, and an observer-panel visual assessment of face-up appearance. It does not include a direct, numeric light-return measurement on the report.

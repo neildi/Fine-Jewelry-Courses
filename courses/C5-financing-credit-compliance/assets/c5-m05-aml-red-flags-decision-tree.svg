@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">Anti-Money Laundering (AML) Compliance: Red Flags &amp; SAR Decision Tree</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">FinCEN 31 CFR Chapter X compliance protocols for luxury dealers in precious metals, stones, and jewelry</text>
+
+  <!-- Flowchart Decision Tree -->
+  <g transform="translate(50, 100)">
+    <!-- Root Trigger -->
+    <rect x="360" y="0" width="280" height="60" rx="8" fill="#161B22" stroke="#38BDF8" stroke-width="2"/>
+    <text x="500" y="25" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8" text-anchor="middle">CUSTOMER TRANSACTION INITIATED</text>
+    <text x="500" y="45" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#9CA3AF" text-anchor="middle">High-value purchase, trade-in, or payment</text>
+
+    <!-- Branch 1: Cash > $10,000 -->
+    <path d="M 400 60 L 200 120" stroke="#38BDF8" stroke-width="1.5"/>
+    <rect x="80" y="120" width="240" height="110" rx="8" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+    <text x="100" y="145" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#38BDF8">CASH / CASH EQUIV &gt; $10k</text>
+    <text x="100" y="170" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Single or related 24-hr transactions</text>
+    <text x="100" y="190" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Includes cashier's checks &lt;$10k</text>
+    <text x="100" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Action: File IRS Form 8300 (15 days)</text>
+
+    <!-- Branch 2: Structuring / Suspicious Red Flags -->
+    <path d="M 500 60 L 500 120" stroke="#EF4444" stroke-width="1.5"/>
+    <rect x="380" y="120" width="240" height="110" rx="8" fill="#2A1215" stroke="#EF4444" stroke-width="1.5"/>
+    <text x="400" y="145" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#EF4444">SUSPICIOUS RED FLAGS</text>
+    <text x="400" y="170" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FECACA">• Offers $9,900 cash to avoid ID</text>
+    <text x="400" y="190" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FECACA">• Unconcerned with price or quality</text>
+    <text x="400" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#EF4444">Action: Notify Compliance Officer / SAR</text>
+
+    <!-- Branch 3: High Risk Geographic / PEP -->
+    <path d="M 600 60 L 800 120" stroke="#F59E0B" stroke-width="1.5"/>
+    <rect x="680" y="120" width="240" height="110" rx="8" fill="#161B22" stroke="#F59E0B" stroke-width="1.5"/>
+    <text x="700" y="145" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F59E0B">OFAC / SANCTIONS CHECK</text>
+    <text x="700" y="170" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Politically Exposed Person (PEP)</text>
+    <text x="700" y="190" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• High-risk sanctioned country wire</text>
+    <text x="700" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Action: OFAC Specially Designated List</text>
+  </g>
+
+  <!-- AML Red Flags Summary Grid -->
+  <g transform="translate(50, 360)">
+    <rect x="0" y="0" width="1000" height="260" rx="8" fill="#161B22" stroke="#334155"/>
+    <rect x="0" y="0" width="1000" height="32" rx="8" fill="#1E293B"/>
+    <text x="20" y="22" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#F3F4F6">TOP 6 JEWELRY RETAIL AML RED FLAGS (FinCEN GUIDELINES)</text>
+
+    <g transform="translate(20, 45)">
+      <!-- Flag 1 -->
+      <rect x="0" y="0" width="300" height="90" rx="6" fill="#0F172A" stroke="#334155"/>
+      <text x="15" y="22" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#EF4444">1. Structuring Below $10k</text>
+      <text x="15" y="45" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Buyer asks to pay $9,500 in cash</text>
+      <text x="15" y="63" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">today and $9,500 cash tomorrow.</text>
+
+      <!-- Flag 2 -->
+      <rect x="330" y="0" width="300" height="90" rx="6" fill="#0F172A" stroke="#334155"/>
+      <text x="345" y="22" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#EF4444">2. Reluctance to Provide ID</text>
+      <text x="345" y="45" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Refuses standard government ID</text>
+      <text x="345" y="63" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">or offers fraudulent documents.</text>
+
+      <!-- Flag 3 -->
+      <rect x="660" y="0" width="300" height="90" rx="6" fill="#0F172A" stroke="#334155"/>
+      <text x="675" y="22" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#EF4444">3. Price &amp; Quality Indifference</text>
+      <text x="675" y="45" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Buys high-value loose diamonds or gold</text>
+      <text x="675" y="63" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">bars without caring about cut or value.</text>
+
+      <!-- Flag 4 -->
+      <rect x="0" y="105" width="300" height="90" rx="6" fill="#0F172A" stroke="#334155"/>
+      <text x="15" y="127" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#EF4444">4. Third-Party Wire Transfers</text>
+      <text x="15" y="150" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Payment arrives from an unrelated</text>
+      <text x="15" y="168" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">offshore entity or shell company.</text>
+
+      <!-- Flag 5 -->
+      <rect x="330" y="105" width="300" height="90" rx="6" fill="#0F172A" stroke="#334155"/>
+      <text x="345" y="127" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#EF4444">5. Immediate Refund Demands</text>
+      <text x="345" y="150" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Pays large cash sum, cancels order</text>
+      <text x="345" y="168" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">next morning, asks for store check.</text>
+
+      <!-- Flag 6 -->
+      <rect x="660" y="105" width="300" height="90" rx="6" fill="#0F172A" stroke="#334155"/>
+      <text x="675" y="127" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#EF4444">6. Unknown Walk-In Gold Liquidation</text>
+      <text x="675" y="150" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Selling large batches of scrap gold</text>
+      <text x="675" y="168" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">or unset gems below market value.</text>
+    </g>
+  </g>
+</svg>

@@ -6,6 +6,12 @@ With lab-grown diamonds now over half of new engagement ring sales (Module 1) an
 
 ## What Each Option Actually Is
 
+<figure>
+  <img src="../assets/c6-m04-bridal-stone-origin-advisor.svg" alt="Ethical Bridal Stone Origin Advisor" width="100%" />
+  <figcaption><strong>Figure 4.1:</strong> Ethical Bridal Stone Advisory — Objective comparison of Natural Diamonds, Lab-Grown Diamonds, and Simulants with verbatim presentation scripts.</figcaption>
+</figure>
+
+
 **Natural diamonds** formed in the Earth's mantle over roughly a billion years or more, under pressures and temperatures found only 150-200 kilometers below the surface, and were brought to the surface by ancient volcanic eruptions.
 
 **Lab-grown diamonds** are chemically, physically, and optically identical to natural diamonds — same carbon crystal structure, same hardness, same optical properties. GIA's own research describes two production methods: HPHT (High Pressure, High Temperature), which subjects a carbon source to pressures of 5-6 GPa and temperatures of 1300-1600°C using a metallic flux and a diamond seed, actually exceeding the temperature range of natural diamond formation to speed up growth; and CVD (Chemical Vapor Deposition), which uses a reactor where hydrogen and methane gases flow over a diamond seed, with microwaves activating a plasma that deposits diamond material layer by layer. Both methods mimic the essential conditions of natural formation; they simply compress a process that takes geological time into weeks.

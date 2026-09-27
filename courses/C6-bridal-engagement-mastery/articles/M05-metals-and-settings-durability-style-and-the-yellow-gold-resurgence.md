@@ -6,6 +6,12 @@ Module 1 identified yellow gold's resurgence and the rise of bezel and hidden-ha
 
 ## Gold Karats: The Durability Trade-Off Most Buyers Don't Expect
 
+<figure>
+  <img src="../assets/c6-m05-bridal-settings-and-metals-guide.svg" alt="Bridal Settings and Precious Metals Guide" width="100%" />
+  <figcaption><strong>Figure 5.1:</strong> Bridal Settings &amp; Precious Metals Guide — Solitaire, Bezel, Halo, and Pavé architectures paired with Platinum and Karat Gold wear characteristics.</figcaption>
+</figure>
+
+
 Karat measures the proportion of pure gold in an alloy: 14k is 58.3% gold, 18k is 75% gold, and 22k is 91.7% gold, with the remainder made up of other metals (copper, silver, palladium, zinc) that affect both color and hardness. The counterintuitive fact worth explaining clearly to clients: higher karat means richer color but softer metal, not "better" in every sense. On the Vickers hardness scale, 14k gold measures around 150 HV — the hardest and most durable of the common gold options — while 18k measures somewhat softer at around 125 HV. This is exactly why 18k is the standard choice for high-end pieces (richer color, still workable durability) while 14k is often recommended specifically for daily-wear durability, and 22k is generally reserved for jewelry that won't see everyday wear and impact, like some cultural or ceremonial pieces.
 
 ## Platinum: Different Failure Mode, Not "No" Failure Mode

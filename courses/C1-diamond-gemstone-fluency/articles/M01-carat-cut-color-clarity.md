@@ -75,6 +75,19 @@ One detail that helps explain client sticker shock at certain weights: diamond p
 
 ## Cut is the only C a human made
 
+
+<figure>
+  <img src="../assets/c1-m01-diamond-anatomy-proportions.svg" alt="Diamond Anatomy and Ideal Cut Proportions" width="100%" />
+  <figcaption><strong>Figure 1.1:</strong> Anatomy of a Standard Round Brilliant Diamond showing crown, table, pavilion angles, and proportion ranges benchmarked to GIA Excellent standards.</figcaption>
+</figure>
+
+<figure>
+  <img src="../assets/c1-m01-light-performance-optics.svg" alt="Diamond Cut Optics and Light Performance" width="100%" />
+  <figcaption><strong>Figure 1.2:</strong> Optical Ray Tracing — Ideal Cut total internal reflection vs. Shallow ("Fish-Eye") and Deep ("Nail-Head") light leakage.</figcaption>
+</figure>
+
+
+
 Colour, clarity and carat weight are geology. Cut is a decision someone made at a wheel, and it is the C that most changes whether a stone looks alive in the case. Cut describes how a diamond interacts with light: the arrangement and proportions of its facets, not its outline. Shape and cut are different words. Oval is a shape. Cut is the overall design.
 
 One limit to know before you speak: GIA cut grades are only assigned to standard round brilliant diamonds, the only cut with standardised facets. Everything else (marquise, emerald, pear, oval, heart, triangle) is a fancy shape and carries no cut grade. New associates routinely promise an "Excellent cut oval" and have to walk it back when the report arrives.
@@ -180,6 +193,14 @@ Client: "I saw online that SI1 is the sweet spot for 'eye-clean.' Is that true?"
 Associate: "It's a helpful rule of thumb, but it's not official terminology, and it varies stone to stone. Rather than take my word or a general rule, let's look at this specific stone face-up together, at a normal distance, the way you'd actually see it every day."
 
 ## Building your two-stone demonstration
+
+
+<figure>
+  <img src="../assets/c1-m01-4cs-summary-matrix.svg" alt="The 4Cs Sales Floor Demonstration Matrix" width="100%" />
+  <figcaption><strong>Figure 1.3:</strong> The 4Cs Counter Demonstration Matrix — Client questions, counter actions, and floor phrasing for Cut, Color, Clarity, and Carat.</figcaption>
+</figure>
+
+
 
 This is the deliverable: not a script, a routine you can run at your own case.
 

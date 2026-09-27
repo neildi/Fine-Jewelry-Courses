@@ -77,6 +77,12 @@ Look at how tightly the eligibility ranges are drawn. A client asking for a full
 
 ## The report, field by field
 
+<figure>
+  <img src="../assets/c1-m02-gia-grading-report-annotated.svg" alt="Annotated GIA Diamond Grading Report Guide" width="100%" />
+  <figcaption><strong>Figure 2.1:</strong> Annotated GIA Diamond Grading Report &amp; Dossier — Line-by-line breakdown of identification, 4Cs results, proportion diagram, clarity plot, and counter compliance rules.</figcaption>
+</figure>
+
+
 Read the fields in this order. It moves from "what is this object" to "how good is it," which is the order a client's brain wants.
 
 1. **Report number.** A unique number for that document and that stone. It is the key to verification, and for Origin Reports the number is inscribed on the girdle.

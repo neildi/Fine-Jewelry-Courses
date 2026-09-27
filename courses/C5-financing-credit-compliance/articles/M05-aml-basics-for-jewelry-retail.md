@@ -6,6 +6,12 @@ Module 4 covered what you can say about a piece. This module covers a different 
 
 ## Why Jewelry Dealers Have AML Obligations in the First Place
 
+<figure>
+  <img src="../assets/c5-m05-aml-red-flags-decision-tree.svg" alt="AML Compliance and Red Flags Tree" width="100%" />
+  <figcaption><strong>Figure 5.1:</strong> Anti-Money Laundering (AML) &amp; FinCEN Decision Tree — Form 8300 thresholds, OFAC sanctions, and top 6 jewelry retail red flags.</figcaption>
+</figure>
+
+
 In the United States, certain jewelry and precious-metals dealers are designated under the Bank Secrecy Act framework as a category of business subject to AML program requirements, administered through FinCEN (the Financial Crimes Enforcement Network, a bureau of the U.S. Treasury). The underlying logic is straightforward even if the regulatory mechanics are technical: high-value, easily-transportable, easily-resold goods are an attractive vehicle for moving money that someone wants to disguise the origin of, and jewelry checks all three of those boxes. This is the same underlying concern that drives Form 8300's $10,000 cash-reporting threshold covered in C4 — Form 8300 is one specific, concrete piece of a broader AML framework, not a standalone rule that exists in isolation.
 
 This is exactly why AML procedures show up explicitly in real job postings at luxury maisons — Cartier's Client Advisor posting, for instance, lists "comply with product handling, inventory control, anti-money laundering procedures" as a stated job duty, alongside being "accountable for shrinkage and shortage of stock." AML compliance isn't a back-office legal abstraction; it's written directly into frontline sales job descriptions at major jewelry houses.

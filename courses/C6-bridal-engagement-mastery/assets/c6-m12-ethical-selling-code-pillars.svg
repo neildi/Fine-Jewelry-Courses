@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">Ethical Standards in High-Ticket Bridal Selling: 4 Core Pillars</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">Protecting consumer trust, preventing predatory tactics, and upholding the integrity of the fine jewelry profession</text>
+
+  <!-- 4 Pillars Cards -->
+  <g transform="translate(50, 100)">
+    <!-- Pillar 1 -->
+    <rect x="0" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+    <rect x="0" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="15" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8">1. UNBIASED DISCLOSURE</text>
+    
+    <text x="15" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">The Standard:</text>
+    <text x="15" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Full FTC material disclosure</text>
+    <text x="15" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Disclose all gemstone heat,</text>
+    <text x="15" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">  fracture filling &amp; oils</text>
+    <text x="15" y="140" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Clear natural vs lab origins</text>
+
+    <text x="15" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#EF4444">Prohibited Practice:</text>
+    <text x="15" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">• Hiding treatments on invoice</text>
+    <text x="15" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">• Ambiguous terminology</text>
+    <text x="15" y="235" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">  ("cultured" diamond)</text>
+
+    <rect x="10" y="270" width="215" height="75" rx="6" fill="#0F172A"/>
+    <text x="15" y="295" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#38BDF8">Principle:</text>
+    <text x="15" y="315" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Trust is built on 100% upfront</text>
+    <text x="15" y="330" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">technical honesty.</text>
+
+    <!-- Pillar 2 -->
+    <rect x="255" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+    <rect x="255" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="270" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#10B981">2. NO FEAR OR GUILT</text>
+    
+    <text x="270" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">The Standard:</text>
+    <text x="270" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Respect the client's stated</text>
+    <text x="270" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">  budget comfort zone</text>
+    <text x="270" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Guide with joyful pride</text>
+    <text x="270" y="140" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Re-engineer 4Cs to fit</text>
+
+    <text x="270" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#EF4444">Prohibited Practice:</text>
+    <text x="270" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">• "Two months' salary" guilt</text>
+    <text x="270" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">• Shaming budget limits</text>
+    <text x="270" y="235" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">• High-pressure urgency closes</text>
+
+    <rect x="265" y="270" width="215" height="75" rx="6" fill="#0F172A"/>
+    <text x="270" y="295" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#10B981">Principle:</text>
+    <text x="270" y="315" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Never let a client leave with</text>
+    <text x="270" y="330" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">financial remorse or dread.</text>
+
+    <!-- Pillar 3 -->
+    <rect x="510" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#F59E0B" stroke-width="1.5"/>
+    <rect x="510" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="525" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F59E0B">3. TRANSPARENT PRICING</text>
+    
+    <text x="525" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">The Standard:</text>
+    <text x="525" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Fair, honest markup baseline</text>
+    <text x="525" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Accurate stone itemization</text>
+    <text x="525" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">  (Center + Setting + Labor)</text>
+    <text x="525" y="140" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Consistent policy across staff</text>
+
+    <text x="525" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#EF4444">Prohibited Practice:</text>
+    <text x="525" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">• Fake "Today Only 50% Off"</text>
+    <text x="525" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">• Inflated appraisal discounts</text>
+    <text x="525" y="235" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">• Bait-and-switch certificates</text>
+
+    <rect x="520" y="270" width="215" height="75" rx="6" fill="#0F172A"/>
+    <text x="525" y="295" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#F59E0B">Principle:</text>
+    <text x="525" y="315" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">A luxury house never plays</text>
+    <text x="525" y="330" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">used-car pricing games.</text>
+
+    <!-- Pillar 4 -->
+    <rect x="765" y="0" width="235" height="360" rx="8" fill="#161B22" stroke="#EC4899" stroke-width="1.5"/>
+    <rect x="765" y="0" width="235" height="36" rx="8" fill="#1E293B"/>
+    <text x="780" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#EC4899">4. CONFLICT-FREE SOURCING</text>
+    
+    <text x="780" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">The Standard:</text>
+    <text x="780" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Kimberley Process compliance</text>
+    <text x="780" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Responsible Jewellery Council</text>
+    <text x="780" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">  (RJC) certified chain-of-custody</text>
+    <text x="780" y="140" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Verifiable mine origin records</text>
+
+    <text x="780" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#EF4444">Prohibited Practice:</text>
+    <text x="780" y="195" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">• Unvetted grey-market parcels</text>
+    <text x="780" y="215" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">• Buying untraced rough gold</text>
+    <text x="780" y="235" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">• Misrepresenting origin source</text>
+
+    <rect x="775" y="270" width="215" height="75" rx="6" fill="#0F172A"/>
+    <text x="780" y="295" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#EC4899">Principle:</text>
+    <text x="780" y="315" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Symbol of love must carry</text>
+    <text x="780" y="330" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">a clean, proud human legacy.</text>
+  </g>
+
+  <!-- Summary Box -->
+  <g transform="translate(50, 480)">
+    <rect x="0" y="0" width="1000" height="150" rx="8" fill="#1E293B"/>
+    <text x="20" y="30" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#38BDF8">THE RETAIL REPUTATION MANDATE:</text>
+    <text x="20" y="58" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">In high-ticket bridal, a single high-pressure deceptive sale costs the store tens of thousands in lost referral revenue. Advisors who practice radical integrity and empathy build unbreakable client books that compound over decades.</text>
+  </g>
+</svg>

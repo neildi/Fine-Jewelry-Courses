@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">Diamond Shape vs. Cut: Facet Architecture &amp; Light Performance</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">Demystifying geometric silhouettes vs. optical cutting quality across the 3 core facet families</text>
+
+  <!-- 3 Facet Categories -->
+  <g transform="translate(50, 100)">
+    <!-- Family 1: Brilliant Cuts -->
+    <rect x="0" y="0" width="315" height="420" rx="8" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+    <rect x="0" y="0" width="315" height="36" rx="8" fill="#1E293B"/>
+    <text x="15" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8">1. BRILLIANT CUT FAMILY</text>
+    
+    <text x="15" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Facet Geometry:</text>
+    <text x="15" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Triangular &amp; kite-shaped facets</text>
+    <text x="15" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Radiates from center to girdle</text>
+    <text x="15" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Maximizes scintillation &amp; fire</text>
+
+    <!-- Visual Shapes -->
+    <g transform="translate(20, 140)">
+      <!-- Round -->
+      <circle cx="35" cy="35" r="25" fill="#0F172A" stroke="#38BDF8" stroke-width="1.5"/>
+      <text x="35" y="75" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1" text-anchor="middle">Round (57/58f)</text>
+
+      <!-- Oval -->
+      <ellipse cx="115" cy="35" rx="18" ry="25" fill="#0F172A" stroke="#38BDF8" stroke-width="1.5"/>
+      <text x="115" y="75" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1" text-anchor="middle">Oval</text>
+
+      <!-- Pear -->
+      <path d="M 195 10 C 210 30, 215 50, 195 60 C 175 50, 180 30, 195 10 Z" fill="#0F172A" stroke="#38BDF8" stroke-width="1.5"/>
+      <text x="195" y="75" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1" text-anchor="middle">Pear / Drop</text>
+
+      <!-- Marquise -->
+      <path d="M 270 10 C 290 35, 290 35, 270 60 C 250 35, 250 35, 270 10 Z" fill="#0F172A" stroke="#38BDF8" stroke-width="1.5"/>
+      <text x="270" y="75" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1" text-anchor="middle">Marquise</text>
+    </g>
+
+    <text x="15" y="245" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Light Performance Characteristics:</text>
+    <text x="15" y="270" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Highest brilliance and sparkle</text>
+    <text x="15" y="290" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Superior inclusion masking (hides SI1)</text>
+    <text x="15" y="310" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Oval/Pear elongate finger silhouette</text>
+
+    <rect x="10" y="335" width="295" height="70" rx="6" fill="#0F172A"/>
+    <text x="15" y="355" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#38BDF8">Optical Warning:</text>
+    <text x="15" y="375" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Elongated shapes (Oval/Marquise/Pear)</text>
+    <text x="15" y="390" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">exhibit varying degrees of "Bow-Tie" shadow.</text>
+
+    <!-- Family 2: Step Cuts -->
+    <rect x="340" y="0" width="315" height="420" rx="8" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+    <rect x="340" y="0" width="315" height="36" rx="8" fill="#1E293B"/>
+    <text x="355" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#10B981">2. STEP CUT FAMILY</text>
+    
+    <text x="355" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Facet Geometry:</text>
+    <text x="355" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Rectilinear, parallel step facets</text>
+    <text x="355" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Concentric "hall-of-mirrors" effect</text>
+    <text x="355" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Elegant, architectural vintage clean lines</text>
+
+    <!-- Visual Shapes -->
+    <g transform="translate(360, 140)">
+      <!-- Emerald -->
+      <polygon points="20,10 60,10 70,20 70,50 60,60 20,60 10,50 10,20" fill="#0F172A" stroke="#10B981" stroke-width="1.5"/>
+      <text x="40" y="75" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1" text-anchor="middle">Emerald Cut</text>
+
+      <!-- Asscher -->
+      <polygon points="130,10 160,10 170,20 170,50 160,60 130,60 120,50 120,20" fill="#0F172A" stroke="#10B981" stroke-width="1.5"/>
+      <text x="145" y="75" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1" text-anchor="middle">Asscher (Square)</text>
+
+      <!-- Baguette -->
+      <rect x="220" y="15" width="45" height="40" fill="#0F172A" stroke="#10B981" stroke-width="1.5"/>
+      <text x="242" y="75" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1" text-anchor="middle">Baguette</text>
+    </g>
+
+    <text x="355" y="245" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Clarity &amp; Color Exposure:</text>
+    <text x="355" y="270" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Wide open table acts as a clear window</text>
+    <text x="355" y="290" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Cannot hide inclusions (VS2+ recommended)</text>
+    <text x="355" y="310" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Highlights pure crystal transparency</text>
+
+    <rect x="350" y="335" width="295" height="70" rx="6" fill="#0F172A"/>
+    <text x="355" y="355" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#10B981">Counter Rule:</text>
+    <text x="355" y="375" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Step cuts require higher clarity (VS1/VS2)</text>
+    <text x="355" y="390" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">and higher color (D–G) due to open facets.</text>
+
+    <!-- Family 3: Mixed / Modified -->
+    <rect x="680" y="0" width="320" height="420" rx="8" fill="#161B22" stroke="#F59E0B" stroke-width="1.5"/>
+    <rect x="680" y="0" width="320" height="36" rx="8" fill="#1E293B"/>
+    <text x="695" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F59E0B">3. MIXED &amp; MODIFIED CUTS</text>
+    
+    <text x="695" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Facet Geometry:</text>
+    <text x="695" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Combines step outline with brilliant faceting</text>
+    <text x="695" y="100" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Hybrid optical performance</text>
+    <text x="695" y="120" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Modern maximum sparkle in geometric outlines</text>
+
+    <!-- Visual Shapes -->
+    <g transform="translate(700, 140)">
+      <!-- Cushion -->
+      <rect x="15" y="10" width="50" height="50" rx="12" fill="#0F172A" stroke="#F59E0B" stroke-width="1.5"/>
+      <text x="40" y="75" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1" text-anchor="middle">Cushion (Pillow)</text>
+
+      <!-- Radiant -->
+      <polygon points="120,10 160,10 170,20 170,50 160,60 120,60 110,50 110,20" fill="#0F172A" stroke="#F59E0B" stroke-width="1.5"/>
+      <text x="140" y="75" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1" text-anchor="middle">Radiant Cut (70f)</text>
+
+      <!-- Princess -->
+      <rect x="220" y="10" width="50" height="50" fill="#0F172A" stroke="#F59E0B" stroke-width="1.5"/>
+      <text x="245" y="75" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1" text-anchor="middle">Princess (Square)</text>
+    </g>
+
+    <text x="695" y="245" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Best of Both Worlds:</text>
+    <text x="695" y="270" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Radiant: Cut-corner emerald shape + brilliance</text>
+    <text x="695" y="290" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Cushion: Antique romantic softness + intense fire</text>
+    <text x="695" y="310" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Princess: Sharp 90° modern architectural corners</text>
+
+    <rect x="690" y="335" width="300" height="70" rx="6" fill="#0F172A"/>
+    <text x="695" y="355" font-family="Inter, -apple-system, sans-serif" font-size="10" font-weight="bold" fill="#F59E0B">Setting Warning:</text>
+    <text x="695" y="375" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">Princess corners are vulnerable to chipping;</text>
+    <text x="695" y="390" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#CBD5E1">must be protected by V-prong or bezel corners.</text>
+  </g>
+
+  <!-- Summary Rule Banner -->
+  <g transform="translate(50, 540)">
+    <rect x="0" y="0" width="1000" height="95" rx="8" fill="#1E293B"/>
+    <text x="20" y="30" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8">THE CRITICAL DISTINCTION TO TEACH THE CLIENT:</text>
+    <text x="20" y="55" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#F3F4F6">"Shape" is the exterior outline silhouette (e.g. Oval, Pear, Emerald) chosen for aesthetic taste.</text>
+    <text x="20" y="75" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">"Cut" is the mathematical precision, symmetry, and Polish of the facets that unlocks optical light performance and fire.</text>
+  </g>
+</svg>

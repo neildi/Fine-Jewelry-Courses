@@ -40,6 +40,12 @@ A jewelry purchase is almost always tied to a life event, an engagement, a weddi
 
 ## The seven fields worth capturing from nearly every client
 
+<figure>
+  <img src="../assets/c3-m01-client-profile-data-architecture.svg" alt="Client Profile Data Architecture" width="100%" />
+  <figcaption><strong>Figure 1.1:</strong> Client Profile Data Architecture — The 4 high-yield data quadrants (Identity, Physical Sizing, Aesthetic Wishlist, Milestone Calendar) vs. strictly prohibited CRM records.</figcaption>
+</figure>
+
+
 Gem Logic's own guidance, built specifically for jewelry retailers, narrows this down to seven data points that generate the most repeat revenue, roughly in order of importance:
 
 | Field | Why it matters |

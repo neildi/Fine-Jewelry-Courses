@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 700" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1100" height="700" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1096" height="696" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <!-- Header -->
+  <g transform="translate(50, 35)">
+    <rect x="0" y="0" width="180" height="24" rx="12" fill="#10B981" fill-opacity="0.2"/>
+    <text x="90" y="16" fill="#6EE7B7" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1">GIA CLARITY PLOT KEY</text>
+    <text x="0" y="52" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">Inclusion &amp; Blemish Visual Plotting Guide</text>
+    <text x="0" y="74" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="13">GIA plotting symbols, Red vs. Green coding, and the 5 clarity grade-setting factors.</text>
+  </g>
+
+  <!-- Left: Internal Inclusions (Red) -->
+  <g transform="translate(50, 120)">
+    <rect width="480" height="420" rx="10" fill="#1E293B" stroke="#EF4444" stroke-width="1.5"/>
+    <rect x="15" y="15" width="450" height="35" rx="6" fill="#991B1B" fill-opacity="0.4"/>
+    <text x="25" y="38" fill="#FCA5A5" font-family="system-ui, sans-serif" font-size="14" font-weight="700">INTERNAL INCLUSIONS (Drawn in RED)</text>
+
+    <g transform="translate(25, 70)">
+      <!-- Feather -->
+      <path d="M 0,15 Q 15,5 30,15 M 10,10 L 15,20 M 20,8 L 25,18" stroke="#EF4444" stroke-width="2" fill="none"/>
+      <text x="45" y="14" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Feather (Ftr)</text>
+      <text x="45" y="28" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">Internal fracture/cleavage plane. Near girdle = durability risk.</text>
+
+      <!-- Pinpoint -->
+      <circle cx="15" cy="55" r="2.5" fill="#EF4444"/>
+      <text x="45" y="54" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Pinpoint (Pp)</text>
+      <text x="45" y="68" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">Tiny mineral crystal seen at 10x as a minuscule dot.</text>
+
+      <!-- Cloud -->
+      <ellipse cx="15" cy="95" rx="12" ry="7" fill="none" stroke="#EF4444" stroke-width="1.5" stroke-dasharray="2,2"/>
+      <text x="45" y="94" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Cloud (Cld)</text>
+      <text x="45" y="108" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">Dense cluster of microscopic pinpoints. Can cause haze if large.</text>
+
+      <!-- Crystal -->
+      <polygon points="15,130 23,138 15,146 7,138" fill="none" stroke="#EF4444" stroke-width="1.5"/>
+      <text x="45" y="134" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Crystal (Xtl)</text>
+      <text x="45" y="148" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">Mineral trapped inside diamond (garnet, diopside, diamond crystal).</text>
+
+      <!-- Needle -->
+      <line x1="5" y1="180" x2="25" y2="170" stroke="#EF4444" stroke-width="2"/>
+      <text x="45" y="174" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Needle (Ndl)</text>
+      <text x="45" y="188" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">Long, thin rod-like mineral inclusion.</text>
+
+      <!-- Twinning Wisp -->
+      <path d="M 5,215 Q 15,200 25,225" fill="none" stroke="#EF4444" stroke-width="1.5" stroke-dasharray="3,2"/>
+      <text x="45" y="214" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Twinning Wisp (W)</text>
+      <text x="45" y="228" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">Distortion along crystal growth twin plane.</text>
+
+      <!-- Cavity / Knot -->
+      <circle cx="15" cy="255" r="7" fill="#EF4444" fill-opacity="0.3" stroke="#EF4444" stroke-width="1.5"/>
+      <text x="45" y="254" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Cavity (Cv) / Knot (K)</text>
+      <text x="45" y="268" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">Opening where surface crystal fell out / crystal reaching surface.</text>
+
+      <!-- Laser Drill Hole -->
+      <line x1="5" y1="300" x2="25" y2="300" stroke="#EF4444" stroke-width="1.5"/>
+      <circle cx="25" cy="300" r="2" fill="#EF4444"/>
+      <text x="45" y="294" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Laser Drill Hole (LDH)</text>
+      <text x="45" y="308" fill="#EF4444" font-family="system-ui, sans-serif" font-size="10">Man-made clarity treatment channel. MANDATORY disclosure.</text>
+    </g>
+  </g>
+
+  <!-- Right: External Blemishes (Green) -->
+  <g transform="translate(570, 120)">
+    <rect width="480" height="420" rx="10" fill="#1E293B" stroke="#10B981" stroke-width="1.5"/>
+    <rect x="15" y="15" width="450" height="35" rx="6" fill="#065F46" fill-opacity="0.4"/>
+    <text x="25" y="38" fill="#6EE7B7" font-family="system-ui, sans-serif" font-size="14" font-weight="700">EXTERNAL BLEMISHES (Drawn in GREEN)</text>
+
+    <g transform="translate(25, 70)">
+      <!-- Natural -->
+      <polygon points="5,10 25,10 20,25 10,25" fill="#10B981" fill-opacity="0.5" stroke="#10B981" stroke-width="1"/>
+      <text x="45" y="14" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Natural (N)</text>
+      <text x="45" y="28" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">Original unpolished rough skin left on girdle by cutter to save weight.</text>
+
+      <!-- Indented Natural -->
+      <polygon points="5,50 25,50 15,65" fill="#10B981" stroke="#EF4444" stroke-width="1.5"/>
+      <text x="45" y="54" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Indented Natural (IN - Red/Green)</text>
+      <text x="45" y="68" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">Rough skin dipping below the facet surface into the stone.</text>
+
+      <!-- Extra Facet -->
+      <polygon points="10,90 25,95 20,110 5,105" fill="none" stroke="#10B981" stroke-width="1.5"/>
+      <text x="45" y="94" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Extra Facet (EF)</text>
+      <text x="45" y="108" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">Additional facet placed without symmetry to polish away a defect.</text>
+
+      <!-- Scratch / Polish Lines -->
+      <line x1="5" y1="135" x2="25" y2="145" stroke="#10B981" stroke-width="1"/>
+      <line x1="5" y1="140" x2="25" y2="150" stroke="#10B981" stroke-width="1"/>
+      <text x="45" y="134" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Scratch (S) / Polish Lines (PL)</text>
+      <text x="45" y="148" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">Surface abrasions or wheel marks. Affects Polish grade.</text>
+
+      <!-- Nick / Pit -->
+      <circle cx="15" cy="180" r="3" fill="#10B981"/>
+      <text x="45" y="174" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Nick (Nk) / Pit (P)</text>
+      <text x="45" y="188" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">Tiny surface opening on a facet junction or girdle edge.</text>
+
+      <!-- Surface Graining -->
+      <path d="M 5,215 L 25,215" stroke="#10B981" stroke-width="1.5" stroke-dasharray="2,2"/>
+      <text x="45" y="214" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Surface Graining (SGr)</text>
+      <text x="45" y="228" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">Internal crystal growth structure intersecting the polished surface.</text>
+
+      <!-- Summary Card inside green box -->
+      <rect x="0" y="260" width="430" height="75" rx="6" fill="#0F172A"/>
+      <text x="15" y="280" fill="#34D399" font-family="system-ui, sans-serif" font-size="11" font-weight="700">Grade Impact on IF vs VVS1:</text>
+      <text x="15" y="298" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="10">An Internally Flawless (IF) diamond has ZERO internal red inclusions,</text>
+      <text x="15" y="314" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="10">but may have minor external green blemishes (naturals, extra facets).</text>
+    </g>
+  </g>
+
+  <!-- Bottom 5 Factors Banner -->
+  <g transform="translate(50, 560)">
+    <rect width="1000" height="105" rx="8" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+    <text x="20" y="25" fill="#FBBF24" font-family="system-ui, sans-serif" font-size="12" font-weight="700">THE 5 GIA CLARITY GRADING DETERMINANTS</text>
+
+    <g transform="translate(20, 40)">
+      <rect x="0" y="0" width="180" height="50" rx="4" fill="#0F172A"/>
+      <text x="10" y="20" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="11" font-weight="700">1. SIZE</text>
+      <text x="10" y="38" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">Larger = lower clarity grade.</text>
+
+      <rect x="195" y="0" width="180" height="50" rx="4" fill="#0F172A"/>
+      <text x="10" y="20" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="11" font-weight="700">2. NUMBER</text>
+      <text x="10" y="38" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">Quantity of visible marks.</text>
+
+      <rect x="390" y="0" width="180" height="50" rx="4" fill="#0F172A"/>
+      <text x="10" y="20" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="11" font-weight="700">3. LOCATION</text>
+      <text x="10" y="38" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">Under table vs. hidden by prong.</text>
+
+      <rect x="585" y="0" width="180" height="50" rx="4" fill="#0F172A"/>
+      <text x="10" y="20" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="11" font-weight="700">4. RELIEF</text>
+      <text x="10" y="38" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">High contrast (black) vs. clear.</text>
+
+      <rect x="780" y="0" width="180" height="50" rx="4" fill="#0F172A"/>
+      <text x="10" y="20" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="11" font-weight="700">5. NATURE</text>
+      <text x="10" y="38" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">Inclusion type &amp; durability risk.</text>
+    </g>
+  </g>
+</svg>

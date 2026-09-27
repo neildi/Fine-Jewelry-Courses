@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">Bridal Settings &amp; Precious Metals: Durability &amp; Style Architecture</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">Analyzing setting styles, security mechanics, and precious metal wear characteristics for lifetime bridal wear</text>
+
+  <!-- 4 Setting Types Top Row -->
+  <g transform="translate(50, 100)">
+    <!-- Setting 1: Solitaire Prong -->
+    <rect x="0" y="0" width="235" height="230" rx="8" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+    <text x="15" y="30" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#38BDF8">4 vs. 6-Prong Solitaire</text>
+    <text x="15" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• 4-Prong: Maximizes light entry &amp;</text>
+    <text x="15" y="78" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  shows more diamond surface</text>
+    <text x="15" y="105" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• 6-Prong: Superior stone security;</text>
+    <text x="15" y="123" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  protects girdle if one prong snags</text>
+    <text x="15" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">Wear Profile: Daily care required;</text>
+    <text x="15" y="173" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">prongs require check every 6 mos.</text>
+    <text x="15" y="205" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#38BDF8">Security: Moderate to High</text>
+
+    <!-- Setting 2: Bezel -->
+    <rect x="255" y="0" width="235" height="230" rx="8" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+    <text x="270" y="30" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#10B981">Bezel &amp; Half-Bezel</text>
+    <text x="270" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Full metal rim encases the girdle</text>
+    <text x="270" y="78" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Zero prongs to snag on knitwear</text>
+    <text x="270" y="105" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Flush, sleek modern aesthetic</text>
+    <text x="270" y="123" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Makes diamond appear 10% larger</text>
+    <text x="270" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">Wear Profile: Best for medical,</text>
+    <text x="270" y="173" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">fitness, active lifestyle wearers.</text>
+    <text x="270" y="205" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Security: Highest / Maximum</text>
+
+    <!-- Setting 3: Halo -->
+    <rect x="510" y="0" width="235" height="230" rx="8" fill="#161B22" stroke="#F59E0B" stroke-width="1.5"/>
+    <text x="525" y="30" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#F59E0B">Halo &amp; Hidden Halo</text>
+    <text x="525" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Halo: Micro-pavé perimeter frame</text>
+    <text x="525" y="78" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  adds +0.50ct equivalent visual scale</text>
+    <text x="525" y="105" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Hidden Halo: Subtle gallery pavé</text>
+    <text x="525" y="123" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  visible from side profile view</text>
+    <text x="525" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">Wear Profile: Multiple micro-prongs</text>
+    <text x="525" y="173" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">require ultrasonic inspection care.</text>
+    <text x="525" y="205" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Security: Moderate (Pavé care)</text>
+
+    <!-- Setting 4: Pavé & Cathedral -->
+    <rect x="765" y="0" width="235" height="230" rx="8" fill="#161B22" stroke="#EC4899" stroke-width="1.5"/>
+    <text x="780" y="30" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#EC4899">Cathedral &amp; Pavé Shank</text>
+    <text x="780" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Cathedral arches slope upward</text>
+    <text x="780" y="78" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  to protect center head from torque</text>
+    <text x="780" y="105" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Pavé shank: Hand-beaded diamonds</text>
+    <text x="780" y="123" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">  running 1/2 or 3/4 around band</text>
+    <text x="780" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">Wear Profile: French cut / U-cut pavé</text>
+    <text x="780" y="173" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">delivers 360° sparkle.</text>
+    <text x="780" y="205" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#EC4899">Structural Rigidity: High</text>
+  </g>
+
+  <!-- Metals Hierarchy Comparison Bottom -->
+  <g transform="translate(50, 350)">
+    <rect x="0" y="0" width="1000" height="280" rx="8" fill="#161B22" stroke="#334155"/>
+    <text x="20" y="30" font-family="Inter, -apple-system, sans-serif" font-size="15" font-weight="bold" fill="#F3F4F6">PRECIOUS METALS COMPARATIVE MATRIX: BRIDAL WEARABILITY</text>
+
+    <g transform="translate(20, 50)">
+      <rect x="0" y="0" width="960" height="30" fill="#1E293B"/>
+      <text x="15" y="20" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#94A3B8">ALLOY / METAL</text>
+      <text x="200" y="20" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#94A3B8">PURITY &amp; HARDNESS</text>
+      <text x="420" y="20" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#94A3B8">MAINTENANCE &amp; WEAR PATTERN</text>
+      <text x="720" y="20" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#94A3B8">FLOOR ADVICE</text>
+
+      <!-- Platinum -->
+      <rect x="0" y="32" width="960" height="42" fill="#0F172A"/>
+      <text x="15" y="58" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#38BDF8">Platinum (PT950)</text>
+      <text x="200" y="58" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">95% Pure • Dense &amp; Malleable</text>
+      <text x="420" y="58" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Displaces metal (no loss); develops matte patina</text>
+      <text x="720" y="58" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#38BDF8">Hypoallergenic; lifetime prong durability</text>
+
+      <!-- 18K Yellow Gold -->
+      <rect x="0" y="76" width="960" height="42" fill="#161B22"/>
+      <text x="15" y="102" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F59E0B">18K Yellow Gold</text>
+      <text x="200" y="102" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">75.0% Gold (750) • Rich hue</text>
+      <text x="420" y="102" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Never tarnishes; warm butter tone; softer wear</text>
+      <text x="720" y="102" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#F59E0B">Trending #1 bridal luxury metal resurgence</text>
+
+      <!-- 14K White Gold -->
+      <rect x="0" y="120" width="960" height="42" fill="#0F172A"/>
+      <text x="15" y="146" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#CBD5E1">14K White Gold</text>
+      <text x="200" y="146" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">58.3% Gold (585) • Hard alloy</text>
+      <text x="420" y="146" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Requires rhodium re-plating every 12–18 months</text>
+      <text x="720" y="146" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Affordable bright white; check nickel allergies</text>
+
+      <!-- 14K Rose Gold -->
+      <rect x="0" y="164" width="960" height="42" fill="#161B22"/>
+      <text x="15" y="190" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#EC4899">14K Rose Gold</text>
+      <text x="200" y="190" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">58.3% Gold + Copper alloy</text>
+      <text x="420" y="190" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Highly durable; warm pink blush; no plating</text>
+      <text x="720" y="190" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#EC4899">Romantic vintage look; flatters olive/warm skin</text>
+    </g>
+  </g>
+</svg>

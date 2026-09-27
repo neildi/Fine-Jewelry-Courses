@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">Inventory Productivity &amp; Health: Sell-Through, Turn &amp; GMROI</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">Mastering inventory capital efficiency, aged stock depreciation, and Gross Margin Return on Investment</text>
+
+  <!-- 3 Inventory Metric Cards -->
+  <g transform="translate(50, 100)">
+    <!-- Metric 1: Sell-Through Rate -->
+    <rect x="0" y="0" width="315" height="280" rx="8" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+    <rect x="0" y="0" width="315" height="36" rx="8" fill="#1E293B"/>
+    <text x="15" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8">1. SELL-THROUGH RATE (STR)</text>
+    
+    <text x="15" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Formula:</text>
+    <text x="15" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#38BDF8">(Units Sold ÷ Starting Stock) × 100</text>
+
+    <text x="15" y="110" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Worked Example:</text>
+    <text x="15" y="130" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">Brought in 50 tennis bracelets in Nov.</text>
+    <text x="15" y="150" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">Sold 35 by Dec 31.</text>
+    <text x="15" y="170" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">STR = (35 ÷ 50) × 100 = 70.0%</text>
+
+    <text x="15" y="205" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Target Benchmarks:</text>
+    <text x="15" y="225" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Core Bridal: 60–75% per year</text>
+    <text x="15" y="245" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Holiday Seasonal: 70%+ in 60 days</text>
+
+    <!-- Metric 2: Inventory Turn -->
+    <rect x="340" y="0" width="315" height="280" rx="8" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+    <rect x="340" y="0" width="315" height="36" rx="8" fill="#1E293B"/>
+    <text x="355" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#10B981">2. INVENTORY TURN</text>
+    
+    <text x="355" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Formula:</text>
+    <text x="355" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#10B981">Annual COGS ÷ Average Inventory Cost</text>
+
+    <text x="355" y="110" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Worked Example:</text>
+    <text x="355" y="130" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">Annual Cost of Goods Sold = $1.8M</text>
+    <text x="355" y="150" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">Average Vault Inventory Cost = $1.2M</text>
+    <text x="355" y="170" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Turn = $1.8M ÷ $1.2M = 1.5× Turns/Yr</text>
+
+    <text x="355" y="205" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Target Benchmarks:</text>
+    <text x="355" y="225" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Fine Jewelry Average: 1.0× – 1.4×</text>
+    <text x="355" y="245" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• High-Performing Store: 1.8× – 2.2×</text>
+
+    <!-- Metric 3: GMROI -->
+    <rect x="680" y="0" width="320" height="280" rx="8" fill="#161B22" stroke="#F59E0B" stroke-width="1.5"/>
+    <rect x="680" y="0" width="320" height="36" rx="8" fill="#1E293B"/>
+    <text x="695" y="24" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F59E0B">3. GMROI (Profit Efficiency)</text>
+    
+    <text x="695" y="60" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Formula:</text>
+    <text x="695" y="80" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#F59E0B">Gross Margin $ ÷ Average Inventory Cost</text>
+
+    <text x="695" y="110" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#CBD5E1">Worked Example:</text>
+    <text x="695" y="130" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">Gross Margin Generated = $1.6M</text>
+    <text x="695" y="150" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">Average Vault Inventory Cost = $1.0M</text>
+    <text x="695" y="170" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">GMROI = $1.60 Gross Profit per $1.00</text>
+
+    <text x="695" y="205" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Target Benchmarks:</text>
+    <text x="695" y="225" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Minimum Threshold: &gt; $1.25</text>
+    <text x="695" y="245" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• High Luxury Benchmark: $1.75 – $2.50</text>
+  </g>
+
+  <!-- Aged Inventory Action Protocol Bottom -->
+  <g transform="translate(50, 400)">
+    <rect x="0" y="0" width="1000" height="230" rx="8" fill="#161B22" stroke="#334155"/>
+    <rect x="0" y="0" width="1000" height="32" rx="8" fill="#1E293B"/>
+    <text x="20" y="22" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#EF4444">AGED INVENTORY ACTION PROTOCOL (PREVENTING DEAD CAPITAL)</text>
+
+    <g transform="translate(20, 45)">
+      <!-- 0-180 Days -->
+      <rect x="0" y="0" width="220" height="160" rx="6" fill="#0F172A" stroke="#10B981"/>
+      <text x="15" y="25" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#10B981">0 – 180 DAYS: FRESH</text>
+      <text x="15" y="55" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Prime showcase placement</text>
+      <text x="15" y="75" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Full markup price integrity</text>
+      <text x="15" y="95" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Active client wishlist matching</text>
+      <text x="15" y="130" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Status: Peak Earning</text>
+
+      <!-- 181-365 Days -->
+      <rect x="245" y="0" width="220" height="160" rx="6" fill="#0F172A" stroke="#F59E0B"/>
+      <text x="260" y="25" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F59E0B">181 – 365 DAYS: AGING</text>
+      <text x="260" y="55" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Rotate showcase &amp; lighting</text>
+      <text x="260" y="75" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Feature in digital newsletter</text>
+      <text x="260" y="95" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Associate incentive / spiff</text>
+      <text x="260" y="130" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Status: Attention Needed</text>
+
+      <!-- 366-730 Days -->
+      <rect x="490" y="0" width="220" height="160" rx="6" fill="#0F172A" stroke="#EF4444"/>
+      <text x="505" y="25" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#EF4444">366 – 730 DAYS: CRITICAL</text>
+      <text x="505" y="55" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Vendor stock rebalancing/RTV</text>
+      <text x="505" y="75" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• VIP Private Trunk Show edit</text>
+      <text x="505" y="95" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Bundle with wedding band</text>
+      <text x="505" y="130" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#EF4444">Status: Margin Discount</text>
+
+      <!-- 730+ Days -->
+      <rect x="735" y="0" width="225" height="160" rx="6" fill="#0F172A" stroke="#94A3B8"/>
+      <text x="750" y="25" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#94A3B8">730+ DAYS: DEAD CAPITAL</text>
+      <text x="750" y="55" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Unmount center stone</text>
+      <text x="750" y="75" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Melt metal for scrap credit</text>
+      <text x="750" y="95" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Reset stone into modern CAD</text>
+      <text x="750" y="130" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#94A3B8">Status: Workshop Reclaim</text>
+    </g>
+  </g>
+</svg>

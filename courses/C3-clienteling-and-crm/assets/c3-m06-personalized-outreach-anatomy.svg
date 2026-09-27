@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">The 3-Part Luxury Outreach Formula: High-Conversion Architecture</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">Transforming generic marketing spam into compelling, personalized client conversations</text>
+
+  <!-- Left Side: Formula Anatomy -->
+  <g transform="translate(50, 100)">
+    <!-- Part 1 -->
+    <rect x="0" y="0" width="480" height="145" rx="8" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+    <rect x="0" y="0" width="480" height="32" rx="8" fill="#1E293B"/>
+    <text x="15" y="22" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#38BDF8">PART 1: The Personal Anchor (Context &amp; Relevance)</text>
+    <text x="15" y="55" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">• References specific past conversation, piece owned, or personal event</text>
+    <text x="15" y="75" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">• Establishes immediate genuine rapport — proves this is not a blast text</text>
+    <text x="15" y="105" font-family="Inter, -apple-system, sans-serif" font-size="11" font-style="italic" fill="#38BDF8">"Hi Marcus, I hope your trip to Aspen was wonderful! While you were away..."</text>
+
+    <!-- Part 2 -->
+    <rect x="0" y="165" width="480" height="145" rx="8" fill="#161B22" stroke="#F59E0B" stroke-width="1.5"/>
+    <rect x="0" y="165" width="480" height="32" rx="8" fill="#1E293B"/>
+    <text x="15" y="187" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#F59E0B">PART 2: The Curated Value Trigger (The "Why Now")</text>
+    <text x="15" y="220" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">• Introduces a rare piece, new arrival match, or private VIP privilege</text>
+    <text x="15" y="240" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">• Focuses on exclusivity, craft details, or perfect gemstone pairing</text>
+    <text x="15" y="270" font-family="Inter, -apple-system, sans-serif" font-size="11" font-style="italic" fill="#F59E0B">"...this rare unheated 3.2ct Ceylon sapphire just arrived from cutting in Sri Lanka..."</text>
+
+    <!-- Part 3 -->
+    <rect x="0" y="330" width="480" height="145" rx="8" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+    <rect x="0" y="330" width="480" height="32" rx="8" fill="#1E293B"/>
+    <text x="15" y="352" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#10B981">PART 3: Low-Pressure Call-to-Action (Frictionless)</text>
+    <text x="15" y="385" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">• Soft invite with zero sales pressure — preserves relationship dignity</text>
+    <text x="15" y="405" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">• Easy binary reply: photo preview, video walkthrough, or quick salon espresso</text>
+    <text x="15" y="435" font-family="Inter, -apple-system, sans-serif" font-size="11" font-style="italic" fill="#10B981">"Would you like me to send a 10-second video of how it catches the sunlight?"</text>
+  </g>
+
+  <!-- Right Side: Comparison Box -->
+  <g transform="translate(560, 100)">
+    <!-- Bad Example -->
+    <rect x="0" y="0" width="490" height="230" rx="8" fill="#2A1215" stroke="#EF4444" stroke-width="1.5"/>
+    <rect x="0" y="0" width="490" height="32" rx="8" fill="#450A0A"/>
+    <text x="15" y="22" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#EF4444">❌ THE GENERIC SPAM OUTREACH (Zero Conversion)</text>
+    <text x="15" y="55" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#FECACA">"Dear customer, we are having our annual Spring Diamond Sale! Come</text>
+    <text x="15" y="75" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#FECACA">in this weekend to save 20% off all selected showcases. We have huge</text>
+    <text x="15" y="95" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#FECACA">inventory in stock. Let me know when you can stop by!"</text>
+    
+    <text x="15" y="130" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#FCA5A5">Why it fails:</text>
+    <text x="15" y="150" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FECACA">• Treats luxury client as a generic broadcast target</text>
+    <text x="15" y="170" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FECACA">• Cheapens brand prestige by leading with discounts</text>
+    <text x="15" y="190" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FECACA">• Triggers instant SMS unsubscribe / spam report</text>
+
+    <!-- Good Example -->
+    <rect x="0" y="250" width="490" height="225" rx="8" fill="#062E25" stroke="#10B981" stroke-width="1.5"/>
+    <rect x="0" y="250" width="490" height="32" rx="8" fill="#064E3B"/>
+    <text x="15" y="272" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#10B981">✓ THE BESPOKE LUXURY OUTREACH (74% Response Rate)</text>
+    <text x="15" y="305" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#D1FAE5">"Hi Eleanor! I was thinking of your emerald-cut platinum ring from last</text>
+    <text x="15" y="325" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#D1FAE5">December. Our master cutter just finished an exquisite east-west eternity</text>
+    <text x="15" y="345" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#D1FAE5">band that nests alongside it flawlessly. No obligation at all — I made a</text>
+    <text x="15" y="365" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#D1FAE5">brief video showing how the step facets mirror yours. May I send it over?"</text>
+
+    <text x="15" y="400" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#6EE7B7">Why it succeeds:</text>
+    <text x="15" y="420" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#D1FAE5">• Hyper-relevant aesthetic pairing with owned heirloom</text>
+    <text x="15" y="440" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#D1FAE5">• Creates curiosity and private privilege with zero commercial tension</text>
+  </g>
+
+  <!-- Bottom Best Practice Banner -->
+  <rect x="50" y="590" width="1000" height="55" rx="8" fill="#1E293B"/>
+  <text x="70" y="623" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F3F4F6">GOLDEN RULE OF MEDIA IN OUTREACH: Always attach a 5–10 second crisp video in natural window light rather than flat static stock images.</text>
+</svg>

@@ -86,6 +86,12 @@ Use: link-out
 
 ## The four major types of cultured pearls
 
+<figure>
+  <img src="../assets/c1-m07-pearl-types-and-value-factors.svg" alt="Pearl Varieties and GIA 7 Value Factors" width="100%" />
+  <figcaption><strong>Figure 7.1:</strong> Pearl Varieties &amp; GIA 7 Value Factors — Akoya, South Sea, Tahitian, and Freshwater characteristics, grading factors, and 'Last On, First Off' floor care rules.</figcaption>
+</figure>
+
+
 Almost every pearl you sell falls into one of four categories, and knowing which one you are looking at is the first step in any pearl conversation.
 
 | Type | Typical mollusk | Typical color range | General size range | Common nucleation |

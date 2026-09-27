@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">Client Retention &amp; Book Health Scorecard: The 4 Core Metrics</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">Quantifying the long-term value, active retention, and repeat sales efficiency of consultant client books</text>
+
+  <!-- 4 Scorecard Quadrants -->
+  <g transform="translate(50, 100)">
+    <!-- Metric 1: Active Client Rate -->
+    <rect x="0" y="0" width="480" height="230" rx="8" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+    <rect x="0" y="0" width="480" height="36" rx="8" fill="#1E293B"/>
+    <text x="20" y="24" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#38BDF8">1. ACTIVE BOOK RATIO (12-Month Recency)</text>
+    
+    <text x="20" y="60" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#CBD5E1">Formula: (Clients Purchasing in Last 12 Mo ÷ Total Assigned Clients) × 100</text>
+    <text x="20" y="85" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Standard Benchmark: 22% – 30% Active</text>
+    <text x="20" y="105" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Elite Consultant Benchmark: 40% – 55% Active</text>
+    <text x="20" y="135" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#38BDF8">Manager Floor Diagnosis:</text>
+    <text x="20" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">If an associate's book falls below 20%, their book is over-bloated with unworked</text>
+    <text x="20" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">leads. Reallocate dormant accounts to hungry junior associates.</text>
+    <text x="20" y="205" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Target: Maintain &gt; 35% Active Book</text>
+
+    <!-- Metric 2: Repeat Purchase Frequency -->
+    <rect x="520" y="0" width="480" height="230" rx="8" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+    <rect x="520" y="0" width="480" height="36" rx="8" fill="#1E293B"/>
+    <text x="540" y="24" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#10B981">2. REPEAT PURCHASE RATE (Multi-Buyers)</text>
+    
+    <text x="540" y="60" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#CBD5E1">Formula: (Clients with &gt;1 Transaction ÷ Total Transacting Clients) × 100</text>
+    <text x="540" y="85" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Standard Benchmark: 18% Repeat</text>
+    <text x="540" y="105" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Elite Luxury Guild Benchmark: 35% – 48% Repeat</text>
+    <text x="540" y="135" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Manager Floor Diagnosis:</text>
+    <text x="540" y="155" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">High initial bridal sales without repeat purchases indicates a failure of the</text>
+    <text x="540" y="175" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">2-2-2 post-sale follow-up cadence.</text>
+    <text x="540" y="205" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Target: Convert 40% of Bridal into Multi-Buyers</text>
+
+    <!-- Metric 3: Outreach-to-Appointment Rate -->
+    <rect x="0" y="250" width="480" height="230" rx="8" fill="#161B22" stroke="#F59E0B" stroke-width="1.5"/>
+    <rect x="0" y="250" width="480" height="36" rx="8" fill="#1E293B"/>
+    <text x="20" y="274" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#F59E0B">3. OUTREACH-TO-APPOINTMENT RATIO</text>
+    
+    <text x="20" y="310" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#CBD5E1">Formula: (Booked In-Store Appointments ÷ CRM Outreaches Sent) × 100</text>
+    <text x="20" y="335" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Broadcast Mass SMS: 1.5% Appointment Rate (Poor)</text>
+    <text x="20" y="355" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Bespoke Video Outreach: 14% – 22% Appointment Rate (High)</text>
+    <text x="20" y="385" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Manager Floor Diagnosis:</text>
+    <text x="20" y="405" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">Measures the personalization quality of consultant text/video outreach.</text>
+    <text x="20" y="425" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">Higher ratio proves relevance to client tastes.</text>
+    <text x="20" y="455" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Target: 1 Appointment per 8 Outreaches (12.5%)</text>
+
+    <!-- Metric 4: Client Lifetime Value (LTV) -->
+    <rect x="520" y="250" width="480" height="230" rx="8" fill="#161B22" stroke="#EC4899" stroke-width="1.5"/>
+    <rect x="520" y="250" width="480" height="36" rx="8" fill="#1E293B"/>
+    <text x="540" y="274" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#EC4899">4. CLIENT LIFETIME VALUE (LTV)</text>
+    
+    <text x="540" y="310" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#CBD5E1">Formula: Cumulative Total Spend Across Customer Relationship Span</text>
+    <text x="540" y="335" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• First Engagement Purchase: $7,500</text>
+    <text x="540" y="355" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Wedding Bands: $3,200 • 1st Anniv: $1,800 • 5th Anniv: $8,500</text>
+    <text x="540" y="385" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#EC4899">5-Year Realized LTV = $21,000</text>
+    <text x="540" y="405" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">Acquisition Cost amortizes to near-zero as repeat sales flow in</text>
+    <text x="540" y="425" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">with zero incremental advertising expense.</text>
+    <text x="540" y="455" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Target: 3.5× LTV-to-CAC Ratio</text>
+  </g>
+
+  <!-- Summary Box Bottom -->
+  <g transform="translate(50, 500)">
+    <rect x="0" y="0" width="1000" height="130" rx="8" fill="#1E293B"/>
+    <text x="20" y="30" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#38BDF8">THE ULTIMATE TRUTH OF FINE JEWELRY RETAIL:</text>
+    <text x="20" y="58" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">It costs 6× to 9× more in marketing dollars to attract a brand new walk-in client than to retain an existing collector. <strong fill="#10B981">A healthy client book is the most valuable financial asset in the jewelry store.</strong></text>
+  </g>
+</svg>

@@ -6,6 +6,12 @@ A ring that doesn't fit turns a joyful moment into a logistics problem — and f
 
 ## Measuring Accurately: What Actually Affects the Number
 
+<figure>
+  <img src="../assets/c6-m06-ring-sizing-and-fit-mechanics.svg" alt="Ring Sizing and Fit Mechanics" width="100%" />
+  <figcaption><strong>Figure 6.1:</strong> Ring Sizing, Fit &amp; Comfort Mechanics — Knuckle anatomy, comfort-fit dome profiles, biological fluctuations, and surprise proposal sizing hacks.</figcaption>
+</figure>
+
+
 Finger size genuinely fluctuates, and several specific, well-documented factors change the measurement:
 
 - **Temperature** is the single biggest variable: fingers can measure roughly half a size smaller when cold and half a size larger when hot, so measuring in an air-conditioned store versus a warm afternoon outdoors can produce a meaningfully different reading for the same person.

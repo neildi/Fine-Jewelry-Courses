@@ -32,6 +32,12 @@ Do not promise that any setting is indestructible. The client’s routine, the e
 
 ## 3. Translate features into client meaning
 
+<figure>
+  <img src="../assets/c2-m03-feature-benefit-emotion-bridge.svg" alt="Feature Benefit Emotion Storytelling Bridge" width="100%" />
+  <figcaption><strong>Figure 3.1:</strong> Feature → Benefit → Emotion Storytelling Bridge — Connecting technical specs to functional customer benefits and lasting emotional milestone narratives.</figcaption>
+</figure>
+
+
 A feature is a verifiable attribute. A benefit is how that attribute may matter to this client. Keep the benefit conditional and specific.
 
 | Feature | Client-focused translation |

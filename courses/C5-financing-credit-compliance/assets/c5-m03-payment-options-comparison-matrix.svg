@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">Payment Solutions Matrix: Layaway vs. Store Credit vs. BNPL</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">Strategic evaluation of retail jewelry payment alternatives across operational, margin, and credit dimensions</text>
+
+  <!-- Matrix Table -->
+  <g transform="translate(50, 100)">
+    <!-- Header -->
+    <rect x="0" y="0" width="1000" height="40" rx="6" fill="#1E293B"/>
+    <text x="20" y="25" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#94A3B8">PAYMENT MECHANISM</text>
+    <text x="230" y="25" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8">VAULT LAYAWAY</text>
+    <text x="480" y="25" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#10B981">STORE FINANCING (0% APR)</text>
+    <text x="760" y="25" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F59E0B">BNPL (e.g. Klarna / Affirm)</text>
+
+    <!-- Row 1: Merch Delivery -->
+    <rect x="0" y="45" width="1000" height="50" fill="#161B22"/>
+    <text x="20" y="75" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F3F4F6">Merchandise Release</text>
+    <text x="230" y="75" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#FCA5A5">Only after 100% paid in full</text>
+    <text x="480" y="75" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#6EE7B7">Immediate take-home today</text>
+    <text x="760" y="75" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#6EE7B7">Immediate take-home today</text>
+
+    <!-- Row 2: Retailer Cash Flow -->
+    <rect x="0" y="100" width="1000" height="50" fill="#0F172A"/>
+    <text x="20" y="130" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F3F4F6">Store Cash Settlement</text>
+    <text x="230" y="130" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">Delayed over 30–120 days</text>
+    <text x="480" y="130" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#6EE7B7">Full deposit in 24–48 hours</text>
+    <text x="760" y="130" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#6EE7B7">Full deposit in 24–48 hours</text>
+
+    <!-- Row 3: Merchant Cost (MDR) -->
+    <rect x="0" y="155" width="1000" height="50" fill="#161B22"/>
+    <text x="20" y="185" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F3F4F6">Merchant Processing Fee</text>
+    <text x="230" y="185" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#6EE7B7">0% (Standard CC swipe only)</text>
+    <text x="480" y="185" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#FCA5A5">3.5% – 7.0% MDR cost</text>
+    <text x="760" y="185" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#FCA5A5">4.0% – 6.5% Merchant fee</text>
+
+    <!-- Row 4: Default & Return Risk -->
+    <rect x="0" y="210" width="1000" height="50" fill="#0F172A"/>
+    <text x="20" y="240" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F3F4F6">Default / Credit Risk</text>
+    <text x="230" y="240" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#CBD5E1">Store retains item &amp; deposit rules</text>
+    <text x="480" y="240" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#6EE7B7">0% (Financing bank takes risk)</text>
+    <text x="760" y="240" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#6EE7B7">0% (BNPL lender takes risk)</text>
+
+    <!-- Row 5: Ticket Size Sweetspot -->
+    <rect x="0" y="265" width="1000" height="50" fill="#161B22"/>
+    <text x="20" y="295" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F3F4F6">Optimal Ticket Size</text>
+    <text x="230" y="295" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#38BDF8">$500 – $3,000 (No credit check)</text>
+    <text x="480" y="295" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#10B981">$3,000 – $50,000+ (High ticket)</text>
+    <text x="760" y="295" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#F59E0B">$250 – $2,500 (Self-purchase)</text>
+  </g>
+
+  <!-- Floor Recommendation Summary -->
+  <g transform="translate(50, 440)">
+    <rect x="0" y="0" width="1000" height="190" rx="8" fill="#1E293B"/>
+    <text x="20" y="30" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#38BDF8">STRATEGIC FLOOR GUIDANCE BY CLIENT SITUATION:</text>
+    <text x="20" y="60" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">1. <strong fill="#10B981">Engagement &amp; Bridal Rings ($5,000+):</strong> Lead with 12–24 Month 0% Store Financing. Keeps cash in client's pocket for wedding expenses while allowing them to upgrade diamond cut and size.</text>
+    <text x="20" y="90" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">2. <strong fill="#38BDF8">Holiday / Secret Surprise Gifting (No Credit Check):</strong> Recommend Vault Layaway. Allows client to lock in the piece 60 days before Christmas or anniversary without bank statements appearing on shared mail.</text>
+    <text x="20" y="120" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">3. <strong fill="#F59E0B">Everyday Fashion &amp; Stacking Gold ($500–$2,000):</strong> Offer BNPL (4 interest-free bi-weekly payments) for frictionless Gen Z &amp; Millennial self-purchasers.</text>
+  </g>
+</svg>

@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">The 1-Page Executive Store Performance Review Template</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">Standardized monthly reporting architecture for store directors presenting up to ownership &amp; executive leadership</text>
+
+  <!-- 4-Quadrant Monthly Executive Sheet -->
+  <g transform="translate(50, 100)">
+    <!-- Quadrant 1: P&L Financial Snapshot -->
+    <rect x="0" y="0" width="480" height="230" rx="8" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+    <rect x="0" y="0" width="480" height="32" rx="8" fill="#1E293B"/>
+    <text x="15" y="22" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8">SECTION 1: P&amp;L FINANCIAL SNAPSHOT</text>
+
+    <g transform="translate(15, 45)">
+      <text x="0" y="20" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Gross Sales Revenue:</text>
+      <text x="240" y="20" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">$742,000 (106% vs Plan)</text>
+
+      <text x="0" y="45" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Cost of Goods Sold (COGS):</text>
+      <text x="240" y="45" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">$356,160 (48.0%)</text>
+
+      <text x="0" y="70" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Gross Margin Dollars ($):</text>
+      <text x="240" y="70" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">$385,840 (52.0% Margin)</text>
+
+      <text x="0" y="95" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Store Operating Expenses:</text>
+      <text x="240" y="95" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">$188,000 (Rent, Payroll, Ops)</text>
+
+      <text x="0" y="125" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F3F4F6">Store 4-Wall EBITDA:</text>
+      <text x="240" y="125" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#10B981">$197,840 (26.7% Net Cash)</text>
+    </g>
+
+    <!-- Quadrant 2: Core KPI Scorecard -->
+    <rect x="520" y="0" width="480" height="230" rx="8" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+    <rect x="520" y="0" width="480" height="32" rx="8" fill="#1E293B"/>
+    <text x="535" y="22" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#10B981">SECTION 2: OPERATIONAL KPI VARIANCES</text>
+
+    <g transform="translate(535, 45)">
+      <text x="0" y="20" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Total Door Traffic:</text>
+      <text x="240" y="20" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">4,120 Swings (+4.2% YoY)</text>
+
+      <text x="0" y="45" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Store Conversion Rate:</text>
+      <text x="240" y="45" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">15.8% (Target: 14.5%)</text>
+
+      <text x="0" y="70" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Average Ticket (ATV):</text>
+      <text x="240" y="70" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#38BDF8">$3,420 (Plan: $3,250)</text>
+
+      <text x="0" y="95" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Units Per Transaction (UPT):</text>
+      <text x="240" y="95" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FCA5A5">1.28 (Target: 1.35 — Alert)</text>
+
+      <text x="0" y="125" font-family="Inter, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#F3F4F6">Annualized Inventory Turn:</text>
+      <text x="240" y="125" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F59E0B">1.45× (Healthy Benchmark)</text>
+    </g>
+
+    <!-- Quadrant 3: Win / Loss Analysis -->
+    <rect x="0" y="250" width="480" height="230" rx="8" fill="#161B22" stroke="#F59E0B" stroke-width="1.5"/>
+    <rect x="0" y="250" width="480" height="32" rx="8" fill="#1E293B"/>
+    <text x="15" y="272" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F59E0B">SECTION 3: WIN / LOSS QUALITATIVE ANALYSIS</text>
+
+    <g transform="translate(15, 295)">
+      <text x="0" y="15" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Top Month Wins:</text>
+      <text x="0" y="35" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Closed $48,000 custom 4.2ct Colombian emerald suite.</text>
+      <text x="0" y="55" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• CRM anniversary campaign generated $112,000 in repeat sales.</text>
+
+      <text x="0" y="90" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#EF4444">Primary Misses &amp; Bottlenecks:</text>
+      <text x="0" y="110" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FECACA">• Lost two 3.0ct diamond sales to competitor due to memo delay.</text>
+      <text x="0" y="130" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#FECACA">• UPT dropped to 1.28 due to rush during weekend peak hours.</text>
+    </g>
+
+    <!-- Quadrant 4: Corrective Strategic Action Plan -->
+    <rect x="520" y="250" width="480" height="230" rx="8" fill="#161B22" stroke="#EC4899" stroke-width="1.5"/>
+    <rect x="520" y="250" width="480" height="32" rx="8" fill="#1E293B"/>
+    <text x="535" y="272" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#EC4899">SECTION 4: CORRECTIVE ACTION PLAN (NEXT 30 DAYS)</text>
+
+    <g transform="translate(535, 295)">
+      <text x="0" y="15" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#38BDF8">Action 1: Memo Partner Pre-Approval</text>
+      <text x="0" y="35" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">Establish 24-hour express loose diamond overnight memo pipeline.</text>
+
+      <text x="0" y="65" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Action 2: UPT Multi-Item Staging</text>
+      <text x="0" y="85" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">Pre-set companion diamond earrings on every bridal presentation tray.</text>
+
+      <text x="0" y="115" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Action 3: Peak Floor Coverage Rebalancing</text>
+      <text x="0" y="135" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">Shift 1 associate from Tuesday morning to Saturday 1–5 PM peak rush.</text>
+    </g>
+  </g>
+
+  <!-- Bottom Executive Footer -->
+  <g transform="translate(50, 500)">
+    <rect x="0" y="0" width="1000" height="130" rx="8" fill="#1E293B"/>
+    <text x="20" y="30" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8">EXECUTIVE PRESENTATION STANDARD:</text>
+    <text x="20" y="55" font-family="Inter, -apple-system, sans-serif" font-size="12" fill="#E2E8F0">A high-performing store review balances quantitative P&amp;L rigor with honest qualitative floor diagnosis and clear accountability owners for each corrective action.</text>
+  </g>
+</svg>

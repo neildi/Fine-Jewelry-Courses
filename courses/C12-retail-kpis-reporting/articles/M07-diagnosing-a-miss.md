@@ -6,6 +6,12 @@ Modules 1 through 6 built the full KPI vocabulary and the dashboard that display
 
 ## The Sales Equation, and Why Order Matters
 
+<figure>
+  <img src="../assets/c12-m07-sales-miss-root-cause-tree.svg" alt="Sales Miss Root Cause Diagnostic Tree" width="100%" />
+  <figcaption><strong>Figure 7.1:</strong> Sales Miss Root-Cause Diagnostic Tree — Step-by-step troubleshooting for Traffic Deficits, Conversion Misses, ATV Erosion, and UPT Collapse.</figcaption>
+</figure>
+
+
 Sales equals traffic times conversion rate times average transaction value (which itself splits into UPT times average item price). This isn't a new formula — it's the same vocabulary this course built across Modules 1 through 4 — but the diagnostic discipline this module adds is a specific, sequential decision tree: compare traffic and conversion against the same period last year or the prior stable baseline first, before looking at anything else, because the answer at this first branch determines which entirely different set of follow-up questions applies next.
 
 ## Branch One: Traffic Down, Conversion Holding

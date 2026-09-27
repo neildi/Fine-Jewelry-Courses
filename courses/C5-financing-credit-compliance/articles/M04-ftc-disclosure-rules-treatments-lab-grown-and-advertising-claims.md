@@ -6,6 +6,12 @@ Everything covered so far in this course governs how a customer pays. This modul
 
 ## The FTC Jewelry Guides: The Regulatory Backbone
 
+<figure>
+  <img src="../assets/c5-m04-ftc-jewelry-disclosure-mandates.svg" alt="FTC Jewelry Guides Compliance Mandates" width="100%" />
+  <figcaption><strong>Figure 4.1:</strong> FTC Jewelry Guides Compliance Mandates — Mandatory gemstone treatments, synthetic terminology, karat fineness tolerances, and deceptive pricing rules.</figcaption>
+</figure>
+
+
 The Federal Trade Commission maintains guidance specifically governing how jewelry, precious metals, and gemstones can be described, marketed, and sold — commonly referred to in the trade as the FTC Jewelry Guides. The Jewelers Vigilance Committee (JVC), the trade organization that specializes in legal compliance for the jewelry industry, describes its own guidance on "Understanding the FTC Guidelines" as covering fair product representation, disclosure of treatments and lab-grown status, and advertising claims generally — explicitly framing this as "the legal frame around what you can promise a financed client." JVC's broader Essential Guides series also addresses memo/consignment transactions, UCC-1 filings, platinum marking law, and irradiated gemstone disclosure as related compliance topics.
 
 ## Treatment Disclosure: Say What Was Done to the Stone

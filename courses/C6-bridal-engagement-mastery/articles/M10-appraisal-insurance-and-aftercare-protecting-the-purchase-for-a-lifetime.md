@@ -12,6 +12,12 @@ This is genuinely worth explaining directly, because it prevents a common and un
 
 ## The Three Insurance Paths, and What Each Actually Covers
 
+<figure>
+  <img src="../assets/c6-m10-bridal-appraisal-insurance-lifecycle.svg" alt="Lifetime Bridal Protection Lifecycle" width="100%" />
+  <figcaption><strong>Figure 10.1:</strong> Lifetime Bridal Protection Lifecycle — Point-of-sale retail appraisals, standalone jewelry insurance, 6-month prong inspections, and home care rules.</figcaption>
+</figure>
+
+
 There are three commonly discussed paths for insuring an engagement ring, and the differences between them are practical, not just theoretical:
 
 1. **Standard homeowners/renters insurance, unmodified.** This is the option many clients assume covers their ring by default, and it's worth correcting that assumption directly: standard policies typically cap jewelry coverage at a sub-limit of roughly $1,000-2,500 total, regardless of the ring's actual appraised value, and often only cover theft specifically — not loss, mysterious disappearance, or accidental damage (a stone falling out, a ring going down a drain). For any ring with real value, this coverage alone is almost certainly insufficient.

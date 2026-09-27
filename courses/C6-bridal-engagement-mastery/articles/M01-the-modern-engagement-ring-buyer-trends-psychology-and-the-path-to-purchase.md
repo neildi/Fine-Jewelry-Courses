@@ -6,6 +6,12 @@ Bridal is unlike every other category in this catalog for one simple reason: for
 
 ## The Headline Shift: Away From Maximalism, Toward Intentionality
 
+<figure>
+  <img src="../assets/c6-m01-bridal-buyer-journey-map.svg" alt="Modern Bridal Path to Purchase Journey Map" width="100%" />
+  <figcaption><strong>Figure 1.1:</strong> The Modern Bridal Path-to-Purchase — 4-phase buyer psychology (Digital Discovery, Joint Exploration, Solo Return, Proposal Execution).</figcaption>
+</figure>
+
+
 Multiple independent 2026 industry data sources agree on the same underlying direction, even where they differ on exact percentages (a point worth returning to below): the market is moving away from the "biggest stone I can afford, round diamond, thin platinum halo band" formula that defined roughly 2010-2020, and toward more personal, differentiated choices. This shows up across three connected trends:
 
 - **Shape:** Oval is rising sharply and, depending on the dataset, has either overtaken round as the single most-purchased shape or is closing the gap quickly as the fastest-growing shape while round still leads overall.

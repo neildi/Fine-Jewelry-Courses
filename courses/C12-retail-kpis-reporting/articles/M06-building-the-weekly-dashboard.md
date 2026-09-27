@@ -10,6 +10,12 @@ Across multiple independent dashboard-design sources, one principle repeats with
 
 ## A Four-Row Structure That Answers the Right Question at Each Level
 
+<figure>
+  <img src="../assets/c12-m06-weekly-store-kpi-dashboard-mockup.svg" alt="Executive Weekly Store Dashboard" width="100%" />
+  <figcaption><strong>Figure 6.1:</strong> Executive Weekly Store Dashboard — Real-world store scorecard tracking sales vs. plan, consultant leaderboards, category mix, and coaching actions.</figcaption>
+</figure>
+
+
 A well-documented retail-dashboard structure organizes a weekly view into four rows, each answering a specific, sequential question. Row one answers "was the period good?" using net sales versus plan, transaction count, gross profit margin, GMROI, and sales per square foot — the outcome-level numbers a manager checks first, and if the answer is a clear yes, no further discussion is needed at this level. Row two answers "is it demand or basket?" using foot traffic, conversion rate, average transaction value, and units per transaction — the driver-level numbers that explain why row one looks the way it does. Row three answers "is it inventory?" using sell-through by category, inventory turnover, and out-of-stock rate on top sellers. And a fourth layer, when needed, drills into root-cause diagnostics — specific categories, specific associates, specific SKUs — rather than cluttering the weekly summary view itself.
 
 ## Outcomes, Drivers, and Diagnostics: A Framework for Deciding What Goes Where

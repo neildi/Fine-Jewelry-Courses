@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">Traffic &amp; Conversion Analytics: The 4-Stage Storefront Funnel</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">Measuring customer progression from exterior door swings to closed fine jewelry transactions</text>
+
+  <!-- Funnel Visual on Left -->
+  <g transform="translate(50, 110)">
+    <!-- Stage 1 -->
+    <polygon points="40,0 460,0 410,70 90,70" fill="#38BDF8" fill-opacity="0.85"/>
+    <text x="250" y="42" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#0F172A" text-anchor="middle">1. RAW DOOR SWINGS (1,000 Walk-Ins / Wk)</text>
+
+    <!-- Stage 2 -->
+    <polygon points="90,75 410,75 360,145 140,145" fill="#10B981" fill-opacity="0.85"/>
+    <text x="250" y="117" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#0F172A" text-anchor="middle">2. QUALIFIED OPPORTUNITIES (650 Engaged)</text>
+
+    <!-- Stage 3 -->
+    <polygon points="140,150 360,150 310,220 190,220" fill="#F59E0B" fill-opacity="0.85"/>
+    <text x="250" y="192" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#0F172A" text-anchor="middle">3. SHOWCASE PRESENTATIONS (320 Trays Out)</text>
+
+    <!-- Stage 4 -->
+    <polygon points="190,225 310,225 280,295 220,295" fill="#EC4899" fill-opacity="0.9"/>
+    <text x="250" y="267" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#0F172A" text-anchor="middle">4. CLOSED SALES (140 Sales)</text>
+  </g>
+
+  <!-- Detail Metrics on Right -->
+  <g transform="translate(550, 100)">
+    <!-- Metric 1 -->
+    <rect x="0" y="0" width="500" height="75" rx="6" fill="#161B22" stroke="#38BDF8" stroke-width="1.5"/>
+    <text x="20" y="25" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8">DOOR TRAFFIC FILTERING &amp; TRAFFIC COUNTERS</text>
+    <text x="20" y="48" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Filter out staff ins/outs, delivery couriers, and children</text>
+    <text x="20" y="65" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Measure peak traffic hours (Saturday 1–4 PM = 42% volume)</text>
+
+    <!-- Metric 2 -->
+    <rect x="0" y="85" width="500" height="75" rx="6" fill="#161B22" stroke="#10B981" stroke-width="1.5"/>
+    <text x="20" y="110" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#10B981">ENGAGEMENT RATE (65% Target)</text>
+    <text x="20" y="133" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• % of door swings transitioning past 10-second decompression</text>
+    <text x="20" y="150" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Direct correlation with greeting speed and 45-degree floor posture</text>
+
+    <!-- Metric 3 -->
+    <rect x="0" y="170" width="500" height="75" rx="6" fill="#161B22" stroke="#F59E0B" stroke-width="1.5"/>
+    <text x="20" y="195" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F59E0B">SHOWCASE PRESENTATION RATE (49% of Engaged)</text>
+    <text x="20" y="218" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• % of qualified clients who experience a piece on the velvet tray</text>
+    <text x="20" y="235" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Physical try-on increases final purchase probability by 3.8×</text>
+
+    <!-- Metric 4 -->
+    <rect x="0" y="255" width="500" height="75" rx="6" fill="#161B22" stroke="#EC4899" stroke-width="1.5"/>
+    <text x="20" y="280" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#EC4899">STORE CONVERSION RATE (14.0% Overall Store Conversion)</text>
+    <text x="20" y="303" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Total Transactions (140) ÷ Raw Door Swings (1,000) = 14.0%</text>
+    <text x="20" y="320" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Presentation-to-Close Rate = 140 ÷ 320 = 43.8% Closing Efficiency</text>
+  </g>
+
+  <!-- Diagnostic Table Bottom -->
+  <g transform="translate(50, 440)">
+    <rect x="0" y="0" width="1000" height="190" rx="8" fill="#1E293B"/>
+    <text x="20" y="30" font-family="Inter, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#38BDF8">INDUSTRY BENCHMARK CONVERSION TARGETS BY STORE TYPE:</text>
+
+    <g transform="translate(20, 50)">
+      <rect x="0" y="0" width="960" height="28" fill="#0F172A"/>
+      <text x="15" y="19" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#94A3B8">RETAIL FORMAT</text>
+      <text x="250" y="19" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#94A3B8">TYPICAL CONVERSION RANGE</text>
+      <text x="580" y="19" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#94A3B8">PRIMARY DRIVER OF VARIANCE</text>
+
+      <text x="15" y="48" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#F3F4F6">High-Street Flagship / Street Front</text>
+      <text x="250" y="48" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#38BDF8">18% – 25%</text>
+      <text x="580" y="48" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">High intentionality; low casual foot traffic</text>
+
+      <text x="15" y="76" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#F3F4F6">Luxury Regional Shopping Center / Mall</text>
+      <text x="250" y="76" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">11% – 16%</text>
+      <text x="580" y="76" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">High casual browser volume; requires strong qualification</text>
+
+      <text x="15" y="104" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#F3F4F6">Private Salon / Appointment By-Invitation</text>
+      <text x="250" y="104" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">65% – 85%</text>
+      <text x="580" y="104" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">Pre-qualified budget and pre-selected curated pieces</text>
+    </g>
+  </g>
+</svg>

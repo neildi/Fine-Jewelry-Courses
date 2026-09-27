@@ -125,6 +125,12 @@ This is the page to send a skeptical client to if they want to read the primary 
 
 ## A quick-reference table for common inclusion types
 
+<figure>
+  <img src="../assets/c1-m05-clarity-inclusion-plotting-symbols.svg" alt="Inclusion and Blemish Visual Plotting Guide" width="100%" />
+  <figcaption><strong>Figure 5.1:</strong> GIA Clarity Plotting Key — Internal inclusions (Red), External blemishes (Green), and the 5 clarity grade determinants (Size, Number, Location, Relief, Nature).</figcaption>
+</figure>
+
+
 Being able to name what a client sees under the loupe, quickly and without hedging, is what separates a confident report reading from an awkward one. These are the inclusion types you will encounter most often on the sales floor.
 
 | Inclusion type | What it looks like | Talking point |

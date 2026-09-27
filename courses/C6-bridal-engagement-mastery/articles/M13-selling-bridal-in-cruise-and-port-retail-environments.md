@@ -6,6 +6,12 @@ Cruise and port jewelry retail carries a genuinely difficult reputation problem,
 
 ## Understanding the Environment You're Selling In
 
+<figure>
+  <img src="../assets/c6-m13-cruise-port-compressed-sales-cycle.svg" alt="Port of Call Bridal Sales Velocity" width="100%" />
+  <figcaption><strong>Figure 13.1:</strong> Port-of-Call Bridal Sales Velocity — The 180-minute compressed execution model for high-ticket jewelry sales in cruise retail.</figcaption>
+</figure>
+
+
 Being self-aware about the structural pressures of this channel is the starting point for selling in it ethically. Several specific dynamics are worth naming directly:
 
 - **Commission runs deep, at every level.** GIA's own consumer guidance is direct about this: the shopping consultant on the ship, the store manager, the salespeople, and in many cases the cruise line itself all typically earn a commission or referral fee tied to purchases at "recommended" stores. Some port marketing arrangements involve stores paying tens of thousands of dollars per season for placement on official cruise-line shopping maps and inclusion in onboard "shopping seminars." None of this is inherently improper, but a client who understands it exists shops (and trusts) differently than one who assumes a "recommended" store is recommended purely on merit.

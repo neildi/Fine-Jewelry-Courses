@@ -36,6 +36,12 @@ This module is not about manipulation or pressure. It's about the specific, simp
 
 ## Recognize the moment first
 
+<figure>
+  <img src="../assets/c2-m09-three-closing-pathways.svg" alt="Three Natural Closing Pathways" width="100%" />
+  <figcaption><strong>Figure 9.1:</strong> Three Natural Closing Pathways — Assumptive Next Step, Alternative Choice, and Direct Milestone closing architectures for fine jewelry.</figcaption>
+</figure>
+
+
 Kate Peterson, writing for The Plumb Club, frames closing as something you're always watching for, not a single scripted event at the end: "There is never a bad time to close the sale once trust and value have been established." Both verbal signals ("I like this one better," "It'll look great this weekend") and nonverbal ones (a lingering glance, hesitating to hand the piece back, a nod after a trial close) tell you the decision point has arrived. Once you see it, the only mistake left to make is staying silent.
 
 ## Way one: the assumptive close

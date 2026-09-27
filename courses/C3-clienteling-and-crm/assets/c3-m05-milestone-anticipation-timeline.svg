@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 680" width="100%" height="100%">
+  <rect width="1100" height="680" fill="#0B0E14" rx="12"/>
+  
+  <text x="50" y="45" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#F3F4F6">Life-Event Milestone Anticipation: The 6-Week Outreach Horizon</text>
+  <text x="50" y="70" font-family="Inter, -apple-system, sans-serif" font-size="14" fill="#9CA3AF">How fine jewelry professionals orchestrate stress-free milestone gifting without feeling pushy</text>
+
+  <!-- Timeline Bar -->
+  <line x1="100" y1="200" x2="1000" y2="200" stroke="#334155" stroke-width="4"/>
+
+  <!-- Milestone Node: T-6 Weeks -->
+  <circle cx="150" cy="200" r="18" fill="#38BDF8"/>
+  <text x="150" y="205" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#0F172A" text-anchor="middle">T-6W</text>
+  <rect x="70" y="235" width="160" height="150" rx="6" fill="#161B22" stroke="#38BDF8" stroke-width="1"/>
+  <text x="80" y="260" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8">Initial Radar Check</text>
+  <text x="80" y="285" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Check spouse's wishlist</text>
+  <text x="80" y="305" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Review past sizes &amp; metal</text>
+  <text x="80" y="325" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Low-friction note to partner:</text>
+  <text x="80" y="345" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#38BDF8">"Thinking of Sarah's 40th..."</text>
+
+  <!-- Milestone Node: T-4 Weeks -->
+  <circle cx="360" cy="200" r="18" fill="#10B981"/>
+  <text x="360" y="205" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#0F172A" text-anchor="middle">T-4W</text>
+  <rect x="280" y="235" width="160" height="150" rx="6" fill="#161B22" stroke="#10B981" stroke-width="1"/>
+  <text x="290" y="260" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#10B981">Curated Presentation</text>
+  <text x="290" y="285" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Send 3-option digital lookbook</text>
+  <text x="290" y="305" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• High-res video of stones</text>
+  <text x="290" y="325" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Custom sizing window</text>
+  <text x="290" y="345" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#10B981">"Curated these 3 matches"</text>
+
+  <!-- Milestone Node: T-2 Weeks -->
+  <circle cx="570" cy="200" r="18" fill="#F59E0B"/>
+  <text x="570" y="205" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#0F172A" text-anchor="middle">T-2W</text>
+  <rect x="490" y="235" width="160" height="150" rx="6" fill="#161B22" stroke="#F59E0B" stroke-width="1"/>
+  <text x="500" y="260" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F59E0B">Selection &amp; Sizing</text>
+  <text x="500" y="285" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Client selects piece</text>
+  <text x="500" y="305" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Workshop sizing &amp; polish</text>
+  <text x="500" y="325" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Custom hand engraving</text>
+  <text x="500" y="345" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#F59E0B">"Secured &amp; sent to bench"</text>
+
+  <!-- Milestone Node: T-3 Days -->
+  <circle cx="780" cy="200" r="18" fill="#EC4899"/>
+  <text x="780" y="205" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#0F172A" text-anchor="middle">T-3D</text>
+  <rect x="700" y="235" width="160" height="150" rx="6" fill="#161B22" stroke="#EC4899" stroke-width="1"/>
+  <text x="710" y="260" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#EC4899">Gift-Wrap &amp; Pickup</text>
+  <text x="710" y="285" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Signature ribbon wrapping</text>
+  <text x="710" y="305" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Discreet pickup or courier</text>
+  <text x="710" y="325" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Blank gift card included</text>
+  <text x="710" y="345" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#EC4899">"Wrapped &amp; ready to delight"</text>
+
+  <!-- Milestone Node: T+2 Days -->
+  <circle cx="950" cy="200" r="18" fill="#A855F7"/>
+  <text x="950" y="205" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#0F172A" text-anchor="middle">T+2D</text>
+  <rect x="880" y="235" width="150" height="150" rx="6" fill="#161B22" stroke="#A855F7" stroke-width="1"/>
+  <text x="890" y="260" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#A855F7">Reaction Check</text>
+  <text x="890" y="285" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Warm celebration check-in</text>
+  <text x="890" y="305" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#E2E8F0">• Offer minor sizing tweaks</text>
+  <text x="890" y="325" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#94A3B8">• Update profile reaction</text>
+  <text x="890" y="345" font-family="Inter, -apple-system, sans-serif" font-size="10" fill="#A855F7">"How did she love it?"</text>
+
+  <!-- Milestone Categories Grid -->
+  <rect x="50" y="420" width="1000" height="220" rx="8" fill="#161B22" stroke="#334155"/>
+  <text x="70" y="450" font-family="Inter, -apple-system, sans-serif" font-size="15" font-weight="bold" fill="#F3F4F6">THE 4 CORE MILESTONE CATEGORIES &amp; LEAD-TIME REQUIREMENTS</text>
+
+  <g transform="translate(70, 470)">
+    <!-- Cat 1 -->
+    <rect x="0" y="0" width="220" height="145" rx="6" fill="#0F172A" stroke="#38BDF8"/>
+    <text x="15" y="25" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#38BDF8">Major Anniversaries</text>
+    <text x="15" y="50" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• 1st: Gold / Eternity Band</text>
+    <text x="15" y="70" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• 5th: Sapphire upgrade</text>
+    <text x="15" y="90" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• 10th: Diamond anniversary</text>
+    <text x="15" y="115" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#38BDF8">Lead Time: 6–8 Weeks</text>
+
+    <!-- Cat 2 -->
+    <rect x="245" y="0" width="220" height="145" rx="6" fill="#0F172A" stroke="#10B981"/>
+    <text x="260" y="25" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#10B981">Decade Birthdays</text>
+    <text x="260" y="50" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• 30th, 40th, 50th, 60th</text>
+    <text x="260" y="70" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Significant statement rings</text>
+    <text x="260" y="90" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• High-carat tennis bracelets</text>
+    <text x="260" y="115" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#10B981">Lead Time: 4–6 Weeks</text>
+
+    <!-- Cat 3 -->
+    <rect x="490" y="0" width="220" height="145" rx="6" fill="#0F172A" stroke="#F59E0B"/>
+    <text x="505" y="25" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#F59E0B">Push Presents &amp; Kids</text>
+    <text x="505" y="50" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Child arrival celebration</text>
+    <text x="505" y="70" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Birthstone stacking bands</text>
+    <text x="505" y="90" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Engraved initial medallions</text>
+    <text x="505" y="115" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B">Lead Time: 3–4 Weeks</text>
+
+    <!-- Cat 4 -->
+    <rect x="735" y="0" width="220" height="145" rx="6" fill="#0F172A" stroke="#EC4899"/>
+    <text x="750" y="25" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#EC4899">Career &amp; Personal Wins</text>
+    <text x="750" y="50" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Partner promotion / exit</text>
+    <text x="750" y="70" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Luxury timepiece purchase</text>
+    <text x="750" y="90" font-family="Inter, -apple-system, sans-serif" font-size="11" fill="#CBD5E1">• Self-purchasing celebration</text>
+    <text x="750" y="115" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#EC4899">Lead Time: Immediate</text>
+  </g>
+</svg>

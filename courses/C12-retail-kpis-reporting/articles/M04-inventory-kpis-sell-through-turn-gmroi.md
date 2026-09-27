@@ -6,6 +6,12 @@ Module 1 defined sell-through, turn, and GMROI as three related but distinct inv
 
 ## Jewelry's Inventory Turn Is Genuinely, Structurally Slow
 
+<figure>
+  <img src="../assets/c12-m04-inventory-productivity-dashboard.svg" alt="Inventory Productivity and Health Dashboard" width="100%" />
+  <figcaption><strong>Figure 4.1:</strong> Inventory Productivity &amp; Health — Sell-Through %, Inventory Turn, GMROI formula benchmarks, and the 4-phase aged inventory action protocol.</figcaption>
+</figure>
+
+
 Multiple independent sources converge on a consistent picture: jewelry retailers run among the slowest inventory turnover of any major retail category, typically 1 to 2 turns per year, with small boutique or luxury-focused stores often sitting at the lower end of that range, around 0.7 to 1.5 turns annually. This is not a symptom of poor management — it's a structural feature of the category, driven by high per-unit price, deliberate and considered purchase decisions, and a customer base that browses and researches for months before committing. A jewelry manager who benchmarks their own turn rate against a general-retail apparel or grocery number, where turn can run 4 to 12 times a year or more, will conclude their inventory is badly mismanaged when it's actually performing normally for the category.
 
 ## GMROI in Jewelry Runs Lower Than General Retail, and That's Expected Too

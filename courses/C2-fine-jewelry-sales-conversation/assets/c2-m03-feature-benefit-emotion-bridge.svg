@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 650" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1100" height="650" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1096" height="646" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <!-- Header -->
+  <g transform="translate(50, 40)">
+    <rect x="0" y="0" width="180" height="24" rx="12" fill="#059669" fill-opacity="0.2"/>
+    <text x="90" y="16" fill="#6EE7B7" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1">PRESENTATION ARCHITECTURE</text>
+    <text x="0" y="52" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">Feature → Benefit → Emotion Storytelling Bridge</text>
+    <text x="0" y="74" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="13">Translating technical metallurgy and gemology into enduring emotional value.</text>
+  </g>
+
+  <!-- 3-Tier Bridge Diagram -->
+  <g transform="translate(50, 130)">
+    <!-- Column 1: Feature (The Fact) -->
+    <g transform="translate(0, 0)">
+      <rect width="290" height="460" rx="10" fill="#1E293B" stroke="#38BDF8" stroke-width="1.5"/>
+      <rect x="15" y="15" width="260" height="35" rx="6" fill="#0284C7" fill-opacity="0.3"/>
+      <text x="145" y="38" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="14" font-weight="700" text-anchor="middle">1. FEATURE (The Spec)</text>
+
+      <g transform="translate(20, 65)">
+        <text x="0" y="15" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">What it IS (Technical):</text>
+        <text x="0" y="35" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">Lab report numbers, metal alloy,</text>
+        <text x="0" y="50" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">prong count, carat weight.</text>
+
+        <!-- Examples -->
+        <g transform="translate(0, 75)">
+          <rect width="250" height="65" rx="4" fill="#0F172A"/>
+          <text x="10" y="20" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="11" font-weight="700">Example A: Platinum</text>
+          <text x="10" y="38" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">"This ring is solid PT950</text>
+          <text x="10" y="52" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">platinum alloy."</text>
+        </g>
+
+        <g transform="translate(0, 155)">
+          <rect width="250" height="65" rx="4" fill="#0F172A"/>
+          <text x="10" y="20" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="11" font-weight="700">Example B: Excellent Cut</text>
+          <text x="10" y="38" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">"This diamond carries a GIA</text>
+          <text x="10" y="52" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">Triple Excellent cut grade."</text>
+        </g>
+
+        <g transform="translate(0, 235)">
+          <rect width="250" height="65" rx="4" fill="#0F172A"/>
+          <text x="10" y="20" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="11" font-weight="700">Example C: Bezel Setting</text>
+          <text x="10" y="38" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">"The center stone is enclosed</text>
+          <text x="10" y="52" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">in a full metal collar rim."</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- Arrow 1 -->
+    <g transform="translate(305, 230)">
+      <line x1="0" y1="20" x2="35" y2="20" stroke="#38BDF8" stroke-width="3"/>
+      <polygon points="35,12 50,20 35,28" fill="#38BDF8"/>
+    </g>
+
+    <!-- Column 2: Benefit (The Function) -->
+    <g transform="translate(365, 0)">
+      <rect width="290" height="460" rx="10" fill="#1E293B" stroke="#10B981" stroke-width="1.5"/>
+      <rect x="15" y="15" width="260" height="35" rx="6" fill="#059669" fill-opacity="0.3"/>
+      <text x="145" y="38" fill="#34D399" font-family="system-ui, sans-serif" font-size="14" font-weight="700" text-anchor="middle">2. BENEFIT (The Function)</text>
+
+      <g transform="translate(20, 65)">
+        <text x="0" y="15" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">What it DOES for Them:</text>
+        <text x="0" y="35" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">Durability, maintenance savings,</text>
+        <text x="0" y="50" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">optical brightness, comfort.</text>
+
+        <!-- Examples -->
+        <g transform="translate(0, 75)">
+          <rect width="250" height="65" rx="4" fill="#0F172A"/>
+          <text x="10" y="20" fill="#34D399" font-family="system-ui, sans-serif" font-size="11" font-weight="700">Functional Benefit:</text>
+          <text x="10" y="38" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">"It never loses metal when polished</text>
+          <text x="10" y="52" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">and never requires rhodium dipping."</text>
+        </g>
+
+        <g transform="translate(0, 155)">
+          <rect width="250" height="65" rx="4" fill="#0F172A"/>
+          <text x="10" y="20" fill="#34D399" font-family="system-ui, sans-serif" font-size="11" font-weight="700">Functional Benefit:</text>
+          <text x="10" y="38" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">"It bounces maximum light even in</text>
+          <text x="10" y="52" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">dim candle-lit restaurants."</text>
+        </g>
+
+        <g transform="translate(0, 235)">
+          <rect width="250" height="65" rx="4" fill="#0F172A"/>
+          <text x="10" y="20" fill="#34D399" font-family="system-ui, sans-serif" font-size="11" font-weight="700">Functional Benefit:</text>
+          <text x="10" y="38" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">"It will never snag on her knit sweaters</text>
+          <text x="10" y="52" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="10">or catch during her hospital rounds."</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- Arrow 2 -->
+    <g transform="translate(670, 230)">
+      <line x1="0" y1="20" x2="35" y2="20" stroke="#10B981" stroke-width="3"/>
+      <polygon points="35,12 50,20 35,28" fill="#10B981"/>
+    </g>
+
+    <!-- Column 3: Emotion (The Meaning) -->
+    <g transform="translate(730, 0)">
+      <rect width="270" height="460" rx="10" fill="#1E293B" stroke="#F59E0B" stroke-width="1.5"/>
+      <rect x="15" y="15" width="240" height="35" rx="6" fill="#D97706" fill-opacity="0.3"/>
+      <text x="135" y="38" fill="#FBBF24" font-family="system-ui, sans-serif" font-size="14" font-weight="700" text-anchor="middle">3. EMOTION (The Meaning)</text>
+
+      <g transform="translate(15, 65)">
+        <text x="0" y="15" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="700">How it Makes Them FEEL:</text>
+        <text x="0" y="35" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">Confidence, pride, romance,</text>
+        <text x="0" y="50" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">lifelong peace of mind.</text>
+
+        <!-- Examples -->
+        <g transform="translate(0, 75)">
+          <rect width="240" height="65" rx="4" fill="#0F172A"/>
+          <text x="10" y="20" fill="#FBBF24" font-family="system-ui, sans-serif" font-size="11" font-weight="700">Floor Story Script:</text>
+          <text x="10" y="38" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="10">"You are giving her a piece that</text>
+          <text x="10" y="52" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="10">her granddaughter will wear unchanged."</text>
+        </g>
+
+        <g transform="translate(0, 155)">
+          <rect width="240" height="65" rx="4" fill="#0F172A"/>
+          <text x="10" y="20" fill="#FBBF24" font-family="system-ui, sans-serif" font-size="11" font-weight="700">Floor Story Script:</text>
+          <text x="10" y="38" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="10">"Every time her hand moves, everyone</text>
+          <text x="10" y="52" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="10">across the room notices the fire."</text>
+        </g>
+
+        <g transform="translate(0, 235)">
+          <rect width="240" height="65" rx="4" fill="#0F172A"/>
+          <text x="10" y="20" fill="#FBBF24" font-family="system-ui, sans-serif" font-size="11" font-weight="700">Floor Story Script:</text>
+          <text x="10" y="38" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="10">"She will never have to take it off or</text>
+          <text x="10" y="52" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="10">worry about losing the stone."</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

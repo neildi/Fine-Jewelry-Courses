@@ -29,6 +29,12 @@ It is not a script to run in order. It is a conversation map. Ask one useful que
 
 ## 3. The seven discovery areas
 
+<figure>
+  <img src="../assets/c2-m02-discovery-questioning-tree.svg" alt="The 4-Pillar Discovery Questioning Tree" width="100%" />
+  <figcaption><strong>Figure 2.1:</strong> The 4-Pillar Discovery Questioning Tree — Uncovering Occasion, Recipient Lifestyle, Aesthetic Taste, and Investment Range.</figcaption>
+</figure>
+
+
 ### A. Occasion and meaning
 
 Start with the story, not the stock number.

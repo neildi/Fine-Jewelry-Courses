@@ -14,6 +14,12 @@ A specific, somewhat counterintuitive finding: automated CRM technology has not 
 
 ## The 30-Day Window Is the Single Biggest Leak
 
+<figure>
+  <img src="../assets/c12-m05-client-book-health-scorecard.svg" alt="Client Retention and Book Health Scorecard" width="100%" />
+  <figcaption><strong>Figure 5.1:</strong> Client Retention &amp; Book Health Scorecard — Active Book Ratio, Repeat Purchase Rate, Outreach-to-Appointment Conversion, and Lifetime Value (LTV).</figcaption>
+</figure>
+
+
 A specific, actionable finding: for most luxury brands, nothing happens in the 30 days following a major purchase — no handwritten note, no check-in about the piece, no acknowledgment of what was, for many customers, a meaningful moment. This silence occurs during exactly the window when the customer is most emotionally engaged with the purchase and the brand, which is precisely why it's identified as the single largest leak point in the retention funnel. The fix isn't complicated or expensive: a specific published comparison shows physical mail response rates running 4 to 9 percent against email response rates of roughly 0.12 percent, a 30-to-75x difference, at a cost of only $2 to $5 per handwritten note. A single retained customer, worth anywhere from $25,000 to $500,000 in lifetime value in the luxury segment, pays back a full year of this kind of follow-up many times over.
 
 ## What High-Retention Jewelry and Luxury Businesses Actually Do

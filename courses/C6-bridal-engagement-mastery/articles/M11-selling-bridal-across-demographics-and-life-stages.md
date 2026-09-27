@@ -6,6 +6,12 @@
 
 ## Self-Purchasers: A Growing, Not Niche, Segment
 
+<figure>
+  <img src="../assets/c6-m11-demographic-bridal-personas.svg" alt="Demographic Bridal Personas" width="100%" />
+  <figcaption><strong>Figure 11.1:</strong> Demographic Bridal Personas — 4 customer archetypes (Traditionalist, Modern Minimalist, Eco &amp; Unique, High-Carat Maximalist) and tailored sales framing.</figcaption>
+</figure>
+
+
 Self-purchasing — a client buying their own engagement ring rather than being surprised with one — has moved from rare to genuinely common. Multiple industry data points converge on the same direction: De Beers' Diamond Insight Report found the share of engagement rings financed solely by the bride rose from 7% in 2013 to 14% in 2017, with self-purchasing brides spending more on average ($4,400) than grooms did ($3,300) in the same period. More broadly, jewelry self-purchasing generally — buying fine jewelry for yourself rather than waiting for a gift — has become mainstream: a 2025 BriteCo-backed report found 80% of American adults now say they're more likely to buy fine jewelry for themselves than wait to receive it as a gift.
 
 The practical adjustment this calls for is straightforward but easy to get wrong by habit: don't default to language that assumes a partner is doing the choosing or paying ("what would he like?" or "has your partner seen this?") when a client hasn't indicated that's the dynamic. Self-purchasing clients are often shopping with more design confidence and a clearer personal aesthetic than a surprise-buyer working from limited information, so the consultation can move faster into specifics rather than starting from broad education.

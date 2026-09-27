@@ -20,6 +20,12 @@ Before drafting any win-back message, use your CRM notes to figure out which buc
 
 ## The Win-Back Framework: Reconnect Before You Reoffer
 
+<figure>
+  <img src="../assets/c3-m07-lapsed-client-winback-protocol.svg" alt="Lapsed Client Winback Protocol" width="100%" />
+  <figcaption><strong>Figure 7.1:</strong> Lapsed Client Re-Engagement Ladder — 4-stage reactivation protocol (90-Day, 180-Day Spa, 270-Day VIP Trunk, 365-Day Note) and root-cause solutions.</figcaption>
+</figure>
+
+
 **1. Reconnect on the relationship, not the sale.** Open by referencing the actual last thing you know about them — what they bought, what they were considering, or something personal they shared — not a company-wide promotion. This tells them you remember them specifically, which is the entire reason win-back works better than a cold discount email.
 
 **2. Acknowledge the gap honestly, briefly.** A short, low-drama acknowledgment ("It's been a while!" or "I realized I hadn't checked in since your daughter's ring") normalizes the silence without dwelling on it or apologizing excessively. Over-apologizing ("I'm so sorry we haven't been in touch, I know that's on us...") makes the gap feel bigger and more awkward than it needs to be.

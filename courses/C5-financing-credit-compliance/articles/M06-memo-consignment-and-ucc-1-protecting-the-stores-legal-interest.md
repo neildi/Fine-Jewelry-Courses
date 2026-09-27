@@ -18,6 +18,12 @@ The compliance stakes here are just as real as with memo goods, but pointed at a
 
 ## UCC-1 Filings: How a Vendor Protects Its Interest in Memo Goods
 
+<figure>
+  <img src="../assets/c5-m06-memo-consignment-ucc1-workflow.svg" alt="UCC-1 Consignment and Memo Protection Lifecycle" width="100%" />
+  <figcaption><strong>Figure 6.1:</strong> Consignment &amp; Memo Inventory Protection — UCC-1 Financing Statement lifecycle, PMSI priority, and bankruptcy lien risk.</figcaption>
+</figure>
+
+
 A UCC-1 financing statement is a legal filing a vendor can make (under the Uniform Commercial Code, adopted with variations in all US states) to formally establish and protect their ownership or security interest in goods — including memo jewelry — that are in someone else's physical possession, such as your store's showcase. This filing puts the vendor's claim on the public record, which matters most in a worst-case scenario: if the store were to face a bankruptcy, a creditor dispute, or any situation where multiple parties might claim rights to the same inventory, a properly filed UCC-1 is how a vendor demonstrates their memo goods were never actually store property to begin with, and shouldn't be treated as an asset available to the store's other creditors.
 
 From the store's side, understanding that a vendor may have a UCC-1 filing on memo goods reinforces exactly why memo inventory needs to be tracked as its own distinct category (as covered in C4 Module 2), never blended into store-owned stock counts, and never treated as available collateral or inventory value for the store's own financing or credit purposes.

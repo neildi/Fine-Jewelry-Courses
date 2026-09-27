@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 780" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1100" height="780" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1096" height="776" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <!-- Header -->
+  <g transform="translate(50, 35)">
+    <rect x="0" y="0" width="180" height="24" rx="12" fill="#E11D48" fill-opacity="0.2"/>
+    <text x="90" y="16" fill="#FDA4AF" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1">COLORED GEMSTONES</text>
+    <text x="0" y="52" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="22" font-weight="700">Top 10 Colored Stones: Species, Durability &amp; Floor Care</text>
+    <text x="0" y="74" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="13">Counter reference for Mohs hardness, toughness, standard treatments, and cleaning safety.</text>
+  </g>
+
+  <!-- Table Header -->
+  <g transform="translate(50, 120)">
+    <rect width="1000" height="35" rx="6" fill="#1E293B"/>
+    <text x="20" y="22" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="700">GEMSTONE</text>
+    <text x="180" y="22" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="700">MINERAL SPECIES</text>
+    <text x="340" y="22" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="700">MOHS / TOUGHNESS</text>
+    <text x="520" y="22" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="700">ROUTINE TREATMENT</text>
+    <text x="760" y="22" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="700">CLEANING SAFETY</text>
+  </g>
+
+  <!-- Rows -->
+  <g transform="translate(50, 160)">
+    <!-- 1. Sapphire -->
+    <g transform="translate(0, 0)">
+      <rect width="1000" height="52" rx="4" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+      <circle cx="28" cy="26" r="10" fill="#2563EB"/>
+      <text x="45" y="30" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Sapphire</text>
+      <text x="180" y="30" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="12">Corundum</text>
+      <text x="340" y="30" fill="#10B981" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Mohs 9 / Excellent</text>
+      <text x="520" y="30" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="11">Heat (routine, stable)</text>
+      <text x="760" y="30" fill="#34D399" font-family="system-ui, sans-serif" font-size="11">✔ Ultrasonic &amp; Steam Safe</text>
+    </g>
+
+    <!-- 2. Ruby -->
+    <g transform="translate(0, 56)">
+      <rect width="1000" height="52" rx="4" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+      <circle cx="28" cy="26" r="10" fill="#DC2626"/>
+      <text x="45" y="30" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Ruby</text>
+      <text x="180" y="30" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="12">Corundum</text>
+      <text x="340" y="30" fill="#10B981" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Mohs 9 / Excellent</text>
+      <text x="520" y="30" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="11">Heat / Flux (Glass-fill caution)</text>
+      <text x="760" y="30" fill="#34D399" font-family="system-ui, sans-serif" font-size="11">✔ Safe (Warm soapy if filled)</text>
+    </g>
+
+    <!-- 3. Emerald -->
+    <g transform="translate(0, 112)">
+      <rect width="1000" height="52" rx="4" fill="#0F172A" stroke="#EF4444" stroke-width="1"/>
+      <circle cx="28" cy="26" r="10" fill="#059669"/>
+      <text x="45" y="30" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Emerald</text>
+      <text x="180" y="30" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="12">Beryl</text>
+      <text x="340" y="30" fill="#EF4444" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Mohs 7.5–8 / Fair–Poor</text>
+      <text x="520" y="30" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="11">Cedarwood Oil / Resin fill</text>
+      <text x="760" y="30" fill="#EF4444" font-family="system-ui, sans-serif" font-size="11" font-weight="700">✖ NEVER Ultrasonic / Steam</text>
+    </g>
+
+    <!-- 4. Tanzanite -->
+    <g transform="translate(0, 168)">
+      <rect width="1000" height="52" rx="4" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+      <circle cx="28" cy="26" r="10" fill="#4F46E5"/>
+      <text x="45" y="30" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Tanzanite</text>
+      <text x="180" y="30" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="12">Zoisite</text>
+      <text x="340" y="30" fill="#F59E0B" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Mohs 6–7 / Fair</text>
+      <text x="520" y="30" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="11">Routine Heat (brown to violet)</text>
+      <text x="760" y="30" fill="#F59E0B" font-family="system-ui, sans-serif" font-size="11">⚠ Warm soapy water only</text>
+    </g>
+
+    <!-- 5. Aquamarine -->
+    <g transform="translate(0, 224)">
+      <rect width="1000" height="52" rx="4" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+      <circle cx="28" cy="26" r="10" fill="#38BDF8"/>
+      <text x="45" y="30" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Aquamarine</text>
+      <text x="180" y="30" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="12">Beryl</text>
+      <text x="340" y="30" fill="#10B981" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Mohs 7.5–8 / Good</text>
+      <text x="520" y="30" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="11">Heat (removes green tint)</text>
+      <text x="760" y="30" fill="#34D399" font-family="system-ui, sans-serif" font-size="11">✔ Ultrasonic safe if un-fractured</text>
+    </g>
+
+    <!-- 6. Opal -->
+    <g transform="translate(0, 280)">
+      <rect width="1000" height="52" rx="4" fill="#1E293B" stroke="#EF4444" stroke-width="1"/>
+      <circle cx="28" cy="26" r="10" fill="#F472B6"/>
+      <text x="45" y="30" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Opal</text>
+      <text x="180" y="30" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="12">Hydrated Silica</text>
+      <text x="340" y="30" fill="#EF4444" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Mohs 5.5–6.5 / Poor</text>
+      <text x="520" y="30" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="11">Untreated / Sugar-acid / Smoke</text>
+      <text x="760" y="30" fill="#EF4444" font-family="system-ui, sans-serif" font-size="11" font-weight="700">✖ Sensitive to heat &amp; shock</text>
+    </g>
+
+    <!-- 7. Tourmaline -->
+    <g transform="translate(0, 336)">
+      <rect width="1000" height="52" rx="4" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+      <circle cx="28" cy="26" r="10" fill="#10B981"/>
+      <text x="45" y="30" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Tourmaline</text>
+      <text x="180" y="30" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="12">Complex Silicate</text>
+      <text x="340" y="30" fill="#10B981" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Mohs 7–7.5 / Fair</text>
+      <text x="520" y="30" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="11">Heat / Irradiation</text>
+      <text x="760" y="30" fill="#F59E0B" font-family="system-ui, sans-serif" font-size="11">⚠ Avoid thermal shock &amp; steam</text>
+    </g>
+
+    <!-- 8. Amethyst / Citrine -->
+    <g transform="translate(0, 392)">
+      <rect width="1000" height="52" rx="4" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+      <circle cx="28" cy="26" r="10" fill="#9333EA"/>
+      <text x="45" y="30" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Amethyst / Citrine</text>
+      <text x="180" y="30" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="12">Quartz</text>
+      <text x="340" y="30" fill="#10B981" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Mohs 7 / Good</text>
+      <text x="520" y="30" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="11">Heat (amethyst to citrine)</text>
+      <text x="760" y="30" fill="#34D399" font-family="system-ui, sans-serif" font-size="11">✔ Ultrasonic safe</text>
+    </g>
+
+    <!-- 9. Peridot -->
+    <g transform="translate(0, 448)">
+      <rect width="1000" height="52" rx="4" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+      <circle cx="28" cy="26" r="10" fill="#84CC16"/>
+      <text x="45" y="30" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Peridot</text>
+      <text x="180" y="30" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="12">Olivine</text>
+      <text x="340" y="30" fill="#F59E0B" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Mohs 6.5–7 / Fair</text>
+      <text x="520" y="30" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="11">None (idiochromatic green)</text>
+      <text x="760" y="30" fill="#EF4444" font-family="system-ui, sans-serif" font-size="11">✖ Avoid acid, steam, shock</text>
+    </g>
+
+    <!-- 10. Garnet -->
+    <g transform="translate(0, 504)">
+      <rect width="1000" height="52" rx="4" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+      <circle cx="28" cy="26" r="10" fill="#7F1D1D"/>
+      <text x="45" y="30" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Garnet (Pyrope/Tsavorite)</text>
+      <text x="180" y="30" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="12">Garnet Group</text>
+      <text x="340" y="30" fill="#10B981" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Mohs 6.5–7.5 / Good</text>
+      <text x="520" y="30" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="11">Virtually never treated</text>
+      <text x="760" y="30" fill="#34D399" font-family="system-ui, sans-serif" font-size="11">✔ Ultrasonic usually safe</text>
+    </g>
+  </g>
+</svg>

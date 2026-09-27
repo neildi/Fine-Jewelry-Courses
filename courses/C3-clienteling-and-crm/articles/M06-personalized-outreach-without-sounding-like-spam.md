@@ -36,6 +36,12 @@ Consumer-behavior researchers studying this exact reaction, in work reported thr
 
 ## The fix is almost embarrassingly simple
 
+<figure>
+  <img src="../assets/c3-m06-personalized-outreach-anatomy.svg" alt="3-Part Luxury Outreach Formula" width="100%" />
+  <figcaption><strong>Figure 6.1:</strong> The 3-Part Luxury Outreach Formula — Personal anchor, curated value trigger, and low-pressure CTA vs. generic marketing spam.</figcaption>
+</figure>
+
+
 If ambiguity is the trigger, the fix is to remove the ambiguity, every time. A message that explains its own source, in plain language, closes the exact gap that produces discomfort. Compare these two versions of the same underlying message:
 
 - **Ambiguous (reads as surveillance):** "Happy almost-anniversary! We know white gold is your favorite."
