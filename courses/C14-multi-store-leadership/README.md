@@ -26,7 +26,7 @@ The district leader can:
 | 2 | The Store Visit: Agenda, Audit, Debrief | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items |
 | 3 | Comparative KPI Analysis Across Stores | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items |
 | 4 | Coaching Managers on Coaching | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items — the "hats" framework, B-player-investment principle, and portfolio-diagnosis principle are all sourced from named, specific sources |
-| 5 | Compliance and Risk Oversight at Scale | Not started |
+| 5 | Compliance and Risk Oversight at Scale | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (exact current Form 8300 dollar threshold not stated numerically in source evidence) |
 | 6 | District Communication Cadence | Not started |
 | 7 | Talent Pipeline and Succession | Not started |
 | 8 | Presenting District Results to Executives | Not started |
