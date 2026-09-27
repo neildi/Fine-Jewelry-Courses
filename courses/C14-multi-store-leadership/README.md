@@ -28,10 +28,10 @@ The district leader can:
 | 4 | Coaching Managers on Coaching | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items — the "hats" framework, B-player-investment principle, and portfolio-diagnosis principle are all sourced from named, specific sources |
 | 5 | Compliance and Risk Oversight at Scale | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (exact current Form 8300 dollar threshold not stated numerically in source evidence) |
 | 6 | District Communication Cadence | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items — monthly business review content flagged medium-risk as a synthesis across two named employer sources |
-| 7 | Talent Pipeline and Succession | Not started |
+| 7 | Talent Pipeline and Succession | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (the five-column district talent map template is original synthesis, not a verbatim sourced template) |
 | 8 | Presenting District Results to Executives | Not started |
 
-This course directly extends this project's own C11 course (Running the Store), C12 course (Retail KPIs & Reporting), and C13 course (Hiring, Coaching & Performance Management) from a single-store context to a multi-store, district-leadership context, applying many of those courses' established frameworks (delegation, coaching, evidence-based documentation, KPI vocabulary and diagnostic discipline) one organizational level higher.
+This course directly extends this project's own C11 course (Running the Store), C12 (Retail KPIs & Reporting), and C13 (Hiring, Coaching & Performance Management) courses from a single-store context to a multi-store, district-leadership context, applying many of those courses' established frameworks (delegation, coaching, evidence-based documentation, KPI vocabulary and diagnostic discipline) one organizational level higher.
 
 ## Production artifacts
 
