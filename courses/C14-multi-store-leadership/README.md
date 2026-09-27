@@ -29,9 +29,11 @@ The district leader can:
 | 5 | Compliance and Risk Oversight at Scale | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (exact current Form 8300 dollar threshold not stated numerically in source evidence) |
 | 6 | District Communication Cadence | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items — monthly business review content flagged medium-risk as a synthesis across two named employer sources |
 | 7 | Talent Pipeline and Succession | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (the five-column district talent map template is original synthesis, not a verbatim sourced template) |
-| 8 | Presenting District Results to Executives | Not started |
+| 8 | Presenting District Results to Executives | Complete - draft, pending human fact-check (B6); 1 MUST VERIFY item (the one-page scorecard template and dialogue examples are original synthesis modeling documented scorecard priorities, not verbatim sourced templates) |
 
-This course directly extends this project's own C11 course (Running the Store), C12 (Retail KPIs & Reporting), and C13 (Hiring, Coaching & Performance Management) courses from a single-store context to a multi-store, district-leadership context, applying many of those courses' established frameworks (delegation, coaching, evidence-based documentation, KPI vocabulary and diagnostic discipline) one organizational level higher.
+**Course status: 8/8 modules complete.** All articles are drafts pending the human fact-check step (B6) of the project's six-step SOP before publication. Three modules (5, 7, 8) carry a single MUST VERIFY item each, flagged above; all other MUST VERIFY counts are zero.
+
+This course directly extends this project's own C11 course (Running the Store), C12 course (Retail KPIs & Reporting), and C13 course (Hiring, Coaching & Performance Management) from a single-store context to a multi-store, district-leadership context, applying many of those courses' established frameworks (delegation, coaching, evidence-based documentation, KPI vocabulary and diagnostic discipline) one organizational level higher.
 
 ## Production artifacts
 
