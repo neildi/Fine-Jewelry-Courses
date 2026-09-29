@@ -29,7 +29,7 @@ The trainer can:
 | 4 | Train the Trainer for Store Managers | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items — demonstrate-then-practice-then-feedback session structure is original synthesis, not a verbatim sourced template |
 | 5 | Microlearning and Huddle Content | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items — three-property "huddle-ready" definition and comparison table are original synthesis operationalizing the documented short-form training standard |
 | 6 | Measuring Training: Pre/Post KPI Design | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items — five-element measurement table and three-question flat-result diagnostic are original synthesis; the three-month check-in anchor is directional, not a fixed rule, and should be confirmed by the human reviewer |
-| 7 | Curriculum Roadmaps by Career Stage | Not started |
+| 7 | Curriculum Roadmaps by Career Stage | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items — organizes this project's own existing persona-to-course architecture (Part A4) rather than introducing new external claims; reviewer should confirm roadmap table stays accurate as new courses are added |
 | 8 | Keeping Content Current With the Trade Press | Not started |
 
 This course sits in the Trainer track and draws on this project's own C2 (The Fine Jewelry Sales Conversation), C12 (Retail KPIs & Reporting), and C13 (Hiring, Coaching & Performance Management) courses as source material — a trainer designing role-play libraries or measurement plans should reference the frameworks already established in those courses rather than reinventing them.
