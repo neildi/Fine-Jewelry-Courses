@@ -24,7 +24,7 @@ The trainer can:
 | # | Article | Status |
 |---|---|---|
 | 1 | Outcomes Before Content | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items |
-| 2 | Designing for the Sales Floor, Not the Classroom | Not started |
+| 2 | Designing for the Sales Floor, Not the Classroom | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items — comparison table and huddle-sequence example are original synthesis modeling the documented daily/weekly cadence |
 | 3 | Role-Play Libraries and Scenario Banks | Not started |
 | 4 | Train the Trainer for Store Managers | Not started |
 | 5 | Microlearning and Huddle Content | Not started |
