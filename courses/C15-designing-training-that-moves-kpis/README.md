@@ -27,7 +27,7 @@ The trainer can:
 | 2 | Designing for the Sales Floor, Not the Classroom | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items — comparison table and huddle-sequence example are original synthesis modeling the documented daily/weekly cadence |
 | 3 | Role-Play Libraries and Scenario Banks | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items — four-column scenario format and two-tier difficulty structure are original synthesis operationalizing C2's named objection set |
 | 4 | Train the Trainer for Store Managers | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items — demonstrate-then-practice-then-feedback session structure is original synthesis, not a verbatim sourced template |
-| 5 | Microlearning and Huddle Content | Not started |
+| 5 | Microlearning and Huddle Content | Complete - draft, pending human fact-check (B6); 0 MUST VERIFY items — three-property "huddle-ready" definition and comparison table are original synthesis operationalizing the documented short-form training standard |
 | 6 | Measuring Training: Pre/Post KPI Design | Not started |
 | 7 | Curriculum Roadmaps by Career Stage | Not started |
 | 8 | Keeping Content Current With the Trade Press | Not started |
